@@ -1,0 +1,11 @@
+{
+  "name": "sift-stream-bindings",
+  "version": "0.1.1",
+  "summary": null,
+  "author": "Sift Software Engineers <engineering@siftstack.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/sift-stack/sift/tree/main/rust",
+  "download_filename": "sift_stream_bindings-0.1.1.tar.gz",
+  "download_time": "2025-07-23T22:13:54.556485",
+  "package_url": "https://pypi.org/project/sift-stream-bindings/"
+}

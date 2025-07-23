@@ -1,0 +1,11 @@
+{
+  "name": "sentify",
+  "version": "1.0.2",
+  "summary": "Converter from urls,pdfs,wikipages to clean text document one sentence per line.",
+  "author": "Paul Tarau",
+  "license": "MIT",
+  "home_page": "https://github.com/ptarau/sentify.git",
+  "download_filename": "sentify-1.0.2.tar.gz",
+  "download_time": "2025-07-23T22:13:29.492693",
+  "package_url": "https://pypi.org/project/sentify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "refpy",
+  "version": "0.1.14",
+  "summary": "Package for subsea pipelines and risers design in Python",
+  "author": "ismael-ripoll",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/refpy/refpy",
+  "download_filename": "refpy-0.1.14.tar.gz",
+  "download_time": "2025-07-23T22:13:37.341157",
+  "package_url": "https://pypi.org/project/refpy/"
+}

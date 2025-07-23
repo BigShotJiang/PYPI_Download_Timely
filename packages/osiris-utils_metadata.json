@@ -1,0 +1,11 @@
+{
+  "name": "osiris-utils",
+  "version": "1.1.9",
+  "summary": "Utilities to manipulate and visualise OSIRIS plasma PIC output data",
+  "author": "João Cândido, Diogo Carvalho",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "osiris_utils-1.1.9.tar.gz",
+  "download_time": "2025-07-23T22:13:36.823719",
+  "package_url": "https://pypi.org/project/osiris-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "niemabf",
+  "version": "1.0.4",
+  "summary": "NiemaBF: Niema's Python Bloom Filter implementation",
+  "author": "Niema Moshiri",
+  "license": null,
+  "home_page": "https://github.com/niemasd/NiemaBF",
+  "download_filename": "niemabf-1.0.4.tar.gz",
+  "download_time": "2025-07-23T22:13:55.594168",
+  "package_url": "https://pypi.org/project/niemabf/"
+}

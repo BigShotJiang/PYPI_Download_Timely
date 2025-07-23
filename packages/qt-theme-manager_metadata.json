@@ -1,0 +1,11 @@
+{
+  "name": "qt-theme-manager",
+  "version": "0.2.4",
+  "summary": "A comprehensive theme management library for PyQt5/PyQt6/PySide6 applications",
+  "author": "scottlz0310",
+  "license": null,
+  "home_page": "https://github.com/scottlz0310/Qt-Theme-Manager",
+  "download_filename": "qt_theme_manager-0.2.4.tar.gz",
+  "download_time": "2025-07-23T22:13:39.439116",
+  "package_url": "https://pypi.org/project/qt-theme-manager/"
+}

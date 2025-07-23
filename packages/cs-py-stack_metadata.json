@@ -1,0 +1,11 @@
+{
+  "name": "cs-py-stack",
+  "version": "20250724",
+  "summary": "Convenience functions for the python execution stack.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cs_py_stack-20250724.tar.gz",
+  "download_time": "2025-07-23T22:13:33.167561",
+  "package_url": "https://pypi.org/project/cs-py-stack/"
+}

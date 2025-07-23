@@ -1,0 +1,11 @@
+{
+  "name": "sq1090-console",
+  "version": "0.1.0.dev6",
+  "summary": "Sq1090 Console - show aircraft information",
+  "author": "Artur Wroblewski",
+  "license": "GPLv3+",
+  "home_page": "https://gitlab.com/sq1090/sq1090-console",
+  "download_filename": "sq1090_console-0.1.0.dev6.tar.gz",
+  "download_time": "2025-07-23T22:13:35.246251",
+  "package_url": "https://pypi.org/project/sq1090-console/"
+}

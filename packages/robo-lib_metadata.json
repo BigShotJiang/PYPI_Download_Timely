@@ -1,0 +1,11 @@
+{
+  "name": "robo-lib",
+  "version": "1.0.1",
+  "summary": "A package to create, configure, and train transformer models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robo_lib-1.0.1.tar.gz",
+  "download_time": "2025-07-23T22:13:26.850240",
+  "package_url": "https://pypi.org/project/robo-lib/"
+}

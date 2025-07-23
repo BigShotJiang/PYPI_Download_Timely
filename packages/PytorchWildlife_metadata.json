@@ -1,0 +1,11 @@
+{
+  "name": "PytorchWildlife",
+  "version": "1.2.4",
+  "summary": "a PyTorch Collaborative Deep Learning Framework for Conservation.",
+  "author": "Andres Hernandez, Zhongqi Miao, Daniela Ruiz Lopez, Isai Daniel Chacon Silva",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/CameraTraps/",
+  "download_filename": "pytorchwildlife-1.2.4.tar.gz",
+  "download_time": "2025-07-23T22:13:30.012549",
+  "package_url": "https://pypi.org/project/PytorchWildlife/"
+}
