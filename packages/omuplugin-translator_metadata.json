@@ -1,0 +1,11 @@
+{
+  "name": "omuplugin-translator",
+  "version": "0.9.13",
+  "summary": "メッセージの翻訳を行うためのOMUAPPSプラグイン",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omuplugin_translator-0.9.13.tar.gz",
+  "download_time": "2025-07-23T15:05:09.002640",
+  "package_url": "https://pypi.org/project/omuplugin-translator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "affinidi_tdk_vault_data_manager_client",
+  "version": "1.64.0",
+  "summary": "VaultFileSystem",
+  "author": "Affinidi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/affinidi/affinidi-tdk",
+  "download_filename": "affinidi_tdk_vault_data_manager_client-1.64.0.tar.gz",
+  "download_time": "2025-07-23T15:04:56.695746",
+  "package_url": "https://pypi.org/project/affinidi_tdk_vault_data_manager_client/"
+}

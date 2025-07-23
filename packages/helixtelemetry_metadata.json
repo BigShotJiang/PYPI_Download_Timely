@@ -1,0 +1,11 @@
+{
+  "name": "helixtelemetry",
+  "version": "1.0.4",
+  "summary": "helixtelemetry",
+  "author": "Imran Qureshi",
+  "license": null,
+  "home_page": "https://github.com/icanbwell/helix-telemetry",
+  "download_filename": "helixtelemetry-1.0.4.tar.gz",
+  "download_time": "2025-07-23T15:04:39.095114",
+  "package_url": "https://pypi.org/project/helixtelemetry/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smb-zfs",
+  "version": "0.4.0",
+  "summary": "A tool to manage Samba on a ZFS-backed system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smb_zfs-0.4.0-py3-none-any.whl",
+  "download_time": "2025-07-23T15:04:35.859608",
+  "package_url": "https://pypi.org/project/smb-zfs/"
+}

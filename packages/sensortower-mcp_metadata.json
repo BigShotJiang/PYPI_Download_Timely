@@ -1,0 +1,11 @@
+{
+  "name": "sensortower-mcp",
+  "version": "1.0.4",
+  "summary": "Model Context Protocol server for Sensor Tower APIs using FastMCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sensortower_mcp-1.0.4.tar.gz",
+  "download_time": "2025-07-23T15:05:05.812223",
+  "package_url": "https://pypi.org/project/sensortower-mcp/"
+}

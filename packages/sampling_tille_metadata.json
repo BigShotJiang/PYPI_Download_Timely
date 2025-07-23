@@ -1,0 +1,11 @@
+{
+  "name": "sampling_tille",
+  "version": "0.2.1",
+  "summary": "Sampling routines ported from the sampling R package.",
+  "author": "Stippe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sampling_tille-0.2.1.tar.gz",
+  "download_time": "2025-07-23T15:04:47.915484",
+  "package_url": "https://pypi.org/project/sampling_tille/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sdd2rdf",
+  "version": "1.4.2",
+  "summary": "sdd2rdf generates RDF graphs from semantically annotated data.",
+  "author": "Jamie McCusker",
+  "license": "Apache License 2.0",
+  "home_page": "http://packages.python.org/sdd2rdf",
+  "download_filename": "sdd2rdf-1.4.2.tar.gz",
+  "download_time": "2025-07-23T15:04:54.775148",
+  "package_url": "https://pypi.org/project/sdd2rdf/"
+}

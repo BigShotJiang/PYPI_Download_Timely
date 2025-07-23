@@ -1,0 +1,11 @@
+{
+  "name": "affinidi_tdk_iam_client",
+  "version": "1.60.0",
+  "summary": "Iam",
+  "author": "Affinidi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/affinidi/affinidi-tdk",
+  "download_filename": "affinidi_tdk_iam_client-1.60.0.tar.gz",
+  "download_time": "2025-07-23T15:04:57.327584",
+  "package_url": "https://pypi.org/project/affinidi_tdk_iam_client/"
+}

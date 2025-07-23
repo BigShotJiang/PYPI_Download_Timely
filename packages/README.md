@@ -1,0 +1,85 @@
+# PyPI Packages Downloaded
+
+## Download Summary
+- **Download Time**: 2025-07-23T15:05:19.663220
+- **Total Packages**: 77
+- **Total Size**: 36.28 MB
+
+## Packages List
+- pulumi-provider-boilerplate
+- hubmap-entity-sdk
+- docling-core
+- html-to-exe
+- jfsd
+- docling-ibm-models
+- a5
+- odoo-addon-energy-communities
+- EzQt-App
+- cpy
+- getdist
+- postman-collection-generator-mcp
+- ansys-api-geometry
+- slpkg
+- smb-zfs
+- django-helloapp
+- imecilabt-gpulab-cli
+- segment-plugin
+- refinire
+- helixtelemetry
+- ai-trackdown-pytools
+- vlm-robot-agent
+- abstract-utilities
+- localstack-core
+- jupyter-kernel-mcp
+- arthur-client
+- mcp-server-twelve-data
+- airbyte-source-google-ads
+- pytincture
+- imecilabt-gpulab-common
+- code-loader
+- sampling_tille
+- zdaemon
+- GameX
+- PlaywrightCapture
+- nonebot-plugin-delta-helper
+- lightman-ai
+- script-utils-log-async
+- cosdata-sdk
+- canonmap
+- sdd2rdf
+- affinidi_tdk_wallets_client
+- anchorbrowser
+- affinidi_tdk_vault_data_manager_client
+- affinidi_tdk_iam_client
+- e6data-python-connector
+- coiled
+- data-repo-client
+- cmip-branded-variable-mapper
+- tnsaai-client
+- bertrend
+- llm-deep-research
+- logs-py
+- sqlmesh
+- pyCollier
+- pydeptree
+- sensortower-mcp
+- livef1
+- TB2J
+- create-django
+- omuserver
+- omuplugin-translator
+- omuplugin-obs
+- omuplugin-nyanya
+- omuplugin-marshmallow
+- omuplugin-emoji
+- omuplugin-discordrpc
+- omuplugin-chat
+- omuplugin-archive
+- omu-chatprovider
+- Geoarchpy
+- omu-chat-youtube
+- omu-chat-twitch
+- omu-chat
+- omu
+- chuangliang
+- limin-bench

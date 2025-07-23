@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-google-ads",
+  "version": "3.14.0",
+  "summary": "Source implementation for Google Ads.",
+  "author": "Airbyte",
+  "license": "Elv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_google_ads-3.14.0.tar.gz",
+  "download_time": "2025-07-23T15:04:44.872650",
+  "package_url": "https://pypi.org/project/airbyte-source-google-ads/"
+}

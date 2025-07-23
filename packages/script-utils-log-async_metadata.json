@@ -1,0 +1,11 @@
+{
+  "name": "script-utils-log-async",
+  "version": "0.2.3",
+  "summary": "Minimal shared utilities for logging and main wrapping",
+  "author": "Michal Buchman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "script_utils_log_async-0.2.3.tar.gz",
+  "download_time": "2025-07-23T15:04:52.863901",
+  "package_url": "https://pypi.org/project/script-utils-log-async/"
+}

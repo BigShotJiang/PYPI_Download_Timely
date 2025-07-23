@@ -1,0 +1,11 @@
+{
+  "name": "bertrend",
+  "version": "0.3.10",
+  "summary": "BERTrend analyses topic evolution over time using state-of-the-art transformer models: topic modelling and LLM",
+  "author": "Jérôme Picault",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "bertrend-0.3.10.tar.gz",
+  "download_time": "2025-07-23T15:05:01.221602",
+  "package_url": "https://pypi.org/project/bertrend/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zdaemon",
+  "version": "5.2.1",
+  "summary": "Daemon process control library and tools for Unix-based systems",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL 2.1",
+  "home_page": "https://github.com/zopefoundation/zdaemon",
+  "download_filename": "zdaemon-5.2.1.tar.gz",
+  "download_time": "2025-07-23T15:04:48.551855",
+  "package_url": "https://pypi.org/project/zdaemon/"
+}

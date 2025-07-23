@@ -1,0 +1,11 @@
+{
+  "name": "omuplugin-chat",
+  "version": "0.9.13",
+  "summary": "チャットを管理するためのOMUAPPSプラグイン",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omuplugin_chat-0.9.13.tar.gz",
+  "download_time": "2025-07-23T15:05:12.825504",
+  "package_url": "https://pypi.org/project/omuplugin-chat/"
+}

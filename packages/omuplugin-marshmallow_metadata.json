@@ -1,0 +1,11 @@
+{
+  "name": "omuplugin-marshmallow",
+  "version": "0.9.13",
+  "summary": "マシュマロのメッセージを取得するためのOMUAPPSプラグイン",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omuplugin_marshmallow-0.9.13.tar.gz",
+  "download_time": "2025-07-23T15:05:10.910499",
+  "package_url": "https://pypi.org/project/omuplugin-marshmallow/"
+}
