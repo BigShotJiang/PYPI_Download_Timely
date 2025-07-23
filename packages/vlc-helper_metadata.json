@@ -1,0 +1,11 @@
+{
+  "name": "vlc-helper",
+  "version": "0.1.9",
+  "summary": "CLI helpers for VLC media player",
+  "author": "Ken",
+  "license": "MIT",
+  "home_page": "https://github.com/kenjyco/vlc-helper",
+  "download_filename": "vlc_helper-0.1.9-py3-none-any.whl",
+  "download_time": "2025-07-23T20:15:18.735008",
+  "package_url": "https://pypi.org/project/vlc-helper/"
+}

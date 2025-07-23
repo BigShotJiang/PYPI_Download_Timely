@@ -1,0 +1,11 @@
+{
+  "name": "mocp-cli",
+  "version": "0.1.22",
+  "summary": "CLI tools for finding, organizing, and playing audio files",
+  "author": "Ken",
+  "license": "MIT",
+  "home_page": "https://github.com/kenjyco/mocp-cli",
+  "download_filename": "mocp_cli-0.1.22-py3-none-any.whl",
+  "download_time": "2025-07-23T20:15:16.163535",
+  "package_url": "https://pypi.org/project/mocp-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mongo-helper",
+  "version": "0.1.1",
+  "summary": "Helper funcs and tools for working with MongoDB",
+  "author": "Ken",
+  "license": "MIT",
+  "home_page": "https://github.com/kenjyco/mongo-helper",
+  "download_filename": "mongo_helper-0.1.1-py3-none-any.whl",
+  "download_time": "2025-07-23T20:15:11.006255",
+  "package_url": "https://pypi.org/project/mongo-helper/"
+}

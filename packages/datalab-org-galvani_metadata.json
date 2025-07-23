@@ -1,0 +1,11 @@
+{
+  "name": "datalab-org-galvani",
+  "version": "0.5.2",
+  "summary": "Open and process battery charger log data files: fork of original package `galvani`",
+  "author": null,
+  "license": "GPLv3+",
+  "home_page": null,
+  "download_filename": "datalab_org_galvani-0.5.2.tar.gz",
+  "download_time": "2025-07-23T20:15:39.256319",
+  "package_url": "https://pypi.org/project/datalab-org-galvani/"
+}

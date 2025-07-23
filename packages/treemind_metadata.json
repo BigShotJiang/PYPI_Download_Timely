@@ -1,0 +1,11 @@
+{
+  "name": "treemind",
+  "version": "0.2.0",
+  "summary": "feature and feature interaction analyzer for gradient boosting",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "treemind-0.2.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-07-23T20:15:20.723440",
+  "package_url": "https://pypi.org/project/treemind/"
+}

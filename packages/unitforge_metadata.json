@@ -1,0 +1,11 @@
+{
+  "name": "unitforge",
+  "version": "0.2.30",
+  "summary": "A library for unit and quantity consistent computations in Rust",
+  "author": "Dr.Q team <info@askdrq.com>, Henrik Stromberg <henrik@askdrq.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unitforge-0.2.30.tar.gz",
+  "download_time": "2025-07-23T20:15:31.459501",
+  "package_url": "https://pypi.org/project/unitforge/"
+}

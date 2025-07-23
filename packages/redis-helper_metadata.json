@@ -1,0 +1,11 @@
+{
+  "name": "redis-helper",
+  "version": "0.5.0",
+  "summary": "Easily store, index, and modify Python dicts in Redis (with flexible searching)",
+  "author": "Ken",
+  "license": "MIT",
+  "home_page": "https://github.com/kenjyco/redis-helper",
+  "download_filename": "redis_helper-0.5.0-py3-none-any.whl",
+  "download_time": "2025-07-23T20:15:34.769379",
+  "package_url": "https://pypi.org/project/redis-helper/"
+}

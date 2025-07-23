@@ -1,0 +1,11 @@
+{
+  "name": "jira-test-reporting",
+  "version": "1.2.4",
+  "summary": "A utility to report pytest results to Jira and Slack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jira_test_reporting-1.2.4.tar.gz",
+  "download_time": "2025-07-23T20:15:05.810430",
+  "package_url": "https://pypi.org/project/jira-test-reporting/"
+}

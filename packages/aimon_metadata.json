@@ -1,0 +1,11 @@
+{
+  "name": "aimon",
+  "version": "0.11.0",
+  "summary": "The AIMon SDK that is used to interact with the AIMon API and the product.",
+  "author": "AIMon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aimon-0.11.0.tar.gz",
+  "download_time": "2025-07-23T20:15:27.617751",
+  "package_url": "https://pypi.org/project/aimon/"
+}

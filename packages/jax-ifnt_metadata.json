@@ -1,0 +1,11 @@
+{
+  "name": "jax-ifnt",
+  "version": "0.1.11",
+  "summary": "Execute runtime assertions, indexing checks, and more if jax code is not traced.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jax_ifnt-0.1.11.tar.gz",
+  "download_time": "2025-07-23T20:15:20.013928",
+  "package_url": "https://pypi.org/project/jax-ifnt/"
+}

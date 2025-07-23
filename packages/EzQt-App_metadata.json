@@ -1,11 +1,11 @@
 {
   "name": "EzQt-App",
-  "version": "2.0.1",
-  "summary": "A module for compiling projects and managing versioning and packaging",
+  "version": "2.0.2",
+  "summary": "Lightweight framework based on PySide6 to quickly build modern desktop applications, with integrated resource, theme, and reusable component management.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ezqt_app-2.0.1.tar.gz",
-  "download_time": "2025-07-23T15:04:31.938464",
+  "download_filename": "ezqt_app-2.0.2.tar.gz",
+  "download_time": "2025-07-23T20:15:32.861935",
   "package_url": "https://pypi.org/project/EzQt-App/"
 }

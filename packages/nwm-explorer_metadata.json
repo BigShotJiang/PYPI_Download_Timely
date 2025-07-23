@@ -1,0 +1,11 @@
+{
+  "name": "nwm-explorer",
+  "version": "0.3.0",
+  "summary": "A web-based application used to explore National Water Model output and evaluation metrics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nwm_explorer-0.3.0.tar.gz",
+  "download_time": "2025-07-23T20:15:43.351488",
+  "package_url": "https://pypi.org/project/nwm-explorer/"
+}

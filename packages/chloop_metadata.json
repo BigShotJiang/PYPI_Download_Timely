@@ -1,0 +1,11 @@
+{
+  "name": "chloop",
+  "version": "0.2.24",
+  "summary": "A Redis-backed REPL that saves command history, output, & errors",
+  "author": "Ken",
+  "license": "MIT",
+  "home_page": "https://github.com/kenjyco/chloop",
+  "download_filename": "chloop-0.2.24-py3-none-any.whl",
+  "download_time": "2025-07-23T20:15:26.334593",
+  "package_url": "https://pypi.org/project/chloop/"
+}

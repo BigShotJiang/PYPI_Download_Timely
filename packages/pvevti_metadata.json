@@ -1,11 +1,11 @@
 {
   "name": "pvevti",
-  "version": "2025.7.23.3",
+  "version": "2025.7.23.4",
   "summary": "A package with utilities expressly for the VTI/PVE teams at DTNA.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pvevti-2025.7.23.3.tar.gz",
-  "download_time": "2025-07-23T19:12:58.689894",
+  "download_filename": "pvevti-2025.7.23.4.tar.gz",
+  "download_time": "2025-07-23T20:15:06.442047",
   "package_url": "https://pypi.org/project/pvevti/"
 }

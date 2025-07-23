@@ -1,0 +1,11 @@
+{
+  "name": "flecs",
+  "version": "0.0.2",
+  "summary": "A minimal example of flecs Python bindings with pybind11",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flecs-0.0.2-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-07-23T20:15:05.173390",
+  "package_url": "https://pypi.org/project/flecs/"
+}
