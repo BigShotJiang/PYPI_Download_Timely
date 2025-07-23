@@ -1,7 +1,6 @@
 name: PyPI Package Crawler
-
 on:
-  # 定时运行：每天UTC时间12:00（北京时间20:00）
+  # 定时运行：每小时运行一次
   schedule:
     - cron: '0 * * * *'
   
@@ -23,7 +22,7 @@ on:
         required: false
         default: ''
         type: string
-
+  
   # Push事件触发（仅当推送到main分支且包含特定文件时）
   push:
     branches: [ main ]
@@ -66,8 +65,8 @@ jobs:
     
     - name: Run PyPI Crawler
       env:
-        MAX_PACKAGES: ${{ github.event.inputs.max_packages || '20' }}
-        MAX_SIZE_MB: ${{ github.event.inputs.max_size_mb || '50' }}
+        MAX_PACKAGES: ${{ github.event.inputs.max_packages || '100' }}
+        MAX_SIZE_MB: ${{ github.event.inputs.max_size_mb || '10' }}
         SPECIFIC_PACKAGES: ${{ github.event.inputs.specific_packages }}
         GITHUB_ACTIONS: 'true'
       run: |
@@ -104,18 +103,18 @@ jobs:
         if [ -f packages/download_report.json ]; then
           echo "### Download Summary" >> $GITHUB_STEP_SUMMARY
           python -c "
-import json
-with open('packages/download_report.json', 'r') as f:
-    report = json.load(f)
-print(f'- **Total Packages Downloaded**: {report[\"total_packages_downloaded\"]}')
-print(f'- **Total Size**: {report[\"total_size_mb\"]} MB')
-print(f'- **Download Time**: {report[\"download_time\"]}')
-if report['packages']:
-    print('')
-    print('### Downloaded Packages')
-    for pkg in report['packages']:
-        print(f'- {pkg}')
-" >> $GITHUB_STEP_SUMMARY
+        import json
+        with open('packages/download_report.json', 'r') as f:
+            report = json.load(f)
+        print(f'- **Total Packages Downloaded**: {report[\"total_packages_downloaded\"]}')
+        print(f'- **Total Size**: {report[\"total_size_mb\"]} MB')
+        print(f'- **Download Time**: {report[\"download_time\"]}')
+        if report['packages']:
+            print('')
+            print('### Downloaded Packages')
+            for pkg in report['packages']:
+                print(f'- {pkg}')
+        " >> $GITHUB_STEP_SUMMARY
         else
           echo "❌ No packages were downloaded" >> $GITHUB_STEP_SUMMARY
         fi
