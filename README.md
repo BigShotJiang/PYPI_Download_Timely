@@ -1,2 +1,3 @@
 # PYPI_Download_Timely
-Download PYPI Packages from PYPI 
+Download PYPI packages from PYPI 
+Refresh the download content hourly.
