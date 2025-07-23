@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-dang",
+  "version": "1.0.0",
+  "summary": "A subset of the curses framework. Used for making terminal based applications.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_dang-1.0.0.tar.gz",
+  "download_time": "2025-07-23T21:13:33.740157",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-dang/"
+}

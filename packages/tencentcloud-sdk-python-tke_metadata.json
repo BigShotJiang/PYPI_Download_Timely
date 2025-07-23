@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-tke",
+  "version": "3.0.1429",
+  "summary": "Tencent Cloud Tke SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-tke-3.0.1429.tar.gz",
+  "download_time": "2025-07-23T21:13:29.036238",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-tke/"
+}

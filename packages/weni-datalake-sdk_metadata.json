@@ -1,0 +1,11 @@
+{
+  "name": "weni-datalake-sdk",
+  "version": "0.2.4",
+  "summary": "Lib to connect python/django modules to redshift",
+  "author": "Lucas Linhares",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weni_datalake_sdk-0.2.4.tar.gz",
+  "download_time": "2025-07-23T21:13:15.144712",
+  "package_url": "https://pypi.org/project/weni-datalake-sdk/"
+}

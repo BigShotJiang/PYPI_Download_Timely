@@ -1,0 +1,11 @@
+{
+  "name": "nomad-media-pip",
+  "version": "0.1.5",
+  "summary": "Nomad Media SDK PIP",
+  "author": "Nomad Media",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_media_pip-0.1.5.tar.gz",
+  "download_time": "2025-07-23T21:13:02.835798",
+  "package_url": "https://pypi.org/project/nomad-media-pip/"
+}

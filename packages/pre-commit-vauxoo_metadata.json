@@ -1,0 +1,11 @@
+{
+  "name": "pre-commit-vauxoo",
+  "version": "8.2.12",
+  "summary": "pre-commit script to run automatically the configuration and variables custom from Vauxoo",
+  "author": "Vauxoo",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/Vauxoo/pre-commit-vauxoo",
+  "download_filename": "pre_commit_vauxoo-8.2.12.tar.gz",
+  "download_time": "2025-07-23T21:13:21.819441",
+  "package_url": "https://pypi.org/project/pre-commit-vauxoo/"
+}

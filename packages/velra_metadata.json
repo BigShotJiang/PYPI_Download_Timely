@@ -1,0 +1,11 @@
+{
+  "name": "velra",
+  "version": "0.2.5",
+  "summary": "A powerful interface that makes web development easier and faster",
+  "author": "Theodore Cromwell",
+  "license": "MIT",
+  "home_page": "https://github.com/apersonithink12/velra",
+  "download_filename": "velra-0.2.5.tar.gz",
+  "download_time": "2025-07-23T21:12:58.213885",
+  "package_url": "https://pypi.org/project/velra/"
+}

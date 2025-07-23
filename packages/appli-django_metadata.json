@@ -1,0 +1,11 @@
+{
+  "name": "appli-django",
+  "version": "0.3.0",
+  "summary": "Créer rapidement une structure complète d'application Django.",
+  "author": "Nicosidick",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appli_django-0.3.0.tar.gz",
+  "download_time": "2025-07-23T21:13:01.803312",
+  "package_url": "https://pypi.org/project/appli-django/"
+}

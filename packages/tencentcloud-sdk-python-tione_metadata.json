@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-tione",
+  "version": "3.0.1429",
+  "summary": "Tencent Cloud Tione SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-tione-3.0.1429.tar.gz",
+  "download_time": "2025-07-23T21:13:30.073196",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-tione/"
+}

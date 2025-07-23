@@ -1,0 +1,11 @@
+{
+  "name": "vectara-agentic",
+  "version": "0.3.3",
+  "summary": "A Python package for creating AI Assistants and AI Agents with Vectara",
+  "author": "Ofer Mendelevitch",
+  "license": null,
+  "home_page": "https://github.com/vectara/py-vectara-agentic",
+  "download_filename": "vectara_agentic-0.3.3.tar.gz",
+  "download_time": "2025-07-23T21:12:55.643113",
+  "package_url": "https://pypi.org/project/vectara-agentic/"
+}

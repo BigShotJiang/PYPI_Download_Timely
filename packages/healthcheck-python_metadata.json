@@ -1,0 +1,11 @@
+{
+  "name": "healthcheck-python",
+  "version": "1.2.2",
+  "summary": "Health Check API for multiprocessing python apps",
+  "author": "Cagdas Bas",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cagdasbas/healthcheck-python",
+  "download_filename": "healthcheck_python-1.2.2.tar.gz",
+  "download_time": "2025-07-23T21:13:12.578691",
+  "package_url": "https://pypi.org/project/healthcheck-python/"
+}

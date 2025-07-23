@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-mrs",
+  "version": "3.0.1429",
+  "summary": "Tencent Cloud Mrs SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-mrs-3.0.1429.tar.gz",
+  "download_time": "2025-07-23T21:13:32.182142",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-mrs/"
+}

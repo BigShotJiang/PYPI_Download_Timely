@@ -1,0 +1,11 @@
+{
+  "name": "teamcenter-mcp-server",
+  "version": "0.2.2",
+  "summary": "MCP server for Teamcenter Knowledge Base with Azure AD and cookie authentication",
+  "author": "Siemens Digital Industries Software",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "teamcenter_mcp_server-0.2.2.tar.gz",
+  "download_time": "2025-07-23T21:13:36.376767",
+  "package_url": "https://pypi.org/project/teamcenter-mcp-server/"
+}
