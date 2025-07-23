@@ -1,11 +1,11 @@
 {
   "name": "UpgradeDB",
-  "version": "5.0.0",
+  "version": "2.0.0",
   "summary": "Banco de dados leve baseado em JSON para Python",
   "author": "Seu Nome",
   "license": null,
   "home_page": null,
-  "download_filename": "upgradedb-5.0.0.tar.gz",
-  "download_time": "2025-07-23T17:15:39.433999",
+  "download_filename": "upgradedb-2.0.0.tar.gz",
+  "download_time": "2025-07-23T19:13:13.142557",
   "package_url": "https://pypi.org/project/UpgradeDB/"
 }

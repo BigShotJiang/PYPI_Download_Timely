@@ -1,0 +1,11 @@
+{
+  "name": "SalesforceRESTAPI",
+  "version": "0.1.6",
+  "summary": "A simple library to interact with Salesforce REST API using OAuth 2.0 Client Credentials Flow.",
+  "author": "Pedro Bazan",
+  "license": "MIT",
+  "home_page": "https://github.com/arcsona/SalesforceRESTAPI",
+  "download_filename": "salesforcerestapi-0.1.6.tar.gz",
+  "download_time": "2025-07-23T19:13:05.332330",
+  "package_url": "https://pypi.org/project/SalesforceRESTAPI/"
+}

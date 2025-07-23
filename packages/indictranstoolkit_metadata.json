@@ -1,0 +1,11 @@
+{
+  "name": "indictranstoolkit",
+  "version": "1.1.1",
+  "summary": "A simple, consistent, and extendable module for IndicTrans2 compatible with HF models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indictranstoolkit-1.1.1.tar.gz",
+  "download_time": "2025-07-23T19:13:15.408694",
+  "package_url": "https://pypi.org/project/indictranstoolkit/"
+}

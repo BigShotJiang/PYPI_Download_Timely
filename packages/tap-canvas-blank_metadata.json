@@ -1,0 +1,11 @@
+{
+  "name": "tap-canvas-blank",
+  "version": "0.0.1",
+  "summary": "Singer tap for Canvas, built with the Meltano SDK for Singer Taps.",
+  "author": "Bruno Arnabar",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "tap_canvas_blank-0.0.1.tar.gz",
+  "download_time": "2025-07-23T19:12:47.884636",
+  "package_url": "https://pypi.org/project/tap-canvas-blank/"
+}

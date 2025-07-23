@@ -1,0 +1,11 @@
+{
+  "name": "incydr",
+  "version": "2.6.0",
+  "summary": "Code42's Incydr Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "incydr-2.6.0.tar.gz",
+  "download_time": "2025-07-23T19:13:02.643945",
+  "package_url": "https://pypi.org/project/incydr/"
+}

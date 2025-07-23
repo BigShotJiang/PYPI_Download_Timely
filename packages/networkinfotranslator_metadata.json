@@ -1,0 +1,11 @@
+{
+  "name": "networkinfotranslator",
+  "version": "0.5.10",
+  "summary": "Visualize the network of SBML models",
+  "author": "Adel Heydarabadipour",
+  "license": "MIT License",
+  "home_page": "https://github.com/adelhpour/NetworkInfoTranslator",
+  "download_filename": "networkinfotranslator-0.5.10-py3-none-any.whl",
+  "download_time": "2025-07-23T19:13:21.926819",
+  "package_url": "https://pypi.org/project/networkinfotranslator/"
+}

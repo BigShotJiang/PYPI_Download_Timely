@@ -1,0 +1,11 @@
+{
+  "name": "qumulo-api",
+  "version": "7.5.4",
+  "summary": "Qumulo Python SDK",
+  "author": "Qumulo, Inc.",
+  "license": null,
+  "home_page": "http://www.qumulo.com/",
+  "download_filename": "qumulo_api-7.5.4-py3-none-any.whl",
+  "download_time": "2025-07-23T19:12:51.121236",
+  "package_url": "https://pypi.org/project/qumulo-api/"
+}

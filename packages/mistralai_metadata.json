@@ -1,0 +1,11 @@
+{
+  "name": "mistralai",
+  "version": "1.9.2",
+  "summary": "Python Client SDK for the Mistral AI API.",
+  "author": "Mistral",
+  "license": null,
+  "home_page": "https://github.com/mistralai/client-python.git",
+  "download_filename": "mistralai-1.9.2.tar.gz",
+  "download_time": "2025-07-23T19:12:45.658117",
+  "package_url": "https://pypi.org/project/mistralai/"
+}

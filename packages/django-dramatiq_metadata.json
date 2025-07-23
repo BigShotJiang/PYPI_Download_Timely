@@ -1,0 +1,11 @@
+{
+  "name": "django-dramatiq",
+  "version": "0.14.0",
+  "summary": "A Django app for Dramatiq.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_dramatiq-0.14.0.tar.gz",
+  "download_time": "2025-07-23T19:13:17.570481",
+  "package_url": "https://pypi.org/project/django-dramatiq/"
+}

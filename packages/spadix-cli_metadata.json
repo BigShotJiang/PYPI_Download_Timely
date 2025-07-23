@@ -1,0 +1,11 @@
+{
+  "name": "spadix-cli",
+  "version": "0.7.4",
+  "summary": "SAF friendly wrapper for colcon",
+  "author": "Serge Nikulin",
+  "license": null,
+  "home_page": "https://safeai.ai",
+  "download_filename": "spadix_cli-0.7.4.tar.gz",
+  "download_time": "2025-07-23T19:13:12.605092",
+  "package_url": "https://pypi.org/project/spadix-cli/"
+}

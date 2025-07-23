@@ -1,0 +1,11 @@
+{
+  "name": "traceroot-framework",
+  "version": "0.0.1",
+  "summary": "TraceRoot - Comprehensive AI-powered tracing, monitoring and REST API solution",
+  "author": "Zecheng Zhang, Xinwei He",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "traceroot_framework-0.0.1.tar.gz",
+  "download_time": "2025-07-23T19:13:19.721154",
+  "package_url": "https://pypi.org/project/traceroot-framework/"
+}

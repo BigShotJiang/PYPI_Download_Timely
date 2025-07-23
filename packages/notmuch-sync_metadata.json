@@ -1,0 +1,11 @@
+{
+  "name": "notmuch-sync",
+  "version": "0.0.1",
+  "summary": "Synchronize notmuch email databases and message files between local and remote systems, compatible with mbsync.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notmuch_sync-0.0.1.tar.gz",
+  "download_time": "2025-07-23T19:13:31.687127",
+  "package_url": "https://pypi.org/project/notmuch-sync/"
+}

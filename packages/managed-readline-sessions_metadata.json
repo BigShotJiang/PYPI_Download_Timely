@@ -1,0 +1,11 @@
+{
+  "name": "managed-readline-sessions",
+  "version": "0.1.0a0",
+  "summary": "A lightweight, Pythonic interface for building Python CLI tools with tab completion and command history.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "managed_readline_sessions-0.1.0a0.tar.gz",
+  "download_time": "2025-07-23T19:13:01.539554",
+  "package_url": "https://pypi.org/project/managed-readline-sessions/"
+}

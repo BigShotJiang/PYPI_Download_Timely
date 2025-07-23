@@ -1,0 +1,11 @@
+{
+  "name": "rest-encrypt",
+  "version": "0.1.0",
+  "summary": "Lightweight encryption-at-rest for application secrets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rest_encrypt-0.1.0.tar.gz",
+  "download_time": "2025-07-23T19:12:55.181631",
+  "package_url": "https://pypi.org/project/rest-encrypt/"
+}

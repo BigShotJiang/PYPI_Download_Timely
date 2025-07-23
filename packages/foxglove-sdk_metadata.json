@@ -1,0 +1,11 @@
+{
+  "name": "foxglove-sdk",
+  "version": "0.10.1",
+  "summary": "Foxglove Python SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foxglove_sdk-0.10.1.tar.gz",
+  "download_time": "2025-07-23T19:12:57.458635",
+  "package_url": "https://pypi.org/project/foxglove-sdk/"
+}

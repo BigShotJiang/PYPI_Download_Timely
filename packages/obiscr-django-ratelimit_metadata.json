@@ -1,0 +1,11 @@
+{
+  "name": "obiscr-django-ratelimit",
+  "version": "4.0.5",
+  "summary": "Cache-based rate-limiting for Django.",
+  "author": null,
+  "license": "Copyright (c) 2025, Obiscr\n        \n        Licensed under the Apache License, Version 2.0 (the \"License\");\n        you may not use this file except in compliance with the License.\n        You may obtain a copy of the License at\n        \n            http://www.apache.org/licenses/LICENSE-2.0\n        \n        Unless required by applicable law or agreed to in writing, software\n        distributed under the License is distributed on an \"AS IS\" BASIS,\n        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n        See the License for the specific language governing permissions and\n        limitations under the License.\n        ",
+  "home_page": null,
+  "download_filename": "obiscr_django_ratelimit-4.0.5.tar.gz",
+  "download_time": "2025-07-23T19:12:48.406916",
+  "package_url": "https://pypi.org/project/obiscr-django-ratelimit/"
+}

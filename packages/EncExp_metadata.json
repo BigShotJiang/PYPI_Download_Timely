@@ -1,0 +1,11 @@
+{
+  "name": "EncExp",
+  "version": "0.1.7",
+  "summary": "Set of tools to create and use explainable embeddings.",
+  "author": "Eric S. Tellez, Mario Graff, Daniela Moctezuma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "encexp-0.1.7.tar.gz",
+  "download_time": "2025-07-23T19:13:12.082763",
+  "package_url": "https://pypi.org/project/EncExp/"
+}
