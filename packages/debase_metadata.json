@@ -1,0 +1,11 @@
+{
+  "name": "debase",
+  "version": "0.8",
+  "summary": "Enzyme lineage analysis and sequence extraction package",
+  "author": "DEBase Team",
+  "license": "MIT",
+  "home_page": "https://github.com/YuemingLong/DEBase",
+  "download_filename": "debase-0.8.tar.gz",
+  "download_time": "2025-07-23T23:14:17.080207",
+  "package_url": "https://pypi.org/project/debase/"
+}

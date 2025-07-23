@@ -1,0 +1,11 @@
+{
+  "name": "texthooks",
+  "version": "0.7.1",
+  "summary": "pre-commit fixers and linters for handling text files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "texthooks-0.7.1.tar.gz",
+  "download_time": "2025-07-23T23:13:46.915041",
+  "package_url": "https://pypi.org/project/texthooks/"
+}

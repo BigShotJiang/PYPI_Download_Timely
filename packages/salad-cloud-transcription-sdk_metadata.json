@@ -1,0 +1,11 @@
+{
+  "name": "salad-cloud-transcription-sdk",
+  "version": "1.0.0a1",
+  "summary": "The SaladCloud Transcription SDK. Please refer to the [SaladCloud Transcription API Documentation](https://docs.salad.com/transcription/) for more details.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "salad_cloud_transcription_sdk-1.0.0a1.tar.gz",
+  "download_time": "2025-07-23T23:14:01.394378",
+  "package_url": "https://pypi.org/project/salad-cloud-transcription-sdk/"
+}

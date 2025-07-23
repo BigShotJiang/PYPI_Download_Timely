@@ -1,0 +1,11 @@
+{
+  "name": "django-currency-converter",
+  "version": "0.1.0",
+  "summary": "Formulaire Django pour conversion de devises",
+  "author": "Ton Nom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_currency_converter-0.1.0.tar.gz",
+  "download_time": "2025-07-23T23:13:53.220745",
+  "package_url": "https://pypi.org/project/django-currency-converter/"
+}

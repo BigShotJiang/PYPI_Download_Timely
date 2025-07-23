@@ -1,0 +1,11 @@
+{
+  "name": "mlfastflow",
+  "version": "0.2.5.0",
+  "summary": "Packages for fast dataflow and workflow processing",
+  "author": "Xileven",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/mlfastflow/",
+  "download_filename": "mlfastflow-0.2.5.0.tar.gz",
+  "download_time": "2025-07-23T23:13:49.238243",
+  "package_url": "https://pypi.org/project/mlfastflow/"
+}

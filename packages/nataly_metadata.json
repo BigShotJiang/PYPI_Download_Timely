@@ -1,11 +1,11 @@
 {
   "name": "nataly",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A comprehensive astrology library for natal chart calculations, analysis, geometric chart layout extraction, and accurate declination calculations.",
   "author": "Göker",
   "license": "MIT",
   "home_page": "https://github.com/gokerDEV/nataly",
-  "download_filename": "nataly-0.1.5.tar.gz",
-  "download_time": "2025-07-23T22:13:30.532457",
+  "download_filename": "nataly-0.1.6.tar.gz",
+  "download_time": "2025-07-23T23:13:35.987636",
   "package_url": "https://pypi.org/project/nataly/"
 }

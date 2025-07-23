@@ -1,0 +1,11 @@
+{
+  "name": "django-pass-gen-safe",
+  "version": "0.1.1",
+  "summary": "Générateur de mots de passe et trousseau sécurisé pour Django",
+  "author": "Momo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pass_gen_safe-0.1.1.tar.gz",
+  "download_time": "2025-07-23T23:13:54.826564",
+  "package_url": "https://pypi.org/project/django-pass-gen-safe/"
+}

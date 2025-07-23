@@ -1,0 +1,11 @@
+{
+  "name": "pris",
+  "version": "0.5",
+  "summary": "PRIS - pattern recognition integer sequence. Detect patterns or sequences in data streams.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pris-0.5.tar.gz",
+  "download_time": "2025-07-23T23:13:34.844168",
+  "package_url": "https://pypi.org/project/pris/"
+}

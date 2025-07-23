@@ -1,0 +1,11 @@
+{
+  "name": "mesh-generator",
+  "version": "1.1.11",
+  "summary": "Python subroutines to create a 1D mesh in Python.",
+  "author": "Predictive Science Inc",
+  "license": null,
+  "home_page": "https://bitbucket.org/predsci/mesh_generator",
+  "download_filename": "mesh_generator-1.1.11.tar.gz",
+  "download_time": "2025-07-23T23:14:07.071876",
+  "package_url": "https://pypi.org/project/mesh-generator/"
+}

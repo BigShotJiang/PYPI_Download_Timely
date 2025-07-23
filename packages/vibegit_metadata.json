@@ -1,0 +1,11 @@
+{
+  "name": "vibegit",
+  "version": "0.1.7",
+  "summary": "Automagically group and commit semantically related changes in your Git repository with AI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibegit-0.1.7.tar.gz",
+  "download_time": "2025-07-23T23:13:34.269223",
+  "package_url": "https://pypi.org/project/vibegit/"
+}

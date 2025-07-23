@@ -1,11 +1,11 @@
 {
   "name": "pinocchiout",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Pinout solver STM32 for microcontrollers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pinocchiout-0.1.0.tar.gz",
-  "download_time": "2025-07-23T21:12:55.129931",
+  "download_filename": "pinocchiout-0.3.0.tar.gz",
+  "download_time": "2025-07-23T23:13:50.420208",
   "package_url": "https://pypi.org/project/pinocchiout/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "query-farm-airport-test-server",
+  "version": "0.1.1",
+  "summary": "An Apache Arrow Flight server that is used to test the Airport extension for DuckDB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "query_farm_airport_test_server-0.1.1.tar.gz",
+  "download_time": "2025-07-23T23:14:03.778837",
+  "package_url": "https://pypi.org/project/query-farm-airport-test-server/"
+}

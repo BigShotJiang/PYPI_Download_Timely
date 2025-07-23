@@ -1,0 +1,11 @@
+{
+  "name": "pdate_cli",
+  "version": "0.1.0",
+  "summary": "PDate converts dates to human-readable formats.",
+  "author": "Hunter Gatewood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdate_cli-0.1.0.tar.gz",
+  "download_time": "2025-07-23T23:14:00.820199",
+  "package_url": "https://pypi.org/project/pdate_cli/"
+}

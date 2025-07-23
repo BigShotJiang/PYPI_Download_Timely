@@ -1,0 +1,11 @@
+{
+  "name": "aimpf",
+  "version": "0.1.8",
+  "summary": "Library for AIMPF users",
+  "author": "Branden Kappes",
+  "license": "MIT",
+  "home_page": "https://github.com/pyscaffold/pyscaffold/",
+  "download_filename": "aimpf-0.1.8.tar.gz",
+  "download_time": "2025-07-23T23:14:00.245708",
+  "package_url": "https://pypi.org/project/aimpf/"
+}

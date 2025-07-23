@@ -1,0 +1,11 @@
+{
+  "name": "django-elasticsearch-dsl",
+  "version": "9.0",
+  "summary": "Wrapper around elasticsearch-dsl-py for django models",
+  "author": "Sabricot",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/sabricot/django-elasticsearch-dsl",
+  "download_filename": "django_elasticsearch_dsl-9.0.tar.gz",
+  "download_time": "2025-07-23T23:13:55.337310",
+  "package_url": "https://pypi.org/project/django-elasticsearch-dsl/"
+}

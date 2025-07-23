@@ -1,0 +1,11 @@
+{
+  "name": "functions-framework",
+  "version": "3.9.0",
+  "summary": "An open source FaaS (Function as a service) framework for writing portable Python functions -- brought to you by the Google Cloud Functions team.",
+  "author": "Google LLC",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/googlecloudplatform/functions-framework-python",
+  "download_filename": "functions_framework-3.9.0.tar.gz",
+  "download_time": "2025-07-23T23:13:41.305604",
+  "package_url": "https://pypi.org/project/functions-framework/"
+}

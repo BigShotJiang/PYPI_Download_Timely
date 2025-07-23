@@ -1,0 +1,11 @@
+{
+  "name": "semantic-eq",
+  "version": "1.0.4",
+  "summary": "Python SDK for Semantic Equivalence API - optimize prompts for semantic equivalence",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semantic_eq-1.0.4.tar.gz",
+  "download_time": "2025-07-23T23:13:38.993955",
+  "package_url": "https://pypi.org/project/semantic-eq/"
+}

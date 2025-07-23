@@ -1,0 +1,11 @@
+{
+  "name": "saksin-vect2",
+  "version": "0.1.3",
+  "summary": "Python SDK for querying Saksin AI chunked retrieval API",
+  "author": "Ravi Kishan",
+  "license": null,
+  "home_page": "https://github.com/kishanravi887321/saksin-vect2.git",
+  "download_filename": "saksin_vect2-0.1.3.tar.gz",
+  "download_time": "2025-07-23T23:13:43.784834",
+  "package_url": "https://pypi.org/project/saksin-vect2/"
+}

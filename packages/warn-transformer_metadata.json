@@ -1,0 +1,11 @@
+{
+  "name": "warn-transformer",
+  "version": "1.3.254",
+  "summary": "Consolidate, enrich and analyze the data gathered by warn-scraper",
+  "author": "Big Local News",
+  "license": "Apache 2.0 license",
+  "home_page": "https://github.com/biglocalnews/warn-transformer",
+  "download_filename": "warn_transformer-1.3.254-py3-none-any.whl",
+  "download_time": "2025-07-23T23:13:44.298758",
+  "package_url": "https://pypi.org/project/warn-transformer/"
+}
