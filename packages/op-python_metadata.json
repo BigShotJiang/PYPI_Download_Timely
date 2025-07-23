@@ -1,0 +1,11 @@
+{
+  "name": "op-python",
+  "version": "0.1.0",
+  "summary": "Python wrapper for 1Password CLI (op) for managing secrets",
+  "author": "Nathan Eric Norman",
+  "license": "MIT",
+  "home_page": "https://github.com/IvoryNomad/op-python",
+  "download_filename": "op_python-0.1.0.tar.gz",
+  "download_time": "2025-07-23T18:18:44.943952",
+  "package_url": "https://pypi.org/project/op-python/"
+}

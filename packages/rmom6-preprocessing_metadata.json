@@ -1,0 +1,11 @@
+{
+  "name": "rmom6-preprocessing",
+  "version": "0.10.4",
+  "summary": "Regional MOM6 CEFI preprocessing and data access",
+  "author": "Chia-Wei Hsu",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/NOAA-CEFI-Portal/regional_mom6",
+  "download_filename": "rmom6_preprocessing-0.10.4.tar.gz",
+  "download_time": "2025-07-23T18:19:33.488770",
+  "package_url": "https://pypi.org/project/rmom6-preprocessing/"
+}

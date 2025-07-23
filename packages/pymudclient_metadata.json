@@ -1,0 +1,11 @@
+{
+  "name": "pymudclient",
+  "version": "1.0.3",
+  "summary": "A MUD client core written in Python",
+  "author": "griiid",
+  "license": "MIT",
+  "home_page": "https://github.com/griiid/PyMudClient",
+  "download_filename": "pymudclient-1.0.3.tar.gz",
+  "download_time": "2025-07-23T18:19:00.570924",
+  "package_url": "https://pypi.org/project/pymudclient/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "talk2dom",
+  "version": "0.2.5",
+  "summary": "A utility to help you locate UI elements using HTML and natural language.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "talk2dom-0.2.5.tar.gz",
+  "download_time": "2025-07-23T18:19:27.877969",
+  "package_url": "https://pypi.org/project/talk2dom/"
+}

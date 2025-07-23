@@ -1,0 +1,11 @@
+{
+  "name": "StereoMolGraph",
+  "version": "0.0.0b4",
+  "summary": "A graph library for chiral molecules, reactions and transition states",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stereomolgraph-0.0.0b4.tar.gz",
+  "download_time": "2025-07-23T18:19:37.367865",
+  "package_url": "https://pypi.org/project/StereoMolGraph/"
+}

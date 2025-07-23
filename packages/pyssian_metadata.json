@@ -1,0 +1,11 @@
+{
+  "name": "pyssian",
+  "version": "1.1.1",
+  "summary": "Parser Library for Gaussian Files",
+  "author": "Raúl Pérez-Soto",
+  "license": null,
+  "home_page": "https://github.com/maserasgroup-repo/pyssian",
+  "download_filename": "pyssian-1.1.1.tar.gz",
+  "download_time": "2025-07-23T18:19:06.463767",
+  "package_url": "https://pypi.org/project/pyssian/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "arcfutil",
+  "version": "0.12.3",
+  "summary": "A Python module designed for processing Arcaea related files(.aff chart, songlist, etc.)",
+  "author": ".direwolf",
+  "license": null,
+  "home_page": "https://github.com/feightwywx/arcfutil",
+  "download_filename": "arcfutil-0.12.3.tar.gz",
+  "download_time": "2025-07-23T18:19:31.568527",
+  "package_url": "https://pypi.org/project/arcfutil/"
+}

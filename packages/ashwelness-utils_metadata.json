@@ -1,0 +1,11 @@
+{
+  "name": "ashwelness-utils",
+  "version": "0.4.0",
+  "summary": "Python library containing common utilities used across various ASH projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ashwelness_utils-0.4.0.tar.gz",
+  "download_time": "2025-07-23T18:18:58.651551",
+  "package_url": "https://pypi.org/project/ashwelness-utils/"
+}

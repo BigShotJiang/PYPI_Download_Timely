@@ -1,0 +1,11 @@
+{
+  "name": "sanghyunjo",
+  "version": "1.7.23",
+  "summary": "Wrapped utility functions for existing AI packages to simplify their usage",
+  "author": "Sanghyun Jo (shjo-april)",
+  "license": null,
+  "home_page": "https://github.com/shjo-april/sanghyunjo",
+  "download_filename": "sanghyunjo-1.7.23.tar.gz",
+  "download_time": "2025-07-23T18:19:30.279211",
+  "package_url": "https://pypi.org/project/sanghyunjo/"
+}

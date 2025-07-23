@@ -1,0 +1,11 @@
+{
+  "name": "weave-db",
+  "version": "1.14.3",
+  "summary": "Library to facilitate the creation and maintenance of complex data warehouses.",
+  "author": "309thEDDGE",
+  "license": "GNU General Public",
+  "home_page": "https://github.com/309thEDDGE/weave",
+  "download_filename": "weave_db-1.14.3.tar.gz",
+  "download_time": "2025-07-23T18:19:07.616442",
+  "package_url": "https://pypi.org/project/weave-db/"
+}

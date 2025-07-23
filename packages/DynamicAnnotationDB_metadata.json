@@ -1,0 +1,11 @@
+{
+  "name": "DynamicAnnotationDB",
+  "version": "5.13.1",
+  "summary": "Annotation Database pendant to the chunkedgraph",
+  "author": "Sven Dorkenwald, Derrick Brittain",
+  "license": null,
+  "home_page": "https://github.com/seung-lab/DynamicAnnotationDB",
+  "download_filename": "DynamicAnnotationDB-5.13.1.tar.gz",
+  "download_time": "2025-07-23T18:18:51.465650",
+  "package_url": "https://pypi.org/project/DynamicAnnotationDB/"
+}

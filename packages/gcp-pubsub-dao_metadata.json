@@ -1,0 +1,11 @@
+{
+  "name": "gcp-pubsub-dao",
+  "version": "0.4.0",
+  "summary": "DAO for GCP PubSub service.",
+  "author": "Raman Shakun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcp_pubsub_dao-0.4.0.tar.gz",
+  "download_time": "2025-07-23T18:18:56.777808",
+  "package_url": "https://pypi.org/project/gcp-pubsub-dao/"
+}
