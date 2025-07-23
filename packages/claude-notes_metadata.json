@@ -1,0 +1,11 @@
+{
+  "name": "claude-notes",
+  "version": "0.1.1",
+  "summary": "Transform Claude Code transcript JSONL files to terminal and HTML views",
+  "author": "Claude Notes Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_notes-0.1.1.tar.gz",
+  "download_time": "2025-07-23T16:17:14.688882",
+  "package_url": "https://pypi.org/project/claude-notes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "create-app-savane",
+  "version": "0.0.1",
+  "summary": "Générateur de structure d'app Django personnalisée",
+  "author": "SAVANE Mouhamed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "create_app_savane-0.0.1.tar.gz",
+  "download_time": "2025-07-23T16:17:21.505625",
+  "package_url": "https://pypi.org/project/create-app-savane/"
+}

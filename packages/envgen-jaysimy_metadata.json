@@ -1,0 +1,11 @@
+{
+  "name": "envgen-jaysimy",
+  "version": "0.0.4",
+  "summary": "Un package CLI qui génère un fichier .env prêt à l’emploi pour Django, Flask, etc.",
+  "author": "jay-simy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envgen_jaysimy-0.0.4.tar.gz",
+  "download_time": "2025-07-23T16:17:47.670359",
+  "package_url": "https://pypi.org/project/envgen-jaysimy/"
+}

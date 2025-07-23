@@ -1,0 +1,11 @@
+{
+  "name": "pygdsdesign",
+  "version": "0.17.7",
+  "summary": "pygdsdesign provides some function to more efficiently create gds files.",
+  "author": "Étienne Dumur, Sacha Wos",
+  "license": "BSL",
+  "home_page": null,
+  "download_filename": "pygdsdesign-0.17.7.tar.gz",
+  "download_time": "2025-07-23T16:17:10.416234",
+  "package_url": "https://pypi.org/project/pygdsdesign/"
+}

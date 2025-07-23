@@ -1,0 +1,11 @@
+{
+  "name": "pyssianutils",
+  "version": "1.0.0",
+  "summary": "A CLI with utils for everyday tasks in CompChem developed with pyssian",
+  "author": "Raúl Pérez-Soto",
+  "license": null,
+  "home_page": "https://github.com/maserasgroup-repo/pyssian-utils",
+  "download_filename": "pyssianutils-1.0.0.tar.gz",
+  "download_time": "2025-07-23T16:17:34.108925",
+  "package_url": "https://pypi.org/project/pyssianutils/"
+}

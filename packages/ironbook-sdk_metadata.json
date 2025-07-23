@@ -1,0 +1,11 @@
+{
+  "name": "ironbook-sdk",
+  "version": "0.1.2",
+  "summary": "Python SDK for Iron Book by Identity Machines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ironbook_sdk-0.1.2.tar.gz",
+  "download_time": "2025-07-23T16:17:11.457300",
+  "package_url": "https://pypi.org/project/ironbook-sdk/"
+}

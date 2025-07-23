@@ -1,0 +1,11 @@
+{
+  "name": "souschef",
+  "version": "1.4.15",
+  "summary": "Webapp used to manage orders for meals-on-wheel delivery",
+  "author": "Santropol Roulant and Savoir Faire Linux",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/santropolroulant/sous-chef",
+  "download_filename": "souschef-1.4.15.tar.gz",
+  "download_time": "2025-07-23T16:17:40.876800",
+  "package_url": "https://pypi.org/project/souschef/"
+}

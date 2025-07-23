@@ -1,0 +1,11 @@
+{
+  "name": "traceplot",
+  "version": "1.0.0",
+  "summary": "Static map generator with points plots.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "traceplot-1.0.0.tar.gz",
+  "download_time": "2025-07-23T16:17:20.987229",
+  "package_url": "https://pypi.org/project/traceplot/"
+}

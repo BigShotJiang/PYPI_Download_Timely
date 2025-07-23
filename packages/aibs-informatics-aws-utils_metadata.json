@@ -1,0 +1,11 @@
+{
+  "name": "aibs-informatics-aws-utils",
+  "version": "0.0.9",
+  "summary": "Library of AWS utility code for informatics projects at the Allen Institute for Brain Science",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aibs_informatics_aws_utils-0.0.9.tar.gz",
+  "download_time": "2025-07-23T16:17:45.589540",
+  "package_url": "https://pypi.org/project/aibs-informatics-aws-utils/"
+}

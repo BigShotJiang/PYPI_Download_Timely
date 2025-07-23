@@ -1,0 +1,11 @@
+{
+  "name": "compare50",
+  "version": "1.2.12",
+  "summary": "This is compare50, with which you can compare files for similarities.",
+  "author": "CS50",
+  "license": "GPLv3",
+  "home_page": "https://github.com/cs50/compare50",
+  "download_filename": "compare50-1.2.12.tar.gz",
+  "download_time": "2025-07-23T16:17:15.210843",
+  "package_url": "https://pypi.org/project/compare50/"
+}
