@@ -1,0 +1,11 @@
+{
+  "name": "grim-reaper",
+  "version": "1.0.0",
+  "summary": "The Ultimate Backup, Monitoring, and Security System - Unified CLI for sh_grim, scythe, py_grim, and go_grim",
+  "author": "Bernie Gengel and his beagle Buddy",
+  "license": "BBL",
+  "home_page": "https://grim.so",
+  "download_filename": "grim-reaper-1.0.0.tar.gz",
+  "download_time": "2025-07-23T17:15:33.143432",
+  "package_url": "https://pypi.org/project/grim-reaper/"
+}

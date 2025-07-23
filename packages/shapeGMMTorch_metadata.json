@@ -1,0 +1,11 @@
+{
+  "name": "shapeGMMTorch",
+  "version": "2.1.0",
+  "summary": "Gaussian Mixture Model clustering in size-and-shape space using PyTorch",
+  "author": "Martin McCullagh",
+  "license": "MIT",
+  "home_page": "https://github.com/mccullaghlab/shapeGMMTorch",
+  "download_filename": "shapegmmtorch-2.1.0-py3-none-any.whl",
+  "download_time": "2025-07-23T17:16:01.269909",
+  "package_url": "https://pypi.org/project/shapeGMMTorch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SigProfilerClusters",
+  "version": "1.2.2",
+  "summary": "SigProfilerClusters tool",
+  "author": "Erik Bergstrom",
+  "license": "UCSD",
+  "home_page": null,
+  "download_filename": "sigprofilerclusters-1.2.2.tar.gz",
+  "download_time": "2025-07-23T17:15:40.002812",
+  "package_url": "https://pypi.org/project/SigProfilerClusters/"
+}

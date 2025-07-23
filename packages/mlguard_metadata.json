@@ -1,0 +1,11 @@
+{
+  "name": "mlguard",
+  "version": "0.1.1",
+  "summary": "A scikit-learn based library for model validation checks like overfitting, imbalance, bias, etc.",
+  "author": "Hetrajsinh Jadeja",
+  "license": null,
+  "home_page": "https://github.com/HDJadeja/mlguard",
+  "download_filename": "mlguard-0.1.1.tar.gz",
+  "download_time": "2025-07-23T17:15:29.064800",
+  "package_url": "https://pypi.org/project/mlguard/"
+}

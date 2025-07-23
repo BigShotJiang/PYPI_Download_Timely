@@ -1,0 +1,11 @@
+{
+  "name": "gnuplot-style",
+  "version": "0.1.2",
+  "summary": "Gnuplot-style aesthetics for matplotlib",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gnuplot_style-0.1.2.tar.gz",
+  "download_time": "2025-07-23T17:15:36.019948",
+  "package_url": "https://pypi.org/project/gnuplot-style/"
+}

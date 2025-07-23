@@ -1,0 +1,11 @@
+{
+  "name": "optimagic",
+  "version": "0.5.2",
+  "summary": "Tools to solve difficult numerical optimization problems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optimagic-0.5.2.tar.gz",
+  "download_time": "2025-07-23T17:15:38.863918",
+  "package_url": "https://pypi.org/project/optimagic/"
+}

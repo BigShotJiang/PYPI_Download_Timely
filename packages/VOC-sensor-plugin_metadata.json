@@ -1,0 +1,11 @@
+{
+  "name": "VOC-sensor-plugin",
+  "version": "0.1.3",
+  "summary": "Measure VOC Concentration in Algae Cultures",
+  "author": "Dallan Schoenberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voc_sensor_plugin-0.1.3-py3-none-any.whl",
+  "download_time": "2025-07-23T17:16:16.963410",
+  "package_url": "https://pypi.org/project/VOC-sensor-plugin/"
+}

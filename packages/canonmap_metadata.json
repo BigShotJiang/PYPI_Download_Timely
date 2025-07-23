@@ -1,11 +1,11 @@
 {
   "name": "canonmap",
-  "version": "0.3.19",
+  "version": "0.3.21",
   "summary": "CanonMap - A Python library for entity canonicalization and mapping with enhanced configuration and response models",
   "author": "Vince Berry",
   "license": null,
   "home_page": "https://github.com/vinceberry/canonmap",
-  "download_filename": "canonmap-0.3.19.tar.gz",
-  "download_time": "2025-07-23T15:04:54.141557",
+  "download_filename": "canonmap-0.3.21.tar.gz",
+  "download_time": "2025-07-23T17:15:42.928800",
   "package_url": "https://pypi.org/project/canonmap/"
 }

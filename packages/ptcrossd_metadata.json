@@ -1,0 +1,11 @@
+{
+  "name": "ptcrossd",
+  "version": "1.0.6",
+  "summary": "Crossdomain.xml Testing Tool",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptcrossd-1.0.6.tar.gz",
+  "download_time": "2025-07-23T17:15:37.168796",
+  "package_url": "https://pypi.org/project/ptcrossd/"
+}

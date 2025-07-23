@@ -1,0 +1,11 @@
+{
+  "name": "ndex2",
+  "version": "3.11.0",
+  "summary": "Nice CX Python includes a client and a data model.",
+  "author": "The NDEx Project",
+  "license": "BSD",
+  "home_page": "https://github.com/ndexbio/ndex2-client",
+  "download_filename": "ndex2-3.11.0.tar.gz",
+  "download_time": "2025-07-23T17:16:11.228380",
+  "package_url": "https://pypi.org/project/ndex2/"
+}

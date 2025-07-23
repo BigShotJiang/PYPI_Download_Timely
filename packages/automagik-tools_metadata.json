@@ -1,0 +1,11 @@
+{
+  "name": "automagik-tools",
+  "version": "0.8.19",
+  "summary": "A monorepo package for MCP tools with dynamic loading capabilities - featuring Evolution API v2 WhatsApp integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "automagik_tools-0.8.19.tar.gz",
+  "download_time": "2025-07-23T17:15:34.333117",
+  "package_url": "https://pypi.org/project/automagik-tools/"
+}
