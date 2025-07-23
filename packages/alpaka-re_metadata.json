@@ -1,0 +1,11 @@
+{
+  "name": "alpaka-re",
+  "version": "0.1.0",
+  "summary": "A tool for mapping classes between different versions of the same APK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alpaka_re-0.1.0.tar.gz",
+  "download_time": "2025-07-23T15:26:47.267556",
+  "package_url": "https://pypi.org/project/alpaka-re/"
+}

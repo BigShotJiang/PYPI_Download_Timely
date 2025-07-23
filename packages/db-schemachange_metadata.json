@@ -1,0 +1,11 @@
+{
+  "name": "db-schemachange",
+  "version": "1.1.1",
+  "summary": "A simple, lightweight Python-based Database Change Management tool for various databases",
+  "author": "LTranData",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/LTranData/db-schemachange",
+  "download_filename": "db_schemachange-1.1.1.tar.gz",
+  "download_time": "2025-07-23T15:27:04.361513",
+  "package_url": "https://pypi.org/project/db-schemachange/"
+}

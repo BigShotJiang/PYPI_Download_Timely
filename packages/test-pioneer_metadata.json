@@ -1,0 +1,11 @@
+{
+  "name": "test-pioneer",
+  "version": "0.1.27",
+  "summary": "Test framework for CI/CD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_pioneer-0.1.27.tar.gz",
+  "download_time": "2025-07-23T15:27:22.197732",
+  "package_url": "https://pypi.org/project/test-pioneer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "capellambse-context-diagrams",
+  "version": "0.7.15",
+  "summary": "Extension for py-capellambse that adds automatically generated context diagrams for arbitrary model elements.",
+  "author": "DB InfraGO AG",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "capellambse_context_diagrams-0.7.15.tar.gz",
+  "download_time": "2025-07-23T15:26:46.688321",
+  "package_url": "https://pypi.org/project/capellambse-context-diagrams/"
+}

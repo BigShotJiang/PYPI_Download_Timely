@@ -1,0 +1,11 @@
+{
+  "name": "aedev-git-repo-manager",
+  "version": "0.3.101",
+  "summary": "aedev namespace package portion git_repo_manager: create and maintain local/remote git repositories of Python projects",
+  "author": "AndiEcker",
+  "license": "OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://gitlab.com/aedev-group/aedev_git_repo_manager",
+  "download_filename": "aedev_git_repo_manager-0.3.101.tar.gz",
+  "download_time": "2025-07-23T15:27:13.883472",
+  "package_url": "https://pypi.org/project/aedev-git-repo-manager/"
+}

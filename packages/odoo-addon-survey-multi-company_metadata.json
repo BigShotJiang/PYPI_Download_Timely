@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-survey-multi-company",
+  "version": "17.0.1.0.1",
+  "summary": "Company security for surveys",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/survey",
+  "download_filename": "odoo_addon_survey_multi_company-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-07-23T15:26:53.805539",
+  "package_url": "https://pypi.org/project/odoo-addon-survey-multi-company/"
+}

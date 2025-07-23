@@ -1,0 +1,11 @@
+{
+  "name": "schema-salad",
+  "version": "8.9.20250723145140",
+  "summary": "Schema Annotations for Linked Avro Data (SALAD)",
+  "author": "Common workflow language working group",
+  "license": "Apache 2.0",
+  "home_page": "https://schema-salad.readthedocs.io/",
+  "download_filename": "schema_salad-8.9.20250723145140.tar.gz",
+  "download_time": "2025-07-23T15:27:10.190064",
+  "package_url": "https://pypi.org/project/schema-salad/"
+}

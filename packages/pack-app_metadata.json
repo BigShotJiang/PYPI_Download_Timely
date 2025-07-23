@@ -1,0 +1,11 @@
+{
+  "name": "pack-app",
+  "version": "0.3.0",
+  "summary": "Générateur de structure d'application Django",
+  "author": "christellelou904",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pack_app-0.3.0.tar.gz",
+  "download_time": "2025-07-23T15:26:53.226803",
+  "package_url": "https://pypi.org/project/pack-app/"
+}

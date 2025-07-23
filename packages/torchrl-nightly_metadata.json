@@ -1,0 +1,11 @@
+{
+  "name": "torchrl-nightly",
+  "version": "2025.7.23",
+  "summary": null,
+  "author": "torchrl contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/pytorch/rl",
+  "download_filename": "torchrl_nightly-2025.7.23-cp310-cp310-manylinux1_x86_64.whl",
+  "download_time": "2025-07-23T15:26:35.248533",
+  "package_url": "https://pypi.org/project/torchrl-nightly/"
+}

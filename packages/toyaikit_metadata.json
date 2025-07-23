@@ -1,0 +1,11 @@
+{
+  "name": "toyaikit",
+  "version": "0.0.1",
+  "summary": "Toolkit for building AI assistants and tool integrations.",
+  "author": null,
+  "license": "WTFPL",
+  "home_page": null,
+  "download_filename": "toyaikit-0.0.1.tar.gz",
+  "download_time": "2025-07-23T15:27:09.581703",
+  "package_url": "https://pypi.org/project/toyaikit/"
+}

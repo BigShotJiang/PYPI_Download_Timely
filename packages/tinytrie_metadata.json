@@ -1,0 +1,11 @@
+{
+  "name": "tinytrie",
+  "version": "0.1.0a5",
+  "summary": "A minimal type-safe trie (prefix tree) implementation in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinytrie-0.1.0a5.tar.gz",
+  "download_time": "2025-07-23T15:26:41.753876",
+  "package_url": "https://pypi.org/project/tinytrie/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pactool-linuxutils",
+  "version": "1.0.4.1",
+  "summary": "A cross-distro package management helper for Linux systems.",
+  "author": "LinuxUtils",
+  "license": null,
+  "home_page": "https://github.com/LinuxUtils/pactool",
+  "download_filename": "pactool_linuxutils-1.0.4.1.tar.gz",
+  "download_time": "2025-07-23T15:26:36.453299",
+  "package_url": "https://pypi.org/project/pactool-linuxutils/"
+}

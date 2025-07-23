@@ -1,0 +1,11 @@
+{
+  "name": "libgen-api-modern",
+  "version": "1.0.0",
+  "summary": "Search Library Genesis. This library enables you to search Library Genesis programmatically.",
+  "author": "Johnnie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libgen_api_modern-1.0.0.tar.gz",
+  "download_time": "2025-07-23T15:27:06.100090",
+  "package_url": "https://pypi.org/project/libgen-api-modern/"
+}

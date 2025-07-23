@@ -1,0 +1,11 @@
+{
+  "name": "aiforecast",
+  "version": "0.1.6",
+  "summary": "My short description for my project.",
+  "author": "Awesome Soul",
+  "license": "MIT",
+  "home_page": "https://github.com/me/myproject",
+  "download_filename": "aiforecast-0.1.6.tar.gz",
+  "download_time": "2025-07-23T15:27:21.620981",
+  "package_url": "https://pypi.org/project/aiforecast/"
+}

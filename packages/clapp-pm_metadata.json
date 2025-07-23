@@ -1,0 +1,11 @@
+{
+  "name": "clapp-pm",
+  "version": "1.0.48",
+  "summary": "Lightweight cross-language app manager for Python and Lua",
+  "author": "Melih Burak Memiş",
+  "license": "MIT",
+  "home_page": "https://github.com/mburakmmm/clapp",
+  "download_filename": "clapp_pm-1.0.48.tar.gz",
+  "download_time": "2025-07-23T15:26:41.179054",
+  "package_url": "https://pypi.org/project/clapp-pm/"
+}

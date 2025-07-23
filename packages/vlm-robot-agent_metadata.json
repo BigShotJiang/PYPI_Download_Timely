@@ -1,11 +1,11 @@
 {
   "name": "vlm-robot-agent",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Agente robótico basado en VLM que navega e interactúa con personas según objetivos visuales",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vlm_robot_agent-0.3.1.tar.gz",
-  "download_time": "2025-07-23T15:04:40.359504",
+  "download_filename": "vlm_robot_agent-0.3.2.tar.gz",
+  "download_time": "2025-07-23T15:27:22.772418",
   "package_url": "https://pypi.org/project/vlm-robot-agent/"
 }

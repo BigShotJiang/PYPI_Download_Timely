@@ -1,0 +1,11 @@
+{
+  "name": "igcs",
+  "version": "0.0.2",
+  "summary": "Instruction‑Guided Content Selection toolkit and datasets",
+  "author": "Shmuel Amar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "igcs-0.0.2.tar.gz",
+  "download_time": "2025-07-23T15:26:55.558179",
+  "package_url": "https://pypi.org/project/igcs/"
+}

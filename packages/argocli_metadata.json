@@ -1,0 +1,11 @@
+{
+  "name": "argocli",
+  "version": "0.4.0",
+  "summary": "A command-line interface for Argo Workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argocli-0.4.0.tar.gz",
+  "download_time": "2025-07-23T15:27:08.996459",
+  "package_url": "https://pypi.org/project/argocli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-app-creator",
+  "version": "0.4.0",
+  "summary": "Générateur de structure d'app Django personnalisée",
+  "author": "kamax",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_app_creator-0.4.0.tar.gz",
+  "download_time": "2025-07-23T15:27:16.273460",
+  "package_url": "https://pypi.org/project/django-app-creator/"
+}

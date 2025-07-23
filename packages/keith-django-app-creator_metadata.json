@@ -1,0 +1,11 @@
+{
+  "name": "keith-django-app-creator",
+  "version": "0.3.0",
+  "summary": "Générateur de structure d'app Django personnalisée",
+  "author": "Keith44",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keith_django_app_creator-0.3.0.tar.gz",
+  "download_time": "2025-07-23T15:26:37.683111",
+  "package_url": "https://pypi.org/project/keith-django-app-creator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pubchemTools",
+  "version": "1.21",
+  "summary": "Helper functions to retrieve and handle pubchem records",
+  "author": "Tamás Haraszti",
+  "license": "CC-BY(4) (https://creativecommons.org/licenses/by/4.0/)",
+  "home_page": null,
+  "download_filename": "pubchemtools-1.21.tar.gz",
+  "download_time": "2025-07-23T15:27:04.936343",
+  "package_url": "https://pypi.org/project/pubchemTools/"
+}

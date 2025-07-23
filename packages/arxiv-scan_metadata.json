@@ -1,0 +1,11 @@
+{
+  "name": "arxiv-scan",
+  "version": "1.0b1",
+  "summary": "Find preprints relevant to your individual research",
+  "author": "Martin Schlecker",
+  "license": null,
+  "home_page": "https://github.com/matiscke/arxiv-scan",
+  "download_filename": "arxiv_scan-1.0b1.tar.gz",
+  "download_time": "2025-07-23T15:27:03.205856",
+  "package_url": "https://pypi.org/project/arxiv-scan/"
+}

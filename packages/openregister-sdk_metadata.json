@@ -1,0 +1,11 @@
+{
+  "name": "openregister-sdk",
+  "version": "1.8.0",
+  "summary": "The official Python library for the openregister API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openregister_sdk-1.8.0.tar.gz",
+  "download_time": "2025-07-23T15:26:52.652457",
+  "package_url": "https://pypi.org/project/openregister-sdk/"
+}
