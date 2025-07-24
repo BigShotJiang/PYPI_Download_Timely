@@ -1,0 +1,11 @@
+{
+  "name": "pdfxtmd",
+  "version": "1.0.1",
+  "summary": "PDFxTMD is a library for parton distribution functions (PDFs) that integrates both collinear PDFs (cPDFs) and transverse momentum-dependent PDFs (TMDs).",
+  "author": "Ramin Kord Valeshabadi",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Raminkord92/PDFxTMD",
+  "download_filename": "pdfxtmd-1.0.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-24T17:21:48.318376",
+  "package_url": "https://pypi.org/project/pdfxtmd/"
+}

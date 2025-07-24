@@ -1,11 +1,11 @@
 {
   "name": "asciidoc-dita-toolkit",
-  "version": "2.0.13",
+  "version": "2.1.1",
   "summary": "AsciiDoc DITA Toolkit - unified package for technical documentation workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asciidoc_dita_toolkit-2.0.13.tar.gz",
-  "download_time": "2025-07-24T13:40:29.318493",
+  "download_filename": "asciidoc_dita_toolkit-2.1.1.tar.gz",
+  "download_time": "2025-07-24T17:21:25.755109",
   "package_url": "https://pypi.org/project/asciidoc-dita-toolkit/"
 }

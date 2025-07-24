@@ -1,0 +1,11 @@
+{
+  "name": "kron-torch",
+  "version": "0.3.3",
+  "summary": "An implementation of PSGD Kron optimizer in PyTorch.",
+  "author": "Evan Walters, Omead Pooladzandi, Xi-Lin Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kron_torch-0.3.3.tar.gz",
+  "download_time": "2025-07-24T17:21:46.223360",
+  "package_url": "https://pypi.org/project/kron-torch/"
+}

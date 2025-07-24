@@ -1,0 +1,11 @@
+{
+  "name": "rayspect",
+  "version": "0.0.1",
+  "summary": "RaySpect: open-source tools for ray tracing and optical analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rayspect-0.0.1.tar.gz",
+  "download_time": "2025-07-24T17:21:27.908018",
+  "package_url": "https://pypi.org/project/rayspect/"
+}

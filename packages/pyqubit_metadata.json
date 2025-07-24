@@ -1,0 +1,11 @@
+{
+  "name": "pyqubit",
+  "version": "0.2",
+  "summary": "A lightweight quantum qubit simulator in Python",
+  "author": "Aviral Srivastava",
+  "license": null,
+  "home_page": "https://github.com/yourusername/PyQubit",
+  "download_filename": "pyqubit-0.2.tar.gz",
+  "download_time": "2025-07-24T17:21:33.636660",
+  "package_url": "https://pypi.org/project/pyqubit/"
+}

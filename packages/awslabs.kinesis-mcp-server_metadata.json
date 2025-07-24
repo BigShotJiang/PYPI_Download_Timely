@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.kinesis-mcp-server",
+  "version": "0.1.1",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for kinesis",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_kinesis_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-07-24T17:21:57.699412",
+  "package_url": "https://pypi.org/project/awslabs.kinesis-mcp-server/"
+}

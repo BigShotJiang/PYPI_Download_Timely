@@ -1,0 +1,11 @@
+{
+  "name": "linebot-error-analyzer",
+  "version": "1.0.0",
+  "summary": "LINE Bot SDK のエラーを自動分析・診断するライブラリ",
+  "author": "らいとん",
+  "license": "MIT",
+  "home_page": "https://github.com/raiton-boo/linebot-error-analyzer",
+  "download_filename": "linebot_error_analyzer-1.0.0.tar.gz",
+  "download_time": "2025-07-24T17:21:43.598812",
+  "package_url": "https://pypi.org/project/linebot-error-analyzer/"
+}

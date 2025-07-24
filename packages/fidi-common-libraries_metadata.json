@@ -1,11 +1,11 @@
 {
   "name": "fidi-common-libraries",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "Bibliotecas compartilhadas entre os projetos da FIDI",
   "author": "Vander Loto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fidi_common_libraries-1.3.1.tar.gz",
-  "download_time": "2025-07-24T14:57:38.345315",
+  "download_filename": "fidi_common_libraries-1.3.2.tar.gz",
+  "download_time": "2025-07-24T17:22:00.838371",
   "package_url": "https://pypi.org/project/fidi-common-libraries/"
 }
