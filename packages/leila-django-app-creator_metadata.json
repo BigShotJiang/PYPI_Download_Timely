@@ -1,11 +1,11 @@
 {
   "name": "leila-django-app-creator",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Générateur de structure d'app Django personnalisée",
   "author": "alphine2.0",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "leila_django_app_creator-0.1.0.tar.gz",
-  "download_time": "2025-07-23T16:17:09.874443",
+  "download_filename": "leila_django_app_creator-0.1.3.tar.gz",
+  "download_time": "2025-07-24T15:28:32.108776",
   "package_url": "https://pypi.org/project/leila-django-app-creator/"
 }

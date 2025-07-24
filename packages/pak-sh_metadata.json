@@ -1,11 +1,11 @@
 {
   "name": "pak-sh",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "summary": "PAK.sh - Universal Package Automation Kit ",
   "author": "PAK.sh Team",
   "license": "MIT",
   "home_page": "https://pak.sh",
-  "download_filename": "pak-sh-2.0.0.tar.gz",
-  "download_time": "2025-07-23T15:26:44.808897",
+  "download_filename": "pak-sh-3.0.0.tar.gz",
+  "download_time": "2025-07-24T15:27:53.829375",
   "package_url": "https://pypi.org/project/pak-sh/"
 }

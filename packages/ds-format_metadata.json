@@ -1,0 +1,11 @@
+{
+  "name": "ds-format",
+  "version": "4.2.0",
+  "summary": "ds-format is an open source program, a Python package and a storage format which provides an interface for reading and writing NetCDF files, as well as its own data file format.",
+  "author": "Peter Kuma",
+  "license": "MIT",
+  "home_page": "https://ds-format.peterkuma.net",
+  "download_filename": "ds-format-4.2.0.tar.gz",
+  "download_time": "2025-07-24T15:28:31.466920",
+  "package_url": "https://pypi.org/project/ds-format/"
+}

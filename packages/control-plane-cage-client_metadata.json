@@ -1,0 +1,11 @@
+{
+  "name": "control-plane-cage-client",
+  "version": "1.0.0rc44",
+  "summary": "A client library for accessing ControlPlane internal API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "control_plane_cage_client-1.0.0rc44.tar.gz",
+  "download_time": "2025-07-24T15:28:19.885175",
+  "package_url": "https://pypi.org/project/control-plane-cage-client/"
+}

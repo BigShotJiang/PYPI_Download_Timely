@@ -1,0 +1,11 @@
+{
+  "name": "nfoursid",
+  "version": "1.0.2",
+  "summary": "Implementation of N4SID, Kalman filtering and state-space models",
+  "author": "Steven van Gemert",
+  "license": "MIT",
+  "home_page": "https://github.com/spmvg/nfoursid",
+  "download_filename": "nfoursid-1.0.2.tar.gz",
+  "download_time": "2025-07-24T15:28:15.186875",
+  "package_url": "https://pypi.org/project/nfoursid/"
+}

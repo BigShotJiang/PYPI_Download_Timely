@@ -1,11 +1,11 @@
 {
   "name": "shlesha",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "High-performance extensible transliteration library for Sanskrit and Indic scripts",
   "author": "udapaana",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "shlesha-0.5.0.tar.gz",
-  "download_time": "2025-07-24T03:24:30.688535",
+  "download_filename": "shlesha-0.5.1.tar.gz",
+  "download_time": "2025-07-24T15:28:04.426732",
   "package_url": "https://pypi.org/project/shlesha/"
 }

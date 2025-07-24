@@ -1,0 +1,11 @@
+{
+  "name": "beir-qdrant",
+  "version": "0.5.4",
+  "summary": "Qdrant integration with BEIR, simplifying quality checks on standard datasets",
+  "author": "Kacper Łukawski",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "beir_qdrant-0.5.4.tar.gz",
+  "download_time": "2025-07-24T15:28:28.235873",
+  "package_url": "https://pypi.org/project/beir-qdrant/"
+}

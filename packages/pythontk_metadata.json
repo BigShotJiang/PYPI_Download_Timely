@@ -1,0 +1,11 @@
+{
+  "name": "pythontk",
+  "version": "0.7.26",
+  "summary": "*pythontk is a collection of backend utilities for Python.*",
+  "author": "Ryan Simpson",
+  "license": null,
+  "home_page": "https://github.com/m3trik/pythontk",
+  "download_filename": "pythontk-0.7.26.tar.gz",
+  "download_time": "2025-07-24T15:27:52.270903",
+  "package_url": "https://pypi.org/project/pythontk/"
+}

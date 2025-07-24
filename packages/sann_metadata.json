@@ -1,0 +1,11 @@
+{
+  "name": "sann",
+  "version": "0.1.0",
+  "summary": "A Simple Artificial Neural Network (SANN) module, for educational use.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sann-0.1.0.tar.gz",
+  "download_time": "2025-07-24T15:28:07.533604",
+  "package_url": "https://pypi.org/project/sann/"
+}

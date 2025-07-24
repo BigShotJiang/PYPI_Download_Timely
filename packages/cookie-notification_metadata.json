@@ -1,0 +1,11 @@
+{
+  "name": "cookie-notification",
+  "version": "0.3.1",
+  "summary": "Уведомление пользователя об использовании файлов cookie",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cookie_notification-0.3.1.tar.gz",
+  "download_time": "2025-07-24T15:28:26.315351",
+  "package_url": "https://pypi.org/project/cookie-notification/"
+}

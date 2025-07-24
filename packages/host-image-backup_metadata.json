@@ -1,0 +1,11 @@
+{
+  "name": "host-image-backup",
+  "version": "0.1.0a1",
+  "summary": "A Python-based command-line tool for backing up images from multiple image hosting services to local storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "host_image_backup-0.1.0a1.tar.gz",
+  "download_time": "2025-07-24T15:28:36.135970",
+  "package_url": "https://pypi.org/project/host-image-backup/"
+}

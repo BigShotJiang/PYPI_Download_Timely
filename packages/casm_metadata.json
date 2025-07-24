@@ -1,0 +1,11 @@
+{
+  "name": "casm",
+  "version": "0.9.1",
+  "summary": "container assembler",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/podboy/casm/",
+  "download_filename": "casm-0.9.1.tar.gz",
+  "download_time": "2025-07-24T15:28:14.603094",
+  "package_url": "https://pypi.org/project/casm/"
+}
