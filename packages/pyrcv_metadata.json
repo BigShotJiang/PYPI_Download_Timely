@@ -1,0 +1,11 @@
+{
+  "name": "pyrcv",
+  "version": "1.1.12",
+  "summary": "Python API for adjudicating single transferable vote elections.  Also contains basic web server to adjudicate results in CSV format.",
+  "author": "Chris Roat",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/chrisroat/pyrcv",
+  "download_filename": "pyrcv-1.1.12.tar.gz",
+  "download_time": "2025-07-24T20:45:51.660894",
+  "package_url": "https://pypi.org/project/pyrcv/"
+}

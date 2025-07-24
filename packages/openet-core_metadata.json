@@ -1,0 +1,11 @@
+{
+  "name": "openet-core",
+  "version": "0.8.0",
+  "summary": "OpenET Core Components",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openet_core-0.8.0.tar.gz",
+  "download_time": "2025-07-24T20:45:40.177685",
+  "package_url": "https://pypi.org/project/openet-core/"
+}

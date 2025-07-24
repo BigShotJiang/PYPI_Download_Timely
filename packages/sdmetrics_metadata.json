@@ -1,0 +1,11 @@
+{
+  "name": "sdmetrics",
+  "version": "0.22.0",
+  "summary": "Metrics for Synthetic Data Generation Projects",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "sdmetrics-0.22.0.tar.gz",
+  "download_time": "2025-07-24T20:45:49.092818",
+  "package_url": "https://pypi.org/project/sdmetrics/"
+}

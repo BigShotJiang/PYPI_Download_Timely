@@ -1,0 +1,11 @@
+{
+  "name": "octopus-usage-exporter",
+  "version": "0.1.5",
+  "summary": "Prometheus exporter for Octopus Energy metrics. Works best when coupled with an Octopus Home Mini.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "octopus_usage_exporter-0.1.5.tar.gz",
+  "download_time": "2025-07-24T20:45:27.210222",
+  "package_url": "https://pypi.org/project/octopus-usage-exporter/"
+}

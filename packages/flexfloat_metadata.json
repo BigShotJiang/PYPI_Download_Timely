@@ -1,0 +1,11 @@
+{
+  "name": "flexfloat",
+  "version": "0.1.3",
+  "summary": "A library for arbitrary precision floating point arithmetic",
+  "author": "Ferran Sanchez Llado",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexfloat-0.1.3.tar.gz",
+  "download_time": "2025-07-24T20:45:35.140493",
+  "package_url": "https://pypi.org/project/flexfloat/"
+}
