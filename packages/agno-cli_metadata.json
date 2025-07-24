@@ -1,11 +1,11 @@
 {
   "name": "agno-cli",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "summary": "Enhanced Agno CLI - Multi-Agent Terminal Assistant with Advanced Reasoning and Tool Integration",
   "author": "Paul Gedeon",
   "license": "MIT",
   "home_page": "https://github.com/paulgg-code/agno-cli",
-  "download_filename": "agno_cli-2.4.6.tar.gz",
-  "download_time": "2025-07-24T19:26:20.148315",
+  "download_filename": "agno_cli-2.4.7.tar.gz",
+  "download_time": "2025-07-24T23:43:08.303763",
   "package_url": "https://pypi.org/project/agno-cli/"
 }

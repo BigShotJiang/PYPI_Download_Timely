@@ -1,11 +1,11 @@
 {
   "name": "youtrack-cli",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "YouTrack CLI - Command line interface for JetBrains YouTrack issue tracking system",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "youtrack_cli-0.11.0.tar.gz",
-  "download_time": "2025-07-24T22:47:13.668105",
+  "download_filename": "youtrack_cli-0.11.1.tar.gz",
+  "download_time": "2025-07-24T23:43:08.828929",
   "package_url": "https://pypi.org/project/youtrack-cli/"
 }

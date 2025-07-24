@@ -1,0 +1,11 @@
+{
+  "name": "executor-engine",
+  "version": "0.3.3",
+  "summary": "Package for manage job executions.",
+  "author": "Weize Xu",
+  "license": "MIT",
+  "home_page": "https://github.com/Nanguage/executor-engine",
+  "download_filename": "executor_engine-0.3.3.tar.gz",
+  "download_time": "2025-07-24T23:43:25.804500",
+  "package_url": "https://pypi.org/project/executor-engine/"
+}

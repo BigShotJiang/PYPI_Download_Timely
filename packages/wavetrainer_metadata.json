@@ -1,11 +1,11 @@
 {
   "name": "wavetrainer",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "A library for automatically finding the optimal model within feature and hyperparameter space.",
   "author": "Will Sackfield",
   "license": "MIT",
   "home_page": "https://github.com/8W9aG/wavetrainer",
-  "download_filename": "wavetrainer-0.2.13.tar.gz",
-  "download_time": "2025-07-24T22:47:15.736160",
+  "download_filename": "wavetrainer-0.2.14.tar.gz",
+  "download_time": "2025-07-24T23:43:25.285367",
   "package_url": "https://pypi.org/project/wavetrainer/"
 }
