@@ -1,0 +1,11 @@
+{
+  "name": "python-service-builder",
+  "version": "2.0.0",
+  "summary": "Helper library for easier creation of Google services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_service_builder-2.0.0.tar.gz",
+  "download_time": "2025-07-24T19:52:41.738794",
+  "package_url": "https://pypi.org/project/python-service-builder/"
+}

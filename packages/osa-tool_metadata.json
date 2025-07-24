@@ -1,0 +1,11 @@
+{
+  "name": "osa-tool",
+  "version": "0.2.0",
+  "summary": "Tool that just makes your open source project better!",
+  "author": "ITMO-NSS-team",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "osa_tool-0.2.0.tar.gz",
+  "download_time": "2025-07-24T19:52:44.816437",
+  "package_url": "https://pypi.org/project/osa-tool/"
+}

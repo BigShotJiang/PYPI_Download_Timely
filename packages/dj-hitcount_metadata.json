@@ -1,0 +1,11 @@
+{
+  "name": "dj-hitcount",
+  "version": "2.0.0",
+  "summary": "Hit counting application for django",
+  "author": "Abhyudai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_hitcount-2.0.0.tar.gz",
+  "download_time": "2025-07-24T19:52:48.918709",
+  "package_url": "https://pypi.org/project/dj-hitcount/"
+}

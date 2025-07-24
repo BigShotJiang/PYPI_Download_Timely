@@ -1,0 +1,11 @@
+{
+  "name": "pythonrest3",
+  "version": "0.4.1",
+  "summary": "A CLI tool that generates a complete API using a connection string for supported databases: mysql, mssql, mariadb and postgres",
+  "author": "Seven Technologies Cloud",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonrest3-0.4.1.tar.gz",
+  "download_time": "2025-07-24T19:52:42.251169",
+  "package_url": "https://pypi.org/project/pythonrest3/"
+}
