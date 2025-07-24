@@ -1,0 +1,11 @@
+{
+  "name": "installer-creator",
+  "version": "0.2.3",
+  "summary": "Python package for compiling projects with Nuitka and creating Windows installers with Wix Toolset",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "installer_creator-0.2.3.tar.gz",
+  "download_time": "2025-07-24T07:53:37.432706",
+  "package_url": "https://pypi.org/project/installer-creator/"
+}

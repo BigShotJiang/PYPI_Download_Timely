@@ -1,0 +1,11 @@
+{
+  "name": "floodrisk",
+  "version": "0.1.1",
+  "summary": "Flood inundation detection and damage assessment using Google Earth Engine and OSM data",
+  "author": "Mahfujur Rahman Joy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "floodrisk-0.1.1.tar.gz",
+  "download_time": "2025-07-24T07:53:32.331080",
+  "package_url": "https://pypi.org/project/floodrisk/"
+}

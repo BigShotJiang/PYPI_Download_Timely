@@ -1,0 +1,11 @@
+{
+  "name": "concurra",
+  "version": "1.1.0",
+  "summary": "A simple parallel task execution library with error handling, progress tracking, and concurrency management.",
+  "author": "Sahil Pardeshi",
+  "license": "MIT",
+  "home_page": "https://github.com/Concurra/concurra",
+  "download_filename": "concurra-1.1.0.tar.gz",
+  "download_time": "2025-07-24T07:53:34.658633",
+  "package_url": "https://pypi.org/project/concurra/"
+}

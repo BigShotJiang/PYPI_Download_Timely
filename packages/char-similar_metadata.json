@@ -1,0 +1,11 @@
+{
+  "name": "char-similar",
+  "version": "0.0.2",
+  "summary": "char-similar: Tookit of Chinese Character Similarity, Especially the Shape of the Characters.",
+  "author": "yongzhuo",
+  "license": "MIT",
+  "home_page": "https://github.com/yongzhuo/char-similar",
+  "download_filename": "char_similar-0.0.2-py2.py3-none-any.whl",
+  "download_time": "2025-07-24T07:54:06.416788",
+  "package_url": "https://pypi.org/project/char-similar/"
+}

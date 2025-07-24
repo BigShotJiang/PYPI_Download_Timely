@@ -1,0 +1,11 @@
+{
+  "name": "edgar-analysis",
+  "version": "0.1.1",
+  "summary": "A package for analyzing EDGAR financial statements for companies",
+  "author": "Jonas Bergstrom",
+  "license": null,
+  "home_page": "https://github.com/gafzan/edgar_analysis",
+  "download_filename": "edgar_analysis-0.1.1.tar.gz",
+  "download_time": "2025-07-24T07:53:54.760059",
+  "package_url": "https://pypi.org/project/edgar-analysis/"
+}

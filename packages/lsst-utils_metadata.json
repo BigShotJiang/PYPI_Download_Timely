@@ -1,0 +1,11 @@
+{
+  "name": "lsst-utils",
+  "version": "29.2025.3000",
+  "summary": "Utility functions from Rubin Observatory Data Management for the Legacy Survey of Space and Time (LSST).",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "lsst_utils-29.2025.3000.tar.gz",
+  "download_time": "2025-07-24T07:53:31.821628",
+  "package_url": "https://pypi.org/project/lsst-utils/"
+}

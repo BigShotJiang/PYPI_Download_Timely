@@ -1,0 +1,11 @@
+{
+  "name": "ipor-fusion",
+  "version": "0.19.0",
+  "summary": "The IPOR Fusion SDK for Python",
+  "author": "Adam Mydlarz",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "ipor_fusion-0.19.0.tar.gz",
+  "download_time": "2025-07-24T07:53:56.797255",
+  "package_url": "https://pypi.org/project/ipor-fusion/"
+}

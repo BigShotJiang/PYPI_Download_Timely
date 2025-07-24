@@ -1,0 +1,11 @@
+{
+  "name": "sql-infer",
+  "version": "0.11.0",
+  "summary": "SQL Infer Python Wrapper",
+  "author": "jnlt3",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_infer-0.11.0.tar.gz",
+  "download_time": "2025-07-24T07:53:29.392464",
+  "package_url": "https://pypi.org/project/sql-infer/"
+}

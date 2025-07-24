@@ -1,0 +1,11 @@
+{
+  "name": "kpops",
+  "version": "10.4.2",
+  "summary": "KPOps is a tool to deploy Kafka pipelines to Kubernetes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kpops-10.4.2-py3-none-any.whl",
+  "download_time": "2025-07-24T07:53:53.532379",
+  "package_url": "https://pypi.org/project/kpops/"
+}

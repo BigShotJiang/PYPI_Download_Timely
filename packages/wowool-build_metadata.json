@@ -1,0 +1,11 @@
+{
+  "name": "wowool-build",
+  "version": "0.1.0",
+  "summary": "Wowool Build System",
+  "author": "Wowool",
+  "license": null,
+  "home_page": "https://www.wowool.com/",
+  "download_filename": "wowool_build-0.1.0-py3-none-any.whl",
+  "download_time": "2025-07-24T07:53:57.385472",
+  "package_url": "https://pypi.org/project/wowool-build/"
+}

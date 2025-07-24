@@ -1,0 +1,11 @@
+{
+  "name": "fc-server",
+  "version": "0.7.3",
+  "summary": null,
+  "author": "Larry Shen",
+  "license": "MIT",
+  "home_page": "https://fc.readthedocs.io/",
+  "download_filename": "fc-server-0.7.3.tar.gz",
+  "download_time": "2025-07-24T07:53:23.479209",
+  "package_url": "https://pypi.org/project/fc-server/"
+}

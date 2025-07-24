@@ -1,0 +1,11 @@
+{
+  "name": "driverApi",
+  "version": "1.0.7",
+  "summary": "外设驱动接口",
+  "author": "NanYuan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "driverApi-1.0.7.tar.gz",
+  "download_time": "2025-07-24T07:53:57.911666",
+  "package_url": "https://pypi.org/project/driverApi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-http_request",
+  "version": "0.0.7.1",
+  "summary": "Python http response utils.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/web-mount-packs/tree/main/python-module/python-http_request",
+  "download_filename": "python_http_request-0.0.7.1.tar.gz",
+  "download_time": "2025-07-24T07:53:49.447704",
+  "package_url": "https://pypi.org/project/python-http_request/"
+}

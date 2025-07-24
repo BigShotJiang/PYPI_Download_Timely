@@ -1,0 +1,11 @@
+{
+  "name": "powermake",
+  "version": "2.6.2",
+  "summary": "Yet another makefile tool. This one is meant to be super fast, super easy and crossplatform while leaving full power to the user at any time.",
+  "author": "Macéo Tuloup",
+  "license": null,
+  "home_page": null,
+  "download_filename": "powermake-2.6.2.tar.gz",
+  "download_time": "2025-07-24T07:53:26.406781",
+  "package_url": "https://pypi.org/project/powermake/"
+}

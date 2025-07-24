@@ -1,0 +1,11 @@
+{
+  "name": "baltech-sdk",
+  "version": "3.19.4",
+  "summary": "SDK to communicate with Baltech RFID readers.",
+  "author": "Baltech AG",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "baltech_sdk-3.19.4.tar.gz",
+  "download_time": "2025-07-24T07:54:02.651126",
+  "package_url": "https://pypi.org/project/baltech-sdk/"
+}

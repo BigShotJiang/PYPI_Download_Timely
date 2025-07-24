@@ -1,0 +1,11 @@
+{
+  "name": "tradeflow",
+  "version": "1.0.0",
+  "summary": "A package to simulate autocorrelated time series of signs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tradeflow-1.0.0.tar.gz",
+  "download_time": "2025-07-24T07:54:04.188920",
+  "package_url": "https://pypi.org/project/tradeflow/"
+}

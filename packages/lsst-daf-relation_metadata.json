@@ -1,0 +1,11 @@
+{
+  "name": "lsst-daf-relation",
+  "version": "29.2025.3000",
+  "summary": "An abstract system for operating on SQL and in-memory tables with relational algebra.",
+  "author": null,
+  "license": "GPLv3+ License",
+  "home_page": null,
+  "download_filename": "lsst_daf_relation-29.2025.3000.tar.gz",
+  "download_time": "2025-07-24T07:53:43.807086",
+  "package_url": "https://pypi.org/project/lsst-daf-relation/"
+}

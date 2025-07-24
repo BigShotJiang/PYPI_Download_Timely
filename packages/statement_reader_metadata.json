@@ -1,0 +1,11 @@
+{
+  "name": "statement_reader",
+  "version": "0.1.1",
+  "summary": "A Python library designed to parse bank operations from PDF statements",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "statement_reader-0.1.1.tar.gz",
+  "download_time": "2025-07-24T07:54:02.136279",
+  "package_url": "https://pypi.org/project/statement_reader/"
+}

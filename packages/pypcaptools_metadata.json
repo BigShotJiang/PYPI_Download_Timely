@@ -1,0 +1,11 @@
+{
+  "name": "pypcaptools",
+  "version": "1.7",
+  "summary": "一个用于解析pcap文件的python库",
+  "author": "ZGC-BUPT-aimafan",
+  "license": null,
+  "home_page": "https://github.com/ZGC-BUPT-aimafan/pypcaptools.git",
+  "download_filename": "pypcaptools-1.7.tar.gz",
+  "download_time": "2025-07-24T07:54:00.077243",
+  "package_url": "https://pypi.org/project/pypcaptools/"
+}

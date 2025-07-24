@@ -1,0 +1,11 @@
+{
+  "name": "lsst-ctrl-bps-parsl",
+  "version": "29.2025.3000",
+  "summary": "Parsl-based plugin for lsst-ctrl-bps.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "lsst_ctrl_bps_parsl-29.2025.3000.tar.gz",
+  "download_time": "2025-07-24T07:53:46.890457",
+  "package_url": "https://pypi.org/project/lsst-ctrl-bps-parsl/"
+}
