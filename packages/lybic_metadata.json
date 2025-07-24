@@ -1,0 +1,11 @@
+{
+  "name": "lybic",
+  "version": "0.2.1",
+  "summary": "Lybic sdk for python",
+  "author": "Lybic Development Team",
+  "license": null,
+  "home_page": "https://github.com/lybic/lybic-sdk-python",
+  "download_filename": "lybic-0.2.1.tar.gz",
+  "download_time": "2025-07-24T03:24:43.704686",
+  "package_url": "https://pypi.org/project/lybic/"
+}

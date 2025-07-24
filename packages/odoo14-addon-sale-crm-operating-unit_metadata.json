@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-sale-crm-operating-unit",
+  "version": "14.0.1.0.1.dev7",
+  "summary": "Sale CRM Operating Unit",
+  "author": "ForgeFlow S.L., Serpent Consulting Services Pvt. Ltd.,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/operating-unit",
+  "download_filename": "odoo14_addon_sale_crm_operating_unit-14.0.1.0.1.dev7-py3-none-any.whl",
+  "download_time": "2025-07-24T03:24:17.608732",
+  "package_url": "https://pypi.org/project/odoo14-addon-sale-crm-operating-unit/"
+}

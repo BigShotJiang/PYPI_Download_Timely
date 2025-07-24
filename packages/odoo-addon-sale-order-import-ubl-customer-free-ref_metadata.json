@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-import-ubl-customer-free-ref",
+  "version": "18.0.1.0.0.3",
+  "summary": "Extract CustomerReference from sale UBL",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi",
+  "download_filename": "odoo_addon_sale_order_import_ubl_customer_free_ref-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-07-24T03:24:45.240399",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-import-ubl-customer-free-ref/"
+}

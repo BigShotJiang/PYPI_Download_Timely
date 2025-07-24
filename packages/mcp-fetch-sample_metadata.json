@@ -1,0 +1,11 @@
+{
+  "name": "mcp-fetch-sample",
+  "version": "0.6.5",
+  "summary": "A Model Context Protocol server providing tools to fetch and convert web content for usage by LLMs",
+  "author": "Anthropic, PBC.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_fetch_sample-0.6.5.tar.gz",
+  "download_time": "2025-07-24T03:24:31.711811",
+  "package_url": "https://pypi.org/project/mcp-fetch-sample/"
+}

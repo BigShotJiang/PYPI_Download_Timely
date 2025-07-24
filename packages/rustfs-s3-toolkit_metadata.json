@@ -1,0 +1,11 @@
+{
+  "name": "rustfs-s3-toolkit",
+  "version": "0.2.0",
+  "summary": "RustFS S3 Storage Toolkit - A simple and powerful toolkit for RustFS and other S3-compatible object storage operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustfs_s3_toolkit-0.2.0.tar.gz",
+  "download_time": "2025-07-24T03:24:46.281967",
+  "package_url": "https://pypi.org/project/rustfs-s3-toolkit/"
+}

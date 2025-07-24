@@ -1,0 +1,11 @@
+{
+  "name": "timm",
+  "version": "1.0.19",
+  "summary": "PyTorch Image Models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "timm-1.0.19.tar.gz",
+  "download_time": "2025-07-24T03:24:34.282787",
+  "package_url": "https://pypi.org/project/timm/"
+}

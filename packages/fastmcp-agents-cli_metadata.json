@@ -1,0 +1,11 @@
+{
+  "name": "fastmcp-agents-cli",
+  "version": "0.5.4",
+  "summary": "CLI for running FastMCP and calling tools on it",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastmcp_agents_cli-0.5.4.tar.gz",
+  "download_time": "2025-07-24T03:24:34.792674",
+  "package_url": "https://pypi.org/project/fastmcp-agents-cli/"
+}

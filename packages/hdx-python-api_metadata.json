@@ -1,0 +1,11 @@
+{
+  "name": "hdx-python-api",
+  "version": "6.4.6",
+  "summary": "HDX Python API for interacting with the Humanitarian Data Exchange",
+  "author": "Michael Rans",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdx_python_api-6.4.6.tar.gz",
+  "download_time": "2025-07-24T03:24:45.757729",
+  "package_url": "https://pypi.org/project/hdx-python-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-mis-builder-budget-operating-unit",
+  "version": "14.0.1.0.1.dev10",
+  "summary": "MIS Builder Budget with Operating Unit",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/operating-unit",
+  "download_filename": "odoo14_addon_mis_builder_budget_operating_unit-14.0.1.0.1.dev10-py3-none-any.whl",
+  "download_time": "2025-07-24T03:24:15.558121",
+  "package_url": "https://pypi.org/project/odoo14-addon-mis-builder-budget-operating-unit/"
+}

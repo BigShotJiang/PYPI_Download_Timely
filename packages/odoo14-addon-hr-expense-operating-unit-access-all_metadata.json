@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-hr-expense-operating-unit-access-all",
+  "version": "14.0.1.0.1.dev5",
+  "summary": "Access all OUs' Expenses",
+  "author": "Ecosoft,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/operating-unit",
+  "download_filename": "odoo14_addon_hr_expense_operating_unit_access_all-14.0.1.0.1.dev5-py3-none-any.whl",
+  "download_time": "2025-07-24T03:24:18.631785",
+  "package_url": "https://pypi.org/project/odoo14-addon-hr-expense-operating-unit-access-all/"
+}

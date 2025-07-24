@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-mail-template-operating-unit",
+  "version": "14.0.1.0.1.dev7",
+  "summary": "Mail Template Operating Unit",
+  "author": "Pavlov Media, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/operating-unit",
+  "download_filename": "odoo14_addon_mail_template_operating_unit-14.0.1.0.1.dev7-py3-none-any.whl",
+  "download_time": "2025-07-24T03:24:20.682333",
+  "package_url": "https://pypi.org/project/odoo14-addon-mail-template-operating-unit/"
+}

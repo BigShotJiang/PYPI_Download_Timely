@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-sale-customer-rank",
+  "version": "14.0.1.0.1.dev12",
+  "summary": "Update Customer Rank when creating a Sale Order",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo14_addon_sale_customer_rank-14.0.1.0.1.dev12-py3-none-any.whl",
+  "download_time": "2025-07-24T03:24:11.963200",
+  "package_url": "https://pypi.org/project/odoo14-addon-sale-customer-rank/"
+}

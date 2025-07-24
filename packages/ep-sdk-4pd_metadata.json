@@ -1,0 +1,11 @@
+{
+  "name": "ep-sdk-4pd",
+  "version": "6.0.4",
+  "summary": "4paradigm Electricity Platform Service SDK Library for Python",
+  "author": "4paradigm Electricity Platform SDK",
+  "license": null,
+  "home_page": "https://gitlab.4pd.io/electricityproject/electricity-platform-sdk",
+  "download_filename": "ep_sdk_4pd-6.0.4.tar.gz",
+  "download_time": "2025-07-24T03:24:38.464391",
+  "package_url": "https://pypi.org/project/ep-sdk-4pd/"
+}

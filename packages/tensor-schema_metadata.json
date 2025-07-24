@@ -1,0 +1,11 @@
+{
+  "name": "tensor-schema",
+  "version": "0.1.0",
+  "summary": "A lightweight shape validation system for multimodal tensors",
+  "author": "Benji Beck",
+  "license": null,
+  "home_page": "https://github.com/bbeckca/tensor-schema",
+  "download_filename": "tensor_schema-0.1.0.tar.gz",
+  "download_time": "2025-07-24T03:24:27.078834",
+  "package_url": "https://pypi.org/project/tensor-schema/"
+}

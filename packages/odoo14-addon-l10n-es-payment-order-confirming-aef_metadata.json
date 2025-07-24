@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-es-payment-order-confirming-aef",
+  "version": "14.0.1.0.7",
+  "summary": "Exportación de fichero bancario Confirming estándar AEF",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo14_addon_l10n_es_payment_order_confirming_aef-14.0.1.0.7-py3-none-any.whl",
+  "download_time": "2025-07-24T03:24:29.147114",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-es-payment-order-confirming-aef/"
+}

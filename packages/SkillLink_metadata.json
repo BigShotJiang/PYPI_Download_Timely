@@ -1,0 +1,11 @@
+{
+  "name": "SkillLink",
+  "version": "0.2.1",
+  "summary": "Modern manager for AI skills, tools, loading, execution, and automation.",
+  "author": "Tristan McBride Sr.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skilllink-0.2.1.tar.gz",
+  "download_time": "2025-07-24T03:24:32.736721",
+  "package_url": "https://pypi.org/project/SkillLink/"
+}

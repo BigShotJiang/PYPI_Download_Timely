@@ -1,0 +1,11 @@
+{
+  "name": "aoiro",
+  "version": "0.1.52",
+  "summary": "CSV-based 青色申告 CLI app",
+  "author": "34j",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "aoiro-0.1.52.tar.gz",
+  "download_time": "2025-07-24T03:24:36.908035",
+  "package_url": "https://pypi.org/project/aoiro/"
+}

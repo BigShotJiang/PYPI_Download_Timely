@@ -1,0 +1,11 @@
+{
+  "name": "simplejrpc",
+  "version": "2.2.8",
+  "summary": "simple jsonrpc",
+  "author": "Zack",
+  "license": "MIT",
+  "home_page": "https://github.com/GMSSH/app-sdk-py",
+  "download_filename": "simplejrpc-2.2.8.tar.gz",
+  "download_time": "2025-07-24T03:24:25.537977",
+  "package_url": "https://pypi.org/project/simplejrpc/"
+}

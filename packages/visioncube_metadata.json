@@ -1,0 +1,11 @@
+{
+  "name": "visioncube",
+  "version": "0.3.27",
+  "summary": "Image Processing Tool",
+  "author": "liying, luzzi, yanaenen, xi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "visioncube-0.3.27.tar.gz",
+  "download_time": "2025-07-24T03:24:25.026099",
+  "package_url": "https://pypi.org/project/visioncube/"
+}

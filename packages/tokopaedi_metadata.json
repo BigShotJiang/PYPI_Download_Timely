@@ -1,0 +1,11 @@
+{
+  "name": "tokopaedi",
+  "version": "0.2.2",
+  "summary": "A Python scraper for Tokopedia that supports filtered product search, detailed product information, and customer reviews with accurate mobile pricing and Jupyter Notebook compatibility.",
+  "author": "Hilmi Azizi",
+  "license": "MIT",
+  "home_page": "https://github.com/hilmiazizi/tokopaedi",
+  "download_filename": "tokopaedi-0.2.2.tar.gz",
+  "download_time": "2025-07-24T03:24:13.501270",
+  "package_url": "https://pypi.org/project/tokopaedi/"
+}
