@@ -1,11 +1,11 @@
 {
   "name": "evrima.py",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Python tools for The Isle: Evrima RCON and server operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "evrima_py-0.2.1.tar.gz",
-  "download_time": "2025-07-24T03:24:10.419662",
+  "download_filename": "evrima_py-0.3.0.tar.gz",
+  "download_time": "2025-07-24T11:20:45.590180",
   "package_url": "https://pypi.org/project/evrima.py/"
 }

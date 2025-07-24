@@ -1,11 +1,11 @@
 {
   "name": "structure-aram",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Un petit package Django qui cree des app ",
   "author": "ynaffit_aes",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "structure_aram-0.1.4.tar.gz",
-  "download_time": "2025-07-24T10:51:00.576212",
+  "download_filename": "structure_aram-0.1.5.tar.gz",
+  "download_time": "2025-07-24T11:20:48.659197",
   "package_url": "https://pypi.org/project/structure-aram/"
 }

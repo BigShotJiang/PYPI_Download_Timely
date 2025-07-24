@@ -1,0 +1,11 @@
+{
+  "name": "github-code-review",
+  "version": "3.2.0",
+  "summary": "AI code review tool that works with any language model provider. It detects issues in GitHub pull requests or local changes—instantly, reliably, and without vendor lock-in.",
+  "author": "Nayjest",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "github_code_review-3.2.0.tar.gz",
+  "download_time": "2025-07-24T11:20:57.901768",
+  "package_url": "https://pypi.org/project/github-code-review/"
+}

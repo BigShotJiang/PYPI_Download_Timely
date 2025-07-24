@@ -1,0 +1,11 @@
+{
+  "name": "antchain-insurance-saas",
+  "version": "1.9.4",
+  "summary": "Ant Chain INSURANCE_SAAS SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_insurance_saas-1.9.4.tar.gz",
+  "download_time": "2025-07-24T11:20:47.126025",
+  "package_url": "https://pypi.org/project/antchain-insurance-saas/"
+}

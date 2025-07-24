@@ -1,11 +1,11 @@
 {
   "name": "composio-anthropic",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Use Composio to get an array of tools with your Anthropic LLMs.",
   "author": "Composio",
   "license": null,
   "home_page": "https://github.com/ComposioHQ/composio",
-  "download_filename": "composio_anthropic-0.8.3.tar.gz",
-  "download_time": "2025-07-24T09:01:19.172692",
+  "download_filename": "composio_anthropic-0.8.4.tar.gz",
+  "download_time": "2025-07-24T11:20:41.992740",
   "package_url": "https://pypi.org/project/composio-anthropic/"
 }

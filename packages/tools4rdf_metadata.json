@@ -1,11 +1,11 @@
 {
   "name": "tools4rdf",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "python tool for working with ontologies and data models",
   "author": "Abril Azocar Guzman, Sarath Menon",
   "license": null,
   "home_page": "https://pyscal.org",
-  "download_filename": "tools4rdf-0.3.4.tar.gz",
-  "download_time": "2025-07-24T09:01:42.965636",
+  "download_filename": "tools4rdf-0.3.5.tar.gz",
+  "download_time": "2025-07-24T11:21:04.087096",
   "package_url": "https://pypi.org/project/tools4rdf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deepeye",
+  "version": "0.1.14",
+  "summary": "Utility tools for image enhancement.",
+  "author": "esunvoteb",
+  "license": "MIT",
+  "home_page": "https://github.com/ImagineersHub/deepeye",
+  "download_filename": "deepeye-0.1.14.tar.gz",
+  "download_time": "2025-07-24T11:21:06.139903",
+  "package_url": "https://pypi.org/project/deepeye/"
+}

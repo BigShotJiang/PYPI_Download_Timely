@@ -1,0 +1,11 @@
+{
+  "name": "flamapy-mcp",
+  "version": "0.1.1",
+  "summary": "Flamapy MCP server to expose MCP tools to execute flamapy operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flamapy_mcp-0.1.1.tar.gz",
+  "download_time": "2025-07-24T11:20:59.949415",
+  "package_url": "https://pypi.org/project/flamapy-mcp/"
+}

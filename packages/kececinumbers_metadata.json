@@ -1,11 +1,11 @@
 {
   "name": "kececinumbers",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "Keçeci Numbers: An Exploration of a Dynamic Sequence Across Diverse Number Sets",
   "author": "Mehmet Keçeci",
   "license": "MIT",
   "home_page": "https://github.com/WhiteSymmetry/kececinumbers",
-  "download_filename": "kececinumbers-0.2.3.tar.gz",
-  "download_time": "2025-07-24T10:51:06.741888",
+  "download_filename": "kececinumbers-0.3.0.tar.gz",
+  "download_time": "2025-07-24T11:20:26.050174",
   "package_url": "https://pypi.org/project/kececinumbers/"
 }

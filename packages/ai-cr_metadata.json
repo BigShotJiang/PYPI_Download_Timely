@@ -1,0 +1,11 @@
+{
+  "name": "ai-cr",
+  "version": "3.2.0",
+  "summary": "AI code review tool that works with any language model provider. It detects issues in GitHub pull requests or local changes—instantly, reliably, and without vendor lock-in.",
+  "author": "Nayjest",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_cr-3.2.0.tar.gz",
+  "download_time": "2025-07-24T11:20:58.927931",
+  "package_url": "https://pypi.org/project/ai-cr/"
+}

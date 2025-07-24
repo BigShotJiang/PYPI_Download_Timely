@@ -1,0 +1,11 @@
+{
+  "name": "latinum-wallet-mcp",
+  "version": "0.0.22",
+  "summary": "Latinum Wallet MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "latinum_wallet_mcp-0.0.22.tar.gz",
+  "download_time": "2025-07-24T11:20:50.195144",
+  "package_url": "https://pypi.org/project/latinum-wallet-mcp/"
+}

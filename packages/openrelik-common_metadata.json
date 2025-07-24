@@ -1,0 +1,11 @@
+{
+  "name": "openrelik-common",
+  "version": "0.2.0",
+  "summary": "Common utilities for OpenRelik",
+  "author": "hacktobeer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openrelik_common-0.2.0.tar.gz",
+  "download_time": "2025-07-24T11:20:36.862857",
+  "package_url": "https://pypi.org/project/openrelik-common/"
+}

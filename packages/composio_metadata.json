@@ -1,11 +1,11 @@
 {
   "name": "composio",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "SDK for integrating Composio with your applications.",
   "author": "Composio",
   "license": null,
   "home_page": "https://github.com/composiohq/composio",
-  "download_filename": "composio-0.8.3.tar.gz",
-  "download_time": "2025-07-24T09:01:19.700244",
+  "download_filename": "composio-0.8.4.tar.gz",
+  "download_time": "2025-07-24T11:20:42.505817",
   "package_url": "https://pypi.org/project/composio/"
 }

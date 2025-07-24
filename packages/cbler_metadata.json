@@ -1,0 +1,11 @@
+{
+  "name": "cbler",
+  "version": "1.1.1",
+  "summary": "Extensible code concatenator and clipboard tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cbler-1.1.1.tar.gz",
+  "download_time": "2025-07-24T11:21:03.576219",
+  "package_url": "https://pypi.org/project/cbler/"
+}

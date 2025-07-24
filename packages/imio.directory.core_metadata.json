@@ -1,11 +1,11 @@
 {
   "name": "imio.directory.core",
-  "version": "1.2.21",
+  "version": "1.2.22",
   "summary": "Core product for iMio contacts Directory websites",
   "author": "Christophe Boulanger",
   "license": "GPL version 2",
   "home_page": "https://github.com/imio/imio.directory.core",
-  "download_filename": "imio_directory_core-1.2.21.tar.gz",
-  "download_time": "2025-07-24T09:56:02.429107",
+  "download_filename": "imio_directory_core-1.2.22.tar.gz",
+  "download_time": "2025-07-24T11:20:54.310483",
   "package_url": "https://pypi.org/project/imio.directory.core/"
 }

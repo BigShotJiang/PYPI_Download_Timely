@@ -1,0 +1,11 @@
+{
+  "name": "pyem-st-artifacts",
+  "version": "1.0.7",
+  "summary": "Python wrapper for Emotions library",
+  "author": "Brainbit Inc.",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/neurosdk2/neurosamples/-/tree/main/python",
+  "download_filename": "pyem_st_artifacts-1.0.7.tar.gz",
+  "download_time": "2025-07-24T11:20:32.212215",
+  "package_url": "https://pypi.org/project/pyem-st-artifacts/"
+}

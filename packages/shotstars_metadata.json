@@ -1,0 +1,11 @@
+{
+  "name": "shotstars",
+  "version": "4.5a1",
+  "summary": "A tool to track waning stars and detecting fake stars on Github",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shotstars-4.5a1.tar.gz",
+  "download_time": "2025-07-24T11:20:53.798827",
+  "package_url": "https://pypi.org/project/shotstars/"
+}

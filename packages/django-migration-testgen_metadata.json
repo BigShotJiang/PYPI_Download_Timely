@@ -1,0 +1,11 @@
+{
+  "name": "django-migration-testgen",
+  "version": "0.1.0",
+  "summary": "Auto-generate test files for Django migration files",
+  "author": "Vijayasankar Murugan",
+  "license": null,
+  "home_page": "https://github.com/yourusername/django-migration-testgen",
+  "download_filename": "django_migration_testgen-0.1.0.tar.gz",
+  "download_time": "2025-07-24T11:21:05.114905",
+  "package_url": "https://pypi.org/project/django-migration-testgen/"
+}
