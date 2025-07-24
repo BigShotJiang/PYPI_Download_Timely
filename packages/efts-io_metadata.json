@@ -1,0 +1,11 @@
+{
+  "name": "efts-io",
+  "version": "0.4.0",
+  "summary": "Ensemble forecast time series",
+  "author": null,
+  "license": "BSD-3-Clause-Clear",
+  "home_page": null,
+  "download_filename": "efts_io-0.4.0.tar.gz",
+  "download_time": "2025-07-24T01:05:51.871761",
+  "package_url": "https://pypi.org/project/efts-io/"
+}

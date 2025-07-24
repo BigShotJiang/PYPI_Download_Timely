@@ -1,11 +1,11 @@
 {
   "name": "episol",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "summary": "Python interface for EPISOL 3DRISM calculations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "episol-0.0.5.tar.gz",
-  "download_time": "2025-07-23T16:17:16.806368",
+  "download_filename": "episol-0.0.8.tar.gz",
+  "download_time": "2025-07-24T01:05:49.812230",
   "package_url": "https://pypi.org/project/episol/"
 }

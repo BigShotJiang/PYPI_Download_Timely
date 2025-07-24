@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-google",
+  "version": "1.2.1",
+  "summary": "Agent Framework plugin for services from Google Cloud",
+  "author": "LiveKit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_google-1.2.1.tar.gz",
+  "download_time": "2025-07-24T01:05:53.990057",
+  "package_url": "https://pypi.org/project/livekit-plugins-google/"
+}

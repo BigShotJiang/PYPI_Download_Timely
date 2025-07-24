@@ -1,0 +1,11 @@
+{
+  "name": "drf-notifications",
+  "version": "1.0.0",
+  "summary": "GitHub notifications alike app for Django.",
+  "author": "django-notifications team",
+  "license": "BSD",
+  "home_page": "https://github.com/soomroaaqib/drf-notifications.git",
+  "download_filename": "drf_notifications-1.0.0.tar.gz",
+  "download_time": "2025-07-24T01:05:28.970077",
+  "package_url": "https://pypi.org/project/drf-notifications/"
+}

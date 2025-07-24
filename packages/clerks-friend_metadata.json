@@ -1,0 +1,11 @@
+{
+  "name": "clerks-friend",
+  "version": "1.1.2",
+  "summary": "Useful reports for Ward Clerk's of The Church of Jesus Christ of Latter-Day Saints",
+  "author": "Isaac Wagner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clerks_friend-1.1.2.tar.gz",
+  "download_time": "2025-07-24T01:05:43.984203",
+  "package_url": "https://pypi.org/project/clerks-friend/"
+}

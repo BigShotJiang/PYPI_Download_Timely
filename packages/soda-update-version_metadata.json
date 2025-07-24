@@ -1,0 +1,11 @@
+{
+  "name": "soda-update-version",
+  "version": "2025.7.24.0",
+  "summary": "update version using datetime format for python projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "soda_update_version-2025.7.24.0.tar.gz",
+  "download_time": "2025-07-24T01:05:45.012341",
+  "package_url": "https://pypi.org/project/soda-update-version/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dataspot",
+  "version": "0.4.5",
+  "summary": "Find data concentration patterns and dataspots. Built for fraud detection and risk analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataspot-0.4.5.tar.gz",
+  "download_time": "2025-07-24T01:05:38.292629",
+  "package_url": "https://pypi.org/project/dataspot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unionai",
+  "version": "0.1.189",
+  "summary": "Adds Union specific functionality to Flytekit",
+  "author": null,
+  "license": "Source code in this repository is licensed under the Business Source\n        License 1.1 (BSL) and the Apache License 2.0 (APL). A copy of each\n        license can be found in the licenses directory. Source code in a\n        given file is licensed under the BSL and the copyright belongs to\n        Union Systems, Inc. unless otherwise noted at the beginning of the\n        file.\n        ",
+  "home_page": null,
+  "download_filename": "unionai-0.1.189.tar.gz",
+  "download_time": "2025-07-24T01:05:33.616709",
+  "package_url": "https://pypi.org/project/unionai/"
+}

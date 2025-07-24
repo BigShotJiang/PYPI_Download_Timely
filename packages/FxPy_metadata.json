@@ -1,0 +1,11 @@
+{
+  "name": "FxPy",
+  "version": "1.2.3",
+  "summary": "ForexPy: A currency conversion tool that also scraps the web and gives the Forex Exchange rates from major services.",
+  "author": "Navraj Singh Kalsi",
+  "license": null,
+  "home_page": "https://www.github.com/navrajkalsi/forexpy",
+  "download_filename": "fxpy-1.2.3.tar.gz",
+  "download_time": "2025-07-24T01:05:56.558117",
+  "package_url": "https://pypi.org/project/FxPy/"
+}

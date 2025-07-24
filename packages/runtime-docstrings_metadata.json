@@ -1,0 +1,11 @@
+{
+  "name": "runtime-docstrings",
+  "version": "0.1.1",
+  "summary": "Runtime access to Python class attribute docstrings (PEP 224)",
+  "author": "gesslerpd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "runtime_docstrings-0.1.1.tar.gz",
+  "download_time": "2025-07-24T01:05:57.583817",
+  "package_url": "https://pypi.org/project/runtime-docstrings/"
+}

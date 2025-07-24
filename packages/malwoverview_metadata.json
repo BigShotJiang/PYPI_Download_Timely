@@ -1,0 +1,11 @@
+{
+  "name": "malwoverview",
+  "version": "6.2",
+  "summary": "Malwoverview is a first response tool for threat hunting.",
+  "author": "Alexandre Borges",
+  "license": "GNU GPL v3.0",
+  "home_page": "https://github.com/alexandreborges/malwoverview",
+  "download_filename": "malwoverview-6.2.tar.gz",
+  "download_time": "2025-07-24T01:06:01.195759",
+  "package_url": "https://pypi.org/project/malwoverview/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rumoderatorai",
+  "version": "1.6.2",
+  "summary": "Библиотека для использования Omni Antispam API (https://moderator.omni-devel.ru)",
+  "author": "PyWebSol",
+  "license": null,
+  "home_page": "https://moderator.omni-devel.ru",
+  "download_filename": "rumoderatorai-1.6.2.tar.gz",
+  "download_time": "2025-07-24T01:05:33.101906",
+  "package_url": "https://pypi.org/project/rumoderatorai/"
+}

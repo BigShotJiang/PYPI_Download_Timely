@@ -1,11 +1,11 @@
 {
   "name": "json2rdf",
-  "version": "73",
+  "version": "76",
   "summary": "Translate JSON to RDF",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "json2rdf-73.tar.gz",
-  "download_time": "2025-07-23T23:14:07.643452",
+  "download_filename": "json2rdf-76.tar.gz",
+  "download_time": "2025-07-24T01:05:54.503900",
   "package_url": "https://pypi.org/project/json2rdf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lcr-session",
+  "version": "1.2.0",
+  "summary": "Session authentication to the Church of Jesus Christ of Latter Day Saints LCR System",
+  "author": "Isaac Wagner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lcr_session-1.2.0.tar.gz",
+  "download_time": "2025-07-24T01:05:50.327073",
+  "package_url": "https://pypi.org/project/lcr-session/"
+}

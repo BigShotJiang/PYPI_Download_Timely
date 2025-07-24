@@ -1,0 +1,11 @@
+{
+  "name": "igvf-async-client",
+  "version": "88.0.0",
+  "summary": "IGVF Project API",
+  "author": "IGVF DACC",
+  "license": null,
+  "home_page": "https://github.com/iGVF-DACC/igvf-async-python-client",
+  "download_filename": "igvf_async_client-88.0.0.tar.gz",
+  "download_time": "2025-07-24T01:05:58.613826",
+  "package_url": "https://pypi.org/project/igvf-async-client/"
+}
