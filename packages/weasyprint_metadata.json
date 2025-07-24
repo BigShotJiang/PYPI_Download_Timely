@@ -1,0 +1,11 @@
+{
+  "name": "weasyprint",
+  "version": "66.0",
+  "summary": "The Awesome Document Factory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weasyprint-66.0.tar.gz",
+  "download_time": "2025-07-24T11:53:55.220747",
+  "package_url": "https://pypi.org/project/weasyprint/"
+}

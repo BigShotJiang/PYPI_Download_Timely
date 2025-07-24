@@ -1,0 +1,11 @@
+{
+  "name": "git-fame",
+  "version": "3.1.1",
+  "summary": "Pretty-print `git` repository collaborators sorted by contributions",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "git_fame-3.1.1.tar.gz",
+  "download_time": "2025-07-24T11:54:03.641963",
+  "package_url": "https://pypi.org/project/git-fame/"
+}

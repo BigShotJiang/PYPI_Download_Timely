@@ -1,0 +1,11 @@
+{
+  "name": "model-sentinel",
+  "version": "0.1.0",
+  "summary": "A security verification tool for AI model scripts - Detects and verifies changes in Python files of AI models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "model_sentinel-0.1.0.tar.gz",
+  "download_time": "2025-07-24T11:54:01.465366",
+  "package_url": "https://pypi.org/project/model-sentinel/"
+}

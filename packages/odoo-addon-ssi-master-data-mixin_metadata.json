@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-ssi-master-data-mixin",
+  "version": "18.0.1.1.0",
+  "summary": "Master Data Mixin",
+  "author": "PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/open-synergy/ssi-mixin",
+  "download_filename": "odoo_addon_ssi_master_data_mixin-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-07-24T11:54:16.517516",
+  "package_url": "https://pypi.org/project/odoo-addon-ssi-master-data-mixin/"
+}

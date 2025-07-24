@@ -1,11 +1,11 @@
 {
   "name": "ribomala",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Ribomala is a python package to efficiently analyze ribosome profiling data.",
   "author": "Puneet Sharma",
   "license": null,
   "home_page": null,
-  "download_filename": "ribomala-0.5.1.tar.gz",
-  "download_time": "2025-07-23T18:19:32.147340",
+  "download_filename": "ribomala-0.5.2.tar.gz",
+  "download_time": "2025-07-24T11:53:48.294922",
   "package_url": "https://pypi.org/project/ribomala/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "huaweicloud-sdk-python-dis",
+  "version": "2.0.6",
+  "summary": "Huawei Cloud DIS SDK for Python",
+  "author": "cloud-dis-sdk",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-dis",
+  "download_filename": "huaweicloud-sdk-python-dis-2.0.6.tar.gz",
+  "download_time": "2025-07-24T11:54:10.189319",
+  "package_url": "https://pypi.org/project/huaweicloud-sdk-python-dis/"
+}

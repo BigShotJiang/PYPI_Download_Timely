@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-crepe",
+  "version": "0.1.1",
+  "summary": "Milkdown Crepe editor component for Streamlit",
+  "author": "Alex Cherkasov",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/streamlit-crepe",
+  "download_filename": "streamlit_crepe-0.1.1-py3-none-any.whl",
+  "download_time": "2025-07-24T11:53:39.761802",
+  "package_url": "https://pypi.org/project/streamlit-crepe/"
+}

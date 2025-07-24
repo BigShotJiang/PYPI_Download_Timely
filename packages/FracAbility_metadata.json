@@ -1,0 +1,11 @@
+{
+  "name": "FracAbility",
+  "version": "1.5.4",
+  "summary": "Analyse fracture networks for digitalized rock outcrops. ",
+  "author": null,
+  "license": "AGPL-3.0 license ",
+  "home_page": null,
+  "download_filename": "fracability-1.5.4.tar.gz",
+  "download_time": "2025-07-24T11:53:40.440367",
+  "package_url": "https://pypi.org/project/FracAbility/"
+}

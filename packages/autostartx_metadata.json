@@ -1,0 +1,11 @@
+{
+  "name": "autostartx",
+  "version": "0.1.0",
+  "summary": "Transform any command-line program into an auto-restarting background service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autostartx-0.1.0.tar.gz",
+  "download_time": "2025-07-24T11:53:43.777626",
+  "package_url": "https://pypi.org/project/autostartx/"
+}

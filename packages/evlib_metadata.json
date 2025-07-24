@@ -1,0 +1,11 @@
+{
+  "name": "evlib",
+  "version": "0.2.44",
+  "summary": "Python bindings for event camera utilities",
+  "author": "Tarek Allam <t.allam.jr@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/tallamjr/evlib",
+  "download_filename": "evlib-0.2.44-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-24T11:53:52.531854",
+  "package_url": "https://pypi.org/project/evlib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LbNightlyTools",
+  "version": "4.0.19",
+  "summary": "LHCb Nightly tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lbnightlytools-4.0.19.tar.gz",
+  "download_time": "2025-07-24T11:53:42.133040",
+  "package_url": "https://pypi.org/project/LbNightlyTools/"
+}
