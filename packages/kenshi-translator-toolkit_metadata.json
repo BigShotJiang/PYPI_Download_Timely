@@ -1,0 +1,11 @@
+{
+  "name": "kenshi-translator-toolkit",
+  "version": "0.2.1",
+  "summary": "Ferramenta para extração e reinserção de textos em arquivos .mod do Kenshi (Beta)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kenshi_translator_toolkit-0.2.1.tar.gz",
+  "download_time": "2025-07-24T05:20:05.208070",
+  "package_url": "https://pypi.org/project/kenshi-translator-toolkit/"
+}

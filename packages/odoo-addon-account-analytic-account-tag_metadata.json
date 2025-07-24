@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-analytic-account-tag",
+  "version": "17.0.1.0.0.2",
+  "summary": "Restore the tag_ids in account.analytic.account",
+  "author": "ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_account_analytic_account_tag-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-24T05:19:35.777423",
+  "package_url": "https://pypi.org/project/odoo-addon-account-analytic-account-tag/"
+}

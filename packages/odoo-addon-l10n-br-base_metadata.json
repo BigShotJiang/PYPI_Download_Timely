@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-base",
+  "version": "16.0.4.0.0",
+  "summary": "Customization of base module for implementations in Brazil.",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_base-16.0.4.0.0-py3-none-any.whl",
+  "download_time": "2025-07-24T05:20:12.891389",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-base/"
+}

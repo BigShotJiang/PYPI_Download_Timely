@@ -1,0 +1,11 @@
+{
+  "name": "mavsdk",
+  "version": "3.8.0",
+  "summary": "Python wrapper for MAVSDK",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/mavlink/MAVSDK-Python",
+  "download_filename": "mavsdk-3.8.0-py3-none-win32.whl",
+  "download_time": "2025-07-24T05:19:42.020257",
+  "package_url": "https://pypi.org/project/mavsdk/"
+}

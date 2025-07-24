@@ -1,0 +1,11 @@
+{
+  "name": "boulder-opal-scale-up",
+  "version": "1.0.2",
+  "summary": "Q-CTRL Boulder Opal Scale Up Python Client",
+  "author": "Q-CTRL",
+  "license": "https://q-ctrl.com/terms",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "boulder_opal_scale_up-1.0.2.tar.gz",
+  "download_time": "2025-07-24T05:20:06.230698",
+  "package_url": "https://pypi.org/project/boulder-opal-scale-up/"
+}

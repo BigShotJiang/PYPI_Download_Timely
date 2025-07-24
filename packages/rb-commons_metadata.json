@@ -1,0 +1,11 @@
+{
+  "name": "rb-commons",
+  "version": "0.7.8",
+  "summary": "Commons of project and simplified orm based on sqlalchemy.",
+  "author": "Abdulvoris",
+  "license": null,
+  "home_page": "https://github.com/RoboSell-organization/rb-commons",
+  "download_filename": "rb_commons-0.7.8.tar.gz",
+  "download_time": "2025-07-24T05:20:04.185686",
+  "package_url": "https://pypi.org/project/rb-commons/"
+}

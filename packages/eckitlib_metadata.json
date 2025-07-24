@@ -1,11 +1,11 @@
 {
   "name": "eckitlib",
-  "version": "1.31.2",
+  "version": "1.31.3",
   "summary": "\"eckitlib\"",
   "author": "file: AUTHORS",
   "license": null,
   "home_page": null,
-  "download_filename": "eckitlib-1.31.2-cp310-cp310-macosx_13_0_arm64.whl",
-  "download_time": "2025-07-23T23:14:11.606716",
+  "download_filename": "eckitlib-1.31.3-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-07-24T05:19:35.265844",
   "package_url": "https://pypi.org/project/eckitlib/"
 }

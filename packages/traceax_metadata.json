@@ -1,0 +1,11 @@
+{
+  "name": "traceax",
+  "version": "1.0.2",
+  "summary": "Stochastic trace estimation in JAX, Lineax, and Equinox",
+  "author": null,
+  "license": "Apache2.0",
+  "home_page": null,
+  "download_filename": "traceax-1.0.2.tar.gz",
+  "download_time": "2025-07-24T05:20:07.769042",
+  "package_url": "https://pypi.org/project/traceax/"
+}

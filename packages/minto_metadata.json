@@ -1,0 +1,11 @@
+{
+  "name": "minto",
+  "version": "1.2.0",
+  "summary": "Experiment management and benchmark tools for mathematical optimization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minto-1.2.0.tar.gz",
+  "download_time": "2025-07-24T05:19:51.840798",
+  "package_url": "https://pypi.org/project/minto/"
+}

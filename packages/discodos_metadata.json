@@ -1,0 +1,11 @@
+{
+  "name": "discodos",
+  "version": "3.2.1",
+  "summary": "DJ and record collector's toolbox for Discogs",
+  "author": "J0J0 Todos",
+  "license": "GPLv3+",
+  "home_page": "https://discodos.jojotodos.net",
+  "download_filename": "discodos-3.2.1.tar.gz",
+  "download_time": "2025-07-24T05:19:47.196944",
+  "package_url": "https://pypi.org/project/discodos/"
+}

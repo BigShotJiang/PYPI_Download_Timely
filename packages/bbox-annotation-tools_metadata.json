@@ -1,0 +1,11 @@
+{
+  "name": "bbox-annotation-tools",
+  "version": "1.0.0",
+  "summary": "바운딩 박스 어노테이션 편집 및 분석 도구",
+  "author": "LEEYH205",
+  "license": "MIT",
+  "home_page": "https://github.com/LEEYH205/bbox-annotation-tools",
+  "download_filename": "bbox_annotation_tools-1.0.0.tar.gz",
+  "download_time": "2025-07-24T05:19:36.804456",
+  "package_url": "https://pypi.org/project/bbox-annotation-tools/"
+}

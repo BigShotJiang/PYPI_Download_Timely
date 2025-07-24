@@ -1,0 +1,11 @@
+{
+  "name": "polsartools",
+  "version": "0.8",
+  "summary": "A python package for processing Polarimetric Synthetic Aperture Radar (PolSAR) data.",
+  "author": "Narayanarao Bhogapurapu",
+  "license": null,
+  "home_page": "https://github.com/Narayana-Rao/polsartools",
+  "download_filename": "polsartools-0.8.tar.gz",
+  "download_time": "2025-07-24T05:20:01.628309",
+  "package_url": "https://pypi.org/project/polsartools/"
+}

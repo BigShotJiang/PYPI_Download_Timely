@@ -1,0 +1,11 @@
+{
+  "name": "gcodegen-ru",
+  "version": "0.1.0",
+  "summary": "Генератор G-кода (плоскость, круглый/квадратный карманы) + валидатор, RU i18n",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gcodegen_ru-0.1.0.tar.gz",
+  "download_time": "2025-07-24T05:19:36.288540",
+  "package_url": "https://pypi.org/project/gcodegen-ru/"
+}

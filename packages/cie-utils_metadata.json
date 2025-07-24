@@ -1,0 +1,11 @@
+{
+  "name": "cie-utils",
+  "version": "0.1.4",
+  "summary": "Image processing based on CIELAB color space.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cie_utils-0.1.4.tar.gz",
+  "download_time": "2025-07-24T05:20:00.565134",
+  "package_url": "https://pypi.org/project/cie-utils/"
+}

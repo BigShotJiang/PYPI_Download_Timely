@@ -1,0 +1,11 @@
+{
+  "name": "composio-google-adk",
+  "version": "0.8.2",
+  "summary": "Use Composio to get an array of tools with your Google AI Python Gemini model.",
+  "author": "Composio",
+  "license": null,
+  "home_page": "https://github.com/ComposioHQ/composio",
+  "download_filename": "composio_google_adk-0.8.2.tar.gz",
+  "download_time": "2025-07-24T05:19:54.913998",
+  "package_url": "https://pypi.org/project/composio-google-adk/"
+}
