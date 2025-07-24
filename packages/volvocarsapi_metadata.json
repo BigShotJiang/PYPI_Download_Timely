@@ -1,0 +1,11 @@
+{
+  "name": "volvocarsapi",
+  "version": "0.4.1",
+  "summary": "Python client for the Volvo Cars API.",
+  "author": "thomasddn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "volvocarsapi-0.4.1.tar.gz",
+  "download_time": "2025-07-24T12:50:13.064070",
+  "package_url": "https://pypi.org/project/volvocarsapi/"
+}

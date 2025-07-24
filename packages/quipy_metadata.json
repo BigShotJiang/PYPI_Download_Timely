@@ -1,0 +1,11 @@
+{
+  "name": "quipy",
+  "version": "0.1.0",
+  "summary": "一些常用工具",
+  "author": "MrYuGoui",
+  "license": "MIT",
+  "home_page": "https://github.com/mryugoui/quipy",
+  "download_filename": "quipy-0.1.0.tar.gz",
+  "download_time": "2025-07-24T12:50:09.413712",
+  "package_url": "https://pypi.org/project/quipy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "namedtuple-table",
+  "version": "0.1.0.post2",
+  "summary": "Simple indexable tables using NamedTuple",
+  "author": "Adam Jackson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "namedtuple_table-0.1.0.post2.tar.gz",
+  "download_time": "2025-07-24T12:50:21.426963",
+  "package_url": "https://pypi.org/project/namedtuple-table/"
+}

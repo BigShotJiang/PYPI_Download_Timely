@@ -1,0 +1,11 @@
+{
+  "name": "easy-mongodb-auth-handler",
+  "version": "3.0.0",
+  "summary": "A user authentication and verification system using MongoDB.",
+  "author": "Lukbrew25",
+  "license": "MIT",
+  "home_page": "https://github.com/lukbrew25/easy-mongodb-auth-handler/",
+  "download_filename": "easy_mongodb_auth_handler-3.0.0.tar.gz",
+  "download_time": "2025-07-24T12:50:03.168987",
+  "package_url": "https://pypi.org/project/easy-mongodb-auth-handler/"
+}

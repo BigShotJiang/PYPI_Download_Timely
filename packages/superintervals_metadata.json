@@ -1,0 +1,11 @@
+{
+  "name": "superintervals",
+  "version": "0.3.4",
+  "summary": "Rapid interval intersections",
+  "author": "Kez Cleal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "superintervals-0.3.4.tar.gz",
+  "download_time": "2025-07-24T12:50:20.905800",
+  "package_url": "https://pypi.org/project/superintervals/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-libtoc",
+  "version": "1.4.3",
+  "summary": "Docs and TOC generator for Robot Framework resources and libs",
+  "author": "Andre Mochinin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/amochin/robotframework-libtoc",
+  "download_filename": "robotframework_libtoc-1.4.3.tar.gz",
+  "download_time": "2025-07-24T12:50:08.894586",
+  "package_url": "https://pypi.org/project/robotframework-libtoc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "algokit-client-generator",
+  "version": "2.2.0",
+  "summary": "Algorand typed client Generator",
+  "author": "Algorand Foundation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "algokit_client_generator-2.2.0-py3-none-any.whl",
+  "download_time": "2025-07-24T12:50:04.726280",
+  "package_url": "https://pypi.org/project/algokit-client-generator/"
+}

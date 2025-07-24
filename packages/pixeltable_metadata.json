@@ -1,0 +1,11 @@
+{
+  "name": "pixeltable",
+  "version": "0.4.5",
+  "summary": "AI Data Infrastructure: Declarative, Multimodal, and Incremental",
+  "author": "Pixeltable, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://pixeltable.com/",
+  "download_filename": "pixeltable-0.4.5.tar.gz",
+  "download_time": "2025-07-24T12:50:15.148055",
+  "package_url": "https://pypi.org/project/pixeltable/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyosoenergyapi",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A Python library to interface with the OSO Energy API",
   "author": "OSO Energy",
   "license": null,
   "home_page": "https://github.com/osohotwateriot/apyosohotwaterapi",
-  "download_filename": "pyosoenergyapi-1.2.0.tar.gz",
-  "download_time": "2025-07-24T11:20:28.615660",
+  "download_filename": "pyosoenergyapi-1.2.1.tar.gz",
+  "download_time": "2025-07-24T12:50:24.027618",
   "package_url": "https://pypi.org/project/pyosoenergyapi/"
 }

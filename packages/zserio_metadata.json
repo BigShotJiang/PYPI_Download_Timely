@@ -1,0 +1,11 @@
+{
+  "name": "zserio",
+  "version": "2.17.0",
+  "summary": "Zserio runtime with compiler.",
+  "author": "Navigation Data Standard e.V.",
+  "license": "BSD-3 Clause",
+  "home_page": "https://github.com/ndsev/zserio-pypi",
+  "download_filename": "zserio-2.17.0.tar.gz",
+  "download_time": "2025-07-24T12:50:19.315953",
+  "package_url": "https://pypi.org/project/zserio/"
+}

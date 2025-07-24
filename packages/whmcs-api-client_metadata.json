@@ -1,0 +1,11 @@
+{
+  "name": "whmcs-api-client",
+  "version": "1.0.13",
+  "summary": "WHMCS API",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": "https://github.com/truehostcloud/whmcs-python-client",
+  "download_filename": "whmcs_api_client-1.0.13.tar.gz",
+  "download_time": "2025-07-24T12:50:06.809859",
+  "package_url": "https://pypi.org/project/whmcs-api-client/"
+}

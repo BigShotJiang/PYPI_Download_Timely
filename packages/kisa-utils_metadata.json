@@ -1,0 +1,11 @@
+{
+  "name": "kisa-utils",
+  "version": "0.37.8",
+  "summary": "Utility functions and modules for KISA Developers",
+  "author": "Tom Bukenya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kisa_utils-0.37.8-py3-none-any.whl",
+  "download_time": "2025-07-24T12:50:02.131000",
+  "package_url": "https://pypi.org/project/kisa-utils/"
+}

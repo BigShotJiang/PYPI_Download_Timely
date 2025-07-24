@@ -1,0 +1,11 @@
+{
+  "name": "paas-charm",
+  "version": "1.8.0",
+  "summary": "Companion library for 12-factor app support in Charmcraft & Rockcraft.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paas_charm-1.8.0.tar.gz",
+  "download_time": "2025-07-24T12:50:12.023561",
+  "package_url": "https://pypi.org/project/paas-charm/"
+}

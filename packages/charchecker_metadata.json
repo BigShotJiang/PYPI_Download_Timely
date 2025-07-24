@@ -1,0 +1,11 @@
+{
+  "name": "charchecker",
+  "version": "0.1.1",
+  "summary": "A simple character checker package",
+  "author": "David GBONGUÉ",
+  "license": null,
+  "home_page": "https://github.com/ton_repo/charchecker",
+  "download_filename": "charchecker-0.1.1.tar.gz",
+  "download_time": "2025-07-24T12:50:46.319203",
+  "package_url": "https://pypi.org/project/charchecker/"
+}

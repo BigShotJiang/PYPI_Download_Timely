@@ -1,0 +1,11 @@
+{
+  "name": "vwo-fme-python-sdk",
+  "version": "1.10.1",
+  "summary": "VWO Feature Management and Experimentation SDK for Python",
+  "author": "VWO",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wingify/vwo-fme-python-sdk",
+  "download_filename": "vwo-fme-python-sdk-1.10.1.tar.gz",
+  "download_time": "2025-07-24T12:50:40.964079",
+  "package_url": "https://pypi.org/project/vwo-fme-python-sdk/"
+}

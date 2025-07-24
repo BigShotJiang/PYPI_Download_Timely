@@ -1,11 +1,11 @@
 {
   "name": "mfd-testing",
-  "version": "6.5.9",
+  "version": "6.5.15",
   "summary": "Module for a code quality related scripts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mfd_testing-6.5.9-py3-none-any.whl",
-  "download_time": "2025-07-24T11:53:54.187672",
+  "download_filename": "mfd_testing-6.5.15-py3-none-any.whl",
+  "download_time": "2025-07-24T12:50:18.796744",
   "package_url": "https://pypi.org/project/mfd-testing/"
 }

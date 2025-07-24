@@ -1,0 +1,11 @@
+{
+  "name": "tpcp",
+  "version": "2.1.0",
+  "summary": "Pipeline and Dataset helpers for complex algorithm evaluation.",
+  "author": "Arne Küderle",
+  "license": null,
+  "home_page": "https://github.com/mad-lab-fau/tpcp",
+  "download_filename": "tpcp-2.1.0.tar.gz",
+  "download_time": "2025-07-24T12:50:22.985752",
+  "package_url": "https://pypi.org/project/tpcp/"
+}

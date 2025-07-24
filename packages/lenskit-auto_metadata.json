@@ -1,0 +1,11 @@
+{
+  "name": "lenskit-auto",
+  "version": "0.2.0",
+  "summary": "LensKit-Auto is built as a wrapper around the Python LensKit recommender-system library. It automates algorithm selection and hyper parameter optimization and can build ensemble models based on the LensKit models.",
+  "author": "Tobias Vente",
+  "license": null,
+  "home_page": "https://github.com/ISG-Siegen/lenskit-auto",
+  "download_filename": "lenskit_auto-0.2.0.tar.gz",
+  "download_time": "2025-07-24T12:50:27.179664",
+  "package_url": "https://pypi.org/project/lenskit-auto/"
+}

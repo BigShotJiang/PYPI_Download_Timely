@@ -1,0 +1,11 @@
+{
+  "name": "hget-audio",
+  "version": "2025.7.24a0",
+  "summary": "Comprehensive audio scraping tool for websites.",
+  "author": "huang yi yi",
+  "license": "MIT",
+  "home_page": "https://github.com/hyy-PROG/hget_audio",
+  "download_filename": "hget_audio-2025.7.24a0.tar.gz",
+  "download_time": "2025-07-24T12:50:05.256060",
+  "package_url": "https://pypi.org/project/hget-audio/"
+}

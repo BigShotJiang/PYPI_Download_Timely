@@ -1,0 +1,11 @@
+{
+  "name": "stringdale",
+  "version": "0.3.7",
+  "summary": "String Diagram Agent Language Express (StringDALE) is a language for building LLM agents using string diagrams.",
+  "author": "“Dean",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/DeanLight/stringdale",
+  "download_filename": "stringdale-0.3.7.tar.gz",
+  "download_time": "2025-07-24T12:50:29.792274",
+  "package_url": "https://pypi.org/project/stringdale/"
+}
