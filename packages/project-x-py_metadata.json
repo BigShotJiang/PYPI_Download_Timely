@@ -1,0 +1,11 @@
+{
+  "name": "project-x-py",
+  "version": "1.0.11",
+  "summary": "Professional Python client for TopStepX ProjectX Gateway API - futures trading, real-time data, and market analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "project_x_py-1.0.11.tar.gz",
+  "download_time": "2025-07-24T10:51:28.519367",
+  "package_url": "https://pypi.org/project/project-x-py/"
+}

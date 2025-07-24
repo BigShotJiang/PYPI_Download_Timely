@@ -1,11 +1,11 @@
 {
   "name": "marmel-grammar",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Грамматика Marmel для Python.",
   "author": "Dev-Marmel",
   "license": null,
   "home_page": null,
-  "download_filename": "marmel_grammar-0.1.1.tar.gz",
-  "download_time": "2025-07-24T08:32:32.023275",
+  "download_filename": "marmel_grammar-0.1.3.tar.gz",
+  "download_time": "2025-07-24T10:51:22.267917",
   "package_url": "https://pypi.org/project/marmel-grammar/"
 }

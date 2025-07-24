@@ -1,11 +1,11 @@
 {
   "name": "django-mapengine",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "Map engine for maplibre in django",
   "author": "Hendrik Huyskens",
   "license": null,
   "home_page": null,
-  "download_filename": "django_mapengine-3.0.1.tar.gz",
-  "download_time": "2025-07-24T09:40:09.770074",
+  "download_filename": "django_mapengine-3.0.2.tar.gz",
+  "download_time": "2025-07-24T10:51:25.351299",
   "package_url": "https://pypi.org/project/django-mapengine/"
 }

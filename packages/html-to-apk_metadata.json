@@ -1,0 +1,11 @@
+{
+  "name": "html-to-apk",
+  "version": "1.0.0",
+  "summary": "Html to Apk Converter For Android Using Cordova Simple And Easy Plugin Installed",
+  "author": "Dwi Bakti N Dev",
+  "license": null,
+  "home_page": "https://github.com/royhtml",
+  "download_filename": "html_to_apk-1.0.0.tar.gz",
+  "download_time": "2025-07-24T10:51:22.783449",
+  "package_url": "https://pypi.org/project/html-to-apk/"
+}

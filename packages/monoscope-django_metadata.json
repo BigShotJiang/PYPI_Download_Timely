@@ -1,11 +1,11 @@
 {
   "name": "monoscope-django",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Django SDK for Monoscope integration",
   "author": "monoscope",
   "license": null,
   "home_page": null,
-  "download_filename": "monoscope-django-1.0.0.tar.gz",
-  "download_time": "2025-07-24T10:27:17.542635",
+  "download_filename": "monoscope_django-1.0.1.tar.gz",
+  "download_time": "2025-07-24T10:51:29.541676",
   "package_url": "https://pypi.org/project/monoscope-django/"
 }

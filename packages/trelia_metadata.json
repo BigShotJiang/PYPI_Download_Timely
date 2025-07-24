@@ -1,0 +1,11 @@
+{
+  "name": "trelia",
+  "version": "0.3.1",
+  "summary": "A Python package to rate and review student code using different llm's",
+  "author": "Aegletek",
+  "license": "MIT",
+  "home_page": "https://www.aegletek.com/",
+  "download_filename": "trelia-0.3.1.tar.gz",
+  "download_time": "2025-07-24T10:51:08.811533",
+  "package_url": "https://pypi.org/project/trelia/"
+}

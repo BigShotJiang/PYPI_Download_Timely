@@ -1,11 +1,11 @@
 {
   "name": "ecpet",
-  "version": "2.0.0b23",
+  "version": "2.0.0b25",
   "summary": "A modern eddy-covariance software inspired by EC-PACK.",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "ecpet-2.0.0b23.tar.gz",
-  "download_time": "2025-07-24T10:27:27.480813",
+  "download_filename": "ecpet-2.0.0b25.tar.gz",
+  "download_time": "2025-07-24T10:51:06.224116",
   "package_url": "https://pypi.org/project/ecpet/"
 }

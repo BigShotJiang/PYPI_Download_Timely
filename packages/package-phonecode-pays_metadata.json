@@ -1,11 +1,11 @@
 {
   "name": "package-phonecode-pays",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Package Django pour obtenir l’indicatif téléphonique selon le pays",
   "author": "ParfaiteSekongo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "package_phonecode_pays-0.2.0.tar.gz",
-  "download_time": "2025-07-24T09:55:42.514224",
+  "download_filename": "package_phonecode_pays-0.4.0.tar.gz",
+  "download_time": "2025-07-24T10:51:01.090875",
   "package_url": "https://pypi.org/project/package-phonecode-pays/"
 }
