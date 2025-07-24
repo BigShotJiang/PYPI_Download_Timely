@@ -1,0 +1,11 @@
+{
+  "name": "dloader",
+  "version": "0.1.2",
+  "summary": "DataLoader implementation for Python asyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dloader-0.1.2.tar.gz",
+  "download_time": "2025-07-24T22:47:31.259536",
+  "package_url": "https://pypi.org/project/dloader/"
+}

@@ -1,21 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-24T22:23:40.034089
-- **Total Packages**: 85
-- **Total Size**: 17.94 MB
+- **Download Time**: 2025-07-24T22:47:51.615505
+- **Total Packages**: 79
+- **Total Size**: 17.72 MB
 
 ## Packages List
+- SwiftGUI
+- robotics-dev
 - clfits
+- myocardial-mesh
+- moneyball
+- kaqing
+- ddx-python
+- youtrack-cli
+- dv-pipecat-ai
+- parse-lp
+- localstack-core
+- wavetrainer
+- ze-prompter
+- grim-reaper
+- sportsball
+- scc-firewall-manager-sdk
+- streamlit-crepe
+- liminal-cli
+- folder2md4llms
+- krex
+- target-hotglue
+- jubilant
+- airbyte-cdk
+- ork.build
+- DmDSLab
+- pyTMD
+- cutde
+- canonmap
+- ll2cz
+- ga4gh.va-spec
+- idtap-api
+- sinapsis-zonos
+- sinapsis-parakeet-tdt
+- prefect-kubernetes
+- sinapsis-orpheus-cpp
+- sinapsis-kokoro
+- sinapsis-f5-tts
+- sinapsis-elevenlabs
+- anaconda-assistant-mcp
+- fastapi-swagger
+- cradl
+- dloader
 - resonate-sdk
 - amazon-orders
-- airbyte-cdk
 - aquiles-rag
 - exlibris
 - opendsm
 - pipbert
 - metronome-sdk
-- ze-prompter
 - lmnr
 - rnet
 - sqsgenerator
@@ -30,7 +69,6 @@
 - pysros
 - cde-render
 - accounting-sh
-- fastapi-swagger
 - gway
 - baseten-performance-client
 - rxfoundry.clients.p2rx-api
@@ -47,47 +85,3 @@
 - purkinje-uv
 - sinapsis-openai
 - journ4list
-- layrz-protocol
-- winpoll
-- vivarium-build-utils
-- fastapi-docs-exception
-- magic_hour
-- eckitlib
-- geocompy
-- fmot
-- target-hotglue
-- graph-games-proto
-- sqlmesh
-- atlasopenmagic
-- krex
-- fastcloudflare
-- istari-digital-client
-- pydantic-graph
-- pydantic-evals
-- pydantic-ai-slim
-- pyzurecli
-- pydantic-ai-examples
-- pydantic-ai
-- clai
-- datasure
-- plua
-- claude-code-indexer
-- sleipnirgroup-jormungandr
-- terminator-py
-- laughbit
-- sinapsis-generic-data-tools
-- sinapsis-data-writers
-- sinapsis-data-visualization
-- sinapsis-data-tools
-- outleap
-- vanillacorn
-- unitas
-- sinapsis-data-readers
-- sinapsis-data-analysis
-- robotframework-visualizer
-- py-attio
-- bojango
-- mrx-runway
-- chunkwrap
-- pytapo
-- spinopt

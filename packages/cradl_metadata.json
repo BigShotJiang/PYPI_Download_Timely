@@ -1,0 +1,11 @@
+{
+  "name": "cradl",
+  "version": "0.4.0",
+  "summary": "Python SDK for Cradl",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "cradl-0.4.0.tar.gz",
+  "download_time": "2025-07-24T22:47:30.746922",
+  "package_url": "https://pypi.org/project/cradl/"
+}
