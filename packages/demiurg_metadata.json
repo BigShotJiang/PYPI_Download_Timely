@@ -1,11 +1,11 @@
 {
   "name": "demiurg",
-  "version": "0.1.20",
+  "version": "0.1.22",
   "summary": "AI Agent Framework for building intelligent agents with multiple LLM providers",
   "author": "Demiurg AI",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "demiurg-0.1.20.tar.gz",
-  "download_time": "2025-07-24T10:51:17.599603",
+  "download_filename": "demiurg-0.1.22.tar.gz",
+  "download_time": "2025-07-24T11:42:28.241700",
   "package_url": "https://pypi.org/project/demiurg/"
 }
