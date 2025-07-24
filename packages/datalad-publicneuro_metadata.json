@@ -1,0 +1,11 @@
+{
+  "name": "datalad-publicneuro",
+  "version": "0.1.0",
+  "summary": "A DataLad extension that simplifies access to PublicnEUro datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datalad_publicneuro-0.1.0-py3-none-any.whl",
+  "download_time": "2025-07-24T09:55:49.709783",
+  "package_url": "https://pypi.org/project/datalad-publicneuro/"
+}

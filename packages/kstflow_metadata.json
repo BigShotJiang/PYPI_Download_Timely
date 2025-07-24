@@ -1,11 +1,11 @@
 {
   "name": "kstflow",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "summary": "KST AI Utilities for medical datasets",
   "author": "Watcharaphong Yookwan",
   "license": null,
   "home_page": "https://github.com/yourusername/kst-ai",
-  "download_filename": "kstflow-0.1.31.tar.gz",
-  "download_time": "2025-07-24T09:40:16.531742",
+  "download_filename": "kstflow-0.1.32.tar.gz",
+  "download_time": "2025-07-24T09:55:52.881743",
   "package_url": "https://pypi.org/project/kstflow/"
 }

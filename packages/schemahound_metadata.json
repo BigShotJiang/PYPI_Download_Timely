@@ -1,0 +1,11 @@
+{
+  "name": "schemahound",
+  "version": "0.1.4",
+  "summary": "Introspect & Fetch database schema information.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schemahound-0.1.4.tar.gz",
+  "download_time": "2025-07-24T09:55:51.819926",
+  "package_url": "https://pypi.org/project/schemahound/"
+}

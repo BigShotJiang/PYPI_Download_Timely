@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-24T09:40:52.024199
-- **Total Packages**: 90
-- **Total Size**: 27.57 MB
+- **Download Time**: 2025-07-24T09:56:27.828918
+- **Total Packages**: 79
+- **Total Size**: 21.86 MB
 
 ## Packages List
+- package-phonecode-pays
+- openyieldtables
+- digimat.mbio
+- tensorlake
+- generatorappmaya
+- ost-photometry
+- binakeExcel
+- memory-agent
+- s2v-client
+- vcfzap
+- dark-matter
+- datalad-publicneuro
+- monstermash
+- mem0ai
+- patientmatcher
+- schemahound
+- openobd-protocol
+- kstflow
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- yta-audio-silences
+- devremind1
+- custom-app-Lou
+- openamundsen
+- arwell
+- projen
+- crewplus
+- pytrim
+- ChemInformant
+- imio.directory.core
+- spinopt
+- mipsolver
+- easycoder
+- fashionstar-uart-sdk
+- yta-video-moviepy
+- vyomcloudbridge
+- uipath-llamaindex
+- uipath-langchain
 - dbcrust
 - cs2tracker
 - azure-mgmt-carbonoptimization
@@ -18,18 +62,15 @@
 - metroprojectile
 - django-mapengine
 - yta-colors
-- memory-agent
 - qodex-recognition
 - dataset-cat
 - aiomealie
 - sii
 - jusfltuls
 - odoo-addon-sql-export
-- openobd-protocol
 - lupin-sw-ut-report
 - uqer
 - mcp-deadmansnitch
-- kstflow
 - sunagent-app
 - rexplain
 - sciv
@@ -41,58 +82,6 @@
 - mcp-scan
 - python-zalo-bot
 - gate-api
-- mipsolver
 - charmcraftcache
 - gpddatabase
 - inventory-monitor
-- lushalytics
-- CausalPy
-- nahiarhdNLP
-- sindre
-- vrchatapi
-- uipath
-- yta-validation
-- tiskitpy
-- kg-engine-v2
-- omegatomo
-- cdk-project-constructs
-- script-utils-log-async
-- hugr-qir
-- neptune-scale
-- raySD
-- jbutils
-- kececinumbers
-- fers-calculations
-- georeader-spaceml
-- django-secux
-- pybragi
-- nonconform
-- mex-artificial
-- trex-apis
-- odoo-addon-repair-service
-- trex-lib
-- trex-model
-- topsis-nandini
-- mcp-shell-server-unrestricted
-- utox
-- robotframework-doctestlibrary
-- zhipuai
-- hcai-discover-utils
-- blackboxopt
-- huaweicloudsdkworkspaceapp
-- huaweicloudsdkworkspace
-- huaweicloudsdkwaf
-- huaweicloudsdkvpn
-- sqlmesh
-- huaweicloudsdkvpcep
-- huaweicloudsdkvpc
-- huaweicloudsdkvod
-- huaweicloudsdkvcm
-- huaweicloudsdkvas
-- huaweicloudsdkugo
-- huaweicloudsdktms
-- huaweicloudsdktics
-- huaweicloudsdkswr
-- huaweicloudsdksts
-- huaweicloudsdksmsapi
-- huaweicloudsdksms
