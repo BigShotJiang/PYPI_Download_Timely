@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-release-channel-cutoff",
+  "version": "18.0.1.0.0.2",
+  "summary": "Add the cutoff time to the release channel",
+  "author": "Camptocamp, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-release-channel",
+  "download_filename": "odoo_addon_stock_release_channel_cutoff-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-24T14:57:37.321327",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-release-channel-cutoff/"
+}

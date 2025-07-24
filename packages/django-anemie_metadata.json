@@ -1,0 +1,11 @@
+{
+  "name": "django-anemie",
+  "version": "0.1.0",
+  "summary": "Une application Django pour sensibiliser à l’anémie sévère chez les jeunes",
+  "author": "Ton Nom",
+  "license": "MIT",
+  "home_page": "https://github.com/ton-utilisateur/django-anemie",
+  "download_filename": "django_anemie-0.1.0.tar.gz",
+  "download_time": "2025-07-24T14:57:49.735766",
+  "package_url": "https://pypi.org/project/django-anemie/"
+}

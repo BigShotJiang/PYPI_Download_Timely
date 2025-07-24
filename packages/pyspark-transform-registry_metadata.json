@@ -1,11 +1,11 @@
 {
   "name": "pyspark-transform-registry",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A PySpark transform registry with MLflow integration. Requires Java 17+ with security manager enabled.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyspark_transform_registry-0.3.0.tar.gz",
-  "download_time": "2025-07-23T19:13:05.870890",
+  "download_filename": "pyspark_transform_registry-0.4.0.tar.gz",
+  "download_time": "2025-07-24T14:57:08.756625",
   "package_url": "https://pypi.org/project/pyspark-transform-registry/"
 }

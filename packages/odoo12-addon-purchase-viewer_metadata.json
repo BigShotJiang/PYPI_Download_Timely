@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-purchase-viewer",
+  "version": "12.0.1.0.0.99.dev2",
+  "summary": "Adds a group 'Purchase viewer'",
+  "author": "Akretion",
+  "license": "AGPL-3",
+  "home_page": "http://www.akretion.com",
+  "download_filename": "odoo12_addon_purchase_viewer-12.0.1.0.0.99.dev2-py3-none-any.whl",
+  "download_time": "2025-07-24T14:57:46.656305",
+  "package_url": "https://pypi.org/project/odoo12-addon-purchase-viewer/"
+}

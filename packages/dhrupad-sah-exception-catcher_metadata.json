@@ -1,11 +1,11 @@
 {
   "name": "dhrupad-sah-exception-catcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Automatically catch and report exceptions to Mira Sentinel with rich context and log integration for AI-powered debugging and automatic fix generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dhrupad_sah_exception_catcher-1.0.1.tar.gz",
-  "download_time": "2025-07-24T12:50:02.650646",
+  "download_filename": "dhrupad_sah_exception_catcher-1.0.2.tar.gz",
+  "download_time": "2025-07-24T14:57:10.803252",
   "package_url": "https://pypi.org/project/dhrupad-sah-exception-catcher/"
 }

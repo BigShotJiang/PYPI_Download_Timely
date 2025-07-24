@@ -1,0 +1,11 @@
+{
+  "name": "filip",
+  "version": "0.7.0",
+  "summary": "[FI]WARE [Li]brary for [P]ython",
+  "author": "RWTH Aachen University, E.ON Energy Research Center, Institute        of Energy Efficient Buildings and Indoor Climate",
+  "license": null,
+  "home_page": "https://github.com/RWTH-EBC/filip",
+  "download_filename": "filip-0.7.0.tar.gz",
+  "download_time": "2025-07-24T14:57:22.774096",
+  "package_url": "https://pypi.org/project/filip/"
+}

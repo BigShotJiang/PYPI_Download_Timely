@@ -1,0 +1,11 @@
+{
+  "name": "rps-engine-client-python",
+  "version": "1.0.0",
+  "summary": "Python client library for REGDATA RPS Engine.",
+  "author": "REGDATA SA",
+  "license": "REGDATA SA",
+  "home_page": null,
+  "download_filename": "rps_engine_client_python-1.0.0.tar.gz",
+  "download_time": "2025-07-24T14:57:26.420271",
+  "package_url": "https://pypi.org/project/rps-engine-client-python/"
+}

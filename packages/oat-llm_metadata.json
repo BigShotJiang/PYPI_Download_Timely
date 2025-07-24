@@ -1,0 +1,11 @@
+{
+  "name": "oat-llm",
+  "version": "0.2.0",
+  "summary": "Online AlignmenT (OAT) for LLMs.",
+  "author": "Zichen Liu",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sail-sg/oat",
+  "download_filename": "oat_llm-0.2.0-py3-none-any.whl",
+  "download_time": "2025-07-24T14:57:41.492676",
+  "package_url": "https://pypi.org/project/oat-llm/"
+}

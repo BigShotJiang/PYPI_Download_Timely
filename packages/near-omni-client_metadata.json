@@ -1,0 +1,11 @@
+{
+  "name": "near-omni-client",
+  "version": "0.1.2",
+  "summary": "Minimal Python library to interact with the NEAR blockchain and Chain Signatures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "near_omni_client-0.1.2.tar.gz",
+  "download_time": "2025-07-24T14:57:44.057337",
+  "package_url": "https://pypi.org/project/near-omni-client/"
+}

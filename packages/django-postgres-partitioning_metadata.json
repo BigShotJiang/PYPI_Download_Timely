@@ -1,0 +1,11 @@
+{
+  "name": "django-postgres-partitioning",
+  "version": "1.1.1",
+  "summary": "Средства для реализации партиционирования таблиц в СУБД PostgreSQL",
+  "author": "BARS Group",
+  "license": null,
+  "home_page": "https://stash.bars-open.ru/projects/EDUBASE/repos/django-pg-partitioning/",
+  "download_filename": "django_postgres_partitioning-1.1.1.tar.gz",
+  "download_time": "2025-07-24T14:57:27.445871",
+  "package_url": "https://pypi.org/project/django-postgres-partitioning/"
+}

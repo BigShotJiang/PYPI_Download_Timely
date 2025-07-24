@@ -1,11 +1,11 @@
 {
   "name": "php-framework-scaffolder",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "A CLI tool to scaffold PHP framework applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "php_framework_scaffolder-0.1.21.tar.gz",
-  "download_time": "2025-07-24T03:24:29.660026",
+  "download_filename": "php_framework_scaffolder-0.1.22.tar.gz",
+  "download_time": "2025-07-24T14:57:15.414503",
   "package_url": "https://pypi.org/project/php-framework-scaffolder/"
 }

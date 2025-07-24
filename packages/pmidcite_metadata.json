@@ -1,0 +1,11 @@
+{
+  "name": "pmidcite",
+  "version": "0.1.1",
+  "summary": "Turbocharge a PubMed literature search using citation data from the NIH",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmidcite-0.1.1.tar.gz",
+  "download_time": "2025-07-24T14:57:23.345624",
+  "package_url": "https://pypi.org/project/pmidcite/"
+}

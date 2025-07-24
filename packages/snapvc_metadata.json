@@ -1,0 +1,11 @@
+{
+  "name": "snapvc",
+  "version": "1.0.0",
+  "summary": "A lightweight version control system with cross-platform support",
+  "author": "Shreyash Mogaveera",
+  "license": "MIT",
+  "home_page": "https://github.com/ShreyashM17/Version-control",
+  "download_filename": "snapvc-1.0.0.tar.gz",
+  "download_time": "2025-07-24T14:57:24.374918",
+  "package_url": "https://pypi.org/project/snapvc/"
+}

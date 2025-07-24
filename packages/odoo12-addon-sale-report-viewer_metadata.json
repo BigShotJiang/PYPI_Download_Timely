@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-sale-report-viewer",
+  "version": "12.0.1.0.0.99.dev1",
+  "summary": "Access Report submenu to Users and viewers",
+  "author": "Akretion",
+  "license": "AGPL-3",
+  "home_page": "http://www.akretion.com",
+  "download_filename": "odoo12_addon_sale_report_viewer-12.0.1.0.0.99.dev1-py3-none-any.whl",
+  "download_time": "2025-07-24T14:57:46.143971",
+  "package_url": "https://pypi.org/project/odoo12-addon-sale-report-viewer/"
+}

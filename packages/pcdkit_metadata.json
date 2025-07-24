@@ -1,0 +1,11 @@
+{
+  "name": "pcdkit",
+  "version": "0.2.9",
+  "summary": "A lightweight PCD file processing library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pcdkit-0.2.9.tar.gz",
+  "download_time": "2025-07-24T14:57:39.433792",
+  "package_url": "https://pypi.org/project/pcdkit/"
+}
