@@ -1,0 +1,11 @@
+{
+  "name": "re-cdp-patches",
+  "version": "0.9",
+  "summary": "Patching CDP (Chrome DevTools Protocol) leaks on OS level. Easy to use with Playwright/Patchright.",
+  "author": "Vinyzu, Kaliiiiiiiiii (slightly modified by imamousenotacat)",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/imamousenotacat/re-cdp-patches/",
+  "download_filename": "re_cdp_patches-0.9-py3-none-any.whl",
+  "download_time": "2025-07-24T19:42:03.195353",
+  "package_url": "https://pypi.org/project/re-cdp-patches/"
+}

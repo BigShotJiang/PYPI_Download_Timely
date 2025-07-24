@@ -1,0 +1,11 @@
+{
+  "name": "fast-jl-binary",
+  "version": "0.1.3.3",
+  "summary": "Fast JL: Compute JL projection fast on a GPU (Binary Distribution)",
+  "author": "Dariush Wahdany",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_jl_binary-0.1.3.3-cp310-cp310-manylinux1_x86_64.whl",
+  "download_time": "2025-07-24T19:41:58.786303",
+  "package_url": "https://pypi.org/project/fast-jl-binary/"
+}

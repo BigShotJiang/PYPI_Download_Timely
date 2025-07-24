@@ -1,0 +1,11 @@
+{
+  "name": "broker",
+  "version": "0.6.12",
+  "summary": "The infrastructure middleman.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "broker-0.6.12.tar.gz",
+  "download_time": "2025-07-24T19:41:45.081161",
+  "package_url": "https://pypi.org/project/broker/"
+}

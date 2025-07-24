@@ -1,0 +1,11 @@
+{
+  "name": "graph-database-loader",
+  "version": "0.0.49",
+  "summary": "A package suitable for offline vocabulary processing and batch ingestion into Graph databases, such as Neo4j and ArangoDB",
+  "author": "Jiaqi Liu",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/QubitPi/Antiqua/tree/master/graph-database-loader",
+  "download_filename": "graph-database-loader-0.0.49.tar.gz",
+  "download_time": "2025-07-24T19:41:49.524688",
+  "package_url": "https://pypi.org/project/graph-database-loader/"
+}

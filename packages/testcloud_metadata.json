@@ -1,0 +1,11 @@
+{
+  "name": "testcloud",
+  "version": "0.11.8",
+  "summary": "A tool to download and boot cloud images locally, with an easy to use API.",
+  "author": "Mike Ruckman",
+  "license": "GPLv2+",
+  "home_page": "https://pagure.io/testcloud",
+  "download_filename": "testcloud-0.11.8.tar.gz",
+  "download_time": "2025-07-24T19:41:44.432445",
+  "package_url": "https://pypi.org/project/testcloud/"
+}

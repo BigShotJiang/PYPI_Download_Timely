@@ -1,0 +1,11 @@
+{
+  "name": "graph-json-generator",
+  "version": "0.0.49",
+  "summary": "Transforming any data sources into graphs in JSON format",
+  "author": "Jiaqi Liu",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/QubitPi/Antiqua/tree/master/graph-json-generator",
+  "download_filename": "graph-json-generator-0.0.49.tar.gz",
+  "download_time": "2025-07-24T19:41:46.980866",
+  "package_url": "https://pypi.org/project/graph-json-generator/"
+}

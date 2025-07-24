@@ -1,0 +1,11 @@
+{
+  "name": "daagy-ai",
+  "version": "1.0.0",
+  "summary": "A terminal-based AI assistant that executes natural language commands as shell instructions.",
+  "author": "Vibhor Jaiswal",
+  "license": null,
+  "home_page": "https://github.com/VibhorJaiswal/Daagy-AI",
+  "download_filename": "daagy_ai-1.0.0.tar.gz",
+  "download_time": "2025-07-24T19:41:47.615668",
+  "package_url": "https://pypi.org/project/daagy-ai/"
+}

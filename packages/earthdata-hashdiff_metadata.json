@@ -1,0 +1,11 @@
+{
+  "name": "earthdata-hashdiff",
+  "version": "1.0.0",
+  "summary": "Python package that hashes content of Earth science data files and compares to reference files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "earthdata_hashdiff-1.0.0.tar.gz",
+  "download_time": "2025-07-24T19:42:00.071323",
+  "package_url": "https://pypi.org/project/earthdata-hashdiff/"
+}

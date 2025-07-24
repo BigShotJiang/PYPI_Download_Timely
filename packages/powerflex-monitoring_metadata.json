@@ -1,0 +1,11 @@
+{
+  "name": "powerflex-monitoring",
+  "version": "1.8.1",
+  "summary": "Tools to assist in monitoring a Python service.",
+  "author": "Powerflex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "powerflex_monitoring-1.8.1.tar.gz",
+  "download_time": "2025-07-24T19:41:43.798911",
+  "package_url": "https://pypi.org/project/powerflex-monitoring/"
+}
