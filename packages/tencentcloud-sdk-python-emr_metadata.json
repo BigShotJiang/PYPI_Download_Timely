@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-emr",
+  "version": "3.0.1430",
+  "summary": "Tencent Cloud Emr SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-emr-3.0.1430.tar.gz",
+  "download_time": "2025-07-24T20:58:03.551794",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-emr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-cloudaudit",
+  "version": "3.0.1430",
+  "summary": "Tencent Cloud Cloudaudit SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-cloudaudit-3.0.1430.tar.gz",
+  "download_time": "2025-07-24T20:58:06.352474",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cloudaudit/"
+}

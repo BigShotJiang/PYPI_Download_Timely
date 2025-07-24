@@ -1,11 +1,11 @@
 {
   "name": "oorb-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Intelligent CLI assistant for ROS and ROS2 questions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oorb_cli-1.0.4.tar.gz",
-  "download_time": "2025-07-24T20:45:31.060666",
+  "download_filename": "oorb_cli-1.0.5.tar.gz",
+  "download_time": "2025-07-24T20:57:47.848104",
   "package_url": "https://pypi.org/project/oorb-cli/"
 }

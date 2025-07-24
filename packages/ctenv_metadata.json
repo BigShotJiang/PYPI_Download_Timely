@@ -1,0 +1,11 @@
+{
+  "name": "ctenv",
+  "version": "0.3",
+  "summary": "ctenv is a tool for running a program in a container as current user",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctenv-0.3.tar.gz",
+  "download_time": "2025-07-24T20:57:46.721908",
+  "package_url": "https://pypi.org/project/ctenv/"
+}

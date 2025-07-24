@@ -1,0 +1,11 @@
+{
+  "name": "sailpoint",
+  "version": "1.3.7",
+  "summary": "The SailPoint API SDK for Python",
+  "author": "SailPoint Developer Relations",
+  "license": "MIT",
+  "home_page": "https://developer.sailpoint.com/",
+  "download_filename": "sailpoint-1.3.7.tar.gz",
+  "download_time": "2025-07-24T20:57:56.889363",
+  "package_url": "https://pypi.org/project/sailpoint/"
+}
