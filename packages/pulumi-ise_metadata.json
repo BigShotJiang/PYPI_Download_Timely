@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-ise",
+  "version": "0.2.5",
+  "summary": "A Pulumi package for managing resources on a Cisco ISE (Identity Service Engine) instance.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_ise-0.2.5.tar.gz",
+  "download_time": "2025-07-24T04:34:27.516030",
+  "package_url": "https://pypi.org/project/pulumi-ise/"
+}

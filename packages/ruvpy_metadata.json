@@ -1,0 +1,11 @@
+{
+  "name": "ruvpy",
+  "version": "1.0.1",
+  "summary": "Reference implementation of Relative Utility Value (RUV) to quantify forecast value",
+  "author": "Richard Laugesen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ruvpy-1.0.1.tar.gz",
+  "download_time": "2025-07-24T04:34:20.153230",
+  "package_url": "https://pypi.org/project/ruvpy/"
+}

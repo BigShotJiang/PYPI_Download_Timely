@@ -1,0 +1,11 @@
+{
+  "name": "ncut-pytorch",
+  "version": "1.13.14",
+  "summary": "Normalized Cut and Nyström Approximation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncut_pytorch-1.13.14.tar.gz",
+  "download_time": "2025-07-24T04:34:14.855971",
+  "package_url": "https://pypi.org/project/ncut-pytorch/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "postman-collection-generator-mcp",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "MCP server for generating Postman collections from API codebases",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/postman-collection-generator-mcp",
-  "download_filename": "postman_collection_generator_mcp-0.2.7.tar.gz",
-  "download_time": "2025-07-23T15:04:33.922923",
+  "download_filename": "postman_collection_generator_mcp-0.2.8.tar.gz",
+  "download_time": "2025-07-24T04:34:14.212291",
   "package_url": "https://pypi.org/project/postman-collection-generator-mcp/"
 }

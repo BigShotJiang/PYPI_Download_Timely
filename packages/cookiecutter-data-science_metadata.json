@@ -1,0 +1,11 @@
+{
+  "name": "cookiecutter-data-science",
+  "version": "2.3.0",
+  "summary": "A logical, reasonably standardized but flexible project structure for doing and sharing data science work.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cookiecutter_data_science-2.3.0.tar.gz",
+  "download_time": "2025-07-24T04:34:23.302242",
+  "package_url": "https://pypi.org/project/cookiecutter-data-science/"
+}

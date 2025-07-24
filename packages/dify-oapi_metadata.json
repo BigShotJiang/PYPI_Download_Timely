@@ -1,0 +1,11 @@
+{
+  "name": "dify-oapi",
+  "version": "0.0.14",
+  "summary": "A package for interacting with the Dify Service-API",
+  "author": "QiMington",
+  "license": "MIT",
+  "home_page": "https://github.com/QiMington/dify-oapi",
+  "download_filename": "dify_oapi-0.0.14.tar.gz",
+  "download_time": "2025-07-24T04:34:36.222394",
+  "package_url": "https://pypi.org/project/dify-oapi/"
+}

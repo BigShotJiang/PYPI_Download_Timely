@@ -1,0 +1,11 @@
+{
+  "name": "aworld",
+  "version": "0.2.6",
+  "summary": "Ant Agent Package",
+  "author": "Ant AI",
+  "license": "MIT",
+  "home_page": "https://github.com/inclusionAI/AWorld",
+  "download_filename": "aworld-0.2.6.tar.gz",
+  "download_time": "2025-07-24T04:33:55.090014",
+  "package_url": "https://pypi.org/project/aworld/"
+}

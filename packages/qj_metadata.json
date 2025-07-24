@@ -1,0 +1,11 @@
+{
+  "name": "qj",
+  "version": "1.0.0",
+  "summary": "qj: logging designed for debugging.",
+  "author": "Ian Fischer",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/itfische/qj",
+  "download_filename": "qj-1.0.0.tar.gz",
+  "download_time": "2025-07-24T04:34:16.025702",
+  "package_url": "https://pypi.org/project/qj/"
+}

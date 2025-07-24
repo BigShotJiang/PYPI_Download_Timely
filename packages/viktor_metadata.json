@@ -1,0 +1,11 @@
+{
+  "name": "viktor",
+  "version": "14.23.0",
+  "summary": "SDK for building a VIKTOR application",
+  "author": "VIKTOR",
+  "license": "see LICENSE.txt",
+  "home_page": "https://www.viktor.ai/",
+  "download_filename": "viktor-14.23.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-07-24T04:33:52.974623",
+  "package_url": "https://pypi.org/project/viktor/"
+}

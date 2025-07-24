@@ -1,0 +1,11 @@
+{
+  "name": "mcp-stock-screener",
+  "version": "1.0.3",
+  "summary": "AI-powered financial analysis system that processes natural language queries and returns structured stock analysis results via MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_stock_screener-1.0.3.tar.gz",
+  "download_time": "2025-07-24T04:34:16.606075",
+  "package_url": "https://pypi.org/project/mcp-stock-screener/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "moments-popgen",
+  "version": "1.4.5",
+  "summary": "Population genetic statistics for evolutionary inference",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/MomentsLD/moments",
+  "download_filename": "moments_popgen-1.4.5.tar.gz",
+  "download_time": "2025-07-24T04:34:25.769906",
+  "package_url": "https://pypi.org/project/moments-popgen/"
+}

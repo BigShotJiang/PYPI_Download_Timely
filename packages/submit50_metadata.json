@@ -1,0 +1,11 @@
+{
+  "name": "submit50",
+  "version": "3.2.1",
+  "summary": "This is submit50, with which you can submit solutions to problems for CS50.",
+  "author": "CS50",
+  "license": "GPLv3",
+  "home_page": "https://github.com/cs50/submit50",
+  "download_filename": "submit50-3.2.1.tar.gz",
+  "download_time": "2025-07-24T04:34:07.656348",
+  "package_url": "https://pypi.org/project/submit50/"
+}

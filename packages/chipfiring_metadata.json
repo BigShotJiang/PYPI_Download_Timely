@@ -1,0 +1,11 @@
+{
+  "name": "chipfiring",
+  "version": "1.1.1",
+  "summary": "This is an Pythonic API for visualization and analysis of chip firing games and corresponding algorithms.",
+  "author": "Dhyey Mavani",
+  "license": "MIT",
+  "home_page": "https://github.com/DhyeyMavani2003/chipfiring",
+  "download_filename": "chipfiring-1.1.1.tar.gz",
+  "download_time": "2025-07-24T04:33:50.679480",
+  "package_url": "https://pypi.org/project/chipfiring/"
+}

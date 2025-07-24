@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-ionoscloud",
+  "version": "12.0.4",
+  "summary": "Prebuilt ionoscloud Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-ionoscloud.git",
+  "download_filename": "cdktf_cdktf_provider_ionoscloud-12.0.4.tar.gz",
+  "download_time": "2025-07-24T04:34:36.841279",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-ionoscloud/"
+}

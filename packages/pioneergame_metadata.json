@@ -1,0 +1,11 @@
+{
+  "name": "pioneergame",
+  "version": "0.0.12",
+  "summary": "Simple Pygame wrap for small kids",
+  "author": "chebur5581",
+  "license": null,
+  "home_page": "https://github.com/chebur5581/pioneergame",
+  "download_filename": "pioneergame-0.0.12.tar.gz",
+  "download_time": "2025-07-24T04:34:12.425710",
+  "package_url": "https://pypi.org/project/pioneergame/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-stock-restrict-by-planned-consumed-date",
+  "version": "14.0.1.0.1.dev4",
+  "summary": "Stock restrict by planned consumed date",
+  "author": "Pierre Verkest <pierreverkest84@gmail.com>, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo14_addon_stock_restrict_by_planned_consumed_date-14.0.1.0.1.dev4-py3-none-any.whl",
+  "download_time": "2025-07-24T04:34:32.238138",
+  "package_url": "https://pypi.org/project/odoo14-addon-stock-restrict-by-planned-consumed-date/"
+}

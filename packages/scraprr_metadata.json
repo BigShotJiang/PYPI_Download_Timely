@@ -1,11 +1,11 @@
 {
   "name": "scraprr",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "a Rust-based web scraping library for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scraprr-0.1.9.tar.gz",
-  "download_time": "2025-07-24T03:24:39.489023",
+  "download_filename": "scraprr-0.1.10.tar.gz",
+  "download_time": "2025-07-24T04:34:01.529374",
   "package_url": "https://pypi.org/project/scraprr/"
 }
