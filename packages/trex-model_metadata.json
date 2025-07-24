@@ -1,0 +1,11 @@
+{
+  "name": "trex-model",
+  "version": "1.6.10",
+  "summary": "TRex database module package",
+  "author": "Jack Lok",
+  "license": null,
+  "home_page": "https://bitbucket.org/lokjac/trex-model",
+  "download_filename": "trex_model-1.6.10.tar.gz",
+  "download_time": "2025-07-24T09:40:38.501289",
+  "package_url": "https://pypi.org/project/trex-model/"
+}

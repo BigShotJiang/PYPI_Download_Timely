@@ -1,0 +1,11 @@
+{
+  "name": "cdk-project-constructs",
+  "version": "1.0.10",
+  "summary": "AWS CDK resources to be used in infra projects.",
+  "author": "Madrag",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cdk_project_constructs-1.0.10.tar.gz",
+  "download_time": "2025-07-24T09:40:30.185148",
+  "package_url": "https://pypi.org/project/cdk-project-constructs/"
+}

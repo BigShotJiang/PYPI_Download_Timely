@@ -1,0 +1,11 @@
+{
+  "name": "sindre",
+  "version": "2025.7.24",
+  "summary": "自用脚本库",
+  "author": "SindreYang",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/SindreYang/Sindre",
+  "download_filename": "sindre-2025.7.24-py3-none-any.whl",
+  "download_time": "2025-07-24T09:40:26.422031",
+  "package_url": "https://pypi.org/project/sindre/"
+}

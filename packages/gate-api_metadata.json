@@ -1,0 +1,11 @@
+{
+  "name": "gate-api",
+  "version": "6.103.0",
+  "summary": "Gate API",
+  "author": "Gate API support",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/gateio/gateapi-python",
+  "download_filename": "gate_api-6.103.0.tar.gz",
+  "download_time": "2025-07-24T09:40:22.244702",
+  "package_url": "https://pypi.org/project/gate-api/"
+}

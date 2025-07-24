@@ -1,0 +1,11 @@
+{
+  "name": "inventory-monitor",
+  "version": "10.3.7",
+  "summary": "Asset Management with semi-auto discovery processes",
+  "author": "Jan Krupa",
+  "license": null,
+  "home_page": "https://gitlab.cesnet.cz/701/done/inventory-monitor-plugin",
+  "download_filename": "inventory-monitor-10.3.7.tar.gz",
+  "download_time": "2025-07-24T09:40:24.322773",
+  "package_url": "https://pypi.org/project/inventory-monitor/"
+}

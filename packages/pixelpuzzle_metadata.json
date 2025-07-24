@@ -1,0 +1,11 @@
+{
+  "name": "pixelpuzzle",
+  "version": "0.4.3",
+  "summary": "Encode/decode images using Base64 or shuffle/recover the pixels of images.",
+  "author": null,
+  "license": "GNU GPLv3",
+  "home_page": null,
+  "download_filename": "pixelpuzzle-0.4.3.tar.gz",
+  "download_time": "2025-07-24T09:40:20.163913",
+  "package_url": "https://pypi.org/project/pixelpuzzle/"
+}

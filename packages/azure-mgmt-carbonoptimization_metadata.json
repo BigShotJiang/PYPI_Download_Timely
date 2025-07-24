@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-carbonoptimization",
+  "version": "1.0.0",
+  "summary": "Microsoft Azure Carbonoptimization Management Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_mgmt_carbonoptimization-1.0.0.tar.gz",
+  "download_time": "2025-07-24T09:40:05.107650",
+  "package_url": "https://pypi.org/project/azure-mgmt-carbonoptimization/"
+}

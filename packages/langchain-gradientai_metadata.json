@@ -1,0 +1,11 @@
+{
+  "name": "langchain-gradientai",
+  "version": "0.1.18",
+  "summary": "An integration package connecting Digitalocean and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain",
+  "download_filename": "langchain_gradientai-0.1.18.tar.gz",
+  "download_time": "2025-07-24T09:40:20.681641",
+  "package_url": "https://pypi.org/project/langchain-gradientai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "huaweicloudsdkwaf",
+  "version": "3.1.158",
+  "summary": "WAF",
+  "author": "HuaweiCloud SDK",
+  "license": "Apache LICENSE 2.0",
+  "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-v3",
+  "download_filename": "huaweicloudsdkwaf-3.1.158-py2.py3-none-any.whl",
+  "download_time": "2025-07-24T09:40:44.223563",
+  "package_url": "https://pypi.org/project/huaweicloudsdkwaf/"
+}

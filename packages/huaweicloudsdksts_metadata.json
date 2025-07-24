@@ -1,0 +1,11 @@
+{
+  "name": "huaweicloudsdksts",
+  "version": "3.1.158",
+  "summary": "STS",
+  "author": "HuaweiCloud SDK",
+  "license": "Apache LICENSE 2.0",
+  "home_page": "https://github.com/huaweicloud/huaweicloud-sdk-python-v3",
+  "download_filename": "huaweicloudsdksts-3.1.158-py2.py3-none-any.whl",
+  "download_time": "2025-07-24T09:40:50.484694",
+  "package_url": "https://pypi.org/project/huaweicloudsdksts/"
+}

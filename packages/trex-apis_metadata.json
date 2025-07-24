@@ -1,0 +1,11 @@
+{
+  "name": "trex-apis",
+  "version": "1.6.8",
+  "summary": "TRex APIs package",
+  "author": "Jack Lok",
+  "license": null,
+  "home_page": "https://bitbucket.org/lokjac/trex-apis",
+  "download_filename": "trex_apis-1.6.8.tar.gz",
+  "download_time": "2025-07-24T09:40:36.941395",
+  "package_url": "https://pypi.org/project/trex-apis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blackboxopt",
+  "version": "5.3.1",
+  "summary": "A common interface for blackbox optimization algorithms along with useful helpers like parallel optimization loops, analysis and visualization scripts.",
+  "author": "Bosch Center for AI, Robert Bosch GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/boschresearch/blackboxopt",
+  "download_filename": "blackboxopt-5.3.1.tar.gz",
+  "download_time": "2025-07-24T09:40:42.642754",
+  "package_url": "https://pypi.org/project/blackboxopt/"
+}

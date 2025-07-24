@@ -1,0 +1,11 @@
+{
+  "name": "dataset-cat",
+  "version": "0.0.6",
+  "summary": "A tool for fetching and organizing anime datasets for training.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/your-repo/dataset-cat",
+  "download_filename": "dataset_cat-0.0.6.tar.gz",
+  "download_time": "2025-07-24T09:40:11.851786",
+  "package_url": "https://pypi.org/project/dataset-cat/"
+}

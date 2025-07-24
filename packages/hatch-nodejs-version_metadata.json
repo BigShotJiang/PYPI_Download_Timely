@@ -1,0 +1,11 @@
+{
+  "name": "hatch-nodejs-version",
+  "version": "0.4.0",
+  "summary": "Hatch plugin for versioning from a package.json file",
+  "author": "Frédéric Collonval",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hatch_nodejs_version-0.4.0.tar.gz",
+  "download_time": "2025-07-24T09:40:05.626607",
+  "package_url": "https://pypi.org/project/hatch-nodejs-version/"
+}
