@@ -1,0 +1,11 @@
+{
+  "name": "pyrad-mch",
+  "version": "2.1.1",
+  "summary": "Python Radar Toolkit",
+  "author": "MeteoSwiss Pyrad Developers",
+  "license": "BSD",
+  "home_page": "https://github.com/MeteoSwiss/pyrad.git",
+  "download_filename": "pyrad_mch-2.1.1.tar.gz",
+  "download_time": "2025-07-24T09:01:44.071120",
+  "package_url": "https://pypi.org/project/pyrad-mch/"
+}

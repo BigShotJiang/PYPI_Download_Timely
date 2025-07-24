@@ -1,0 +1,11 @@
+{
+  "name": "portone-server-sdk",
+  "version": "0.16.1",
+  "summary": "PortOne Python SDK for server-side usage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "portone_server_sdk-0.16.1.tar.gz",
+  "download_time": "2025-07-24T09:01:40.822281",
+  "package_url": "https://pypi.org/project/portone-server-sdk/"
+}

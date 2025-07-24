@@ -1,0 +1,11 @@
+{
+  "name": "data7",
+  "version": "0.12.1",
+  "summary": "Data7 streams CSV/Parquet datasets over HTTP from SQL queries.",
+  "author": "Julien Maupetit",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "data7-0.12.1.tar.gz",
+  "download_time": "2025-07-24T09:01:38.134515",
+  "package_url": "https://pypi.org/project/data7/"
+}

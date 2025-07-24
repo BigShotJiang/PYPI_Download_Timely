@@ -1,11 +1,11 @@
 {
   "name": "intellif-aihub",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Intellif AI-hub SDK.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "intellif_aihub-0.1.7.tar.gz",
-  "download_time": "2025-07-24T07:53:48.937347",
+  "download_filename": "intellif_aihub-0.1.8.tar.gz",
+  "download_time": "2025-07-24T09:01:44.598816",
   "package_url": "https://pypi.org/project/intellif-aihub/"
 }

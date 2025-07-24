@@ -1,0 +1,11 @@
+{
+  "name": "ansys-stk",
+  "version": "0.1.0",
+  "summary": "The next generation Python API for STK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_stk-0.1.0.tar.gz",
+  "download_time": "2025-07-24T09:01:45.136148",
+  "package_url": "https://pypi.org/project/ansys-stk/"
+}

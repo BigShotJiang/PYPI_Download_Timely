@@ -1,0 +1,11 @@
+{
+  "name": "wowool-portal",
+  "version": "1.0.0",
+  "summary": "Wowool Portal Client",
+  "author": "Wowool",
+  "license": null,
+  "home_page": "https://www.wowool.com/",
+  "download_filename": "wowool_portal-1.0.0-py3-none-any.whl",
+  "download_time": "2025-07-24T09:01:49.449133",
+  "package_url": "https://pypi.org/project/wowool-portal/"
+}

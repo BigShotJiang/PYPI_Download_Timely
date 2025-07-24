@@ -1,0 +1,11 @@
+{
+  "name": "jollyjack",
+  "version": "0.16.0",
+  "summary": "Read parquet data directly into numpy array",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jollyjack-0.16.0.tar.gz",
+  "download_time": "2025-07-24T09:01:42.438719",
+  "package_url": "https://pypi.org/project/jollyjack/"
+}

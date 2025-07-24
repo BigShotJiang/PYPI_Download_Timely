@@ -1,0 +1,11 @@
+{
+  "name": "phydcm",
+  "version": "1.0.0",
+  "summary": "An AI-powered DICOM viewer for CT, MRI, and PET images built by medical physics students.",
+  "author": "PhyDCM Team",
+  "license": null,
+  "home_page": "https://github.com/phydcm/phydcm",
+  "download_filename": "phydcm-1.0.0.tar.gz",
+  "download_time": "2025-07-24T09:01:27.767765",
+  "package_url": "https://pypi.org/project/phydcm/"
+}

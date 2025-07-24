@@ -1,0 +1,11 @@
+{
+  "name": "contextmaker",
+  "version": "1.6.0",
+  "summary": "A simple context builder and converter toolkit",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextmaker-1.6.0.tar.gz",
+  "download_time": "2025-07-24T09:01:26.165944",
+  "package_url": "https://pypi.org/project/contextmaker/"
+}
