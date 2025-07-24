@@ -1,0 +1,11 @@
+{
+  "name": "lm-raindrop",
+  "version": "0.1.10",
+  "summary": "The official Python library for the raindrop API",
+  "author": "Raindrop",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lm_raindrop-0.1.10.tar.gz",
+  "download_time": "2025-07-24T19:00:20.062101",
+  "package_url": "https://pypi.org/project/lm-raindrop/"
+}

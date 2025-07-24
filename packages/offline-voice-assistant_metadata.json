@@ -1,0 +1,11 @@
+{
+  "name": "offline-voice-assistant",
+  "version": "1.0.0",
+  "summary": "A simple GUI voice assistant with TTS and scraping",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "offline_voice_assistant-1.0.0.tar.gz",
+  "download_time": "2025-07-24T19:00:04.160914",
+  "package_url": "https://pypi.org/project/offline-voice-assistant/"
+}

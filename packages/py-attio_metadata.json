@@ -1,0 +1,11 @@
+{
+  "name": "py-attio",
+  "version": "0.1.0",
+  "summary": "A Python wrapper for the Attio API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_attio-0.1.0.tar.gz",
+  "download_time": "2025-07-24T19:00:21.352077",
+  "package_url": "https://pypi.org/project/py-attio/"
+}

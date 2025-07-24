@@ -1,0 +1,11 @@
+{
+  "name": "kkf",
+  "version": "0.22",
+  "summary": "kkf: a library for Python implementation of Kernel-Koopman-Kalman Filter.",
+  "author": "Diego Olguin-Wende",
+  "license": null,
+  "home_page": "https://github.com/diegoolguinw/kkf",
+  "download_filename": "kkf-0.22.tar.gz",
+  "download_time": "2025-07-24T19:00:36.456061",
+  "package_url": "https://pypi.org/project/kkf/"
+}

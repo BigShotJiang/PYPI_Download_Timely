@@ -1,0 +1,11 @@
+{
+  "name": "total-perspective-vortex",
+  "version": "3.0.0",
+  "summary": "A library for routing entities (jobs, users or groups) to destinations in Galaxy",
+  "author": "Galaxy Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "total_perspective_vortex-3.0.0.tar.gz",
+  "download_time": "2025-07-24T19:00:14.424688",
+  "package_url": "https://pypi.org/project/total-perspective-vortex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spaces",
+  "version": "0.39.0",
+  "summary": "Utilities for Hugging Face Spaces",
+  "author": "Charles Bensimon",
+  "license": "Apache-2.0",
+  "home_page": "https://huggingface.co",
+  "download_filename": "spaces-0.39.0.tar.gz",
+  "download_time": "2025-07-24T19:00:22.640859",
+  "package_url": "https://pypi.org/project/spaces/"
+}

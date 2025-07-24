@@ -1,0 +1,11 @@
+{
+  "name": "threecxapi",
+  "version": "1.0.6",
+  "summary": "This is a python wrapper for the 3CX API. It is designed to make it easier to interact with the 3CX API. It is a work in progress and is not yet feature complete. It is designed to be used with the official 3CX v20 API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "threecxapi-1.0.6.tar.gz",
+  "download_time": "2025-07-24T19:00:55.197417",
+  "package_url": "https://pypi.org/project/threecxapi/"
+}

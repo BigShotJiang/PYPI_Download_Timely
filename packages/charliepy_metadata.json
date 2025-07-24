@@ -1,0 +1,11 @@
+{
+  "name": "charliepy",
+  "version": "2.0.6",
+  "summary": "Ensemble Machine Learning Algorithm to rival XGBoost and RandomForest",
+  "author": "Gary Hutson",
+  "license": null,
+  "home_page": "https://github.com/StatsGary/charlie",
+  "download_filename": "charliepy-2.0.6.tar.gz",
+  "download_time": "2025-07-24T19:00:13.778314",
+  "package_url": "https://pypi.org/project/charliepy/"
+}

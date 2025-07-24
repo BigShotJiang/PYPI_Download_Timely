@@ -1,0 +1,11 @@
+{
+  "name": "mofsynth-qm",
+  "version": "1.0.0",
+  "summary": "Package for MOF synthesizability evaluation.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "mofsynth_qm-1.0.0.tar.gz",
+  "download_time": "2025-07-24T19:00:39.066372",
+  "package_url": "https://pypi.org/project/mofsynth-qm/"
+}

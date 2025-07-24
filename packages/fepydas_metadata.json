@@ -1,0 +1,11 @@
+{
+  "name": "fepydas",
+  "version": "0.0.63",
+  "summary": "felix' python data analysis suite",
+  "author": "Felix Nippert",
+  "license": null,
+  "home_page": "https://git.tu-berlin.de/nippert/fepydas",
+  "download_filename": "fepydas-0.0.63-py3-none-any.whl",
+  "download_time": "2025-07-24T19:00:45.916802",
+  "package_url": "https://pypi.org/project/fepydas/"
+}

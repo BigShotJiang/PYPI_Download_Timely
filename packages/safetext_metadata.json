@@ -1,0 +1,11 @@
+{
+  "name": "safetext",
+  "version": "0.2.1",
+  "summary": "Fast profanity filtering tool for multiple languages",
+  "author": "Viddexa AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "safetext-0.2.1.tar.gz",
+  "download_time": "2025-07-24T19:00:02.227121",
+  "package_url": "https://pypi.org/project/safetext/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "obstore",
+  "version": "0.7.1",
+  "summary": "The simplest, highest-throughput interface to Amazon S3, Google Cloud Storage, Azure Blob Storage, and S3-compliant APIs like Cloudflare R2.",
+  "author": "Kyle Barron <kyle@developmentseed.org>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://developmentseed.org/obstore",
+  "download_filename": "obstore-0.7.1-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-07-24T19:00:27.950588",
+  "package_url": "https://pypi.org/project/obstore/"
+}
