@@ -1,0 +1,11 @@
+{
+  "name": "ory-client",
+  "version": "1.21.0",
+  "summary": "Ory APIs",
+  "author": "API Support",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ory/sdk",
+  "download_filename": "ory-client-1.21.0.tar.gz",
+  "download_time": "2025-07-24T08:32:29.880522",
+  "package_url": "https://pypi.org/project/ory-client/"
+}

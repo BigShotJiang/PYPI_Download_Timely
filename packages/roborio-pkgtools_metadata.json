@@ -1,0 +1,11 @@
+{
+  "name": "roborio-pkgtools",
+  "version": "0.3.3",
+  "summary": "Tools for creating roboRIO packages for the RobotPy project",
+  "author": "Dustin Spicuzza",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/robotpy/roborio-pkgtools",
+  "download_filename": "roborio_pkgtools-0.3.3.tar.gz",
+  "download_time": "2025-07-24T08:32:54.222987",
+  "package_url": "https://pypi.org/project/roborio-pkgtools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aioairzone-cloud",
+  "version": "0.7.0",
+  "summary": "Library to control Airzone Cloud devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aioairzone_cloud-0.7.0.tar.gz",
+  "download_time": "2025-07-24T08:32:13.892164",
+  "package_url": "https://pypi.org/project/aioairzone-cloud/"
+}

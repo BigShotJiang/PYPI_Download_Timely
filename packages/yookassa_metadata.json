@@ -1,0 +1,11 @@
+{
+  "name": "yookassa",
+  "version": "3.6.0",
+  "summary": "YooKassa API SDK Python Library",
+  "author": "YooMoney",
+  "license": "MIT",
+  "home_page": "https://git.yoomoney.ru/projects/SDK/repos/yookassa-sdk-python",
+  "download_filename": "yookassa-3.6.0.tar.gz",
+  "download_time": "2025-07-24T08:32:06.916539",
+  "package_url": "https://pypi.org/project/yookassa/"
+}

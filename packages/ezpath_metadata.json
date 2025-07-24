@@ -1,0 +1,11 @@
+{
+  "name": "ezpath",
+  "version": "1.7",
+  "summary": "Turn-Key solution to manage paths relative to the current file",
+  "author": "Vittorio Pascucci",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezpath-1.7.tar.gz",
+  "download_time": "2025-07-24T08:32:22.270609",
+  "package_url": "https://pypi.org/project/ezpath/"
+}

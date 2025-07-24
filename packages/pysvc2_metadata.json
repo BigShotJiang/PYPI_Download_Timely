@@ -1,0 +1,11 @@
+{
+  "name": "pysvc2",
+  "version": "2.0.2",
+  "summary": "IBM Spectrum Virtualize Python Client",
+  "author": "CSI Block",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/IBM/pysvc",
+  "download_filename": "pysvc2-2.0.2.tar.gz",
+  "download_time": "2025-07-24T08:32:30.979073",
+  "package_url": "https://pypi.org/project/pysvc2/"
+}

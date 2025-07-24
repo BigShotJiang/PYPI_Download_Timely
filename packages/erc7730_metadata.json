@@ -1,0 +1,11 @@
+{
+  "name": "erc7730",
+  "version": "0.3.9",
+  "summary": "ERC-7730 descriptors validation and utilities.",
+  "author": "Ledger",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "erc7730-0.3.9.tar.gz",
+  "download_time": "2025-07-24T08:32:38.784948",
+  "package_url": "https://pypi.org/project/erc7730/"
+}

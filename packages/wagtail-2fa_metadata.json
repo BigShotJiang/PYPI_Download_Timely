@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-2fa",
+  "version": "1.7.1",
+  "summary": "Two factor authentication for Wagtail",
+  "author": "Lab Digital",
+  "license": "MIT",
+  "home_page": "https://github.com/LabD/wagtail-2fa",
+  "download_filename": "wagtail-2fa-1.7.1.tar.gz",
+  "download_time": "2025-07-24T08:32:16.590823",
+  "package_url": "https://pypi.org/project/wagtail-2fa/"
+}

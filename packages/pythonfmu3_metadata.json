@@ -1,0 +1,11 @@
+{
+  "name": "pythonfmu3",
+  "version": "0.3.1",
+  "summary": "A lightweight framework that enables the packaging of Python3.x code as co-simulation FMUs.",
+  "author": "Stephen Smith",
+  "license": "MIT",
+  "home_page": "https://github.com/stephensmith25/PythonFMU3",
+  "download_filename": "pythonfmu3-0.3.1.tar.gz",
+  "download_time": "2025-07-24T08:32:51.043081",
+  "package_url": "https://pypi.org/project/pythonfmu3/"
+}

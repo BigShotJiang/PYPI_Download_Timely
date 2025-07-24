@@ -1,0 +1,11 @@
+{
+  "name": "InnoControl",
+  "version": "0.1.4",
+  "summary": "Lib for Innopolis Robotics Lab control platforms",
+  "author": "Dungeon team",
+  "license": null,
+  "home_page": "https://github.com/IU-Capstone-Project-2025/total_control",
+  "download_filename": "InnoControl-0.1.4.tar.gz",
+  "download_time": "2025-07-24T08:32:10.692280",
+  "package_url": "https://pypi.org/project/InnoControl/"
+}

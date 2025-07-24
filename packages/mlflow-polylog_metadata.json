@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-polylog",
+  "version": "0.0.1",
+  "summary": "A polymorphic model logging utility for MLflow that enables seamless logging of machine learning models from various libraries without requiring explicit type specification or installation of all supported frameworks. It dynamically detects installed libraries and maps model types to the appropriate MLflow logging functions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlflow_polylog-0.0.1.tar.gz",
+  "download_time": "2025-07-24T08:32:23.897236",
+  "package_url": "https://pypi.org/project/mlflow-polylog/"
+}

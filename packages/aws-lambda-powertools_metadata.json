@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda-powertools",
+  "version": "3.17.0",
+  "summary": "Powertools for AWS Lambda (Python) is a developer toolkit to implement Serverless best practices and increase developer velocity.",
+  "author": "Amazon Web Services",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_lambda_powertools-3.17.0.tar.gz",
+  "download_time": "2025-07-24T08:32:51.574115",
+  "package_url": "https://pypi.org/project/aws-lambda-powertools/"
+}

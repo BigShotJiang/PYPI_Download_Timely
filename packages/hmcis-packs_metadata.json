@@ -1,11 +1,11 @@
 {
   "name": "hmcis-packs",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "This project aims to be HMCIS Pack for date muggling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hmcis_packs-0.1.11.tar.gz",
-  "download_time": "2025-07-24T06:20:42.429358",
+  "download_filename": "hmcis_packs-0.1.13.tar.gz",
+  "download_time": "2025-07-24T08:32:41.442698",
   "package_url": "https://pypi.org/project/hmcis-packs/"
 }

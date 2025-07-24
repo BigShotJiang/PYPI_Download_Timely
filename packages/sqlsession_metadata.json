@@ -1,0 +1,11 @@
+{
+  "name": "sqlsession",
+  "version": "0.1.46",
+  "summary": "Dirt simple CRUD API to access SQL databases",
+  "author": "Peter Facka",
+  "license": "MIT Licence (http://opensource.org/licenses/MIT)",
+  "home_page": "https://github.com/spookyowl/sqlsession",
+  "download_filename": "sqlsession-0.1.46.tar.gz",
+  "download_time": "2025-07-24T08:32:18.218206",
+  "package_url": "https://pypi.org/project/sqlsession/"
+}

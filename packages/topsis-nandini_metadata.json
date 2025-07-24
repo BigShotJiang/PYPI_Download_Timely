@@ -1,11 +1,11 @@
 {
   "name": "topsis-nandini",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "TOPSIS implementation for multi-criteria decision making",
   "author": "Nandini Shekhar",
   "license": null,
   "home_page": null,
-  "download_filename": "topsis_nandini-0.1.5.tar.gz",
-  "download_time": "2025-07-24T06:20:57.192820",
+  "download_filename": "topsis_nandini-0.1.6.tar.gz",
+  "download_time": "2025-07-24T08:32:19.849149",
   "package_url": "https://pypi.org/project/topsis-nandini/"
 }
