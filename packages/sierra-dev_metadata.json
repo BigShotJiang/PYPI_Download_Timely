@@ -1,11 +1,11 @@
 {
   "name": "sierra-dev",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A framework for building and managing invoker scripts across different nodes in Sierra.",
   "author": "Xsyncio",
   "license": null,
   "home_page": "https://github.com/xsyncio/sierra-dev",
-  "download_filename": "sierra_dev-0.1.3.tar.gz",
-  "download_time": "2025-07-24T06:20:45.635123",
+  "download_filename": "sierra_dev-0.1.4.tar.gz",
+  "download_time": "2025-07-24T17:47:02.713774",
   "package_url": "https://pypi.org/project/sierra-dev/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "realmath",
-  "version": "0.0.0",
-  "summary": null,
-  "author": null,
+  "version": "1.0",
+  "summary": "A smart math rounding library",
+  "author": "Benyamin Ghaem",
   "license": null,
   "home_page": null,
-  "download_filename": "realmath-0.0.0.tar.gz",
-  "download_time": "2025-07-24T16:54:03.861886",
+  "download_filename": "realmath-1.0.tar.gz",
+  "download_time": "2025-07-24T17:47:34.607561",
   "package_url": "https://pypi.org/project/realmath/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-emr-serverless-spark20230808",
+  "version": "1.12.1",
+  "summary": "Alibaba Cloud emr-serverless-spark (20230808) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_emr-serverless-spark20230808-1.12.1.tar.gz",
+  "download_time": "2025-07-24T17:47:24.353065",
+  "package_url": "https://pypi.org/project/alibabacloud-emr-serverless-spark20230808/"
+}

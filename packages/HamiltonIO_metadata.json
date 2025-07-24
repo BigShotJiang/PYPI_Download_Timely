@@ -1,0 +1,11 @@
+{
+  "name": "HamiltonIO",
+  "version": "0.2.5",
+  "summary": "A library for reading/writting Hamiltonian with localized basis set.",
+  "author": null,
+  "license": "BSD-2",
+  "home_page": null,
+  "download_filename": "hamiltonio-0.2.5.tar.gz",
+  "download_time": "2025-07-24T17:47:34.034934",
+  "package_url": "https://pypi.org/project/HamiltonIO/"
+}

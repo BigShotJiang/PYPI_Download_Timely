@@ -1,0 +1,11 @@
+{
+  "name": "avulto",
+  "version": "0.1.16",
+  "summary": "A Python API for working with BYOND projects.",
+  "author": "Warriorstar Orion <orion@snowfrost.garden>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "avulto-0.1.16.tar.gz",
+  "download_time": "2025-07-24T17:47:11.003339",
+  "package_url": "https://pypi.org/project/avulto/"
+}

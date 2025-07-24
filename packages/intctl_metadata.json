@@ -1,11 +1,11 @@
 {
   "name": "intctl",
-  "version": "1.0.14",
+  "version": "1.0.16",
   "summary": "INTELLITHING Bootstrap CLI for provisioning cloud resources",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "intctl-1.0.14.tar.gz",
-  "download_time": "2025-07-24T17:21:57.179905",
+  "download_filename": "intctl-1.0.16.tar.gz",
+  "download_time": "2025-07-24T17:47:06.228720",
   "package_url": "https://pypi.org/project/intctl/"
 }

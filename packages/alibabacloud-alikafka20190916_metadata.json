@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-alikafka20190916",
+  "version": "2.12.1",
+  "summary": "Alibaba Cloud MQ for Kafka (20190916) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_alikafka20190916-2.12.1.tar.gz",
+  "download_time": "2025-07-24T17:47:22.034953",
+  "package_url": "https://pypi.org/project/alibabacloud-alikafka20190916/"
+}

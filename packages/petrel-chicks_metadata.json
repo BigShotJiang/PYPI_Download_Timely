@@ -1,11 +1,11 @@
 {
   "name": "petrel-chicks",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A module to petrel_chicks",
   "author": "Ciencia de Datos • GECI",
   "license": null,
   "home_page": "https://github.com/IslasGECI/petrel_chicks",
-  "download_filename": "petrel_chicks-0.5.1.tar.gz",
-  "download_time": "2025-07-24T16:53:46.177649",
+  "download_filename": "petrel_chicks-0.5.2.tar.gz",
+  "download_time": "2025-07-24T17:47:19.131025",
   "package_url": "https://pypi.org/project/petrel-chicks/"
 }

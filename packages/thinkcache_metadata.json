@@ -1,0 +1,11 @@
+{
+  "name": "thinkcache",
+  "version": "0.1.0",
+  "summary": "A high-performance semantic caching system with FAISS vector similarity search for LLMs",
+  "author": "Chris Olande",
+  "license": "MIT",
+  "home_page": "https://github.com/Chrisolande/langchain-semantic-cache",
+  "download_filename": "thinkcache-0.1.0.tar.gz",
+  "download_time": "2025-07-24T17:47:17.261971",
+  "package_url": "https://pypi.org/project/thinkcache/"
+}

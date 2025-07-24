@@ -1,0 +1,11 @@
+{
+  "name": "smooth-criminal",
+  "version": "0.4.0",
+  "summary": "Dashboard de análisis de rendimiento con decoradores inteligentes",
+  "author": "Adolfo González",
+  "license": null,
+  "home_page": "https://github.com/Alphonsus411/smooth_criminal",
+  "download_filename": "smooth_criminal-0.4.0.tar.gz",
+  "download_time": "2025-07-24T17:47:26.074456",
+  "package_url": "https://pypi.org/project/smooth-criminal/"
+}

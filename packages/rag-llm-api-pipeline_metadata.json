@@ -1,0 +1,11 @@
+{
+  "name": "rag-llm-api-pipeline",
+  "version": "0.2.0",
+  "summary": "Multimodal RAG pipeline for low-compute, local, real-world deployment",
+  "author": "pkbythebay29",
+  "license": null,
+  "home_page": "https://github.com/pkbythebay29/ot-rag-llm-api",
+  "download_filename": "rag_llm_api_pipeline-0.2.0.tar.gz",
+  "download_time": "2025-07-24T17:47:00.359464",
+  "package_url": "https://pypi.org/project/rag-llm-api-pipeline/"
+}

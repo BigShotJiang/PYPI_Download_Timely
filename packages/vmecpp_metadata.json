@@ -1,0 +1,11 @@
+{
+  "name": "vmecpp",
+  "version": "0.4.6",
+  "summary": "Proxima Fusion's reimplementation of the Variational Moments Equilibrium Code (VMEC), a free-boundary ideal-MHD equilibrium solver for stellarators and Tokamaks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmecpp-0.4.6.tar.gz",
+  "download_time": "2025-07-24T17:47:16.113187",
+  "package_url": "https://pypi.org/project/vmecpp/"
+}

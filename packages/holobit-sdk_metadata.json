@@ -1,0 +1,11 @@
+{
+  "name": "holobit-sdk",
+  "version": "1.0.8",
+  "summary": "SDK para arquitectura holográfica avanzada",
+  "author": "Adolfo González Hernández",
+  "license": "MIT",
+  "home_page": "https://github.com/Alphonsus411/holobit_SDK",
+  "download_filename": "holobit_sdk-1.0.8.tar.gz",
+  "download_time": "2025-07-24T17:47:29.500148",
+  "package_url": "https://pypi.org/project/holobit-sdk/"
+}

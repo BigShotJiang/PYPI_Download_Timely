@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-partner",
+  "version": "18.0.1.0.1",
+  "summary": "=?utf-8?q?Adaptaci=C3=B3n_de_los_clientes=2C_proveedores_y_bancos_para_Espa=C3=B1a?=",
+  "author": "ZikZak,Acysos,Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_partner-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-07-24T17:46:53.487518",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-partner/"
+}

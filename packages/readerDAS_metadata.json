@@ -1,0 +1,11 @@
+{
+  "name": "readerDAS",
+  "version": "1.1.5",
+  "summary": "Package to load files saved by Cohaerentia DAS Interrogator.",
+  "author": "Marco Brunero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "readerdas-1.1.5.tar.gz",
+  "download_time": "2025-07-24T17:46:58.691458",
+  "package_url": "https://pypi.org/project/readerDAS/"
+}

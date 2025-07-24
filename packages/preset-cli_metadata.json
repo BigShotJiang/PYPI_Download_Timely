@@ -1,0 +1,11 @@
+{
+  "name": "preset-cli",
+  "version": "0.3.7",
+  "summary": "A CLI to interact with Preset (https://preset.io/) workspaces.",
+  "author": "Beto Dealmeida",
+  "license": "Other/Proprietary License",
+  "home_page": "https://github.com/preset-io/backend-sdk",
+  "download_filename": "preset_cli-0.3.7.tar.gz",
+  "download_time": "2025-07-24T17:47:31.347589",
+  "package_url": "https://pypi.org/project/preset-cli/"
+}

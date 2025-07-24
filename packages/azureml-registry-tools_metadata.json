@@ -1,0 +1,11 @@
+{
+  "name": "azureml-registry-tools",
+  "version": "0.1.0a8",
+  "summary": "AzureML Registry tools and CLI",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": null,
+  "download_filename": "azureml_registry_tools-0.1.0a8.tar.gz",
+  "download_time": "2025-07-24T17:47:09.742931",
+  "package_url": "https://pypi.org/project/azureml-registry-tools/"
+}

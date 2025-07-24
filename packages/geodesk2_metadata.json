@@ -1,0 +1,11 @@
+{
+  "name": "geodesk2",
+  "version": "2.0.1",
+  "summary": "Fast and storage-efficient spatial database engine for OpenStreetMap features",
+  "author": "Clarisma / GeoDesk contributors",
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "geodesk2-2.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-07-24T17:47:22.622766",
+  "package_url": "https://pypi.org/project/geodesk2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydmt",
+  "version": "0.3.27",
+  "summary": "Python dependency management tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydmt-0.3.27.tar.gz",
+  "download_time": "2025-07-24T17:47:33.518910",
+  "package_url": "https://pypi.org/project/pydmt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qbench",
+  "version": "0.1.1",
+  "summary": "Python SDK for QBench LIMS API",
+  "author": "Smithers",
+  "license": null,
+  "home_page": "https://github.com/nwilliams-cts/qbench",
+  "download_filename": "qbench-0.1.1.tar.gz",
+  "download_time": "2025-07-24T17:47:05.022147",
+  "package_url": "https://pypi.org/project/qbench/"
+}

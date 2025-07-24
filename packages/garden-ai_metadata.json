@@ -1,0 +1,11 @@
+{
+  "name": "garden-ai",
+  "version": "3.1.5",
+  "summary": "Garden: tools to simplify access to scientific AI advances.",
+  "author": "Garden Team",
+  "license": "MIT",
+  "home_page": "https://thegardens.ai",
+  "download_filename": "garden_ai-3.1.5.tar.gz",
+  "download_time": "2025-07-24T17:47:06.803687",
+  "package_url": "https://pypi.org/project/garden-ai/"
+}

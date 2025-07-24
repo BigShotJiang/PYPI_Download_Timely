@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-computenest20210601",
+  "version": "4.1.5",
+  "summary": "Alibaba Cloud ComputeNest (20210601) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_computenest20210601-4.1.5.tar.gz",
+  "download_time": "2025-07-24T17:47:14.382984",
+  "package_url": "https://pypi.org/project/alibabacloud-computenest20210601/"
+}
