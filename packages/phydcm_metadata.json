@@ -1,11 +1,11 @@
 {
   "name": "phydcm",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A Python package for medical image analysis",
-  "author": null,
+  "author": "PhyDCM Team",
   "license": null,
   "home_page": null,
-  "download_filename": "phydcm-0.1.2.tar.gz",
-  "download_time": "2025-07-24T17:47:16.688851",
+  "download_filename": "phydcm-0.1.4.tar.gz",
+  "download_time": "2025-07-24T18:34:19.303542",
   "package_url": "https://pypi.org/project/phydcm/"
 }

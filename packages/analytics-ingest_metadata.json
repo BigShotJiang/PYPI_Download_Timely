@@ -1,11 +1,11 @@
 {
   "name": "analytics-ingest",
-  "version": "0.1.60",
+  "version": "0.1.65",
   "summary": "- Signal validation added before GraphQL call to avoid unnecessary request failures.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "analytics_ingest-0.1.60.tar.gz",
-  "download_time": "2025-07-24T17:47:27.785667",
+  "download_filename": "analytics_ingest-0.1.65.tar.gz",
+  "download_time": "2025-07-24T18:34:30.148423",
   "package_url": "https://pypi.org/project/analytics-ingest/"
 }
