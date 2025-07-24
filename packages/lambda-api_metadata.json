@@ -1,0 +1,11 @@
+{
+  "name": "lambda-api",
+  "version": "5.2.0",
+  "summary": "Minimal Web API for lambdas",
+  "author": "liava",
+  "license": null,
+  "home_page": "https://github.com/Quartz-Vision/python-lambda-api",
+  "download_filename": "lambda_api-5.2.0.tar.gz",
+  "download_time": "2025-07-24T14:00:10.041776",
+  "package_url": "https://pypi.org/project/lambda-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "moat-link-server",
+  "version": "0.3.0",
+  "summary": "Storage for messages between MoaT instances",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_link_server-0.3.0.tar.gz",
+  "download_time": "2025-07-24T13:59:57.622328",
+  "package_url": "https://pypi.org/project/moat-link-server/"
+}

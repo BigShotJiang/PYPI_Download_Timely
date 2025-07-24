@@ -1,0 +1,11 @@
+{
+  "name": "socket-cyg",
+  "version": "1.3.0",
+  "summary": "CYG socket 封装",
+  "author": "LiuWei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "socket_cyg-1.3.0.tar.gz",
+  "download_time": "2025-07-24T14:00:24.066239",
+  "package_url": "https://pypi.org/project/socket-cyg/"
+}

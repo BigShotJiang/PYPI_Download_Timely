@@ -1,0 +1,11 @@
+{
+  "name": "custom-app-momo",
+  "version": "4.3.3",
+  "summary": "Générateur de structure d'app Django personnalisée",
+  "author": "Mohamed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "custom_app_momo-4.3.3.tar.gz",
+  "download_time": "2025-07-24T14:00:26.967029",
+  "package_url": "https://pypi.org/project/custom-app-momo/"
+}

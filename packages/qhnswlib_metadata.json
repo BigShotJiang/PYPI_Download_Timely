@@ -1,0 +1,11 @@
+{
+  "name": "qhnswlib",
+  "version": "0.8.0",
+  "summary": "HNSW library with int8 quantization support",
+  "author": "Yury Malkov and others",
+  "license": null,
+  "home_page": "https://github.com/supasearch-ai/qhnswlib",
+  "download_filename": "qhnswlib-0.8.0.tar.gz",
+  "download_time": "2025-07-24T13:59:51.364033",
+  "package_url": "https://pypi.org/project/qhnswlib/"
+}

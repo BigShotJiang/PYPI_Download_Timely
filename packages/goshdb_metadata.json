@@ -1,0 +1,11 @@
+{
+  "name": "goshdb",
+  "version": "0.4.0",
+  "summary": "GOogle SHeets DataBase - Python client to key-value database based on Google Sheets",
+  "author": "Artyom Vorobyov",
+  "license": "MIT",
+  "home_page": "https://github.com/artoby/goshdb",
+  "download_filename": "goshdb-0.4.0.tar.gz",
+  "download_time": "2025-07-24T14:00:28.168441",
+  "package_url": "https://pypi.org/project/goshdb/"
+}

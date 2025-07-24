@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-interface-logger-plugins",
+  "version": "1.2.4",
+  "summary": "Logger plugin interface for snakemake",
+  "author": "Cade Mirchandani, Christopher Tomkins-Tinch, Johannes Köster",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake_interface_logger_plugins-1.2.4.tar.gz",
+  "download_time": "2025-07-24T14:00:05.195805",
+  "package_url": "https://pypi.org/project/snakemake-interface-logger-plugins/"
+}
