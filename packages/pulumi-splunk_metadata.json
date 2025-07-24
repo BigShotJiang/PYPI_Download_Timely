@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-splunk",
+  "version": "1.2.19",
+  "summary": "A Pulumi package for creating and managing splunk cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_splunk-1.2.19.tar.gz",
+  "download_time": "2025-07-24T07:32:28.571086",
+  "package_url": "https://pypi.org/project/pulumi-splunk/"
+}

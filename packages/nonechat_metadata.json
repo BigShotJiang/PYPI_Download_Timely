@@ -1,0 +1,11 @@
+{
+  "name": "nonechat",
+  "version": "0.6.1",
+  "summary": "Awesome chat console using Textual",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonechat-0.6.1.tar.gz",
+  "download_time": "2025-07-24T07:32:15.794295",
+  "package_url": "https://pypi.org/project/nonechat/"
+}

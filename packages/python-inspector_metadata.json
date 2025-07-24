@@ -1,0 +1,11 @@
+{
+  "name": "python-inspector",
+  "version": "0.14.3",
+  "summary": "python-inspector is is a collection of utilities to collect PyPI package metadata and resolve packages dependencies.",
+  "author": "nexB. Inc. and others",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aboutcode-org/python-inspector",
+  "download_filename": "python_inspector-0.14.3.tar.gz",
+  "download_time": "2025-07-24T07:32:18.083874",
+  "package_url": "https://pypi.org/project/python-inspector/"
+}

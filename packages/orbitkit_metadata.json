@@ -1,0 +1,11 @@
+{
+  "name": "orbitkit",
+  "version": "0.8.18",
+  "summary": "This project is only for Orbit Tech internal use.",
+  "author": "Lilu Cao",
+  "license": "MIT License",
+  "home_page": "https://github.com/clown-0726/orbitkit",
+  "download_filename": "orbitkit-0.8.18.tar.gz",
+  "download_time": "2025-07-24T07:32:10.658943",
+  "package_url": "https://pypi.org/project/orbitkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-dsl-ssh",
+  "version": "0.1.1",
+  "summary": "SSH/SFTP关键字插件，为pytest-dsl提供SSH和SFTP操作能力",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_dsl_ssh-0.1.1.tar.gz",
+  "download_time": "2025-07-24T07:31:50.285209",
+  "package_url": "https://pypi.org/project/pytest-dsl-ssh/"
+}

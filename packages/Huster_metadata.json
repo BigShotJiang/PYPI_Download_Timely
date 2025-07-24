@@ -1,0 +1,11 @@
+{
+  "name": "Huster",
+  "version": "0.0.6",
+  "summary": "HTTP Uploading Server Tool.",
+  "author": "ZQPei",
+  "license": "MIT",
+  "home_page": "https://github.com/ZQPei/Huster",
+  "download_filename": "huster-0.0.6-py3-none-any.whl",
+  "download_time": "2025-07-24T07:32:08.932166",
+  "package_url": "https://pypi.org/project/Huster/"
+}

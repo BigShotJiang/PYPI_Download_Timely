@@ -1,0 +1,11 @@
+{
+  "name": "fun-sentence-splitter",
+  "version": "0.3.387",
+  "summary": "A fundamental sentence splitter based on spacy.",
+  "author": "Medical AI Engineering",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fun_sentence_splitter-0.3.387.tar.gz",
+  "download_time": "2025-07-24T07:31:53.735735",
+  "package_url": "https://pypi.org/project/fun-sentence-splitter/"
+}

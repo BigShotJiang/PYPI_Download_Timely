@@ -1,0 +1,11 @@
+{
+  "name": "easyfileio",
+  "version": "1.1.2",
+  "summary": "an easy way to read and write files in python",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/plzgivemeajob/easyfileio",
+  "download_filename": "easyfileio-1.1.2.tar.gz",
+  "download_time": "2025-07-24T07:32:29.696558",
+  "package_url": "https://pypi.org/project/easyfileio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-gradientai-narsi",
+  "version": "0.1.3",
+  "summary": "An integration package connecting Digitalocean and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/bnarasimha21/langchain-gradientai-narsi",
+  "download_filename": "langchain_gradientai_narsi-0.1.3.tar.gz",
+  "download_time": "2025-07-24T07:31:44.544916",
+  "package_url": "https://pypi.org/project/langchain-gradientai-narsi/"
+}

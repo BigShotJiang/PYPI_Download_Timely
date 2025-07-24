@@ -1,0 +1,11 @@
+{
+  "name": "wav-loo",
+  "version": "1.0.3",
+  "summary": "A multi-tool: find WAV files, plus kgn/gp/uv alias commands",
+  "author": "liuliang",
+  "license": "MIT",
+  "home_page": "https://github.com/ioyy900205/loolang_tools",
+  "download_filename": "wav_loo-1.0.3.tar.gz",
+  "download_time": "2025-07-24T07:32:25.006296",
+  "package_url": "https://pypi.org/project/wav-loo/"
+}

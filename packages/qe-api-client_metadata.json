@@ -1,0 +1,11 @@
+{
+  "name": "qe-api-client",
+  "version": "2.9.0",
+  "summary": "Python client for the Qlik Engine JSON API",
+  "author": "Rumen Vasilev",
+  "license": null,
+  "home_page": "https://github.com/lr-bicc/qe-api-client",
+  "download_filename": "qe_api_client-2.9.0.tar.gz",
+  "download_time": "2025-07-24T07:32:19.275434",
+  "package_url": "https://pypi.org/project/qe-api-client/"
+}

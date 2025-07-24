@@ -1,0 +1,11 @@
+{
+  "name": "shadowseal",
+  "version": "1.0.3",
+  "summary": "Secure Python encryption and execution framework",
+  "author": "Monarch of Shadows",
+  "license": null,
+  "home_page": "https://github.com/AFTeam-Owner/shadowseal",
+  "download_filename": "shadowseal-1.0.3.tar.gz",
+  "download_time": "2025-07-24T07:32:05.428186",
+  "package_url": "https://pypi.org/project/shadowseal/"
+}

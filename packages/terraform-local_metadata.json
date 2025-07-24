@@ -1,0 +1,11 @@
+{
+  "name": "terraform-local",
+  "version": "0.24.1",
+  "summary": "Thin wrapper script to run Terraform against LocalStack",
+  "author": "LocalStack Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/localstack/terraform-local",
+  "download_filename": "terraform_local-0.24.1.tar.gz",
+  "download_time": "2025-07-24T07:31:57.140526",
+  "package_url": "https://pypi.org/project/terraform-local/"
+}

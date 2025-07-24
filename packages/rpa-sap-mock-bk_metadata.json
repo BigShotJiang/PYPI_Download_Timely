@@ -1,0 +1,11 @@
+{
+  "name": "rpa-sap-mock-bk",
+  "version": "0.1.2",
+  "summary": "Robot Framework library for SAP Cloud SDK APIs",
+  "author": "Minh Chiến",
+  "license": null,
+  "home_page": "https://github.com/chiencse/rpa-sap",
+  "download_filename": "rpa_sap_mock_bk-0.1.2.tar.gz",
+  "download_time": "2025-07-24T07:32:04.291592",
+  "package_url": "https://pypi.org/project/rpa-sap-mock-bk/"
+}

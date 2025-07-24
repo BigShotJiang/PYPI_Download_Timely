@@ -1,0 +1,11 @@
+{
+  "name": "rich-pyfiglet",
+  "version": "0.2.0",
+  "summary": "A library that wraps PyFiglet with the Rich library for rendering ASCII art in the terminal.",
+  "author": "edward-jazzhands",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rich_pyfiglet-0.2.0.tar.gz",
+  "download_time": "2025-07-24T07:32:11.224740",
+  "package_url": "https://pypi.org/project/rich-pyfiglet/"
+}

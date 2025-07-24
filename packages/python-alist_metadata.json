@@ -1,0 +1,11 @@
+{
+  "name": "python-alist",
+  "version": "0.0.14",
+  "summary": "Python wrapper for alist.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-alist",
+  "download_filename": "python_alist-0.0.14.tar.gz",
+  "download_time": "2025-07-24T07:31:49.150017",
+  "package_url": "https://pypi.org/project/python-alist/"
+}
