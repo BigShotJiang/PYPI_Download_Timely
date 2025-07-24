@@ -1,0 +1,11 @@
+{
+  "name": "grpcio-status",
+  "version": "1.74.0",
+  "summary": "Status proto mapping for gRPC",
+  "author": "The gRPC Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://grpc.io",
+  "download_filename": "grpcio_status-1.74.0.tar.gz",
+  "download_time": "2025-07-24T19:26:34.098924",
+  "package_url": "https://pypi.org/project/grpcio-status/"
+}

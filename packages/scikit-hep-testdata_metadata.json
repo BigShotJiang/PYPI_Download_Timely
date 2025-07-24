@@ -1,0 +1,11 @@
+{
+  "name": "scikit-hep-testdata",
+  "version": "0.5.8",
+  "summary": "Example HEP files for testing and demonstrating",
+  "author": "Ben Krikler",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/scikit-hep/scikit-hep-testdata",
+  "download_filename": "scikit_hep_testdata-0.5.8.tar.gz",
+  "download_time": "2025-07-24T19:26:31.010560",
+  "package_url": "https://pypi.org/project/scikit-hep-testdata/"
+}

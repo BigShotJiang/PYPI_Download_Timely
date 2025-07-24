@@ -1,0 +1,11 @@
+{
+  "name": "flywheel-bids",
+  "version": "1.2.31",
+  "summary": "Flywheel BIDS Client",
+  "author": "Flywheel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flywheel_bids-1.2.31-py3-none-any.whl",
+  "download_time": "2025-07-24T19:26:17.062039",
+  "package_url": "https://pypi.org/project/flywheel-bids/"
+}

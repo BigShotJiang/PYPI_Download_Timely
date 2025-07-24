@@ -1,0 +1,11 @@
+{
+  "name": "grpcio-csds",
+  "version": "1.74.0",
+  "summary": "xDS configuration dump library",
+  "author": "The gRPC Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://grpc.io",
+  "download_filename": "grpcio_csds-1.74.0.tar.gz",
+  "download_time": "2025-07-24T19:26:33.070849",
+  "package_url": "https://pypi.org/project/grpcio-csds/"
+}

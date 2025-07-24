@@ -1,0 +1,11 @@
+{
+  "name": "odxtools",
+  "version": "10.6.0",
+  "summary": "Utilities to work with the ODX standard for automotive diagnostics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odxtools-10.6.0-py3-none-any.whl",
+  "download_time": "2025-07-24T19:26:16.034026",
+  "package_url": "https://pypi.org/project/odxtools/"
+}

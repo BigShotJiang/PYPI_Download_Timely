@@ -1,0 +1,11 @@
+{
+  "name": "grpcio-tools",
+  "version": "1.74.0",
+  "summary": "Protobuf code generator for gRPC",
+  "author": "The gRPC Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://grpc.io",
+  "download_filename": "grpcio_tools-1.74.0.tar.gz",
+  "download_time": "2025-07-24T19:26:38.866790",
+  "package_url": "https://pypi.org/project/grpcio-tools/"
+}

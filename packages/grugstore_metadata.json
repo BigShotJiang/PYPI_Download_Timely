@@ -1,0 +1,11 @@
+{
+  "name": "grugstore",
+  "version": "0.1.3",
+  "summary": "Simplest possible content-addressable file store for blobs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grugstore-0.1.3.tar.gz",
+  "download_time": "2025-07-24T19:26:40.931083",
+  "package_url": "https://pypi.org/project/grugstore/"
+}

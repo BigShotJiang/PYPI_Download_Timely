@@ -1,0 +1,11 @@
+{
+  "name": "maxai-mcp",
+  "version": "0.2.3",
+  "summary": "MCP server that connects to Max AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxai_mcp-0.2.3.tar.gz",
+  "download_time": "2025-07-24T19:26:46.182442",
+  "package_url": "https://pypi.org/project/maxai-mcp/"
+}

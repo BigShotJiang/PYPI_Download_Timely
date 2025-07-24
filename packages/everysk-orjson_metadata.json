@@ -1,0 +1,11 @@
+{
+  "name": "everysk-orjson",
+  "version": "3.11.2",
+  "summary": "Fast, correct Python JSON library supporting dataclasses, datetimes, numpy, big integers, and special floating-point values.",
+  "author": "Everysk Support <support@everysk.com>",
+  "license": "Apache-2.0 OR MIT",
+  "home_page": null,
+  "download_filename": "everysk_orjson-3.11.2.tar.gz",
+  "download_time": "2025-07-24T19:26:05.666364",
+  "package_url": "https://pypi.org/project/everysk-orjson/"
+}

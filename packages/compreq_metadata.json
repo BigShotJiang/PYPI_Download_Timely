@@ -1,0 +1,11 @@
+{
+  "name": "compreq",
+  "version": "0.3.3",
+  "summary": "A library for dynamically computing Python requirements, to keep them up-to-date.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "compreq-0.3.3.tar.gz",
+  "download_time": "2025-07-24T19:26:11.422579",
+  "package_url": "https://pypi.org/project/compreq/"
+}

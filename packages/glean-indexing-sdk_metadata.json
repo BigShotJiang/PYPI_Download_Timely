@@ -1,0 +1,11 @@
+{
+  "name": "glean-indexing-sdk",
+  "version": "0.2.0",
+  "summary": "SDK for building custom Glean indexing integrations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glean_indexing_sdk-0.2.0.tar.gz",
+  "download_time": "2025-07-24T19:26:16.546169",
+  "package_url": "https://pypi.org/project/glean-indexing-sdk/"
+}

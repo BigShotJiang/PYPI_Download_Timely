@@ -1,0 +1,11 @@
+{
+  "name": "mtbmasker",
+  "version": "0.1.1",
+  "summary": "Generate isolate-specific genome masks for Mycobacterium tuberculosis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtbmasker-0.1.1.tar.gz",
+  "download_time": "2025-07-24T19:26:25.342572",
+  "package_url": "https://pypi.org/project/mtbmasker/"
+}

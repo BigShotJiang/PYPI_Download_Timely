@@ -1,0 +1,11 @@
+{
+  "name": "pkgcheck",
+  "version": "0.10.37",
+  "summary": "pkgcore-based QA utility for ebuild repos",
+  "author": "Marien Zwart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkgcheck-0.10.37.tar.gz",
+  "download_time": "2025-07-24T19:26:12.451650",
+  "package_url": "https://pypi.org/project/pkgcheck/"
+}

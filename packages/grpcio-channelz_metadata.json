@@ -1,0 +1,11 @@
+{
+  "name": "grpcio-channelz",
+  "version": "1.74.0",
+  "summary": "Channel Level Live Debug Information Service for gRPC",
+  "author": "The gRPC Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://grpc.io",
+  "download_filename": "grpcio_channelz-1.74.0.tar.gz",
+  "download_time": "2025-07-24T19:26:29.982523",
+  "package_url": "https://pypi.org/project/grpcio-channelz/"
+}

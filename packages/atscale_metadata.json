@@ -1,0 +1,11 @@
+{
+  "name": "atscale",
+  "version": "3.0.2",
+  "summary": "The AI-Link package created by AtScale",
+  "author": "The AI-Link Development Team at AtScale",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "atscale-3.0.2.tar.gz",
+  "download_time": "2025-07-24T19:26:36.182204",
+  "package_url": "https://pypi.org/project/atscale/"
+}

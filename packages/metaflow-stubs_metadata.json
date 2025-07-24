@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-stubs",
+  "version": "2.16.6",
+  "summary": "Metaflow Stubs: Stubs for the metaflow package",
+  "author": "Metaflow Developers",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "metaflow_stubs-2.16.6.tar.gz",
+  "download_time": "2025-07-24T19:26:29.468932",
+  "package_url": "https://pypi.org/project/metaflow-stubs/"
+}

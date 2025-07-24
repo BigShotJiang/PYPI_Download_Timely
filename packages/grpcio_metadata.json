@@ -1,0 +1,11 @@
+{
+  "name": "grpcio",
+  "version": "1.74.0",
+  "summary": "HTTP/2-based RPC framework",
+  "author": "The gRPC Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://grpc.io",
+  "download_filename": "grpcio-1.74.0-cp310-cp310-linux_armv7l.whl",
+  "download_time": "2025-07-24T19:26:44.633441",
+  "package_url": "https://pypi.org/project/grpcio/"
+}
