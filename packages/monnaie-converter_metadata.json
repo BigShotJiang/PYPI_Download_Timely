@@ -1,0 +1,11 @@
+{
+  "name": "monnaie-converter",
+  "version": "0.1.0",
+  "summary": "Un package Django pour convertir les monnaies avec un formulaire simple",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "monnaie_converter-0.1.0.tar.gz",
+  "download_time": "2025-07-24T20:24:55.794336",
+  "package_url": "https://pypi.org/project/monnaie-converter/"
+}

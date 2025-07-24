@@ -1,0 +1,11 @@
+{
+  "name": "dagster-spark",
+  "version": "0.27.3",
+  "summary": "Package for Spark Dagster framework components.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-spark",
+  "download_filename": "dagster_spark-0.27.3.tar.gz",
+  "download_time": "2025-07-24T20:24:58.503557",
+  "package_url": "https://pypi.org/project/dagster-spark/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "respysive-slide",
+  "version": "1.1.12",
+  "summary": "A Python package that allows you to create interactive presentations using Python, Bootstrap and Reveal.js. Charts from Altair and Plotly can also be added",
+  "author": "fbxyz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "respysive_slide-1.1.12.tar.gz",
+  "download_time": "2025-07-24T20:24:39.483116",
+  "package_url": "https://pypi.org/project/respysive-slide/"
+}

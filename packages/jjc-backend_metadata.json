@@ -1,0 +1,11 @@
+{
+  "name": "jjc-backend",
+  "version": "0.0.1",
+  "summary": "This is the django-backend of JourneyJinks Canvas.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jjc_backend-0.0.1.tar.gz",
+  "download_time": "2025-07-24T20:24:44.914502",
+  "package_url": "https://pypi.org/project/jjc-backend/"
+}

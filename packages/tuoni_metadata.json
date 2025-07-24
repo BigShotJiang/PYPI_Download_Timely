@@ -1,0 +1,11 @@
+{
+  "name": "tuoni",
+  "version": "0.10.4",
+  "summary": "Library to interact with Tuoni C2 API",
+  "author": "Shelldot",
+  "license": "MIT",
+  "home_page": "https://github.com/shell-dot/tuoni-pip",
+  "download_filename": "tuoni-0.10.4.tar.gz",
+  "download_time": "2025-07-24T20:24:28.934508",
+  "package_url": "https://pypi.org/project/tuoni/"
+}

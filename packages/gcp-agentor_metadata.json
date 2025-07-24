@@ -1,0 +1,11 @@
+{
+  "name": "gcp-agentor",
+  "version": "0.1.0",
+  "summary": "A Python library that provides intelligent multi-agent orchestration for Google Cloud Platform. Routes user messages to appropriate agents, manages shared memory via Firestore, and supports agent-to-agent communication using a defined ACP (Agent Communication Protocol).",
+  "author": "GCP Agentor Team",
+  "license": null,
+  "home_page": "https://github.com/your-org/gcp-agentor",
+  "download_filename": "gcp_agentor-0.1.0.tar.gz",
+  "download_time": "2025-07-24T20:24:49.279235",
+  "package_url": "https://pypi.org/project/gcp-agentor/"
+}

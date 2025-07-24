@@ -1,11 +1,11 @@
 {
   "name": "pointr-cloud-v8-mcp-server",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Indoor location assistant using Pointr MCP server to provide QR code navigation for venues.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pointr_cloud_v8_mcp_server-0.1.2.tar.gz",
-  "download_time": "2025-07-24T16:28:05.746556",
+  "download_filename": "pointr_cloud_v8_mcp_server-0.1.3.tar.gz",
+  "download_time": "2025-07-24T20:24:37.859632",
   "package_url": "https://pypi.org/project/pointr-cloud-v8-mcp-server/"
 }
