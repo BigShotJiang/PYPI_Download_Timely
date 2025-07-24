@@ -1,0 +1,11 @@
+{
+  "name": "dwcahandler",
+  "version": "1.0.3",
+  "summary": "Python package to handle Darwin Core Archive (DwCA) operations. This includes creating a DwCA zip file from one or more csvs, reading a DwCA, merge two DwCAs, validate DwCA and delete records from DwCA based on one or more key columns",
+  "author": "Atlas of Living Australia data team",
+  "license": "MPL-1.1",
+  "home_page": null,
+  "download_filename": "dwcahandler-1.0.3.tar.gz",
+  "download_time": "2025-07-24T06:20:58.787822",
+  "package_url": "https://pypi.org/project/dwcahandler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "terminalos",
+  "version": "1.0.2",
+  "summary": "A complete operating system experience in your terminal",
+  "author": "000x",
+  "license": "MIT",
+  "home_page": "https://github.com/000xs/terminalos",
+  "download_filename": "terminalos-1.0.2.tar.gz",
+  "download_time": "2025-07-24T06:20:25.347569",
+  "package_url": "https://pypi.org/project/terminalos/"
+}

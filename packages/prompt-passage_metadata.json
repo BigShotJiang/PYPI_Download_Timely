@@ -1,0 +1,11 @@
+{
+  "name": "prompt-passage",
+  "version": "0.2.4",
+  "summary": "A local proxy for LLMs, providing a unified interface for multiple models and support for identity based authentication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_passage-0.2.4.tar.gz",
+  "download_time": "2025-07-24T06:20:33.383869",
+  "package_url": "https://pypi.org/project/prompt-passage/"
+}

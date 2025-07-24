@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk-cli",
+  "version": "2.1022.0",
+  "summary": "Python wrapper for AWS CDK CLI with smart Node.js runtime management",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/rvben/aws-cdk-cli-py",
+  "download_filename": "aws_cdk_cli-2.1022.0.tar.gz",
+  "download_time": "2025-07-24T06:20:38.180473",
+  "package_url": "https://pypi.org/project/aws-cdk-cli/"
+}

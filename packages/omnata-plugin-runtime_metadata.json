@@ -1,0 +1,11 @@
+{
+  "name": "omnata-plugin-runtime",
+  "version": "0.10.33",
+  "summary": "Classes and common runtime components for building and running Omnata Plugins",
+  "author": "James Weakley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnata_plugin_runtime-0.10.33.tar.gz",
+  "download_time": "2025-07-24T06:20:48.915445",
+  "package_url": "https://pypi.org/project/omnata-plugin-runtime/"
+}

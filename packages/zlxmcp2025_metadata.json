@@ -1,11 +1,11 @@
 {
   "name": "zlxmcp2025",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "ZLX MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zlxmcp2025-0.0.10.tar.gz",
-  "download_time": "2025-07-24T01:05:36.715864",
+  "download_filename": "zlxmcp2025-0.0.11.tar.gz",
+  "download_time": "2025-07-24T06:20:32.846320",
   "package_url": "https://pypi.org/project/zlxmcp2025/"
 }

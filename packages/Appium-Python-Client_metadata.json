@@ -1,0 +1,11 @@
+{
+  "name": "Appium-Python-Client",
+  "version": "5.1.2",
+  "summary": "Python client for Appium",
+  "author": "Isaac Murchie",
+  "license": "Apache 2.0",
+  "home_page": "http://appium.io/",
+  "download_filename": "appium_python_client-5.1.2.tar.gz",
+  "download_time": "2025-07-24T06:20:27.522690",
+  "package_url": "https://pypi.org/project/Appium-Python-Client/"
+}

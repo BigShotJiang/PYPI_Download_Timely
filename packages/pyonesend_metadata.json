@@ -1,0 +1,11 @@
+{
+  "name": "pyonesend",
+  "version": "1.0.0",
+  "summary": "Secure, one-time file/folder transfer with public download links and CLI or importable API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyonesend-1.0.0.tar.gz",
+  "download_time": "2025-07-24T06:20:29.089653",
+  "package_url": "https://pypi.org/project/pyonesend/"
+}

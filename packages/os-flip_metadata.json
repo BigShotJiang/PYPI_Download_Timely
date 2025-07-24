@@ -1,0 +1,11 @@
+{
+  "name": "os-flip",
+  "version": "1.0.4",
+  "summary": "Cross-platform boot OS selector for Linux, Windows, and macOS",
+  "author": "AK",
+  "license": "MIT",
+  "home_page": "https://github.com/AKris15/OS-Flip",
+  "download_filename": "os_flip-1.0.4.tar.gz",
+  "download_time": "2025-07-24T06:20:59.299583",
+  "package_url": "https://pypi.org/project/os-flip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "waterqsvg",
+  "version": "1.1.0",
+  "summary": "专用于从水质监测数据生成SVG热力图的独立Python库",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waterqsvg-1.1.0.tar.gz",
+  "download_time": "2025-07-24T06:20:52.764517",
+  "package_url": "https://pypi.org/project/waterqsvg/"
+}

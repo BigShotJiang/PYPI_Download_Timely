@@ -1,0 +1,11 @@
+{
+  "name": "dootask-tools",
+  "version": "0.0.6",
+  "summary": "DooTask Tools 客户端库",
+  "author": "DooTask Team",
+  "license": null,
+  "home_page": "https://github.com/dootask/dootask-tools",
+  "download_filename": "dootask_tools-0.0.6.tar.gz",
+  "download_time": "2025-07-24T06:20:49.477268",
+  "package_url": "https://pypi.org/project/dootask-tools/"
+}

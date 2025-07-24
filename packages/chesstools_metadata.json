@@ -1,0 +1,11 @@
+{
+  "name": "chesstools",
+  "version": "0.2.4.2",
+  "summary": "A library of tools for writing chess AI's, as well as servers, clients, and any other software that requires a chess engine.",
+  "author": "Mario Balibrera",
+  "license": "MIT License",
+  "home_page": "http://www.mariobalibrera.com/mics",
+  "download_filename": "chesstools-0.2.4.2-py3-none-any.whl",
+  "download_time": "2025-07-24T06:20:44.023661",
+  "package_url": "https://pypi.org/project/chesstools/"
+}
