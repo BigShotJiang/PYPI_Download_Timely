@@ -1,0 +1,11 @@
+{
+  "name": "criteo-api-retailmedia-sdk",
+  "version": "2025.4.0.250724",
+  "summary": "Criteo API SDK",
+  "author": "Criteo",
+  "license": null,
+  "home_page": "https://github.com/criteo/criteo-api-python-sdk",
+  "download_filename": "criteo_api_retailmedia_sdk-2025.4.0.250724.tar.gz",
+  "download_time": "2025-07-24T16:28:32.752073",
+  "package_url": "https://pypi.org/project/criteo-api-retailmedia-sdk/"
+}

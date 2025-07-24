@@ -1,0 +1,11 @@
+{
+  "name": "buildz",
+  "version": "0.9.6",
+  "summary": "配置读写（基于json格式进行简化）、ioc、以及其他工具代码。a json-base file format's read and write code by python, and codes to read and product object from configure file in such format(ioc), and other tool codes",
+  "author": "Zzz",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/buildCodeZ/buildz",
+  "download_filename": "buildz-0.9.6.tar.gz",
+  "download_time": "2025-07-24T16:28:29.689590",
+  "package_url": "https://pypi.org/project/buildz/"
+}

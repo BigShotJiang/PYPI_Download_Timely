@@ -1,0 +1,11 @@
+{
+  "name": "mitosheet",
+  "version": "0.2.37",
+  "summary": "The Mito Spreadsheet",
+  "author": "Mito Sheet",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://trymito.io",
+  "download_filename": "mitosheet-0.2.37.tar.gz",
+  "download_time": "2025-07-24T16:28:33.365931",
+  "package_url": "https://pypi.org/project/mitosheet/"
+}

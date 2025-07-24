@@ -1,0 +1,11 @@
+{
+  "name": "py-config-ai",
+  "version": "1.0.0",
+  "summary": "AI-powered configuration file generator for developers with natural language processing and context-aware generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_config_ai-1.0.0.tar.gz",
+  "download_time": "2025-07-24T16:28:15.082550",
+  "package_url": "https://pypi.org/project/py-config-ai/"
+}

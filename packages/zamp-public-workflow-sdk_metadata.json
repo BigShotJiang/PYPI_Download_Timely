@@ -1,0 +1,11 @@
+{
+  "name": "zamp-public-workflow-sdk",
+  "version": "0.0.109",
+  "summary": "Workflow Manager",
+  "author": "Zamp Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/zamp-engineering/workflow_manager",
+  "download_filename": "zamp_public_workflow_sdk-0.0.109.tar.gz",
+  "download_time": "2025-07-24T16:28:44.401823",
+  "package_url": "https://pypi.org/project/zamp-public-workflow-sdk/"
+}

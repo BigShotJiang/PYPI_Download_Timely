@@ -1,0 +1,11 @@
+{
+  "name": "flash-attn",
+  "version": "2.8.2",
+  "summary": "Flash Attention: Fast and Memory-Efficient Exact Attention",
+  "author": "Tri Dao",
+  "license": null,
+  "home_page": "https://github.com/Dao-AILab/flash-attention",
+  "download_filename": "flash_attn-2.8.2.tar.gz",
+  "download_time": "2025-07-24T16:28:43.829430",
+  "package_url": "https://pypi.org/project/flash-attn/"
+}

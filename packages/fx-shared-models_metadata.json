@@ -1,0 +1,11 @@
+{
+  "name": "fx-shared-models",
+  "version": "0.2.71",
+  "summary": "Shared models for FX Backend",
+  "author": "FX Backend",
+  "license": null,
+  "home_page": "https://github.com/fxbackend/fx-shared-models",
+  "download_filename": "fx_shared_models-0.2.71.tar.gz",
+  "download_time": "2025-07-24T16:28:06.319805",
+  "package_url": "https://pypi.org/project/fx-shared-models/"
+}

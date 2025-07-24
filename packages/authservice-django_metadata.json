@@ -1,0 +1,11 @@
+{
+  "name": "authservice-django",
+  "version": "1.0.0",
+  "summary": "Django SDK for Auth Service",
+  "author": "hasnain3033",
+  "license": "MIT",
+  "home_page": "https://github.com/hasnain3033/django-auth-sdk",
+  "download_filename": "authservice_django-1.0.0.tar.gz",
+  "download_time": "2025-07-24T16:28:42.692628",
+  "package_url": "https://pypi.org/project/authservice-django/"
+}
