@@ -1,0 +1,11 @@
+{
+  "name": "metronome-sdk",
+  "version": "0.1.0",
+  "summary": "The official Python library for the metronome API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "metronome_sdk-0.1.0.tar.gz",
+  "download_time": "2025-07-24T22:22:58.588658",
+  "package_url": "https://pypi.org/project/metronome-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opendsm",
+  "version": "1.2.5",
+  "summary": "Measure demand-side program impacts",
+  "author": "opendsm",
+  "license": "Apache 2.0",
+  "home_page": "http://github.com/opendsm/opendsm",
+  "download_filename": "opendsm-1.2.5.tar.gz",
+  "download_time": "2025-07-24T22:22:57.547456",
+  "package_url": "https://pypi.org/project/opendsm/"
+}

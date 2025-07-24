@@ -1,0 +1,11 @@
+{
+  "name": "exlibris",
+  "version": "0.4.0",
+  "summary": "Exlibris is a Python library that provides statistical comparisons between different binary classification models. This library is specifically designed to compare the GSGP classifier with other models.",
+  "author": "Lepe Garcia Cesar",
+  "license": null,
+  "home_page": "https://github.com/CesarLepeITT/exlibris",
+  "download_filename": "exlibris-0.4.0.tar.gz",
+  "download_time": "2025-07-24T22:22:57.021443",
+  "package_url": "https://pypi.org/project/exlibris/"
+}

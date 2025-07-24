@@ -1,0 +1,11 @@
+{
+  "name": "IronPyshp",
+  "version": "2.3.2",
+  "summary": "Pure Python read/write support for ESRI Shapefile format",
+  "author": "Joel Lawhead",
+  "license": "MIT",
+  "home_page": "https://github.com/JamesParrott/IronPyShp",
+  "download_filename": "ironpyshp-2.3.2.tar.gz",
+  "download_time": "2025-07-24T22:23:02.258853",
+  "package_url": "https://pypi.org/project/IronPyshp/"
+}

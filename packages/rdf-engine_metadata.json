@@ -1,0 +1,11 @@
+{
+  "name": "rdf-engine",
+  "version": "221",
+  "summary": "A rules engine for RDF data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdf_engine-221.tar.gz",
+  "download_time": "2025-07-24T22:23:13.237361",
+  "package_url": "https://pypi.org/project/rdf-engine/"
+}

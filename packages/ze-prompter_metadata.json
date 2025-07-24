@@ -1,0 +1,11 @@
+{
+  "name": "ze-prompter",
+  "version": "0.0.2a0",
+  "summary": "A library for managing prompt templates with versioning and AI models",
+  "author": "Olsi Hoxha",
+  "license": null,
+  "home_page": "https://github.com/olsihoxha/zeprompter",
+  "download_filename": "ze_prompter-0.0.2a0.tar.gz",
+  "download_time": "2025-07-24T22:22:59.105831",
+  "package_url": "https://pypi.org/project/ze-prompter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysros",
+  "version": "25.7.1",
+  "summary": "Python for the Nokia Service Router Operating Systems (pySROS)",
+  "author": "Nokia",
+  "license": "Copyright 2021-2025 Nokia.  License available in the LICENSE.md file.",
+  "home_page": "https://www.nokia.com",
+  "download_filename": "pysros-25.7.1.tar.gz",
+  "download_time": "2025-07-24T22:23:05.387054",
+  "package_url": "https://pypi.org/project/pysros/"
+}
