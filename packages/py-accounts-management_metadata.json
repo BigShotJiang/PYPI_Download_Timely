@@ -1,0 +1,11 @@
+{
+  "name": "py-accounts-management",
+  "version": "0.1.0",
+  "summary": "A reusable Django app for managing flexible user account levels and access control.",
+  "author": "Davidi Amoni Bilikwija",
+  "license": "MIT",
+  "home_page": "https://github.com/asasking/py-accounts-management",
+  "download_filename": "py_accounts_management-0.1.0.tar.gz",
+  "download_time": "2025-07-24T23:54:32.161521",
+  "package_url": "https://pypi.org/project/py-accounts-management/"
+}

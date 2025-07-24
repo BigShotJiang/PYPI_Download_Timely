@@ -1,11 +1,11 @@
 {
   "name": "ARMBR",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Python implementation of the ARMBR blink removal method",
   "author": "Ludvik Alkhoury",
   "license": null,
   "home_page": "https://github.com/S-Shah-Lab/ARMBR.git",
-  "download_filename": "armbr-2.0.4.tar.gz",
-  "download_time": "2025-07-23T22:13:59.814191",
+  "download_filename": "armbr-2.0.5.tar.gz",
+  "download_time": "2025-07-24T23:54:34.362141",
   "package_url": "https://pypi.org/project/ARMBR/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "singleton_decorator1",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Packaged selections from Python Decorator Library on wiki.python.org",
   "author": "Editor 82 of wiki.python.org",
   "license": "GNU General Public License v3 (GPLv3)",
-  "home_page": "https://codeberg.org/Sojournings/singleton-decorator1.git",
-  "download_filename": "singleton_decorator1-0.5.0.tar.gz",
-  "download_time": "2025-07-24T23:23:14.250185",
+  "home_page": "https://codeberg.org/Sojournings/singleton-decorator.git",
+  "download_filename": "singleton_decorator1-0.5.1.tar.gz",
+  "download_time": "2025-07-24T23:54:38.370533",
   "package_url": "https://pypi.org/project/singleton_decorator1/"
 }

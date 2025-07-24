@@ -1,11 +1,11 @@
 {
   "name": "vibe-automation",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Vibe Automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibe_automation-0.7.1.tar.gz",
-  "download_time": "2025-07-24T17:21:32.077529",
+  "download_filename": "vibe_automation-0.7.2.tar.gz",
+  "download_time": "2025-07-24T23:54:42.251376",
   "package_url": "https://pypi.org/project/vibe-automation/"
 }
