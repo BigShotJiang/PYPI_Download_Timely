@@ -1,0 +1,11 @@
+{
+  "name": "frida",
+  "version": "17.2.14",
+  "summary": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers",
+  "author": "Frida Developers",
+  "license": "wxWindows Library Licence, Version 3.1",
+  "home_page": "https://frida.re",
+  "download_filename": "frida-17.2.14.tar.gz",
+  "download_time": "2025-07-24T10:27:39.569448",
+  "package_url": "https://pypi.org/project/frida/"
+}

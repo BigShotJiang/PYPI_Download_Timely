@@ -1,0 +1,11 @@
+{
+  "name": "pulseqzero",
+  "version": "0.1.11",
+  "summary": "Use PyPulseq for MRI sequence definitions in MR-zero",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulseqzero-0.1.11.tar.gz",
+  "download_time": "2025-07-24T10:27:02.397840",
+  "package_url": "https://pypi.org/project/pulseqzero/"
+}

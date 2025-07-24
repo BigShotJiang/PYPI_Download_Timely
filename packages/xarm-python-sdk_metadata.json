@@ -1,0 +1,11 @@
+{
+  "name": "xarm-python-sdk",
+  "version": "1.17.0",
+  "summary": "Python SDK for UFACTORY robotic arm 850, xArm 5/6/7, and Lite6.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xarm_python_sdk-1.17.0.tar.gz",
+  "download_time": "2025-07-24T10:27:45.880645",
+  "package_url": "https://pypi.org/project/xarm-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ionics-fits",
+  "version": "1.3.17",
+  "summary": "Lightweight Python data fitting library with an emphasis on AMO/Quantum Information",
+  "author": "hartytp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ionics_fits-1.3.17.tar.gz",
+  "download_time": "2025-07-24T10:27:09.198062",
+  "package_url": "https://pypi.org/project/ionics-fits/"
+}

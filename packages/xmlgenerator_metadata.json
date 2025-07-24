@@ -1,0 +1,11 @@
+{
+  "name": "xmlgenerator",
+  "version": "0.7.0",
+  "summary": "Generates XML documents from XSD schemas",
+  "author": "Alexey Akimov",
+  "license": "MIT",
+  "home_page": "https://github.com/lexakimov/xmlgenerator",
+  "download_filename": "xmlgenerator-0.7.0.tar.gz",
+  "download_time": "2025-07-24T10:27:25.878342",
+  "package_url": "https://pypi.org/project/xmlgenerator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycadet",
+  "version": "0.3.3",
+  "summary": "Cavity Detection Tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycadet-0.3.3.tar.gz",
+  "download_time": "2025-07-24T10:27:33.232986",
+  "package_url": "https://pypi.org/project/pycadet/"
+}

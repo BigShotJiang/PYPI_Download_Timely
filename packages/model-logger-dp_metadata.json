@@ -1,0 +1,11 @@
+{
+  "name": "model-logger-dp",
+  "version": "1.0.0",
+  "summary": "A logger to log the model training, etc.",
+  "author": "Ian zhu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_logger_dp-1.0.0.tar.gz",
+  "download_time": "2025-07-24T10:27:15.986599",
+  "package_url": "https://pypi.org/project/model-logger-dp/"
+}

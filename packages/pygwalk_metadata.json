@@ -1,0 +1,11 @@
+{
+  "name": "pygwalk",
+  "version": "0.2.4",
+  "summary": "gwalk 是一系列用于管理 Git 仓库的命令行小工具，帮助开发者对大批量的 Git 仓库进行日常维护。",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pygwalk-0.2.4.tar.gz",
+  "download_time": "2025-07-24T10:27:30.597495",
+  "package_url": "https://pypi.org/project/pygwalk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isat-plugin-auto-annotate",
+  "version": "1.0.0",
+  "summary": "ISAT Plugin for auto annotate by yolo detect model.",
+  "author": "yatengLG",
+  "license": "Apache2.0",
+  "home_page": "https://github.com/yatengLG/ISAT_plugin_auto_annotate",
+  "download_filename": "isat_plugin_auto_annotate-1.0.0.tar.gz",
+  "download_time": "2025-07-24T10:27:48.522235",
+  "package_url": "https://pypi.org/project/isat-plugin-auto-annotate/"
+}

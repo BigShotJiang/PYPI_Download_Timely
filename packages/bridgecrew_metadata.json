@@ -1,11 +1,11 @@
 {
   "name": "bridgecrew",
-  "version": "3.2.453",
+  "version": "3.2.454",
   "summary": "Infrastructure as code static analysis",
   "author": "bridgecrew",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/bridgecrewio/bridgecrew",
-  "download_filename": "bridgecrew-3.2.453.tar.gz",
-  "download_time": "2025-07-24T08:32:21.024907",
+  "download_filename": "bridgecrew-3.2.454.tar.gz",
+  "download_time": "2025-07-24T10:27:26.437467",
   "package_url": "https://pypi.org/project/bridgecrew/"
 }

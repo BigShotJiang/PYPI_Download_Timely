@@ -1,0 +1,11 @@
+{
+  "name": "pointofview",
+  "version": "1.1.2",
+  "summary": "A Python package for determining a piece of text's point of view (first, second, third, or unknown).",
+  "author": "David L. Day",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/prosegrinder/python-pointofview",
+  "download_filename": "pointofview-1.1.2.tar.gz",
+  "download_time": "2025-07-24T10:27:45.362180",
+  "package_url": "https://pypi.org/project/pointofview/"
+}

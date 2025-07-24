@@ -1,0 +1,11 @@
+{
+  "name": "skrub",
+  "version": "0.6.0",
+  "summary": "Machine learning with dataframes",
+  "author": "Riccardo Cappuzzo, Jerome Dockes, Guillaume Lemaitre, Vincent Maladiere, Gael Varoquaux",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skrub-0.6.0.tar.gz",
+  "download_time": "2025-07-24T10:27:18.101243",
+  "package_url": "https://pypi.org/project/skrub/"
+}
