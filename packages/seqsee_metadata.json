@@ -1,0 +1,11 @@
+{
+  "name": "seqsee",
+  "version": "0.3.1",
+  "summary": "A generic visualization tool for spectral sequence data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seqsee-0.3.1.tar.gz",
+  "download_time": "2025-07-24T21:43:38.961668",
+  "package_url": "https://pypi.org/project/seqsee/"
+}

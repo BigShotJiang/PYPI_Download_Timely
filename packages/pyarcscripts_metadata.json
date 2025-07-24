@@ -1,0 +1,11 @@
+{
+  "name": "pyarcscripts",
+  "version": "0.0.5",
+  "summary": "Paquetage Python qui stocke toutes les fonctionnalités utiles de pyArc pouvant être utilisé dans tous projets et modules pyArc",
+  "author": "INICODE",
+  "license": null,
+  "home_page": "https://github.com/inicode_celestin03/pyarcscripts",
+  "download_filename": "pyarcscripts-0.0.5.tar.gz",
+  "download_time": "2025-07-24T21:43:39.479272",
+  "package_url": "https://pypi.org/project/pyarcscripts/"
+}

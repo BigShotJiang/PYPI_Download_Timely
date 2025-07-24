@@ -1,15 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-24T21:28:45.702321
-- **Total Packages**: 77
-- **Total Size**: 36.63 MB
+- **Download Time**: 2025-07-24T21:44:07.335874
+- **Total Packages**: 76
+- **Total Size**: 10.98 MB
 
 ## Packages List
+- unitas
+- plua
+- sinapsis-data-readers
+- sinapsis-data-analysis
+- winpoll
+- robotframework-visualizer
+- py-attio
+- pyzurecli
+- bojango
+- mrx-runway
+- chunkwrap
+- pytapo
+- spinopt
+- clij2-fft
+- kaqing
+- laughbit
+- layrz-protocol
+- nrel.routee.powertrain
+- rxfoundry.clients.p2rx-api
+- etops
+- chidian
+- twigs
+- coiled
+- seqsee
+- pyarcscripts
+- statz
+- grim-reaper
+- universalinit
+- morphik
+- canonmap
+- spotifywebapipython
 - galileo-core
 - letta-client
 - qsin
-- canonmap
 - rubpy
 - nextmv
 - bookspointer
@@ -17,7 +47,6 @@
 - parse-lp
 - ncrvi
 - gritlabs
-- plua
 - dev-cmd
 - mkdocs-copy-to-llm
 - pypostal-multiarch
@@ -25,10 +54,8 @@
 - vidnavigator
 - py-shr-parser
 - ecom-statics
-- laughbit
 - deltalake
 - rexplain
-- layrz-protocol
 - mcp-logger-utils
 - ms-file-reader
 - nnodely
@@ -43,7 +70,6 @@
 - android-inspector
 - typedlogic
 - zeroeval
-- universalinit
 - tracelet
 - strands-agents
 - tektii-strategy-sdk
@@ -56,30 +82,3 @@
 - pyenvertechevt800
 - dda
 - fraiseql
-- traceroot
-- ibm-watsonx-orchestrate
-- fmfactlabel
-- rxfoundry.clients.p2rx-api
-- codeflash
-- revng
-- weni-datalake-sdk
-- tensorflores
-- mutation-core
-- escobar
-- mcp-oauth
-- taintmonkey
-- finbourne-horizon-sdk
-- beta9
-- langtrace-python-sdk
-- aegis-semantic-firewall
-- qbraid
-- nlp2sql
-- winpoll
-- easycoder
-- pleco-cli
-- pybae
-- whenever
-- team-query
-- dji-drone-metadata-embedder
-- busline
-- ctenv
