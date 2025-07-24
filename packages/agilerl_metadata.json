@@ -1,0 +1,11 @@
+{
+  "name": "agilerl",
+  "version": "2.3.2",
+  "summary": "AgileRL is a deep reinforcement learning library focused on improving RL development through RLOps.",
+  "author": "Nick Ustaran-Anderegg",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "agilerl-2.3.2.tar.gz",
+  "download_time": "2025-07-24T14:32:48.649014",
+  "package_url": "https://pypi.org/project/agilerl/"
+}

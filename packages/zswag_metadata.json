@@ -1,0 +1,11 @@
+{
+  "name": "zswag",
+  "version": "1.9.0",
+  "summary": "OpenAPI service transport layer for zserio.",
+  "author": "Klebert Engineering",
+  "license": "BSD-3 Clause",
+  "home_page": "https://github.com/klebert-engineering/zswag",
+  "download_filename": "zswag-1.9.0.tar.gz",
+  "download_time": "2025-07-24T14:32:45.251270",
+  "package_url": "https://pypi.org/project/zswag/"
+}
