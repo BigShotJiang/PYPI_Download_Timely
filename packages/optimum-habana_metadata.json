@@ -1,0 +1,11 @@
+{
+  "name": "optimum-habana",
+  "version": "1.18.1",
+  "summary": "Optimum Habana is the interface between the Hugging Face Transformers and Diffusers libraries and Habana's Gaudi processor (HPU). It provides a set of tools enabling easy model loading, training and inference on single- and multi-HPU settings for different downstream tasks.",
+  "author": "HuggingFace Inc. Special Ops Team",
+  "license": "Apache",
+  "home_page": "https://huggingface.co/hardware/habana",
+  "download_filename": "optimum_habana-1.18.1.tar.gz",
+  "download_time": "2025-07-24T16:53:28.093974",
+  "package_url": "https://pypi.org/project/optimum-habana/"
+}

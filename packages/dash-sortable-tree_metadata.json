@@ -1,0 +1,11 @@
+{
+  "name": "dash-sortable-tree",
+  "version": "0.0.3",
+  "summary": "A Dash component wrapping dnd-kit to edit and reorder hierarchical trees with drag & drop.",
+  "author": "Marian Stefanescu <marianstefi20@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dash_sortable_tree-0.0.3.tar.gz",
+  "download_time": "2025-07-24T16:53:45.150272",
+  "package_url": "https://pypi.org/project/dash-sortable-tree/"
+}

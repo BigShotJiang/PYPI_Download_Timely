@@ -1,11 +1,11 @@
 {
   "name": "text-outputter",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "一个简单的命令行文本输出工具",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "text_outputter-0.2.0.tar.gz",
-  "download_time": "2025-07-24T16:28:16.172369",
+  "download_filename": "text_outputter-0.3.0.tar.gz",
+  "download_time": "2025-07-24T16:54:00.743650",
   "package_url": "https://pypi.org/project/text-outputter/"
 }

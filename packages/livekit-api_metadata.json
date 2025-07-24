@@ -1,0 +1,11 @@
+{
+  "name": "livekit-api",
+  "version": "1.0.5",
+  "summary": "Python Server API for LiveKit",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/livekit/python-sdks",
+  "download_filename": "livekit_api-1.0.5.tar.gz",
+  "download_time": "2025-07-24T16:53:48.253631",
+  "package_url": "https://pypi.org/project/livekit-api/"
+}

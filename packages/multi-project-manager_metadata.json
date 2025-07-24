@@ -1,0 +1,11 @@
+{
+  "name": "multi-project-manager",
+  "version": "0.0.7",
+  "summary": "A comprehensive project and patch management tool for multi-board, multi-project environments with Git integration and automated PO (Patch/Override) operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multi_project_manager-0.0.7.tar.gz",
+  "download_time": "2025-07-24T16:54:07.569502",
+  "package_url": "https://pypi.org/project/multi-project-manager/"
+}

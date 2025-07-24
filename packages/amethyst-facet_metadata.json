@@ -1,11 +1,11 @@
 {
   "name": "amethyst-facet",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Compute window aggregations and alter contents of Amethyst HDF5 files",
   "author": "Ben Skubi",
   "license": null,
   "home_page": null,
-  "download_filename": "amethyst-facet-1.1.4.tar.gz",
-  "download_time": "2025-07-24T08:32:12.283034",
+  "download_filename": "amethyst-facet-1.1.5.tar.gz",
+  "download_time": "2025-07-24T16:54:02.291182",
   "package_url": "https://pypi.org/project/amethyst-facet/"
 }

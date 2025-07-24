@@ -1,0 +1,11 @@
+{
+  "name": "rda-python-dsrqst",
+  "version": "1.0.5",
+  "summary": "RDA python package to add and process user requests for RDA data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rda_python_dsrqst-1.0.5.tar.gz",
+  "download_time": "2025-07-24T16:54:00.233270",
+  "package_url": "https://pypi.org/project/rda-python-dsrqst/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sus-adk",
-  "version": "0.1.2",
+  "version": "0.2.2",
   "summary": "A modular sus-adk for LLM interaction via cookies, inspired by LangChain and Google-ADK.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/agentic-framework",
-  "download_filename": "sus_adk-0.1.2.tar.gz",
-  "download_time": "2025-07-24T15:47:19.004082",
+  "download_filename": "sus_adk-0.2.2.tar.gz",
+  "download_time": "2025-07-24T16:53:54.475003",
   "package_url": "https://pypi.org/project/sus-adk/"
 }

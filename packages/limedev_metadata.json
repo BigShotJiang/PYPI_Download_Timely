@@ -1,0 +1,11 @@
+{
+  "name": "limedev",
+  "version": "0.7.2",
+  "summary": "Toolkit for Python development, especially packaging ",
+  "author": "Limespy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "limedev-0.7.2.tar.gz",
+  "download_time": "2025-07-24T16:53:37.953014",
+  "package_url": "https://pypi.org/project/limedev/"
+}

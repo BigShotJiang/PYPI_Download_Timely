@@ -1,0 +1,11 @@
+{
+  "name": "spotify-playlist-extractor",
+  "version": "1.0.0",
+  "summary": "استخراج ساده و سریع پلی‌لیست‌های اسپاتیفای",
+  "author": "Mohammad Hossein Norouzi",
+  "license": null,
+  "home_page": "https://github.com/MohammadHNdev/Spotify-Playlist-Extractor",
+  "download_filename": "spotify_playlist_extractor-1.0.0.tar.gz",
+  "download_time": "2025-07-24T16:53:40.526894",
+  "package_url": "https://pypi.org/project/spotify-playlist-extractor/"
+}

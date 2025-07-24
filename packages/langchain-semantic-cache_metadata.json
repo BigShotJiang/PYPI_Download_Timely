@@ -1,0 +1,11 @@
+{
+  "name": "langchain-semantic-cache",
+  "version": "0.1.2",
+  "summary": "A semantic caching extension for LangChain with FAISS vector similarity search",
+  "author": "Chris Olande",
+  "license": "MIT",
+  "home_page": "https://github.com/Chrisolande/langchain-semantic-cache",
+  "download_filename": "langchain_semantic_cache-0.1.2.tar.gz",
+  "download_time": "2025-07-24T16:53:41.551187",
+  "package_url": "https://pypi.org/project/langchain-semantic-cache/"
+}

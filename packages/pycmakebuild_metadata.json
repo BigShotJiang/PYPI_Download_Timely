@@ -1,0 +1,11 @@
+{
+  "name": "pycmakebuild",
+  "version": "0.2.19",
+  "summary": "Python CMake批量构建工具，支持变量替换、多项目管理、跨平台自动化编译，通过build.json配置实现CMake项目的统一构建流程",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycmakebuild-0.2.19.tar.gz",
+  "download_time": "2025-07-24T16:53:56.631757",
+  "package_url": "https://pypi.org/project/pycmakebuild/"
+}

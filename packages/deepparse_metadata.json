@@ -1,0 +1,11 @@
+{
+  "name": "deepparse",
+  "version": "0.9.14",
+  "summary": "A library for parsing multinational street addresses using deep learning.",
+  "author": "Marouane Yassine, David Beauchemin",
+  "license": "LGPLv3",
+  "home_page": "https://deepparse.org/",
+  "download_filename": "deepparse-0.9.14.tar.gz",
+  "download_time": "2025-07-24T16:53:53.426545",
+  "package_url": "https://pypi.org/project/deepparse/"
+}

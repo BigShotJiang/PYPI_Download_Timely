@@ -1,11 +1,11 @@
 {
   "name": "modelstack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "ModelStack - Lightweight Local Model Registry",
   "author": "Aniruddha",
   "license": null,
   "home_page": "https://github.com/Aniruddh-k/modelstack",
-  "download_filename": "modelstack-1.0.0.tar.gz",
-  "download_time": "2025-07-24T16:28:31.588984",
+  "download_filename": "modelstack-1.0.1.tar.gz",
+  "download_time": "2025-07-24T16:53:48.769281",
   "package_url": "https://pypi.org/project/modelstack/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyspedas",
+  "version": "1.7.28",
+  "summary": "Python Space Physics Environment Data Analysis Software (pySPEDAS)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyspedas-1.7.28.tar.gz",
+  "download_time": "2025-07-24T16:53:57.661603",
+  "package_url": "https://pypi.org/project/pyspedas/"
+}

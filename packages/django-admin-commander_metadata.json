@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-commander",
+  "version": "0.4.0",
+  "summary": "A Django app to run management commands from the admin panel",
+  "author": "Lucas Camillo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_admin_commander-0.4.0.tar.gz",
+  "download_time": "2025-07-24T16:53:38.466343",
+  "package_url": "https://pypi.org/project/django-admin-commander/"
+}
