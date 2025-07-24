@@ -1,0 +1,11 @@
+{
+  "name": "outleap",
+  "version": "0.7.2",
+  "summary": "Tools for using asyncio to control a Second Life viewer over the LEAP protocol",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "outleap-0.7.2.tar.gz",
+  "download_time": "2025-07-24T21:54:57.162236",
+  "package_url": "https://pypi.org/project/outleap/"
+}

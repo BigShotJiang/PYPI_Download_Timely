@@ -1,19 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-24T21:44:07.335874
-- **Total Packages**: 76
-- **Total Size**: 10.98 MB
+- **Download Time**: 2025-07-24T21:55:24.178435
+- **Total Packages**: 79
+- **Total Size**: 3.26 MB
 
 ## Packages List
-- unitas
+- fmot
+- target-hotglue
+- graph-games-proto
+- sqlmesh
+- atlasopenmagic
+- krex
+- lightwhisperstt
+- fastcloudflare
+- istari-digital-client
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- pyzurecli
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- datasure
 - plua
+- claude-code-indexer
+- sleipnirgroup-jormungandr
+- terminator-py
+- laughbit
+- sinapsis-generic-data-tools
+- sinapsis-data-writers
+- sinapsis-data-visualization
+- sinapsis-data-tools
+- outleap
+- vanillacorn
+- unitas
 - sinapsis-data-readers
 - sinapsis-data-analysis
 - winpoll
 - robotframework-visualizer
 - py-attio
-- pyzurecli
 - bojango
 - mrx-runway
 - chunkwrap
@@ -21,7 +47,6 @@
 - spinopt
 - clij2-fft
 - kaqing
-- laughbit
 - layrz-protocol
 - nrel.routee.powertrain
 - rxfoundry.clients.p2rx-api
@@ -60,25 +85,3 @@
 - ms-file-reader
 - nnodely
 - server-unite
-- t-nextgen
-- wenbi
-- files-com
-- newrelic
-- squarecloud-api
-- trendsagi
-- gentrace-py
-- android-inspector
-- typedlogic
-- zeroeval
-- tracelet
-- strands-agents
-- tektii-strategy-sdk
-- uv
-- uv-build
-- pointr-cloud-v8-mcp-server
-- zagency
-- rxnn
-- dlairflow
-- pyenvertechevt800
-- dda
-- fraiseql
