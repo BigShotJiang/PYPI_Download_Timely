@@ -1,0 +1,11 @@
+{
+  "name": "pygslodeiv2",
+  "version": "0.9.7",
+  "summary": "Python binding for odeiv2 in GNU Scientific Library (GSL).",
+  "author": "Bjoern I. Dahlgren",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/bjodah/pygslodeiv2",
+  "download_filename": "pygslodeiv2-0.9.7.tar.gz",
+  "download_time": "2025-07-24T15:47:31.838334",
+  "package_url": "https://pypi.org/project/pygslodeiv2/"
+}

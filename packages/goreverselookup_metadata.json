@@ -1,0 +1,11 @@
+{
+  "name": "goreverselookup",
+  "version": "1.0.59",
+  "summary": "Python library for Gene Ontology Reverse Lookup",
+  "author": "Aljoša Škorjanc",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "goreverselookup-1.0.59.tar.gz",
+  "download_time": "2025-07-24T15:47:10.214266",
+  "package_url": "https://pypi.org/project/goreverselookup/"
+}

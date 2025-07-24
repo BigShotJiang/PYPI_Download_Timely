@@ -1,11 +1,11 @@
 {
   "name": "pytest-modern",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "A more modern pytest",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_modern-0.7.2.tar.gz",
-  "download_time": "2025-07-23T16:17:34.630408",
+  "download_filename": "pytest_modern-0.7.3.tar.gz",
+  "download_time": "2025-07-24T15:47:52.411675",
   "package_url": "https://pypi.org/project/pytest-modern/"
 }

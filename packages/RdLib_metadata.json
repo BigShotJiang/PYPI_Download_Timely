@@ -1,0 +1,11 @@
+{
+  "name": "RdLib",
+  "version": "0.9",
+  "summary": "Simple library to communicate with Rd03D and HLK-LD2450 radar via serial on Raspberry Pi",
+  "author": "G20Michu",
+  "license": null,
+  "home_page": "https://github.com/G20Michu/RdLib",
+  "download_filename": "RdLib-0.9.tar.gz",
+  "download_time": "2025-07-24T15:47:08.931658",
+  "package_url": "https://pypi.org/project/RdLib/"
+}

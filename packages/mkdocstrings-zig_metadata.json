@@ -1,11 +1,11 @@
 {
   "name": "mkdocstrings-zig",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "A Zig handler for mkdocstrings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkdocstrings_zig-0.0.5.tar.gz",
-  "download_time": "2025-07-23T19:13:32.209338",
+  "download_filename": "mkdocstrings_zig-0.0.7.tar.gz",
+  "download_time": "2025-07-24T15:47:39.455438",
   "package_url": "https://pypi.org/project/mkdocstrings-zig/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "heraldopy",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "A set of automation tools",
   "author": "Heraldo Almeida",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/heraldopy",
-  "download_filename": "heraldopy-1.0.14.tar.gz",
-  "download_time": "2025-07-23T15:26:54.980084",
+  "download_filename": "heraldopy-1.0.15.tar.gz",
+  "download_time": "2025-07-24T15:47:49.552547",
   "package_url": "https://pypi.org/project/heraldopy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "opensourceleg",
+  "version": "3.2.1",
+  "summary": "An open-source SDK for developing and testing algorithms on commonly used robotic hardware.",
+  "author": "Open-Source Leg",
+  "license": null,
+  "home_page": "https://github.com/neurobionics/opensourceleg",
+  "download_filename": "opensourceleg-3.2.1.tar.gz",
+  "download_time": "2025-07-24T15:47:23.418241",
+  "package_url": "https://pypi.org/project/opensourceleg/"
+}

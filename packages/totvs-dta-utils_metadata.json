@@ -1,0 +1,11 @@
+{
+  "name": "totvs-dta-utils",
+  "version": "1.4.2",
+  "summary": "Lib for integration with DTA services",
+  "author": "TOTVS - IDEIA",
+  "license": null,
+  "home_page": "https://github.com/totvs-ai/dta-utils-python",
+  "download_filename": "totvs_dta_utils-1.4.2.tar.gz",
+  "download_time": "2025-07-24T15:47:48.905597",
+  "package_url": "https://pypi.org/project/totvs-dta-utils/"
+}

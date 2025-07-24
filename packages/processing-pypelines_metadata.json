@@ -1,0 +1,11 @@
+{
+  "name": "processing-pypelines",
+  "version": "0.0.94",
+  "summary": "Framework to organize processing code outputs to/from disk, processing chaining and versionning with a common easy to use api",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "processing_pypelines-0.0.94.tar.gz",
+  "download_time": "2025-07-24T15:47:36.866029",
+  "package_url": "https://pypi.org/project/processing-pypelines/"
+}

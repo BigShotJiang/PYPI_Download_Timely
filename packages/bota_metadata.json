@@ -1,11 +1,11 @@
 {
   "name": "bota",
-  "version": "4.0.142",
+  "version": "4.0.143",
   "summary": "CLI for botasaurus.",
   "author": "Chetan Jain",
   "license": "MIT",
   "home_page": "https://github.com/omkarcloud/botasaurus",
-  "download_filename": "bota-4.0.142.tar.gz",
-  "download_time": "2025-07-24T14:57:19.120543",
+  "download_filename": "bota-4.0.143.tar.gz",
+  "download_time": "2025-07-24T15:47:56.846080",
   "package_url": "https://pypi.org/project/bota/"
 }

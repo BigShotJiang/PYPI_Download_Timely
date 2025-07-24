@@ -1,0 +1,11 @@
+{
+  "name": "pycvodes",
+  "version": "0.14.6",
+  "summary": "Python binding for cvodes from the sundials library.",
+  "author": "Bjoern I. Dahlgren",
+  "license": "BSD",
+  "home_page": "https://github.com/bjodah/pycvodes",
+  "download_filename": "pycvodes-0.14.6.tar.gz",
+  "download_time": "2025-07-24T15:47:06.249299",
+  "package_url": "https://pypi.org/project/pycvodes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gaccode-monitor",
+  "version": "0.1.2",
+  "summary": "A system tray application to monitor GACCode credits balance",
+  "author": "GACCode Monitor Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/watchGacCredits",
+  "download_filename": "gaccode_monitor-0.1.2.tar.gz",
+  "download_time": "2025-07-24T15:47:07.649199",
+  "package_url": "https://pypi.org/project/gaccode-monitor/"
+}

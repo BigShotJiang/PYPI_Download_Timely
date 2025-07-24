@@ -1,0 +1,11 @@
+{
+  "name": "ebmlite",
+  "version": "3.4.1",
+  "summary": "A lightweight, \"pure Python\" library for parsing EBML (Extensible Binary Markup Language) data.",
+  "author": "Mide Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/MideTechnology/ebmlite/tree/master",
+  "download_filename": "ebmlite-3.4.1.tar.gz",
+  "download_time": "2025-07-24T15:47:47.058046",
+  "package_url": "https://pypi.org/project/ebmlite/"
+}
