@@ -1,0 +1,11 @@
+{
+  "name": "dda",
+  "version": "0.23.0",
+  "summary": "Tool for developing on the Datadog Agent platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dda-0.23.0.tar.gz",
+  "download_time": "2025-07-24T21:28:29.036745",
+  "package_url": "https://pypi.org/project/dda/"
+}

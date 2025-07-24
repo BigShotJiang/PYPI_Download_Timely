@@ -1,0 +1,11 @@
+{
+  "name": "android-inspector",
+  "version": "0.2.0",
+  "summary": "A collection of ScanCode.io pipelines dedicated to Android APK analysis.",
+  "author": "nexB. Inc., AboutCode and others",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aboutcode-org/android-inspector",
+  "download_filename": "android_inspector-0.2.0.tar.gz",
+  "download_time": "2025-07-24T21:28:21.212221",
+  "package_url": "https://pypi.org/project/android-inspector/"
+}

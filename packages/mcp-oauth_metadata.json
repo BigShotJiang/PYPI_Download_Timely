@@ -1,0 +1,11 @@
+{
+  "name": "mcp-oauth",
+  "version": "0.0.5",
+  "summary": "Simple OAuth system integrated with \"mcp[cli]\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_oauth-0.0.5.tar.gz",
+  "download_time": "2025-07-24T21:28:36.564577",
+  "package_url": "https://pypi.org/project/mcp-oauth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pebble",
+  "version": "5.1.2",
+  "summary": "Threading and multiprocessing eye-candy.",
+  "author": "Matteo Cafasso",
+  "license": "LGPL",
+  "home_page": "https://github.com/noxdafox/pebble",
+  "download_filename": "pebble-5.1.2.tar.gz",
+  "download_time": "2025-07-24T21:28:09.693833",
+  "package_url": "https://pypi.org/project/Pebble/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "newrelic",
+  "version": "10.15.0",
+  "summary": "New Relic Python Agent",
+  "author": "New Relic",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.newrelic.com/docs/apm/agents/python-agent/",
+  "download_filename": "newrelic-10.15.0.tar.gz",
+  "download_time": "2025-07-24T21:28:18.477445",
+  "package_url": "https://pypi.org/project/newrelic/"
+}

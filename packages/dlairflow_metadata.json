@@ -1,0 +1,11 @@
+{
+  "name": "dlairflow",
+  "version": "0.1.4",
+  "summary": "Reusable code components for building Apache Airflow DAGs.",
+  "author": "Astro Data Lab",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/astro-datalab/dlairflow",
+  "download_filename": "dlairflow-0.1.4.tar.gz",
+  "download_time": "2025-07-24T21:28:27.941809",
+  "package_url": "https://pypi.org/project/dlairflow/"
+}

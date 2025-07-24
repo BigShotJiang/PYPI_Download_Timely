@@ -1,0 +1,11 @@
+{
+  "name": "pypostal-multiarch",
+  "version": "1.0.1",
+  "summary": "Python bindings to libpostal for fast international address parsing/normalization with multi-architecture support",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/kaiz11/pypostal-multiarch",
+  "download_filename": "pypostal_multiarch-1.0.1.tar.gz",
+  "download_time": "2025-07-24T21:28:09.152639",
+  "package_url": "https://pypi.org/project/pypostal-multiarch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langtrace-python-sdk",
+  "version": "3.8.21",
+  "summary": "Python SDK for LangTrace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langtrace_python_sdk-3.8.21.tar.gz",
+  "download_time": "2025-07-24T21:28:38.761854",
+  "package_url": "https://pypi.org/project/langtrace-python-sdk/"
+}

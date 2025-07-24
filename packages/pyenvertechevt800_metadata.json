@@ -1,0 +1,11 @@
+{
+  "name": "pyenvertechevt800",
+  "version": "0.2.2",
+  "summary": "Library to interface an Envertech EVT-800 device",
+  "author": "Daniel Bergmann",
+  "license": "MIT",
+  "home_page": "https://github.com/daniel-bergmann-00/pyenvertech-evt800",
+  "download_filename": "pyenvertechevt800-0.2.2.tar.gz",
+  "download_time": "2025-07-24T21:28:28.487440",
+  "package_url": "https://pypi.org/project/pyenvertechevt800/"
+}

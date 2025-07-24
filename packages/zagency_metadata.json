@@ -1,11 +1,11 @@
 {
   "name": "zagency",
-  "version": "0.4.1",
+  "version": "0.6.0",
   "summary": "An agentic framework for building AI agents with LLM integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zagency-0.4.1.tar.gz",
-  "download_time": "2025-07-23T21:12:57.703315",
+  "download_filename": "zagency-0.6.0.tar.gz",
+  "download_time": "2025-07-24T21:28:26.838919",
   "package_url": "https://pypi.org/project/zagency/"
 }

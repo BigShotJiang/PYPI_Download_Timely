@@ -1,0 +1,11 @@
+{
+  "name": "codeflash",
+  "version": "0.15.6",
+  "summary": "Client for codeflash.ai - automatic code performance optimization, powered by AI",
+  "author": null,
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "codeflash-0.15.6.tar.gz",
+  "download_time": "2025-07-24T21:28:32.754080",
+  "package_url": "https://pypi.org/project/codeflash/"
+}

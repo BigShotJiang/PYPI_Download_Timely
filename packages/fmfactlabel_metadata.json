@@ -1,0 +1,11 @@
+{
+  "name": "fmfactlabel",
+  "version": "1.8.0",
+  "summary": "FM Fact Label backend to characterize feature models.",
+  "author": "José A. Galindo, Ángela Pérez de Guzmán de Miguel, Mónica Pinto, Lidia Fuentes, David Benavides",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmfactlabel-1.8.0.tar.gz",
+  "download_time": "2025-07-24T21:28:31.699855",
+  "package_url": "https://pypi.org/project/fmfactlabel/"
+}

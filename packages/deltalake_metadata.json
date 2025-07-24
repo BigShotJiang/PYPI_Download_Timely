@@ -1,0 +1,11 @@
+{
+  "name": "deltalake",
+  "version": "1.1.2",
+  "summary": "Native Delta Lake Python binding based on delta-rs with Pandas integration",
+  "author": "Qingping Hou <dave2008713@gmail.com>, Will Jones <willjones127@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/delta-io/delta-rs",
+  "download_filename": "deltalake-1.1.2.tar.gz",
+  "download_time": "2025-07-24T21:28:12.842367",
+  "package_url": "https://pypi.org/project/deltalake/"
+}
