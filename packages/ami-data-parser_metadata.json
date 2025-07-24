@@ -1,0 +1,11 @@
+{
+  "name": "ami-data-parser",
+  "version": "0.2.12",
+  "summary": "AMI parser data",
+  "author": "Tatianno Alves",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "ami_data_parser-0.2.12-py3-none-any.whl",
+  "download_time": "2025-07-24T13:40:04.707376",
+  "package_url": "https://pypi.org/project/ami-data-parser/"
+}

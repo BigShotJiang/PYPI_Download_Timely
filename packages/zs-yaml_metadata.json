@@ -1,0 +1,11 @@
+{
+  "name": "zs-yaml",
+  "version": "0.8.0",
+  "summary": "A package that allows using yaml to define zserio objects.",
+  "author": "Navigation Data Standard e.V.",
+  "license": null,
+  "home_page": "https://github.com/ndsev/zs_yaml",
+  "download_filename": "zs_yaml-0.8.0.tar.gz",
+  "download_time": "2025-07-24T13:40:25.020003",
+  "package_url": "https://pypi.org/project/zs-yaml/"
+}

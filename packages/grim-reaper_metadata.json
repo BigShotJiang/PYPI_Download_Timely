@@ -1,11 +1,11 @@
 {
   "name": "grim-reaper",
-  "version": "1.0.6",
-  "summary": "The Ultimate Backup, Monitoring, and Security System - Unified CLI for sh_grim, scythe, py_grim, and go_grim",
+  "version": "1.0.7",
+  "summary": "Grim: Unified Data Protection Ecosystem. When data death comes knocking, Grim ensures resurrection is just a command away. License management, auto backups, highly compressed backups, multi-algorithm compression, content-based deduplication, smart storage tiering save up to 60% space, military-grade encryption, license protection, security surveillance, and automated threat response.",
   "author": "Bernie Gengel and his beagle Buddy",
-  "license": "MIT",
+  "license": "BBL",
   "home_page": "https://grim.so",
-  "download_filename": "grim_reaper-1.0.6.tar.gz",
-  "download_time": "2025-07-23T20:15:17.443500",
+  "download_filename": "grim-reaper-1.0.7.tar.gz",
+  "download_time": "2025-07-24T13:40:31.444340",
   "package_url": "https://pypi.org/project/grim-reaper/"
 }

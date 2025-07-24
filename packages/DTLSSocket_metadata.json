@@ -1,0 +1,11 @@
+{
+  "name": "DTLSSocket",
+  "version": "0.2.3",
+  "summary": "DTLSSocket is a cython wrapper for tinydtls with a Socket like interface",
+  "author": "Jannis Konrad",
+  "license": "EPL-1.0",
+  "home_page": "https://github.com/mclab-hbrs/DTLSSocket",
+  "download_filename": "dtlssocket-0.2.3.tar.gz",
+  "download_time": "2025-07-24T13:39:59.441121",
+  "package_url": "https://pypi.org/project/DTLSSocket/"
+}

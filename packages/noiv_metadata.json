@@ -1,11 +1,11 @@
 {
   "name": "noiv",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AI-Powered API Testing CLI with Interactive Features",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "noiv-0.2.0.tar.gz",
-  "download_time": "2025-07-24T12:50:07.852211",
+  "download_filename": "noiv-0.2.1.tar.gz",
+  "download_time": "2025-07-24T13:40:24.501403",
   "package_url": "https://pypi.org/project/noiv/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deepctl-cmd-mcp",
+  "version": "0.1.7",
+  "summary": "MCP server command for deepctl to interact with Deepgram's AI assistant service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepctl_cmd_mcp-0.1.7.tar.gz",
+  "download_time": "2025-07-24T13:40:12.013968",
+  "package_url": "https://pypi.org/project/deepctl-cmd-mcp/"
+}

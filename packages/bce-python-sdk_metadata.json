@@ -1,0 +1,11 @@
+{
+  "name": "bce-python-sdk",
+  "version": "0.9.42",
+  "summary": "BCE SDK for python",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "http://bce.baidu.com",
+  "download_filename": "bce_python_sdk-0.9.42.tar.gz",
+  "download_time": "2025-07-24T13:39:58.920192",
+  "package_url": "https://pypi.org/project/bce-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "extepy",
+  "version": "0.0.6",
+  "summary": "Extension of Python Language",
+  "author": "Zhiqing Xiao",
+  "license": null,
+  "home_page": "http://github.com/extepy/extepy",
+  "download_filename": "extepy-0.0.6.tar.gz",
+  "download_time": "2025-07-24T13:40:30.370281",
+  "package_url": "https://pypi.org/project/extepy/"
+}

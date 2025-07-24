@@ -1,0 +1,11 @@
+{
+  "name": "ruff",
+  "version": "0.12.5",
+  "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+  "author": "Charlie Marsh <charlie.r.marsh@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://docs.astral.sh/ruff",
+  "download_filename": "ruff-0.12.5.tar.gz",
+  "download_time": "2025-07-24T13:40:32.033996",
+  "package_url": "https://pypi.org/project/ruff/"
+}

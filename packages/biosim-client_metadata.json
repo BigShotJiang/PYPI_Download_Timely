@@ -1,0 +1,11 @@
+{
+  "name": "biosim-client",
+  "version": "0.2.3",
+  "summary": "This is a library to access biosimulations.org APIs.",
+  "author": "Jim Schaff",
+  "license": null,
+  "home_page": "https://github.com/biosimulations/biosim-client",
+  "download_filename": "biosim_client-0.2.3.tar.gz",
+  "download_time": "2025-07-24T13:40:26.616203",
+  "package_url": "https://pypi.org/project/biosim-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepctl",
+  "version": "0.1.7",
+  "summary": "Official Deepgram CLI for speech recognition and audio intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepctl-0.1.7.tar.gz",
+  "download_time": "2025-07-24T13:40:14.092307",
+  "package_url": "https://pypi.org/project/deepctl/"
+}

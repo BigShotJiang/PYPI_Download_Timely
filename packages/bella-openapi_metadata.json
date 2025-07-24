@@ -1,0 +1,11 @@
+{
+  "name": "bella-openapi",
+  "version": "1.0.2.2",
+  "summary": "client for openapi service.",
+  "author": "['tangxiaolong', 'fanqiangwei', 'zhangxiaojia', 'liumin', 'wangyukun']",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bella_openapi-1.0.2.2.tar.gz",
+  "download_time": "2025-07-24T13:40:03.668489",
+  "package_url": "https://pypi.org/project/bella-openapi/"
+}

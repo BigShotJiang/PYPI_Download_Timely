@@ -1,0 +1,11 @@
+{
+  "name": "mysql-api",
+  "version": "1.7.0",
+  "summary": "封装mysql操作",
+  "author": "LiuWei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mysql_api-1.7.0.tar.gz",
+  "download_time": "2025-07-24T13:39:58.396722",
+  "package_url": "https://pypi.org/project/mysql-api/"
+}

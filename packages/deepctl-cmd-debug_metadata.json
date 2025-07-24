@@ -1,0 +1,11 @@
+{
+  "name": "deepctl-cmd-debug",
+  "version": "0.1.7",
+  "summary": "Debug command group for deepctl",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepctl_cmd_debug-0.1.7.tar.gz",
+  "download_time": "2025-07-24T13:40:17.204329",
+  "package_url": "https://pypi.org/project/deepctl-cmd-debug/"
+}

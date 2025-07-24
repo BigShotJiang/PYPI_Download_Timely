@@ -1,0 +1,11 @@
+{
+  "name": "inovance_tag_cyg",
+  "version": "1.7.0",
+  "summary": "inovance tag communication",
+  "author": "LiuWei",
+  "license": null,
+  "home_page": "https://github.com/ChangYuan-Semiconductor-Equipment/inovance_tag_cyg.git",
+  "download_filename": "inovance_tag_cyg-1.7.0.tar.gz",
+  "download_time": "2025-07-24T13:40:33.088407",
+  "package_url": "https://pypi.org/project/inovance_tag_cyg/"
+}

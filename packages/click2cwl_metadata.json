@@ -1,0 +1,11 @@
+{
+  "name": "click2cwl",
+  "version": "0.3.4",
+  "summary": "Generates CWL documents and associated parameters from a Click CLI definition",
+  "author": "Blasco Brauzzi, Farid Yusifli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "click2cwl-0.3.4.tar.gz",
+  "download_time": "2025-07-24T13:40:21.880383",
+  "package_url": "https://pypi.org/project/click2cwl/"
+}
