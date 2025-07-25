@@ -1,11 +1,11 @@
 {
   "name": "pysuezV2",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "summary": "Get your water consumption data from your Suez account (www.toutsurmoneau.fr or www.eau-olivet.fr)",
   "author": "Farid N27",
   "license": null,
   "home_page": null,
-  "download_filename": "pysuezv2-2.0.6.tar.gz",
-  "download_time": "2025-07-25T05:44:51.145025",
+  "download_filename": "pysuezv2-2.0.7.tar.gz",
+  "download_time": "2025-07-25T13:58:58.615773",
   "package_url": "https://pypi.org/project/pysuezV2/"
 }

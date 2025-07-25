@@ -1,0 +1,11 @@
+{
+  "name": "rl-zoo3",
+  "version": "2.7.0",
+  "summary": "A Training Framework for Stable Baselines3 Reinforcement Learning Agents",
+  "author": "Antonin Raffin",
+  "license": "MIT",
+  "home_page": "https://github.com/DLR-RM/rl-baselines3-zoo",
+  "download_filename": "rl_zoo3-2.7.0.tar.gz",
+  "download_time": "2025-07-25T13:58:46.811357",
+  "package_url": "https://pypi.org/project/rl-zoo3/"
+}

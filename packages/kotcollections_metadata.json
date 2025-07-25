@@ -1,11 +1,11 @@
 {
   "name": "kotcollections",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "kotcollections is a Python library that fully reproduces Kotlin's Collections interfaces. It brings Kotlin's rich collection operations to Python developers with List, Set, and Map implementations.",
   "author": "Vatis",
   "license": "MIT",
   "home_page": "https://github.com/Lalcs/kotcollections",
-  "download_filename": "kotcollections-0.1.2.tar.gz",
-  "download_time": "2025-07-24T14:00:26.334481",
+  "download_filename": "kotcollections-0.1.4.tar.gz",
+  "download_time": "2025-07-25T13:59:01.777134",
   "package_url": "https://pypi.org/project/kotcollections/"
 }

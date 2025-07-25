@@ -1,0 +1,11 @@
+{
+  "name": "sward",
+  "version": "0.68.0b0",
+  "summary": "A modern Python testing framework",
+  "author": "Darren Burns",
+  "license": "MIT",
+  "home_page": "https://ward.readthedocs.io",
+  "download_filename": "sward-0.68.0b0.tar.gz",
+  "download_time": "2025-07-25T13:58:59.895774",
+  "package_url": "https://pypi.org/project/sward/"
+}

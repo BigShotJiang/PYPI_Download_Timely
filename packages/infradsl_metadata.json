@@ -1,0 +1,11 @@
+{
+  "name": "infradsl",
+  "version": "0.1.5",
+  "summary": "The Rails of Modern Infrastructure - Enterprise DSL for Infrastructure Management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "infradsl-0.1.5.tar.gz",
+  "download_time": "2025-07-25T13:59:07.405042",
+  "package_url": "https://pypi.org/project/infradsl/"
+}

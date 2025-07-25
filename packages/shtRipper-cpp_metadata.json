@@ -1,0 +1,11 @@
+{
+  "name": "shtRipper-cpp",
+  "version": "1.6.2",
+  "summary": "C++ parser of .sht files.",
+  "author": "Rezenter",
+  "license": null,
+  "home_page": "https://github.com/Rezenter/shtRipper_cpp/tree/master/python",
+  "download_filename": "shtripper_cpp-1.6.2.tar.gz",
+  "download_time": "2025-07-25T13:58:39.847453",
+  "package_url": "https://pypi.org/project/shtRipper-cpp/"
+}

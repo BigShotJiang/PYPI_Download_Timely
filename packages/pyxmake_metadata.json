@@ -1,11 +1,11 @@
 {
   "name": "pyxmake",
-  "version": "1.22.2",
+  "version": "1.22.3",
   "summary": "Harmonized software interfaces and workflows to simplify complex build events",
   "author": "Garbade, Marc",
   "license": null,
   "home_page": "https://gitlab.com/dlr-sy/pyxmake",
-  "download_filename": "pyxmake-1.22.2.tar.gz",
-  "download_time": "2025-07-25T07:35:31.848976",
+  "download_filename": "pyxmake-1.22.3.tar.gz",
+  "download_time": "2025-07-25T13:59:02.411489",
   "package_url": "https://pypi.org/project/pyxmake/"
 }

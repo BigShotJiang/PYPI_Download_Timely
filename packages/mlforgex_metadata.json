@@ -1,0 +1,11 @@
+{
+  "name": "mlforgex",
+  "version": "1.0.0",
+  "summary": "MLForge: Train and evaluate ML models easily",
+  "author": "Priyanshu Mathur",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mlforge",
+  "download_filename": "mlforgex-1.0.0.tar.gz",
+  "download_time": "2025-07-25T13:58:47.450243",
+  "package_url": "https://pypi.org/project/mlforgex/"
+}
