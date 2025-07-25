@@ -1,0 +1,11 @@
+{
+  "name": "kmeruniq",
+  "version": "0.6",
+  "summary": "Extract uniq kmer into an ondisk efficient datastructure and allows querying",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kmeruniq-0.6.tar.gz",
+  "download_time": "2025-07-25T21:43:07.830355",
+  "package_url": "https://pypi.org/project/kmeruniq/"
+}

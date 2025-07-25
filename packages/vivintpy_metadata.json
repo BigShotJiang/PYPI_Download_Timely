@@ -1,0 +1,11 @@
+{
+  "name": "vivintpy",
+  "version": "2025.0.2",
+  "summary": "Python library for interacting with a Vivint security and smart home system.",
+  "author": "Nathan Spencer",
+  "license": "MIT",
+  "home_page": "https://github.com/natekspencer/vivintpy",
+  "download_filename": "vivintpy-2025.0.2.tar.gz",
+  "download_time": "2025-07-25T21:43:08.873700",
+  "package_url": "https://pypi.org/project/vivintpy/"
+}

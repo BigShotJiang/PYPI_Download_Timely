@@ -1,0 +1,11 @@
+{
+  "name": "my-datasets-lib",
+  "version": "0.9",
+  "summary": "A library of custom datasets.",
+  "author": "Emilio Dulay",
+  "license": null,
+  "home_page": "https://github.com/emilio-dulay/my_datasets_lib",
+  "download_filename": "my_datasets_lib-0.9.tar.gz",
+  "download_time": "2025-07-25T21:43:02.043576",
+  "package_url": "https://pypi.org/project/my-datasets-lib/"
+}

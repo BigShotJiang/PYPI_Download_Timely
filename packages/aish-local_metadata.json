@@ -1,11 +1,11 @@
 {
   "name": "aish-local",
-  "version": "0.1.3",
-  "summary": "Talk to your terminal in natural language, get safe Linux commands (Ollama LLMs only).",
+  "version": "1.0.0",
+  "summary": "Talk to your terminal in natural language, get safe Linux commands (Ollama LLMs only, no thinking models).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aish_local-0.1.3.tar.gz",
-  "download_time": "2025-07-25T21:22:24.400994",
+  "download_filename": "aish_local-1.0.0.tar.gz",
+  "download_time": "2025-07-25T21:43:11.554924",
   "package_url": "https://pypi.org/project/aish-local/"
 }

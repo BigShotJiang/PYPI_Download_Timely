@@ -1,11 +1,11 @@
 {
   "name": "SharedPubSub",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Shared memory Publisher and Subscriber library",
   "author": "Simon Nguyen",
   "license": null,
   "home_page": "https://github.com/SimonNGN/SharedPubSub",
-  "download_filename": "sharedpubsub-1.0.0.tar.gz",
-  "download_time": "2025-07-25T16:55:11.267509",
+  "download_filename": "sharedpubsub-1.0.2.tar.gz",
+  "download_time": "2025-07-25T21:42:56.801631",
   "package_url": "https://pypi.org/project/SharedPubSub/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cite-extractor",
-  "version": "0.10.5",
+  "version": "0.10.6",
   "summary": "Extracts citations from PDF, URLs and local media files in CSL-JSON.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cite_extractor-0.10.5.tar.gz",
-  "download_time": "2025-07-25T15:46:25.543156",
+  "download_filename": "cite_extractor-0.10.6.tar.gz",
+  "download_time": "2025-07-25T21:43:12.635981",
   "package_url": "https://pypi.org/project/cite-extractor/"
 }

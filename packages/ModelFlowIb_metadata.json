@@ -1,0 +1,11 @@
+{
+  "name": "ModelFlowIb",
+  "version": "2.59",
+  "summary": "A tool to solve and manage dynamic economic models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modelflowib-2.59.tar.gz",
+  "download_time": "2025-07-25T21:42:55.235740",
+  "package_url": "https://pypi.org/project/ModelFlowIb/"
+}
