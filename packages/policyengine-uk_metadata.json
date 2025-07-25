@@ -1,11 +1,11 @@
 {
   "name": "policyengine-uk",
-  "version": "2.41.4",
+  "version": "2.42.0",
   "summary": "PolicyEngine tax and benefit system for the UK",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "policyengine_uk-2.41.4.tar.gz",
-  "download_time": "2025-07-24T14:57:40.471167",
+  "download_filename": "policyengine_uk-2.42.0.tar.gz",
+  "download_time": "2025-07-25T09:00:07.653006",
   "package_url": "https://pypi.org/project/policyengine-uk/"
 }

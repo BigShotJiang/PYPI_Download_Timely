@@ -1,0 +1,11 @@
+{
+  "name": "autogen",
+  "version": "0.9.7",
+  "summary": "Alias package for ag2",
+  "author": "Chi Wang & Qingyun Wu",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/ag2ai/ag2",
+  "download_filename": "autogen-0.9.7.tar.gz",
+  "download_time": "2025-07-25T09:00:28.130096",
+  "package_url": "https://pypi.org/project/autogen/"
+}

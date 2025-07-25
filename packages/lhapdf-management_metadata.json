@@ -1,0 +1,11 @@
+{
+  "name": "lhapdf-management",
+  "version": "0.6",
+  "summary": "python-only lhapdf management",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "lhapdf_management-0.6.tar.gz",
+  "download_time": "2025-07-25T09:00:21.837795",
+  "package_url": "https://pypi.org/project/lhapdf-management/"
+}

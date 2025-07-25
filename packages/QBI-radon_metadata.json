@@ -1,0 +1,11 @@
+{
+  "name": "QBI-radon",
+  "version": "1.7",
+  "summary": "Radon Transformation for Pytorch 2.0 package",
+  "author": "Minh Nhat Trinh",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "home_page": null,
+  "download_filename": "qbi_radon-1.7.tar.gz",
+  "download_time": "2025-07-25T09:00:11.893427",
+  "package_url": "https://pypi.org/project/QBI-radon/"
+}

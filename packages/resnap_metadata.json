@@ -1,0 +1,11 @@
+{
+  "name": "resnap",
+  "version": "0.3.0",
+  "summary": "A Python library that captures and replays function results to save time, boost performance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "resnap-0.3.0.tar.gz",
+  "download_time": "2025-07-25T09:00:13.994014",
+  "package_url": "https://pypi.org/project/resnap/"
+}

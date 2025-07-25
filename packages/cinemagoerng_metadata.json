@@ -1,0 +1,11 @@
+{
+  "name": "cinemagoerng",
+  "version": "0.4",
+  "summary": "Retrieve data from the IMDb.",
+  "author": "H. Turgut Uyar, Davide Alberani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cinemagoerng-0.4.tar.gz",
+  "download_time": "2025-07-25T09:00:41.778772",
+  "package_url": "https://pypi.org/project/cinemagoerng/"
+}

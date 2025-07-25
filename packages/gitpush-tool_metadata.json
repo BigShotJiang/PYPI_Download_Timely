@@ -1,0 +1,11 @@
+{
+  "name": "gitpush-tool",
+  "version": "0.2.10",
+  "summary": "Supercharged Git push tool with automatic GitHub repo creation and pushing",
+  "author": "Ganesh Sonawane",
+  "license": "MIT",
+  "home_page": "https://github.com/inevitablegs/gitpush",
+  "download_filename": "gitpush_tool-0.2.10.tar.gz",
+  "download_time": "2025-07-25T09:00:32.329833",
+  "package_url": "https://pypi.org/project/gitpush-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ecss-allure-report",
+  "version": "1.2.21",
+  "summary": "This is the simplest module for quick generate report message for Allure and send to ECSS Chat",
+  "author": "maxstolpovskikh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecss_allure_report-1.2.21.tar.gz",
+  "download_time": "2025-07-25T09:00:35.448101",
+  "package_url": "https://pypi.org/project/ecss-allure-report/"
+}

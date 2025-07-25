@@ -1,0 +1,11 @@
+{
+  "name": "matplotlib-surface-plotting",
+  "version": "0.13",
+  "summary": "Brain mesh plotting in matplotlib",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/kwagstyl/matplotlib_surface_plotting",
+  "download_filename": "matplotlib_surface_plotting-0.13.tar.gz",
+  "download_time": "2025-07-25T09:00:13.473499",
+  "package_url": "https://pypi.org/project/matplotlib-surface-plotting/"
+}

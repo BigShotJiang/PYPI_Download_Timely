@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-shu1l",
+  "version": "0.2.4",
+  "summary": "A Model Context Protocol server providing tools for time queries and timezone conversions for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_shu1l-0.2.4.tar.gz",
+  "download_time": "2025-07-25T09:00:37.012519",
+  "package_url": "https://pypi.org/project/mcp-server-shu1l/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hexaeight-mcp-client",
-  "version": "1.6.807",
+  "version": "1.6.809",
   "summary": "Framework-agnostic MCP client integration for HexaEight agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hexaeight_mcp_client-1.6.807.tar.gz",
-  "download_time": "2025-07-25T08:31:39.064168",
+  "download_filename": "hexaeight_mcp_client-1.6.809.tar.gz",
+  "download_time": "2025-07-25T09:00:40.742994",
   "package_url": "https://pypi.org/project/hexaeight-mcp-client/"
 }

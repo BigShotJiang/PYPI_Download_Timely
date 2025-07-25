@@ -1,0 +1,11 @@
+{
+  "name": "upstash-search",
+  "version": "0.1.1",
+  "summary": "An HTTP/REST based AI Search client built on top of Upstash REST API.",
+  "author": "Upstash",
+  "license": "MIT",
+  "home_page": "https://github.com/upstash/search-py",
+  "download_filename": "upstash_search-0.1.1.tar.gz",
+  "download_time": "2025-07-25T09:00:45.913339",
+  "package_url": "https://pypi.org/project/upstash-search/"
+}
