@@ -1,11 +1,11 @@
 {
   "name": "cpython-near-wasm-opt",
-  "version": "0.8.11",
+  "version": "0.8.12",
   "summary": "CPython-NEAR WASM optimizer tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpython_near_wasm_opt-0.8.11-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2025-07-25T04:26:57.466038",
+  "download_filename": "cpython_near_wasm_opt-0.8.12-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-07-25T05:44:59.451242",
   "package_url": "https://pypi.org/project/cpython-near-wasm-opt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sfn-blueprint",
+  "version": "0.5.7",
+  "summary": "sfn-blueprint is a modular framework that enables rapid building of AI Agents, offering both flexibility and ease of customization.",
+  "author": "Rajesh Darak",
+  "license": null,
+  "home_page": "https://github.com/iamrajeshdaraksfn/sfn_blueprint",
+  "download_filename": "sfn_blueprint-0.5.7.tar.gz",
+  "download_time": "2025-07-25T05:45:04.592061",
+  "package_url": "https://pypi.org/project/sfn-blueprint/"
+}

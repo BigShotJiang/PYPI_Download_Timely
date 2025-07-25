@@ -1,0 +1,11 @@
+{
+  "name": "labtasker-plugin-script-generate",
+  "version": "0.1.3",
+  "summary": "A Labtasker plugin that decomposes bash script into submit and job scripts..",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "labtasker_plugin_script_generate-0.1.3.tar.gz",
+  "download_time": "2025-07-25T05:45:09.310079",
+  "package_url": "https://pypi.org/project/labtasker-plugin-script-generate/"
+}

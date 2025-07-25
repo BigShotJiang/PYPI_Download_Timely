@@ -1,0 +1,11 @@
+{
+  "name": "surface-fitter",
+  "version": "0.16",
+  "summary": "Least-square fitting of 3D surface to data points in text file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "surface_fitter-0.16.tar.gz",
+  "download_time": "2025-07-25T05:45:13.574019",
+  "package_url": "https://pypi.org/project/surface-fitter/"
+}

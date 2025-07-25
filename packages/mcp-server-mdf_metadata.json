@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-mdf",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "MCP Server for ASAM MDF file analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_mdf-0.1.0.tar.gz",
-  "download_time": "2025-07-25T05:01:56.918639",
+  "download_filename": "mcp_server_mdf-0.1.2.tar.gz",
+  "download_time": "2025-07-25T05:44:48.064169",
   "package_url": "https://pypi.org/project/mcp-server-mdf/"
 }

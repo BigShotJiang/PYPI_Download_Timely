@@ -1,14 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T05:02:11.908310
-- **Total Packages**: 69
-- **Total Size**: 34.43 MB
+- **Download Time**: 2025-07-25T05:45:25.307734
+- **Total Packages**: 77
+- **Total Size**: 29.91 MB
 
 ## Packages List
-- NexLang
-- ewokscore
+- cvxcla
+- kstprocess
+- nonebot-plugin-simple-setu
+- ngwidgets
+- mcpstore-cli
+- envhub-cli
+- opsmith-cli
+- mcp-server-mdf
+- p123client
+- reyworm
+- dapu
+- finter
+- matcha-ai
+- pysuezV2
+- molid
+- marinholab-working-needlemanipulation
+- jeet
+- pyliteral
+- braintrust
+- flux-python
+- dcs-sdk
+- bir_mcp
+- flatflow
+- fdc-shared-kernel
+- bili-listener
+- dbpoint
+- ewoksorange
+- ewoksdask
+- ewoksppf
+- cpython-near-wasm-opt
+- host-image-backup
+- inline-snapshot
+- dhisana
+- moshi-db
+- terrakio-admin-api
 - marmel-grammar
+- terrakio-api
+- terrakio-core
+- sfn-blueprint
+- flux-local
+- hibiz-llm-wrapper
+- alibabacloud-kms20160120
+- pygpt-net
+- pyegen
+- etana-trade-mcp
+- sfn-llm-client
+- flask-shopify-utils
+- labtasker-plugin-script-generate
+- bsh-file-validation
+- e2w
+- wi1-bot
+- PCILeechFWGenerator
+- mangotools
+- NexLang
+- iamdata
+- surface-fitter
+- phoebe-bird
+- ewokscore
 - leann-core
 - leann-backend-hnsw
 - devstack-cli
@@ -21,7 +76,6 @@
 - cognite-toolkit
 - tvkit
 - qwen-agent
-- flask-shopify-utils
 - ainu-utils
 - mAbLab
 - alibabacloud-dts-mcp-server
@@ -29,49 +83,3 @@
 - videojungle
 - kstflow
 - koatl
-- finter
-- mathplootIib
-- pydeptree
-- pyrecist
-- acryl-datahub-cloud
-- project-llm-trainer
-- voicegain-speech
-- twigs
-- socketsecurity
-- scrapy-impersonate
-- PyDCSL
-- wi1-bot
-- allianceauth-georgeforge
-- py-attio
-- KIB-LAP
-- zenx
-- npc-stim
-- mcp-server-mdf
-- pytest-autoprofile
-- pkulaw-mcp-proxy
-- sklearn-migrator
-- xiaokang
-- syft-flwr
-- conflore
-- processeasy
-- anyspecs
-- halib
-- python-alfresco-mcp-server
-- cloud-pak-operations-cli
-- bella-openapi
-- argsense
-- CellDiffusion
-- keras-nlp-nightly
-- keras-hub-nightly
-- py7za
-- mkdocs-image-gallery-plugin
-- etana-trade-mcp
-- logsentinelai
-- KeyisBClient
-- abtree
-- doover-scheduler
-- anise
-- GauChkParser
-- slack-mcp-server
-- shiyunzi
-- baderkit

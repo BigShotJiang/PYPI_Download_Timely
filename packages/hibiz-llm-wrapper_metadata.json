@@ -1,0 +1,11 @@
+{
+  "name": "hibiz-llm-wrapper",
+  "version": "1.0.2",
+  "summary": "A comprehensive Python wrapper for Large Language Models with database integration and usage tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hibiz_llm_wrapper-1.0.2.tar.gz",
+  "download_time": "2025-07-25T05:45:05.623633",
+  "package_url": "https://pypi.org/project/hibiz-llm-wrapper/"
+}
