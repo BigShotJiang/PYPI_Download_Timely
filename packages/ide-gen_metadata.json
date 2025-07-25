@@ -1,0 +1,11 @@
+{
+  "name": "ide-gen",
+  "version": "0.1.0",
+  "summary": "IDE Project Generator.",
+  "author": "Rebecca Ann Heineman",
+  "license": null,
+  "home_page": "https://github.com/burgerbecky/ide-gen",
+  "download_filename": "ide_gen-0.1.0.tar.gz",
+  "download_time": "2025-07-25T07:54:03.589379",
+  "package_url": "https://pypi.org/project/ide-gen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rapidocr-web",
+  "version": "0.1.11",
+  "summary": "A cross platform OCR Library based on OnnxRuntime.",
+  "author": "SWHL",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RapidAI/RapidOCR",
+  "download_filename": "rapidocr_web-0.1.11-py3-none-any.whl",
+  "download_time": "2025-07-25T07:54:09.130451",
+  "package_url": "https://pypi.org/project/rapidocr-web/"
+}

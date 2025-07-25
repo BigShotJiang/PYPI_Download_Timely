@@ -1,11 +1,11 @@
 {
   "name": "cdklabs.appsync-utils",
-  "version": "0.0.789",
+  "version": "0.0.790",
   "summary": "Utilities for creating appsync apis using aws-cdk",
   "author": "Mitchell Valine<mitchellvaline@yahoo.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdklabs/awscdk-appsync-utils.git",
-  "download_filename": "cdklabs_appsync_utils-0.0.789.tar.gz",
-  "download_time": "2025-07-24T01:06:04.802272",
+  "download_filename": "cdklabs_appsync_utils-0.0.790.tar.gz",
+  "download_time": "2025-07-25T07:54:11.539103",
   "package_url": "https://pypi.org/project/cdklabs.appsync-utils/"
 }

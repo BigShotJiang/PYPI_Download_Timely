@@ -1,0 +1,11 @@
+{
+  "name": "clabtoolkit",
+  "version": "0.3.2",
+  "summary": "A comprehensive toolkit for neuroimaging data processing and analysis",
+  "author": "Yasser Alemán-Gómez",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/connectomicslab/clabtoolkit",
+  "download_filename": "clabtoolkit-0.3.2.tar.gz",
+  "download_time": "2025-07-25T07:54:15.768936",
+  "package_url": "https://pypi.org/project/clabtoolkit/"
+}

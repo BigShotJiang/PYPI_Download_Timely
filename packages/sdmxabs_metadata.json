@@ -1,0 +1,11 @@
+{
+  "name": "sdmxabs",
+  "version": "0.2.3",
+  "summary": "Download data from the Australian Bureau of Statistics (ABS) using its SDMX API",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "sdmxabs-0.2.3.tar.gz",
+  "download_time": "2025-07-25T07:53:58.303006",
+  "package_url": "https://pypi.org/project/sdmxabs/"
+}

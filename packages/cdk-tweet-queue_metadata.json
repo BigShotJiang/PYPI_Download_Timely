@@ -1,0 +1,11 @@
+{
+  "name": "cdk-tweet-queue",
+  "version": "2.0.870",
+  "summary": "Defines an SQS queue with tweet stream from a search",
+  "author": "Elad Ben-Israel<elad.benisrael@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-tweet-queue",
+  "download_filename": "cdk_tweet_queue-2.0.870.tar.gz",
+  "download_time": "2025-07-25T07:54:04.241169",
+  "package_url": "https://pypi.org/project/cdk-tweet-queue/"
+}

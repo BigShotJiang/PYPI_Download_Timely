@@ -1,0 +1,11 @@
+{
+  "name": "mirumoji",
+  "version": "2.1.4",
+  "summary": "CLI launcher for the Mirumoji project, an open-source, self-hostable Japanese language immersion tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mirumoji-2.1.4.tar.gz",
+  "download_time": "2025-07-25T07:54:15.116623",
+  "package_url": "https://pypi.org/project/mirumoji/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "OpenGeode-IO",
-  "version": "7.2.3",
+  "version": "7.2.4",
   "summary": "Implementation of input and output formats for OpenGeode",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opengeode_io-7.2.3-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-07-24T19:00:35.300231",
+  "download_filename": "opengeode_io-7.2.4-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-25T07:53:55.818423",
   "package_url": "https://pypi.org/project/OpenGeode-IO/"
 }

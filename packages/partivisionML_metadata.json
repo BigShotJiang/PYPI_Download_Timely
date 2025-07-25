@@ -1,0 +1,11 @@
+{
+  "name": "partivisionML",
+  "version": "0.18",
+  "summary": "Computer Vision Package for Microfluidics. For more information, contact akaminer@gatech.edu.",
+  "author": "Andrew Kaminer",
+  "license": null,
+  "home_page": "https://github.com/AndKaminer/PartiVisionML",
+  "download_filename": "partivisionML-0.18-py3-none-any.whl",
+  "download_time": "2025-07-25T07:54:22.363123",
+  "package_url": "https://pypi.org/project/partivisionML/"
+}
