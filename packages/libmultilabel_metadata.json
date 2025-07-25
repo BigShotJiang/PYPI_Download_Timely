@@ -1,0 +1,11 @@
+{
+  "name": "libmultilabel",
+  "version": "0.8.0",
+  "summary": "A library for multi-class and multi-label classification",
+  "author": "LibMultiLabel Team",
+  "license": "MIT License",
+  "home_page": "https://github.com/ASUS-AICS/LibMultiLabel",
+  "download_filename": "libmultilabel-0.8.0.tar.gz",
+  "download_time": "2025-07-25T23:55:03.463484",
+  "package_url": "https://pypi.org/project/libmultilabel/"
+}

@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T23:44:29.804044
-- **Total Packages**: 89
-- **Total Size**: 18.42 MB
+- **Download Time**: 2025-07-25T23:55:44.387859
+- **Total Packages**: 87
+- **Total Size**: 3.27 MB
 
 ## Packages List
+- qthvym
+- strapi-client
+- coffy
+- langchain-coherence
+- cuenca
+- qbpm
+- jingongo-framework
+- taskinator
+- sense-table
+- apiminio
+- libmultilabel
+- embed-files
 - cua-agent
 - roark-analytics
 - yt-dlp
@@ -55,7 +67,6 @@
 - pickaxe-mcp-open-alex
 - ob-metaflow
 - yacv-server
-- apiminio
 - arcade-salesforce
 - arcade-asana
 - arcade-zendesk
@@ -82,16 +93,3 @@
 - arcade-walmart
 - arcade-stripe
 - arcade-linear
-- arcade-outlook-mail
-- arcade-jira
-- arcade-google-drive
-- arcade-web
-- arcade-slack
-- arcade-linkedin
-- arcade-google-search
-- arcade-firecrawl
-- arcade-confluence
-- arcade-math
-- arcade-microsoft
-- arcade-google-finance
-- unimi-crop-sensing
