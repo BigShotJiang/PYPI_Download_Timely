@@ -1,0 +1,11 @@
+{
+  "name": "toomanythreads",
+  "version": "0.2.4",
+  "summary": "A singleton-based thread management system with auto-registration and verbose logging",
+  "author": "Miles Copeland Luce",
+  "license": "MIT",
+  "home_page": "https://github.com/genderlesspit/toomanythreads",
+  "download_filename": "toomanythreads-0.2.4.tar.gz",
+  "download_time": "2025-07-25T18:34:39.599682",
+  "package_url": "https://pypi.org/project/toomanythreads/"
+}

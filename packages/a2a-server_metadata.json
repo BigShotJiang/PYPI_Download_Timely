@@ -1,0 +1,11 @@
+{
+  "name": "a2a-server",
+  "version": "0.5.5",
+  "summary": "In-memory FSM for the A2A Protocol with Pydantic v2 models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "a2a_server-0.5.5.tar.gz",
+  "download_time": "2025-07-25T18:34:39.080564",
+  "package_url": "https://pypi.org/project/a2a-server/"
+}

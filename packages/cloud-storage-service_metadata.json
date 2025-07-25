@@ -1,11 +1,11 @@
 {
   "name": "cloud-storage-service",
-  "version": "0.2.40",
+  "version": "0.2.42",
   "summary": "A unified cloud storage package for AWS, Azure, and GCP",
   "author": "Aaditya Muleva, Vinay Shankar Miryala",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloud_storage_service-0.2.40.tar.gz",
-  "download_time": "2025-07-25T15:46:49.121937",
+  "download_filename": "cloud_storage_service-0.2.42.tar.gz",
+  "download_time": "2025-07-25T18:34:40.119245",
   "package_url": "https://pypi.org/project/cloud-storage-service/"
 }

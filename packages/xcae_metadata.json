@@ -1,11 +1,11 @@
 {
   "name": "xcae",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Read finite element models from Abaqus and perform simulations with xara.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xcae-0.0.1.tar.gz",
-  "download_time": "2025-07-25T17:58:06.978264",
+  "download_filename": "xcae-0.0.2.tar.gz",
+  "download_time": "2025-07-25T18:34:54.846445",
   "package_url": "https://pypi.org/project/xcae/"
 }

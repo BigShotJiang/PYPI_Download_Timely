@@ -1,0 +1,11 @@
+{
+  "name": "tox",
+  "version": "4.28.2",
+  "summary": "tox is a generic virtualenv management and test command line tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tox-4.28.2.tar.gz",
+  "download_time": "2025-07-25T18:34:56.447826",
+  "package_url": "https://pypi.org/project/tox/"
+}

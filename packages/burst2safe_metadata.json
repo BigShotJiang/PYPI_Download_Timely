@@ -1,0 +1,11 @@
+{
+  "name": "burst2safe",
+  "version": "2.0.0",
+  "summary": "A package for converting ASF-derived Sentinel-1 burst SLC products to the ESA SAFE format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "burst2safe-2.0.0-py3-none-any.whl",
+  "download_time": "2025-07-25T18:34:33.867799",
+  "package_url": "https://pypi.org/project/burst2safe/"
+}

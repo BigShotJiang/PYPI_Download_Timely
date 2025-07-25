@@ -1,0 +1,11 @@
+{
+  "name": "erys",
+  "version": "0.2.5",
+  "summary": "Terminal interface for creating, editing, and running Jupyter Notebook",
+  "author": "Nathnael (Nati) Bekele",
+  "license": null,
+  "home_page": null,
+  "download_filename": "erys-0.2.5.tar.gz",
+  "download_time": "2025-07-25T18:35:00.632974",
+  "package_url": "https://pypi.org/project/erys/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyconnector",
+  "version": "0.2.1",
+  "summary": "Pluggable connectors for databases and services like Databricks, Postgres, SMTP, SFTP",
+  "author": "rvakr",
+  "license": "MIT",
+  "home_page": "https://github.com/RVAKR/pyconnector",
+  "download_filename": "pyconnector-0.2.1.tar.gz",
+  "download_time": "2025-07-25T18:34:44.814223",
+  "package_url": "https://pypi.org/project/pyconnector/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "winpoll",
-  "version": "0.20294.0",
+  "version": "0.20295.1",
   "summary": "Implementation of `select.poll` on Microsoft Windows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "winpoll-0.20294.0.tar.gz",
-  "download_time": "2025-07-25T17:22:51.793732",
+  "download_filename": "winpoll-0.20295.1.tar.gz",
+  "download_time": "2025-07-25T18:34:40.644744",
   "package_url": "https://pypi.org/project/winpoll/"
 }

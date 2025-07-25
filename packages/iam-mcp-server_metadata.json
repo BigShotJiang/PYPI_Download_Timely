@@ -1,0 +1,11 @@
+{
+  "name": "iam-mcp-server",
+  "version": "2.2.1",
+  "summary": "Individual Application Mesh, MCP Server",
+  "author": "Alejandro Garcia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iam_mcp_server-2.2.1.tar.gz",
+  "download_time": "2025-07-25T18:34:30.725021",
+  "package_url": "https://pypi.org/project/iam-mcp-server/"
+}
