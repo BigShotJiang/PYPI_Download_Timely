@@ -1,11 +1,11 @@
 {
   "name": "django-drf-extensions",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "summary": "Django REST Framework extensions for efficient async and synchronous operations with Celery and Redis",
   "author": "Konrad Beck",
   "license": "MIT",
   "home_page": "https://github.com/AugendLimited/django-drf-extensions",
-  "download_filename": "django_drf_extensions-0.0.26.tar.gz",
-  "download_time": "2025-07-25T09:56:10.977362",
+  "download_filename": "django_drf_extensions-0.0.27.tar.gz",
+  "download_time": "2025-07-25T10:28:07.616669",
   "package_url": "https://pypi.org/project/django-drf-extensions/"
 }

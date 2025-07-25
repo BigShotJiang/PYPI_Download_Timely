@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-it-fatturapa-import-zip",
+  "version": "14.0.1.1.1",
+  "summary": "Permette di importare in uno ZIP diversi file XML di fatture elettroniche",
+  "author": "TAKOBI, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo14_addon_l10n_it_fatturapa_import_zip-14.0.1.1.1-py3-none-any.whl",
+  "download_time": "2025-07-25T10:28:16.321653",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-it-fatturapa-import-zip/"
+}

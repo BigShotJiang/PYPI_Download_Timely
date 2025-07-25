@@ -1,11 +1,11 @@
 {
   "name": "localgenius",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A personal MCP server that acts as a RAG source for your LLM",
   "author": "Marco Kotrotsos",
   "license": null,
   "home_page": null,
-  "download_filename": "localgenius-0.2.0.tar.gz",
-  "download_time": "2025-07-25T09:34:32.061809",
+  "download_filename": "localgenius-0.2.1.tar.gz",
+  "download_time": "2025-07-25T10:28:18.698911",
   "package_url": "https://pypi.org/project/localgenius/"
 }

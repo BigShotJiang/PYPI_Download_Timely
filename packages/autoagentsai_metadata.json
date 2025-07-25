@@ -1,0 +1,11 @@
+{
+  "name": "autoagentsai",
+  "version": "0.1.24",
+  "summary": "SDK for interacting with Autoagents.ai API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoagentsai-0.1.24.tar.gz",
+  "download_time": "2025-07-25T10:28:28.440843",
+  "package_url": "https://pypi.org/project/autoagentsai/"
+}

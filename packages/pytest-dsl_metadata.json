@@ -1,11 +1,11 @@
 {
   "name": "pytest-dsl",
-  "version": "0.16.3",
+  "version": "0.16.4",
   "summary": "A DSL testing framework based on pytest",
   "author": "Chen Shuanglin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_dsl-0.16.3.tar.gz",
-  "download_time": "2025-07-25T09:56:14.645439",
+  "download_filename": "pytest_dsl-0.16.4.tar.gz",
+  "download_time": "2025-07-25T10:28:09.979968",
   "package_url": "https://pypi.org/project/pytest-dsl/"
 }

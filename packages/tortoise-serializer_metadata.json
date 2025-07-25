@@ -1,0 +1,11 @@
+{
+  "name": "tortoise-serializer",
+  "version": "1.6.0",
+  "summary": "Pydantic serialization for tortoise-orm",
+  "author": "Sebastien Nicolet",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tortoise_serializer-1.6.0.tar.gz",
+  "download_time": "2025-07-25T10:28:21.130367",
+  "package_url": "https://pypi.org/project/tortoise-serializer/"
+}

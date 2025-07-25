@@ -1,11 +1,11 @@
 {
   "name": "prof-quotex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "An intelligent automated trading bot for Quotex, featuring real-time trading, Telegram signal integration, and Martingale strategy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prof_quotex-0.0.1.tar.gz",
-  "download_time": "2025-07-25T09:35:01.478573",
+  "download_filename": "prof_quotex-0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-25T10:28:35.547023",
   "package_url": "https://pypi.org/project/prof-quotex/"
 }

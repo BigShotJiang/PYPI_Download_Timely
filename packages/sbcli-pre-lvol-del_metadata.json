@@ -1,0 +1,11 @@
+{
+  "name": "sbcli-pre-lvol-del",
+  "version": "19.0.5",
+  "summary": "CLI for managing SimplyBlock cluster",
+  "author": "Hamdy",
+  "license": null,
+  "home_page": "https://www.simplyblock.io/",
+  "download_filename": "sbcli_pre_lvol_del-19.0.5.tar.gz",
+  "download_time": "2025-07-25T10:28:14.594647",
+  "package_url": "https://pypi.org/project/sbcli-pre-lvol-del/"
+}

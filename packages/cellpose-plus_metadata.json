@@ -1,0 +1,11 @@
+{
+  "name": "cellpose-plus",
+  "version": "0.0.16",
+  "summary": "cell segmentation framework based on cellpose",
+  "author": "Israel Huaman",
+  "license": "BSD",
+  "home_page": "https://github.com/ITMO-MMRM-lab/cellpose",
+  "download_filename": "cellpose_plus-0.0.16-py3-none-any.whl",
+  "download_time": "2025-07-25T10:28:24.869497",
+  "package_url": "https://pypi.org/project/cellpose-plus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hanna-cloud",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A Python client for the HannaCloud API",
   "author": "Bestycame",
   "license": null,
   "home_page": "https://github.com/hannacloud/python-client",
-  "download_filename": "hanna_cloud-0.0.4.tar.gz",
-  "download_time": "2025-07-25T09:34:46.029836",
+  "download_filename": "hanna_cloud-0.0.5.tar.gz",
+  "download_time": "2025-07-25T10:27:58.576481",
   "package_url": "https://pypi.org/project/hanna-cloud/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "close-mongo-ops-manager",
+  "version": "0.5.0",
+  "summary": "Monitor and kill MongoDB operations",
+  "author": "Vicenç Juan Tomàs Monserrat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "close_mongo_ops_manager-0.5.0.tar.gz",
+  "download_time": "2025-07-25T10:28:39.088161",
+  "package_url": "https://pypi.org/project/close-mongo-ops-manager/"
+}

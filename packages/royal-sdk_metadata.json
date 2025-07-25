@@ -1,11 +1,11 @@
 {
   "name": "royal-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python SDK for Royal TSX/TS - create and manage connections, credentials, and folders programmatically",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "royal_sdk-0.1.0.tar.gz",
-  "download_time": "2025-07-25T09:56:08.869457",
+  "download_filename": "royal_sdk-0.1.1.tar.gz",
+  "download_time": "2025-07-25T10:28:10.553684",
   "package_url": "https://pypi.org/project/royal-sdk/"
 }

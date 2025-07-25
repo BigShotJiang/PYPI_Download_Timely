@@ -1,11 +1,11 @@
 {
   "name": "tower",
-  "version": "0.3.21",
+  "version": "0.3.22",
   "summary": "Tower CLI and runtime environment for Tower.",
   "author": "Brad Heller <brad@tower.dev>",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tower-0.3.21.tar.gz",
-  "download_time": "2025-07-25T07:35:22.926935",
+  "download_filename": "tower-0.3.22.tar.gz",
+  "download_time": "2025-07-25T10:28:30.932856",
   "package_url": "https://pypi.org/project/tower/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eccodes",
+  "version": "2.43.0",
+  "summary": "Python interface to the ecCodes GRIB and BUFR decoder/encoder",
+  "author": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/ecmwf/eccodes-python",
+  "download_filename": "eccodes-2.43.0.tar.gz",
+  "download_time": "2025-07-25T10:28:36.713570",
+  "package_url": "https://pypi.org/project/eccodes/"
+}
