@@ -1,0 +1,11 @@
+{
+  "name": "veloxx",
+  "version": "0.3.1",
+  "summary": "Veloxx: High-performance, lightweight Python library for in-memory data processing and analytics. Built on Rust for blazing speed and memory efficiency. Features DataFrames, Series, advanced I/O (CSV, JSON, Parquet), machine learning (linear regression, K-means, logistic regression), time-series analysis, data visualization, and parallel processing. Perfect for data science, analytics, and performance-critical applications where speed and memory usage matter.",
+  "author": "Conqxeror <conqxeror@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "veloxx-0.3.1-cp37-cp37m-win_amd64.whl",
+  "download_time": "2025-07-25T23:23:27.348740",
+  "package_url": "https://pypi.org/project/veloxx/"
+}

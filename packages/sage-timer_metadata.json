@@ -1,11 +1,11 @@
 {
   "name": "sage-timer",
-  "version": "0.1.0",
-  "summary": "Sage is an easy-to-use command line timer that looks good and adheres to your human inclinations about the language of time.",
+  "version": "0.1.2",
+  "summary": "Sage is an easy-to-use command line timer that looks good and accepts natural language time formats.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sage_timer-0.1.0.tar.gz",
-  "download_time": "2025-07-25T17:58:24.923732",
+  "download_filename": "sage_timer-0.1.2.tar.gz",
+  "download_time": "2025-07-25T23:22:48.000500",
   "package_url": "https://pypi.org/project/sage-timer/"
 }

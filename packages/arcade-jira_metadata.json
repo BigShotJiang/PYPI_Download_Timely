@@ -1,11 +1,11 @@
 {
   "name": "arcade-jira",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Arcade.dev LLM tools for interacting with Atlassian Jira",
   "author": null,
-  "license": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
   "home_page": null,
-  "download_filename": "arcade_jira-1.0.0.tar.gz",
-  "download_time": "2025-07-23T21:12:59.747560",
+  "download_filename": "arcade_jira-2.0.0-py3-none-any.whl",
+  "download_time": "2025-07-25T23:23:07.687326",
   "package_url": "https://pypi.org/project/arcade-jira/"
 }

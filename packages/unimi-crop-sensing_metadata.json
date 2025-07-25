@@ -1,11 +1,11 @@
 {
   "name": "unimi-crop-sensing",
-  "version": "0.6",
+  "version": "0.8",
   "summary": "A toolkit for crop sensing using the ZED camera",
   "author": null,
   "license": null,
-  "home_page": null,
-  "download_filename": "unimi_crop_sensing-0.6.tar.gz",
-  "download_time": "2025-07-25T21:54:14.306547",
+  "home_page": "https://github.com/Hoppip48/unimi_crop_sensing",
+  "download_filename": "unimi_crop_sensing-0.8.tar.gz",
+  "download_time": "2025-07-25T23:23:13.339583",
   "package_url": "https://pypi.org/project/unimi-crop-sensing/"
 }

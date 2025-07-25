@@ -1,0 +1,11 @@
+{
+  "name": "arcade-google-calendar",
+  "version": "3.0.0",
+  "summary": "Arcade.dev LLM tools for Google Calendar",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_google_calendar-3.0.0-py3-none-any.whl",
+  "download_time": "2025-07-25T23:23:17.006923",
+  "package_url": "https://pypi.org/project/arcade-google-calendar/"
+}

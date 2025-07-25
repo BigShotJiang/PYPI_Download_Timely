@@ -1,0 +1,11 @@
+{
+  "name": "azureml-designer-internal",
+  "version": "0.0.78",
+  "summary": "Internal functionalities provided for Azure Machine Learning designer built-in modules. Not intended for public use.",
+  "author": "Microsoft Crop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azureml_designer_internal-0.0.78-py3-none-any.whl",
+  "download_time": "2025-07-25T23:22:45.412031",
+  "package_url": "https://pypi.org/project/azureml-designer-internal/"
+}

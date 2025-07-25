@@ -1,0 +1,11 @@
+{
+  "name": "nbstripout-fast",
+  "version": "1.1.1",
+  "summary": "Strips outputs from Jupyter notebooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbstripout_fast-1.1.1.tar.gz",
+  "download_time": "2025-07-25T23:22:57.843867",
+  "package_url": "https://pypi.org/project/nbstripout-fast/"
+}

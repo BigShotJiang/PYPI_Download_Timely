@@ -1,11 +1,11 @@
 {
   "name": "streamlit-json-tip",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A Streamlit custom component for viewing JSON with interactive tooltips and tags",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/streamlit-json-tip",
-  "download_filename": "streamlit_json_tip-0.2.0.tar.gz",
-  "download_time": "2025-07-25T22:47:54.911756",
+  "download_filename": "streamlit_json_tip-0.2.2.tar.gz",
+  "download_time": "2025-07-25T23:23:03.574220",
   "package_url": "https://pypi.org/project/streamlit-json-tip/"
 }

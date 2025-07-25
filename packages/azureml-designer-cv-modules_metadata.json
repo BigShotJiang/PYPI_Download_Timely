@@ -1,0 +1,11 @@
+{
+  "name": "azureml-designer-cv-modules",
+  "version": "0.0.70",
+  "summary": "Modules to pre-process and transform images such as to crop, pad or resize.",
+  "author": "Microsoft Crop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azureml_designer_cv_modules-0.0.70-py3-none-any.whl",
+  "download_time": "2025-07-25T23:22:47.476116",
+  "package_url": "https://pypi.org/project/azureml-designer-cv-modules/"
+}

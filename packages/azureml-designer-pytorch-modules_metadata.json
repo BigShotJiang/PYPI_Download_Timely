@@ -1,0 +1,11 @@
+{
+  "name": "azureml-designer-pytorch-modules",
+  "version": "0.0.79",
+  "summary": "Modules to train and inference image processing models based on pytorch framework.",
+  "author": "Microsoft Crop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azureml_designer_pytorch_modules-0.0.79-py3-none-any.whl",
+  "download_time": "2025-07-25T23:22:44.898513",
+  "package_url": "https://pypi.org/project/azureml-designer-pytorch-modules/"
+}

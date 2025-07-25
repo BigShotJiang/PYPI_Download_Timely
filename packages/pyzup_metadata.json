@@ -1,11 +1,11 @@
 {
   "name": "pyzup",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Reusable upload handler for PDFs, DOCX, PPTX, ZIPs",
   "author": "Punit Tripathi, Mohd. Amir",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "pyzup-0.1.1.tar.gz",
-  "download_time": "2025-07-25T22:47:58.802030",
+  "download_filename": "pyzup-0.1.2.tar.gz",
+  "download_time": "2025-07-25T23:23:28.378728",
   "package_url": "https://pypi.org/project/pyzup/"
 }

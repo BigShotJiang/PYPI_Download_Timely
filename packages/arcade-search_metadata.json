@@ -1,0 +1,11 @@
+{
+  "name": "arcade-search",
+  "version": "2.0.0",
+  "summary": "Arcade.dev LLM tools for searching the web",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_search-2.0.0-py3-none-any.whl",
+  "download_time": "2025-07-25T23:23:18.560613",
+  "package_url": "https://pypi.org/project/arcade-search/"
+}

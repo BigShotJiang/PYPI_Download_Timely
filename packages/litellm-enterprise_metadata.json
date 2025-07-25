@@ -1,0 +1,11 @@
+{
+  "name": "litellm-enterprise",
+  "version": "0.1.16",
+  "summary": "Package for LiteLLM Enterprise features",
+  "author": "BerriAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "litellm_enterprise-0.1.16.tar.gz",
+  "download_time": "2025-07-25T23:23:14.367910",
+  "package_url": "https://pypi.org/project/litellm-enterprise/"
+}

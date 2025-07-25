@@ -1,11 +1,11 @@
 {
   "name": "orkera",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Simple HTTP client for Orkera distributed task runner",
   "author": "Orkera Team",
   "license": "MIT",
   "home_page": "https://github.com/orkera/python-sdk",
-  "download_filename": "orkera-0.2.0.tar.gz",
-  "download_time": "2025-07-25T22:47:47.639734",
+  "download_filename": "orkera-0.3.0.tar.gz",
+  "download_time": "2025-07-25T23:23:26.829593",
   "package_url": "https://pypi.org/project/orkera/"
 }

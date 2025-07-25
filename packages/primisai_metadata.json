@@ -1,0 +1,11 @@
+{
+  "name": "primisai",
+  "version": "0.8.1",
+  "summary": "Nexus is a powerful and flexible Python package for managing AI agents and coordinating complex tasks using LLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "primisai-0.8.1.tar.gz",
+  "download_time": "2025-07-25T23:22:56.298356",
+  "package_url": "https://pypi.org/project/primisai/"
+}

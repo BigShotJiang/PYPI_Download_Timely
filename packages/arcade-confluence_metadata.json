@@ -1,0 +1,11 @@
+{
+  "name": "arcade-confluence",
+  "version": "1.0.0",
+  "summary": "Arcade.dev LLM tools for Confluence",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_confluence-1.0.0-py3-none-any.whl",
+  "download_time": "2025-07-25T23:23:11.286426",
+  "package_url": "https://pypi.org/project/arcade-confluence/"
+}
