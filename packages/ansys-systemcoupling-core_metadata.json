@@ -1,11 +1,11 @@
 {
   "name": "ansys-systemcoupling-core",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "summary": "A Python wrapper for Ansys System Coupling.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ansys_systemcoupling_core-0.10.0.tar.gz",
-  "download_time": "2025-07-25T16:30:33.314530",
+  "download_filename": "ansys_systemcoupling_core-0.10.1.tar.gz",
+  "download_time": "2025-07-25T17:22:51.281450",
   "package_url": "https://pypi.org/project/ansys-systemcoupling-core/"
 }

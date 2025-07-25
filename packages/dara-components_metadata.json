@@ -1,11 +1,11 @@
 {
   "name": "dara-components",
-  "version": "1.19.0",
+  "version": "1.19.1",
   "summary": "Components for the Dara Framework",
   "author": "Patricia Jacob",
   "license": "Apache-2.0",
   "home_page": "https://dara.causalens.com/",
-  "download_filename": "dara_components-1.19.0-py3-none-any.whl",
-  "download_time": "2025-07-23T17:15:56.664645",
+  "download_filename": "dara_components-1.19.1-py3-none-any.whl",
+  "download_time": "2025-07-25T17:23:22.303228",
   "package_url": "https://pypi.org/project/dara-components/"
 }

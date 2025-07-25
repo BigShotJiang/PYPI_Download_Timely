@@ -1,0 +1,11 @@
+{
+  "name": "pyfusion37",
+  "version": "0.0.4",
+  "summary": "JPMC Fusion Developer Tools",
+  "author": "FusionDevs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/jpmorganchase/fusion-3.7",
+  "download_filename": "pyfusion37-0.0.4.tar.gz",
+  "download_time": "2025-07-25T17:23:19.707157",
+  "package_url": "https://pypi.org/project/pyfusion37/"
+}

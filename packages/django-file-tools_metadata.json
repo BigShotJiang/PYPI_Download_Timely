@@ -1,0 +1,11 @@
+{
+  "name": "django-file-tools",
+  "version": "0.1.7",
+  "summary": "Tools for working with files in Django",
+  "author": "Enrico Barzetti",
+  "license": "MIT",
+  "home_page": "https://github.com/enricobarzetti/django-file-tools",
+  "download_filename": "django_file_tools-0.1.7.tar.gz",
+  "download_time": "2025-07-25T17:22:59.505219",
+  "package_url": "https://pypi.org/project/django-file-tools/"
+}

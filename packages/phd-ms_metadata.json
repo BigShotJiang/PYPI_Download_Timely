@@ -1,11 +1,11 @@
 {
   "name": "phd-ms",
-  "version": "0.0.6",
+  "version": "0.0.10",
   "summary": "Identifying multiscale tissue domains for spatial transcriptomic data using persistent homology.",
   "author": "Perry Beamer",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "phd_ms-0.0.6.tar.gz",
-  "download_time": "2025-07-25T16:54:47.137040",
+  "download_filename": "phd_ms-0.0.10.tar.gz",
+  "download_time": "2025-07-25T17:23:05.195986",
   "package_url": "https://pypi.org/project/phd-ms/"
 }

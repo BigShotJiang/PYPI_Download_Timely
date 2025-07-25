@@ -1,11 +1,11 @@
 {
   "name": "htty-core",
-  "version": "0.2.27",
+  "version": "0.2.28",
   "summary": "Headless Terminal - Rust binary for terminal automation",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/MatrixManAtYrService/ht",
-  "download_filename": "htty_core-0.2.27-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2025-07-25T15:46:34.580851",
+  "download_filename": "htty_core-0.2.28-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-07-25T17:23:03.622085",
   "package_url": "https://pypi.org/project/htty-core/"
 }

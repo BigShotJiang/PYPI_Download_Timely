@@ -1,0 +1,11 @@
+{
+  "name": "magic-admin",
+  "version": "2.0.1",
+  "summary": "Magic Python Library",
+  "author": "Magic",
+  "license": "MIT",
+  "home_page": "https://magic.link",
+  "download_filename": "magic_admin-2.0.1.tar.gz",
+  "download_time": "2025-07-25T17:23:25.926646",
+  "package_url": "https://pypi.org/project/magic-admin/"
+}

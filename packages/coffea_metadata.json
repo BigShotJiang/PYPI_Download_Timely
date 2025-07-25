@@ -1,0 +1,11 @@
+{
+  "name": "coffea",
+  "version": "2025.7.2",
+  "summary": "Basic tools and wrappers for enabling not-too-alien syntax when running columnar Collider HEP analysis.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "coffea-2025.7.2-py3-none-any.whl",
+  "download_time": "2025-07-25T17:23:04.674404",
+  "package_url": "https://pypi.org/project/coffea/"
+}

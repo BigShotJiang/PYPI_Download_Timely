@@ -1,0 +1,11 @@
+{
+  "name": "pyjelly",
+  "version": "0.5.1",
+  "summary": "Jelly-RDF implementation for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyjelly-0.5.1.tar.gz",
+  "download_time": "2025-07-25T17:22:57.446967",
+  "package_url": "https://pypi.org/project/pyjelly/"
+}

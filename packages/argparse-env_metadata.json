@@ -1,11 +1,11 @@
 {
   "name": "argparse-env",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "An argpase that can take values from the environment.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "argparse_env-0.1.0.tar.gz",
-  "download_time": "2025-07-25T14:29:39.419728",
+  "download_filename": "argparse_env-0.1.2.tar.gz",
+  "download_time": "2025-07-25T17:23:09.829290",
   "package_url": "https://pypi.org/project/argparse-env/"
 }

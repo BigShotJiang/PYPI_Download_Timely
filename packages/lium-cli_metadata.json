@@ -1,0 +1,11 @@
+{
+  "name": "lium-cli",
+  "version": "0.1.0",
+  "summary": "A custom CLI tool for Lium. Lium CLI provides tools for interacting with the Lium ecosystem from the command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lium_cli-0.1.0.tar.gz",
+  "download_time": "2025-07-25T17:22:49.174410",
+  "package_url": "https://pypi.org/project/lium-cli/"
+}

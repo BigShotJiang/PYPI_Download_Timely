@@ -1,0 +1,11 @@
+{
+  "name": "polymatch",
+  "version": "0.6.0",
+  "summary": "A polymorphic pattern matching library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polymatch-0.6.0.tar.gz",
+  "download_time": "2025-07-25T17:22:58.479874",
+  "package_url": "https://pypi.org/project/polymatch/"
+}

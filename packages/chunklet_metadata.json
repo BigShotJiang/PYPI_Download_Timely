@@ -1,11 +1,11 @@
 {
   "name": "chunklet",
-  "version": "1.0.5",
+  "version": "1.0.4.post2",
   "summary": "A smart multilingual text chunker for LLMs, RAG, and beyond.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chunklet-1.0.5.tar.gz",
-  "download_time": "2025-07-25T07:35:42.724299",
+  "download_filename": "chunklet-1.0.4.post2.tar.gz",
+  "download_time": "2025-07-25T17:23:17.655246",
   "package_url": "https://pypi.org/project/chunklet/"
 }

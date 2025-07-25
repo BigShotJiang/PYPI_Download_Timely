@@ -1,11 +1,11 @@
 {
   "name": "robosapiensio",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "robosapiensIO - your gateway to trustworthy self-adaptive robotics.",
   "author": "Sahar Nasimi Nezhad & Bert Van Acker",
   "license": "Apache License 2.0",
   "home_page": "https://rpio.readthedocs.io/en/latest/index.html",
-  "download_filename": "robosapiensio-0.4.1.tar.gz",
-  "download_time": "2025-07-25T16:54:39.785416",
+  "download_filename": "robosapiensio-0.4.2.tar.gz",
+  "download_time": "2025-07-25T17:22:55.390853",
   "package_url": "https://pypi.org/project/robosapiensio/"
 }

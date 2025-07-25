@@ -1,11 +1,11 @@
 {
   "name": "meraki-dashboard-exporter",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "summary": "Prometheus exporter for Cisco Meraki Dashboard API metrics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meraki_dashboard_exporter-0.24.0.tar.gz",
-  "download_time": "2025-07-25T09:35:00.910720",
+  "download_filename": "meraki_dashboard_exporter-0.25.0.tar.gz",
+  "download_time": "2025-07-25T17:22:55.904929",
   "package_url": "https://pypi.org/project/meraki-dashboard-exporter/"
 }

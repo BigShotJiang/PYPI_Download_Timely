@@ -1,11 +1,11 @@
 {
   "name": "CodeMutator",
-  "version": "0.0.13",
+  "version": "0.0.16",
   "summary": "A comprehensive Python framework for building coding agents using GenAI",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "codemutator-0.0.13.tar.gz",
-  "download_time": "2025-07-24T07:32:20.455122",
+  "download_filename": "codemutator-0.0.16.tar.gz",
+  "download_time": "2025-07-25T17:22:58.992553",
   "package_url": "https://pypi.org/project/CodeMutator/"
 }

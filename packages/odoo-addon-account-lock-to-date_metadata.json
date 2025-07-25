@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-lock-to-date",
+  "version": "17.0.1.0.0.2",
+  "summary": "Allows to set an account lock date in the future.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_lock_to_date-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-25T17:23:29.055172",
+  "package_url": "https://pypi.org/project/odoo-addon-account-lock-to-date/"
+}

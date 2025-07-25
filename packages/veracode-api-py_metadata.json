@@ -1,0 +1,11 @@
+{
+  "name": "veracode-api-py",
+  "version": "0.9.63",
+  "summary": "Python helper library for working with the Veracode APIs. Handles retries, pagination, and other features of the modern Veracode REST APIs.",
+  "author": "Tim Jarrett",
+  "license": "MIT",
+  "home_page": "https://github.com/tjarrettveracode",
+  "download_filename": "veracode_api_py-0.9.63.tar.gz",
+  "download_time": "2025-07-25T17:23:25.414838",
+  "package_url": "https://pypi.org/project/veracode-api-py/"
+}
