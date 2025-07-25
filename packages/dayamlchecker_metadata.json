@@ -1,0 +1,11 @@
+{
+  "name": "dayamlchecker",
+  "version": "0.1.0",
+  "summary": "An LSP for Docassemble YAML interviews",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dayamlchecker-0.1.0.tar.gz",
+  "download_time": "2025-07-25T20:46:58.189566",
+  "package_url": "https://pypi.org/project/dayamlchecker/"
+}

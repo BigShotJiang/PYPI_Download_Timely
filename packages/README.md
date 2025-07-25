@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T20:37:25.480645
+- **Download Time**: 2025-07-25T20:47:10.712053
 - **Total Packages**: 52
-- **Total Size**: 39.54 MB
+- **Total Size**: 34.7 MB
 
 ## Packages List
+- pageai-sdk
+- safari-sdk
+- aws-s3-access-grants-boto3-plugin
+- matplotlib-map-utils
+- merlin-spectra
+- compressa-perf
+- co-datascientist
+- ezpubsub
+- browse-to-test
+- mlx-cpu
+- ink-extensions
+- resim-open-core
+- cando-py
+- sqlglot
+- rexplain
+- orionis
+- langchain-compass
+- kvcached
+- superintervals
+- etana-trade-mcp
+- aiows
+- hybra
+- rospec
+- metis-agent
+- aiu-fms-testing-utils
+- minix
+- unzer
+- freeds
+- dayamlchecker
+- mlx
+- girder-plugin-worker
+- typed-settings
+- aquiles-rag
+- dreamstone
+- pyhtelasso
+- mcp-open-client
 - apiq
 - girder-import-tracker
 - magentic_ui
@@ -22,39 +58,3 @@
 - lyrics-transcriber
 - hotspot3
 - unpage
-- aish-local
-- mcp-open-client
-- qsharp-widgets
-- qsharp-jupyterlab
-- qsharp
-- freeds
-- maxminddb
-- neohubapi
-- wsogram
-- pycinc
-- easycoder
-- quotientai
-- resim-open-core
-- resim-msg
-- resim-metrics-schema
-- resim-metrics
-- co-datascientist
-- gam7
-- dbt-toolbox
-- appodus-utils
-- Qelm
-- copepodTCR
-- teraace-tracker
-- near-omni-client
-- deepgram-sdk
-- pepeline
-- astreum
-- pageai-sdk
-- zoobot
-- digitalarzengine
-- swift-iso20022-toolbox
-- surya-ocr
-- RockyRoad
-- colabfit-kit
-- pvevti
-- email-extractor-from-string

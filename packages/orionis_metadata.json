@@ -1,11 +1,11 @@
 {
   "name": "orionis",
-  "version": "0.414.0",
+  "version": "0.415.0",
   "summary": "Orionis Framework – Elegant, Fast, and Powerful.",
   "author": "Raul Mauricio Uñate Castro",
   "license": "MIT",
   "home_page": "https://github.com/orionis-framework/framework",
-  "download_filename": "orionis-0.414.0.tar.gz",
-  "download_time": "2025-07-25T16:55:11.793094",
+  "download_filename": "orionis-0.415.0.tar.gz",
+  "download_time": "2025-07-25T20:46:50.932002",
   "package_url": "https://pypi.org/project/orionis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "merlin-spectra",
+  "version": "0.0.1",
+  "summary": "Interface with Cloudy Photoionization Software data and RAMSES-RT Simulation data to create galaxy images and spectra in nebular emission lines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "merlin_spectra-0.0.1.tar.gz",
+  "download_time": "2025-07-25T20:46:45.173979",
+  "package_url": "https://pypi.org/project/merlin-spectra/"
+}
