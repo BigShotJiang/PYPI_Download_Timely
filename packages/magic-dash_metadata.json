@@ -1,0 +1,11 @@
+{
+  "name": "magic-dash",
+  "version": "0.4.0",
+  "summary": "A command-line tool for quickly generating standard Dash application projects.",
+  "author": "CNFeffery <fefferypzy@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/CNFeffery/magic-dash",
+  "download_filename": "magic_dash-0.4.0.tar.gz",
+  "download_time": "2025-07-25T07:03:22.112861",
+  "package_url": "https://pypi.org/project/magic-dash/"
+}

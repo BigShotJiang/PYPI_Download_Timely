@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T06:46:03.102861
-- **Total Packages**: 86
-- **Total Size**: 34.78 MB
+- **Download Time**: 2025-07-25T07:03:47.164060
+- **Total Packages**: 83
+- **Total Size**: 21.52 MB
 
 ## Packages List
+- pyformgen-pb
+- kstflow
+- tf-models-nightly
+- brickdjango
+- fractal-task-tools
+- gimmegit
+- swe-ai-agent
+- pycycles
+- solderx
+- dq-library
+- fastapi-azure-auth
+- pytest-dsl-ssh
+- djprod
+- django-drf-extensions
+- mirlib
+- fdb5lib
+- eckitlib
+- eccodeslib
+- qtile-extras
+- atlaslib-ecmwf
+- maai
+- internutopia
+- mcp-templates
+- sunagent-app
+- allyanonimiser
+- sound-sleep
+- vectordb-bench
+- research-analyzer
+- btreeny
+- cs3apis
+- nonebot-plugin-simple-setu
+- odoo-addon-printing-auto-stock-picking
+- ramifice
+- odoo-addon-printing-auto-base
+- magic-dash
+- yzm-mcp-test
 - spatialcell
 - pyXLMS
 - air-cli
@@ -21,7 +57,6 @@
 - netapp-ontap
 - odoo-addon-portal-sale-order-search
 - yta-image-base
-- nonebot-plugin-simple-setu
 - dodopayments
 - zope.app.pagetemplate
 - openjij
@@ -54,41 +89,3 @@
 - prometheus-http-sd
 - swanspawner
 - ccdexplorer-fundamentals
-- liz-mymcp
-- auto-video-generator-mcp
-- php-framework-scaffolder
-- zohocrmsdk8-0
-- ivrs-client
-- deeplotx
-- zylib-test
-- streamlit-canary
-- alibabacloud-cms20240330
-- rotab
-- openamundsen
-- mcp-templates
-- cognite-toolkit
-- xqute
-- pypetkitapi
-- npsam
-- toomanysessions
-- ai-edge-litert-nightly
-- marinholab-working-needlemanipulation
-- pyapp-window
-- use-event
-- DeTrusty
-- skyledge-sdk
-- git-remind
-- zbitvector
-- DashingTurtle
-- pyg-nightly
-- treewalker
-- xync-client
-- ironshield
-- hexaeight-mcp-client
-- mcp-server-mdf
-- mseep-cli
-- pulumi-harness
-- alibabacloud-ess20220222
-- rock-paper-scissors-py
-- v2conf
-- tektii-strategy-sdk

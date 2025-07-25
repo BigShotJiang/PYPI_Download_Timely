@@ -1,11 +1,11 @@
 {
   "name": "brickdjango",
-  "version": "0.2.3",
-  "summary": "A custom Django app/package",
+  "version": "0.3.0",
+  "summary": "A custom Django project structure optimized for scalability, modularity, and maintainability—ideal for both small and large-scale web applications.",
   "author": "Amol Balpande",
   "license": null,
   "home_page": null,
-  "download_filename": "brickdjango-0.2.3.tar.gz",
-  "download_time": "2025-07-24T19:00:13.138373",
+  "download_filename": "brickdjango-0.3.0.tar.gz",
+  "download_time": "2025-07-25T07:03:04.853151",
   "package_url": "https://pypi.org/project/brickdjango/"
 }

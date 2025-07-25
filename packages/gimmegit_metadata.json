@@ -1,0 +1,11 @@
+{
+  "name": "gimmegit",
+  "version": "0.0.9",
+  "summary": "Create and clone fully-isolated development branches",
+  "author": "Dave Wilding",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gimmegit-0.0.9.tar.gz",
+  "download_time": "2025-07-25T07:03:05.990612",
+  "package_url": "https://pypi.org/project/gimmegit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-azure-auth",
+  "version": "5.2.0",
+  "summary": "Easy and secure implementation of Azure Entra ID for your FastAPI APIs",
+  "author": "Jonas Krüger Svensson",
+  "license": null,
+  "home_page": "https://github.com/intility/fastapi-azure-auth",
+  "download_filename": "fastapi_azure_auth-5.2.0.tar.gz",
+  "download_time": "2025-07-25T07:03:08.601125",
+  "package_url": "https://pypi.org/project/fastapi-azure-auth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "djprod",
-  "version": "0.1.0",
-  "summary": "Setup a production-ready Django projects with PostgreSQL or SQLite",
+  "version": "0.2.2",
+  "summary": "Yet another production-ready Django project.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "djprod-0.1.0.tar.gz",
-  "download_time": "2025-07-24T14:57:49.223643",
+  "download_filename": "djprod-0.2.2.tar.gz",
+  "download_time": "2025-07-25T07:03:09.668968",
   "package_url": "https://pypi.org/project/djprod/"
 }
