@@ -1,0 +1,11 @@
+{
+  "name": "diffoscope",
+  "version": "302",
+  "summary": "in-depth comparison of files, archives, and directories",
+  "author": "Diffoscope developers",
+  "license": "GPL-3+",
+  "home_page": "https://diffoscope.org/",
+  "download_filename": "diffoscope-302.tar.gz",
+  "download_time": "2025-07-25T16:54:49.749257",
+  "package_url": "https://pypi.org/project/diffoscope/"
+}

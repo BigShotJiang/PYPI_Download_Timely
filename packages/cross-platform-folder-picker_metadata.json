@@ -1,11 +1,11 @@
 {
   "name": "cross-platform-folder-picker",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A (near zero dependency by default) cross platform folder picker",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cross_platform_folder_picker-0.0.5.tar.gz",
-  "download_time": "2025-07-25T15:26:14.235029",
+  "download_filename": "cross_platform_folder_picker-0.0.6.tar.gz",
+  "download_time": "2025-07-25T16:55:23.192542",
   "package_url": "https://pypi.org/project/cross-platform-folder-picker/"
 }

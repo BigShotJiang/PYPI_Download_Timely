@@ -1,0 +1,11 @@
+{
+  "name": "PikoAi",
+  "version": "0.1.30",
+  "summary": "An AI-powered task automation tool",
+  "author": "Nihar S",
+  "license": null,
+  "home_page": "https://github.com/nihaaaar22/OS-Assistant",
+  "download_filename": "pikoai-0.1.30.tar.gz",
+  "download_time": "2025-07-25T16:55:09.704966",
+  "package_url": "https://pypi.org/project/PikoAi/"
+}

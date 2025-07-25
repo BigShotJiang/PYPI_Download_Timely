@@ -1,0 +1,11 @@
+{
+  "name": "veropt",
+  "version": "1.0.2",
+  "summary": "User-friendly Bayesian Optimisation for computationally expensive problems",
+  "author": "Aster Stoustrup",
+  "license": "OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/aster-stoustrup/veropt",
+  "download_filename": "veropt-1.0.2.tar.gz",
+  "download_time": "2025-07-25T16:55:14.948391",
+  "package_url": "https://pypi.org/project/veropt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zanshincli",
+  "version": "2.2.6",
+  "summary": "Python command line utility to the Tenchi Security Zanshin API v1",
+  "author": "Tenchi Security",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/tenchi-security/zanshin-cli",
+  "download_filename": "zanshincli-2.2.6.tar.gz",
+  "download_time": "2025-07-25T16:54:38.751169",
+  "package_url": "https://pypi.org/project/zanshincli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fancy-tree",
+  "version": "0.1.0",
+  "summary": "Git-enabled, cross-language code analysis that makes tree-sitter as easy as the tree command",
+  "author": "Antoine Descamps, Ishan Tiwari",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fancy_tree-0.1.0.tar.gz",
+  "download_time": "2025-07-25T16:55:12.842981",
+  "package_url": "https://pypi.org/project/fancy-tree/"
+}

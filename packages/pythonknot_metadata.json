@@ -1,0 +1,11 @@
+{
+  "name": "pythonknot",
+  "version": "0.1.16",
+  "summary": "pythonknot for knot theory calculation",
+  "author": "yjianzhu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonknot-0.1.16-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-07-25T16:54:53.918110",
+  "package_url": "https://pypi.org/project/pythonknot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pdat-qrgen",
+  "version": "0.1.0",
+  "summary": "Advanced QR Code Generator with Logo Embedding",
+  "author": "Pavel Dat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdat_qrgen-0.1.0.tar.gz",
+  "download_time": "2025-07-25T16:55:14.429499",
+  "package_url": "https://pypi.org/project/pdat-qrgen/"
+}

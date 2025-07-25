@@ -1,0 +1,11 @@
+{
+  "name": "ufo2ft",
+  "version": "3.6.0",
+  "summary": "A bridge between UFOs and FontTools.",
+  "author": "Tal Leming, James Godfrey-Kittle",
+  "license": "MIT",
+  "home_page": "https://github.com/googlefonts/ufo2ft",
+  "download_filename": "ufo2ft-3.6.0.tar.gz",
+  "download_time": "2025-07-25T16:55:09.185484",
+  "package_url": "https://pypi.org/project/ufo2ft/"
+}

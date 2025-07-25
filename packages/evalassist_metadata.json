@@ -1,0 +1,11 @@
+{
+  "name": "evalassist",
+  "version": "0.1.20",
+  "summary": "EvalAssist is an open-source project that simplifies using large language models as evaluators (LLM-as-a-Judge) of the output of other large language models by supporting users in iteratively refining evaluation criteria in a web-based user experience.",
+  "author": "Martín Santillán Cooper",
+  "license": "Apache-2.0",
+  "home_page": "https://ibm.github.io/eval-assist/",
+  "download_filename": "evalassist-0.1.20.tar.gz",
+  "download_time": "2025-07-25T16:54:56.009626",
+  "package_url": "https://pypi.org/project/evalassist/"
+}

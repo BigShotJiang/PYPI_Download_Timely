@@ -1,11 +1,11 @@
 {
   "name": "fmatch",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Common package for matching runs with provided metadata",
   "author": "sboyapal",
   "license": null,
   "home_page": null,
-  "download_filename": "fmatch-0.1.5.tar.gz",
-  "download_time": "2025-07-24T19:26:10.899545",
+  "download_filename": "fmatch-0.1.6.tar.gz",
+  "download_time": "2025-07-25T16:55:19.587278",
   "package_url": "https://pypi.org/project/fmatch/"
 }

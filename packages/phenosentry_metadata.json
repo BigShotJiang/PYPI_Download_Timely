@@ -1,0 +1,11 @@
+{
+  "name": "phenosentry",
+  "version": "0.2.1",
+  "summary": "A tool and library for quality control and validation of GA4GH Phenopackets.",
+  "author": "Michael Gargano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phenosentry-0.2.1.tar.gz",
+  "download_time": "2025-07-25T16:55:15.987826",
+  "package_url": "https://pypi.org/project/phenosentry/"
+}
