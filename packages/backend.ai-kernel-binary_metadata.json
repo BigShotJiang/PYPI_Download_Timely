@@ -1,11 +1,11 @@
 {
   "name": "backend.ai-kernel-binary",
-  "version": "25.12.0",
+  "version": "25.12.1",
   "summary": "Backend.AI Kernel Runner Prebuilt Binaries Package",
   "author": "Lablup Inc. and contributors",
   "license": "LGPLv3",
   "home_page": "https://github.com/lablup/backend.ai",
-  "download_filename": "backend_ai_kernel_binary-25.12.0.tar.gz",
-  "download_time": "2025-07-24T01:06:06.912364",
+  "download_filename": "backend_ai_kernel_binary-25.12.1.tar.gz",
+  "download_time": "2025-07-25T11:21:06.689329",
   "package_url": "https://pypi.org/project/backend.ai-kernel-binary/"
 }

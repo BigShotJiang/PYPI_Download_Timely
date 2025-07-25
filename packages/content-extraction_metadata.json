@@ -1,11 +1,11 @@
 {
   "name": "content-extraction",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Project dedicated to content extraction from unstructured files that contain some useful information.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "content_extraction-0.3.0.tar.gz",
-  "download_time": "2025-07-25T10:52:18.541934",
+  "download_filename": "content_extraction-0.3.1.tar.gz",
+  "download_time": "2025-07-25T11:20:56.491974",
   "package_url": "https://pypi.org/project/content-extraction/"
 }

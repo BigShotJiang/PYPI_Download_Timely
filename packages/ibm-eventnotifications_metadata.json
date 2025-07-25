@@ -1,0 +1,11 @@
+{
+  "name": "ibm-eventnotifications",
+  "version": "0.17.0",
+  "summary": "Python server SDK for IBM Cloud Event Notifications service",
+  "author": "IBM",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/IBM/event-notifications-python-admin-sdk",
+  "download_filename": "ibm_eventnotifications-0.17.0.tar.gz",
+  "download_time": "2025-07-25T11:20:50.286381",
+  "package_url": "https://pypi.org/project/ibm-eventnotifications/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prosegrinder",
+  "version": "1.4.0",
+  "summary": "A text analytics library for prose fiction.",
+  "author": "David L. Day",
+  "license": "GPLv3",
+  "home_page": "https://github.com/prosegrinder/python-prosegrinder",
+  "download_filename": "prosegrinder-1.4.0.tar.gz",
+  "download_time": "2025-07-25T11:20:30.391603",
+  "package_url": "https://pypi.org/project/prosegrinder/"
+}

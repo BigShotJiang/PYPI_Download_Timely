@@ -1,0 +1,11 @@
+{
+  "name": "traveltime-drive-time-comparisons",
+  "version": "1.4.0",
+  "summary": "Compare travel times obtained from TravelTime API other API providers",
+  "author": "TravelTime",
+  "license": null,
+  "home_page": null,
+  "download_filename": "traveltime_drive_time_comparisons-1.4.0.tar.gz",
+  "download_time": "2025-07-25T11:21:14.772297",
+  "package_url": "https://pypi.org/project/traveltime-drive-time-comparisons/"
+}

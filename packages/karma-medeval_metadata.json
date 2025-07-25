@@ -1,11 +1,11 @@
 {
   "name": "karma-medeval",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Add your description here",
   "author": "Vasanth",
   "license": null,
   "home_page": "https://github.com/eka-care/lucid",
-  "download_filename": "karma_medeval-0.1.7.tar.gz",
-  "download_time": "2025-07-24T17:22:01.357540",
+  "download_filename": "karma_medeval-0.1.8.tar.gz",
+  "download_time": "2025-07-25T11:20:58.244420",
   "package_url": "https://pypi.org/project/karma-medeval/"
 }

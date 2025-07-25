@@ -1,0 +1,11 @@
+{
+  "name": "synctl",
+  "version": "2.1.1",
+  "summary": "Instana Synthetic CLI",
+  "author": "Rong Zhu Shang, Swetha Lohith, Esteban Diaz",
+  "license": "MIT",
+  "home_page": "https://github.com/instana/synthetic-synctl",
+  "download_filename": "synctl-2.1.1.tar.gz",
+  "download_time": "2025-07-25T11:20:28.030155",
+  "package_url": "https://pypi.org/project/synctl/"
+}

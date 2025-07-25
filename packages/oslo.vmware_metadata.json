@@ -1,0 +1,11 @@
+{
+  "name": "oslo.vmware",
+  "version": "4.7.0",
+  "summary": "Oslo VMware library",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/oslo.vmware/latest/",
+  "download_filename": "oslo_vmware-4.7.0.tar.gz",
+  "download_time": "2025-07-25T11:21:13.589228",
+  "package_url": "https://pypi.org/project/oslo.vmware/"
+}

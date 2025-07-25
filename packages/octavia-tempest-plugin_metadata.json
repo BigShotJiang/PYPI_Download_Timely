@@ -1,0 +1,11 @@
+{
+  "name": "octavia-tempest-plugin",
+  "version": "3.1.0",
+  "summary": "Tempest plugin for Octavia",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/octavia-tempest-plugin/latest/",
+  "download_filename": "octavia_tempest_plugin-3.1.0.tar.gz",
+  "download_time": "2025-07-25T11:20:42.653637",
+  "package_url": "https://pypi.org/project/octavia-tempest-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "homer",
+  "version": "0.10.2",
+  "summary": "Configuration manager for network devices",
+  "author": "Riccardo Coccioli",
+  "license": "GPLv3+",
+  "home_page": "https://gerrit.wikimedia.org/r/plugins/gitiles/operations/software/homer",
+  "download_filename": "homer-0.10.2.tar.gz",
+  "download_time": "2025-07-25T11:20:42.075645",
+  "package_url": "https://pypi.org/project/homer/"
+}

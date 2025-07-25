@@ -1,0 +1,11 @@
+{
+  "name": "teradataml-plus",
+  "version": "0.1.0",
+  "summary": "Python Package that extends the functionality of the popular teradataml package through monkey-patching.",
+  "author": "Martin Hillebrand",
+  "license": null,
+  "home_page": null,
+  "download_filename": "teradataml-plus-0.1.0.tar.gz",
+  "download_time": "2025-07-25T11:20:35.018088",
+  "package_url": "https://pypi.org/project/teradataml-plus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "amirispy",
+  "version": "3.3.0",
+  "summary": "Python tools for the open electricity market model AMIRIS",
+  "author": "Christoph Schimeczek",
+  "license": "Apache-2.0",
+  "home_page": "https://helmholtz.software/software/amiris",
+  "download_filename": "amirispy-3.3.0.tar.gz",
+  "download_time": "2025-07-25T11:20:36.291974",
+  "package_url": "https://pypi.org/project/amirispy/"
+}

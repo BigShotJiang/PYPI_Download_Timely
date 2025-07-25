@@ -1,0 +1,11 @@
+{
+  "name": "solvency2-data",
+  "version": "0.2.5",
+  "summary": "Package for reading the Solvency 2 Risk-Free Interest Rate Term Structures from the zip-files on the EIOPA website and deriving the term structures for alternative extrapolations",
+  "author": "Willem Jan Willemse",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "solvency2_data-0.2.5.tar.gz",
+  "download_time": "2025-07-25T11:20:34.441892",
+  "package_url": "https://pypi.org/project/solvency2-data/"
+}

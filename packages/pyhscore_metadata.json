@@ -1,0 +1,11 @@
+{
+  "name": "pyhscore",
+  "version": "0.0.3",
+  "summary": "Compute H-scores in Python, including the canonical cell-based H-score and a pixel-wise implementation inspired by Ram et al. 2021.",
+  "author": "FerranC96",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/IntegratedPathologyUnit-ICR/pyhscore",
+  "download_filename": "pyhscore-0.0.3.tar.gz",
+  "download_time": "2025-07-25T11:20:44.389319",
+  "package_url": "https://pypi.org/project/pyhscore/"
+}

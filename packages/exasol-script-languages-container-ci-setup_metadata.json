@@ -1,0 +1,11 @@
+{
+  "name": "exasol-script-languages-container-ci-setup",
+  "version": "3.3.0",
+  "summary": "Manages AWS cloud CI build infrastructure.",
+  "author": "Thomas Uebensee",
+  "license": "MIT",
+  "home_page": "https://github.com/exasol/script-languages-container-ci-setup",
+  "download_filename": "exasol_script_languages_container_ci_setup-3.3.0.tar.gz",
+  "download_time": "2025-07-25T11:20:49.706865",
+  "package_url": "https://pypi.org/project/exasol-script-languages-container-ci-setup/"
+}

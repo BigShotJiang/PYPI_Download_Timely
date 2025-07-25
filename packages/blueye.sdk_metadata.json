@@ -1,0 +1,11 @@
+{
+  "name": "blueye.sdk",
+  "version": "2.5.1",
+  "summary": "SDK for controlling a Blueye underwater drone",
+  "author": "Sindre Hansen",
+  "license": null,
+  "home_page": "https://www.blueyerobotics.com",
+  "download_filename": "blueye_sdk-2.5.1.tar.gz",
+  "download_time": "2025-07-25T11:20:22.979920",
+  "package_url": "https://pypi.org/project/blueye.sdk/"
+}

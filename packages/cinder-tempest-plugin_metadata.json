@@ -1,0 +1,11 @@
+{
+  "name": "cinder-tempest-plugin",
+  "version": "1.18.0",
+  "summary": "Tempest plugin tests for Cinder.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "http://www.openstack.org/",
+  "download_filename": "cinder_tempest_plugin-1.18.0.tar.gz",
+  "download_time": "2025-07-25T11:20:49.129738",
+  "package_url": "https://pypi.org/project/cinder-tempest-plugin/"
+}
