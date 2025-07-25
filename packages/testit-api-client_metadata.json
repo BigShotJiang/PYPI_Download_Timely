@@ -1,0 +1,11 @@
+{
+  "name": "testit-api-client",
+  "version": "7.0.0",
+  "summary": "API-client for Test IT",
+  "author": "Integration team",
+  "license": null,
+  "home_page": "https://pypi.org/project/testit-api-client/",
+  "download_filename": "testit_api_client-7.0.0.tar.gz",
+  "download_time": "2025-07-25T11:42:27.032110",
+  "package_url": "https://pypi.org/project/testit-api-client/"
+}

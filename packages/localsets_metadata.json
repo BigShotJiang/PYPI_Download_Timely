@@ -1,11 +1,11 @@
 {
   "name": "localsets",
-  "version": "0.1.27",
+  "version": "0.1.31",
   "summary": "Local Pokemon random battle sets (auto-updating) and Smogon competitive sets",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "localsets-0.1.27.tar.gz",
-  "download_time": "2025-07-25T11:20:29.233637",
+  "download_filename": "localsets-0.1.31.tar.gz",
+  "download_time": "2025-07-25T11:42:17.618859",
   "package_url": "https://pypi.org/project/localsets/"
 }

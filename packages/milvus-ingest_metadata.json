@@ -1,11 +1,11 @@
 {
   "name": "milvus-ingest",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "High-performance data ingestion tool for Milvus vector database with vectorized operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "milvus_ingest-0.1.0.tar.gz",
-  "download_time": "2025-07-25T09:00:14.512773",
+  "download_filename": "milvus_ingest-0.1.2.tar.gz",
+  "download_time": "2025-07-25T11:42:14.468003",
   "package_url": "https://pypi.org/project/milvus-ingest/"
 }

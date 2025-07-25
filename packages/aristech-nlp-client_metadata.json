@@ -1,0 +1,11 @@
+{
+  "name": "aristech-nlp-client",
+  "version": "2.0.0",
+  "summary": "A Python client library for the Aristech Natural-Language-Processing API.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "aristech_nlp_client-2.0.0.tar.gz",
+  "download_time": "2025-07-25T11:42:37.022609",
+  "package_url": "https://pypi.org/project/aristech-nlp-client/"
+}

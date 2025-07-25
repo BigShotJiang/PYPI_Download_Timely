@@ -1,0 +1,11 @@
+{
+  "name": "qt-lottie",
+  "version": "0.1.1",
+  "summary": "Cross-platform Python library providing Lottie animation support for Qt applications",
+  "author": "Qt Lottie Contributors",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "qt_lottie-0.1.1.tar.gz",
+  "download_time": "2025-07-25T11:42:27.550478",
+  "package_url": "https://pypi.org/project/qt-lottie/"
+}

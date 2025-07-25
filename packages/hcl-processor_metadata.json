@@ -1,11 +1,11 @@
 {
   "name": "hcl-processor",
-  "version": "0.11.0b0",
+  "version": "0.11.1b0",
   "summary": "A tool for analyzing HCL files.",
   "author": "S-mishina",
   "license": null,
   "home_page": null,
-  "download_filename": "hcl_processor-0.11.0b0.tar.gz",
-  "download_time": "2025-07-25T08:31:35.946637",
+  "download_filename": "hcl_processor-0.11.1b0.tar.gz",
+  "download_time": "2025-07-25T11:42:28.069282",
   "package_url": "https://pypi.org/project/hcl-processor/"
 }
