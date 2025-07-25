@@ -1,11 +1,11 @@
 {
   "name": "PyCodeBox",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A personal collection of convenience functions for styling data ",
   "author": "Zachary D Wallen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycodebox-0.1.1.tar.gz",
-  "download_time": "2025-07-23T16:17:05.173689",
+  "download_filename": "pycodebox-0.1.3.tar.gz",
+  "download_time": "2025-07-25T11:54:11.016840",
   "package_url": "https://pypi.org/project/PyCodeBox/"
 }

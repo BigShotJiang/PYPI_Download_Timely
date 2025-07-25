@@ -1,0 +1,11 @@
+{
+  "name": "g3tables",
+  "version": "0.2.14",
+  "summary": "G3 SW Definition, HW and PLC components, and Visualisation tables parser",
+  "author": "Elektroline a.s.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "g3tables-0.2.14.tar.gz",
+  "download_time": "2025-07-25T11:54:09.745486",
+  "package_url": "https://pypi.org/project/g3tables/"
+}

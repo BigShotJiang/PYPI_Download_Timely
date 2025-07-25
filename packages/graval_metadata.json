@@ -1,0 +1,11 @@
+{
+  "name": "graval",
+  "version": "0.2.6",
+  "summary": "GraVal - graphics (card) validation framework",
+  "author": "jondurbin & cxmplex",
+  "license": null,
+  "home_page": "https://github.com/rayonlabs/graval",
+  "download_filename": "graval-0.2.6-py3-none-any.whl",
+  "download_time": "2025-07-25T11:53:57.266913",
+  "package_url": "https://pypi.org/project/graval/"
+}

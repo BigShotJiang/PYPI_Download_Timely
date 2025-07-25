@@ -1,0 +1,11 @@
+{
+  "name": "dkb",
+  "version": "0.2.6",
+  "summary": "Developer Knowledge Base - Fetch and organize documentation locally for vibe coding with Claude Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dkb-0.2.6.tar.gz",
+  "download_time": "2025-07-25T11:53:52.409007",
+  "package_url": "https://pypi.org/project/dkb/"
+}

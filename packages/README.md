@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T11:42:52.887631
-- **Total Packages**: 80
-- **Total Size**: 43.17 MB
+- **Download Time**: 2025-07-25T11:54:37.597688
+- **Total Packages**: 77
+- **Total Size**: 12.7 MB
 
 ## Packages List
+- cdk-vpc-module
+- odoo-addon-edi-state-oca
+- getstream
+- tau-community-detection
+- django-drf-extensions
+- dkb
+- jaqpotpy
+- syngen-databricks
+- r3l3453
+- nonebot-plugin-simple-setu
+- syngen
+- gsnetact
+- graval
+- mcp-templates
+- winipedia-utils
+- streamdown
+- ara-cli
+- odoo-addon-hr-holidays-public
+- martix
+- odoo-addon-hr-employee-service-contract
+- sportsball
+- ebird-api-data
+- moat-link
+- xync-client
+- torram
+- invoicing-pdf-2025-ppa
+- SDKFeishu
+- turbobt
+- ai4ce-helpers
+- cosmol-viewer
+- g3tables
+- graph-games-proto
+- PyCodeBox
+- romanRekhta
+- moshi-db
 - netfend-waf-client
 - muko
 - qdrant-loader
@@ -15,15 +50,12 @@
 - myfaasmctl
 - milvus-ingest
 - iphone-framer
-- turbobt
 - aicostmanager
 - snapvc
 - jl95terceira-pytools
 - localsets
 - kynex
 - rexplain
-- django-drf-extensions
-- r3l3453
 - alita-sdk
 - androtools
 - streamlit-plugins
@@ -33,8 +65,6 @@
 - streamlit-component-theme-changer
 - odoo-addon-purchase-substate
 - quickstore
-- torram
-- gsnetact
 - manage-xlsx
 - testit-api-client
 - qt-lottie
@@ -46,7 +76,6 @@
 - cognite-sdk
 - TypeDAL
 - torchft-nightly
-- ai4ce-helpers
 - resilient-result
 - vibex
 - claude-code-adk-validator
@@ -54,35 +83,3 @@
 - pulumi
 - tsg-lib
 - optree
-- frappy-core
-- aristech-nlp-client
-- fastapi-simple-app
-- delphai-utils
-- ecojupyter
-- name4py
-- moat-kv
-- blueye.sdk
-- COBY
-- relenv
-- kimi4free
-- hiworld123
-- pyhton-cli
-- skypilot-nightly
-- hybra
-- synctl
-- tb-nightly
-- prosegrinder
-- labcodes
-- codingnow
-- luck-room-v1
-- playmolecule
-- solvency2-data
-- teradataml-plus
-- getstream
-- amirispy
-- py-trashguard
-- voxterm
-- quantanium
-- dataflow-core
-- langchain-apify
-- pycmakebuild

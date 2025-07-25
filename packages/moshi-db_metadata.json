@@ -1,11 +1,11 @@
 {
   "name": "moshi-db",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "Moshi is moshi",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moshi_db-0.2.13.tar.gz",
-  "download_time": "2025-07-25T10:51:57.308332",
+  "download_filename": "moshi_db-0.2.14.tar.gz",
+  "download_time": "2025-07-25T11:54:12.295112",
   "package_url": "https://pypi.org/project/moshi-db/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "invoicing-pdf-2025-ppa",
+  "version": "1.0.0",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "PP",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "invoicing_pdf_2025_ppa-1.0.0.tar.gz",
+  "download_time": "2025-07-25T11:54:06.364895",
+  "package_url": "https://pypi.org/project/invoicing-pdf-2025-ppa/"
+}

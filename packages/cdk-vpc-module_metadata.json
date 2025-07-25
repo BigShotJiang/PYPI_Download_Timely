@@ -1,0 +1,11 @@
+{
+  "name": "cdk-vpc-module",
+  "version": "0.0.17",
+  "summary": "@smallcase/cdk-vpc-module",
+  "author": "Bharat Parmar<bharat.parmar@smallcase.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/smallcase/cdk-vpc-module.git",
+  "download_filename": "cdk_vpc_module-0.0.17.tar.gz",
+  "download_time": "2025-07-25T11:53:49.402195",
+  "package_url": "https://pypi.org/project/cdk-vpc-module/"
+}
