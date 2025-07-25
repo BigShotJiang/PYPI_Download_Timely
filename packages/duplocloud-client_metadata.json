@@ -1,11 +1,11 @@
 {
   "name": "duplocloud-client",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Command line Client for interacting with Duplocloud portals.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "duplocloud_client-0.3.3.tar.gz",
-  "download_time": "2025-07-25T19:42:10.656099",
+  "download_filename": "duplocloud_client-0.3.4.tar.gz",
+  "download_time": "2025-07-25T19:53:34.186196",
   "package_url": "https://pypi.org/project/duplocloud-client/"
 }

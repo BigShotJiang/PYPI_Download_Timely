@@ -1,11 +1,11 @@
 {
   "name": "sound-sleep",
-  "version": "0.4",
-  "summary": null,
-  "author": null,
+  "version": "0.5",
+  "summary": "Sleep analysis features extractor",
+  "author": "Trym Drag-Erlandsen and Therese Barøy Ræder",
   "license": null,
   "home_page": null,
-  "download_filename": "sound-sleep-0.4.tar.gz",
-  "download_time": "2025-07-25T19:41:39.499147",
+  "download_filename": "sound-sleep-0.5.tar.gz",
+  "download_time": "2025-07-25T19:53:39.839666",
   "package_url": "https://pypi.org/project/sound-sleep/"
 }

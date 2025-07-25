@@ -1,0 +1,11 @@
+{
+  "name": "btgsolutions-dataservices-python-client",
+  "version": "2.13.0",
+  "summary": "Python package containing several classes and data for extracting and manipulating market and trading data.",
+  "author": "BTG Solutions Data Services powered by BTG Pactual Solutions",
+  "license": null,
+  "home_page": "https://github.com/BTG-Pactual-Solutions/btgsolutions-dataservices-python-client",
+  "download_filename": "btgsolutions_dataservices_python_client-2.13.0.tar.gz",
+  "download_time": "2025-07-25T19:53:38.297345",
+  "package_url": "https://pypi.org/project/btgsolutions-dataservices-python-client/"
+}

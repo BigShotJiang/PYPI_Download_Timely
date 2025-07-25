@@ -1,0 +1,11 @@
+{
+  "name": "django-cog",
+  "version": "1.4.1",
+  "summary": "Django library for launching pipelines of multiple stages and parallel tasks.",
+  "author": "David W Pettifor",
+  "license": "MIT",
+  "home_page": "https://github.com/david-pettifor-nd/django_cog.git",
+  "download_filename": "django_cog-1.4.1.tar.gz",
+  "download_time": "2025-07-25T19:53:40.860278",
+  "package_url": "https://pypi.org/project/django-cog/"
+}

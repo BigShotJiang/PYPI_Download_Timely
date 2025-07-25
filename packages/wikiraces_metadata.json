@@ -1,0 +1,11 @@
+{
+  "name": "wikiraces",
+  "version": "0.1.1",
+  "summary": "AI-powered Wikipedia navigation using semantic similarity",
+  "author": "Mark Shteyn",
+  "license": "MIT",
+  "home_page": "https://github.com/markshteyn/wikiraces",
+  "download_filename": "wikiraces-0.1.1.tar.gz",
+  "download_time": "2025-07-25T19:53:34.697762",
+  "package_url": "https://pypi.org/project/wikiraces/"
+}

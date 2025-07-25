@@ -1,0 +1,11 @@
+{
+  "name": "aikitx",
+  "version": "1.0.0",
+  "summary": "A comprehensive GUI toolkit for Large Language Models (LLMs) with GGUF support, document processing, email automation, and multi-backend inference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aikitx-1.0.0.tar.gz",
+  "download_time": "2025-07-25T19:53:42.398835",
+  "package_url": "https://pypi.org/project/aikitx/"
+}

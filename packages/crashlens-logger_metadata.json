@@ -1,11 +1,11 @@
 {
   "name": "crashlens-logger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "CLI tool to generate structured LLM logs for CrashLens cost detection",
   "author": "Aditya Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "crashlens_logger-1.0.3.tar.gz",
-  "download_time": "2025-07-25T19:25:28.788187",
+  "download_filename": "crashlens_logger-1.0.4.tar.gz",
+  "download_time": "2025-07-25T19:53:41.372432",
   "package_url": "https://pypi.org/project/crashlens-logger/"
 }
