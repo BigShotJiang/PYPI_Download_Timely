@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-license-manager-user-subscriptions",
+  "version": "2.23.2",
+  "summary": "Type annotations for aiobotocore LicenseManagerUserSubscriptions 2.23.2 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_aiobotocore_license_manager_user_subscriptions-2.23.2-py3-none-any.whl",
+  "download_time": "2025-07-25T01:57:05.550768",
+  "package_url": "https://pypi.org/project/types-aiobotocore-license-manager-user-subscriptions/"
+}

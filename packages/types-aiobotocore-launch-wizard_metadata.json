@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-launch-wizard",
+  "version": "2.23.2",
+  "summary": "Type annotations for aiobotocore LaunchWizard 2.23.2 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_aiobotocore_launch_wizard-2.23.2.tar.gz",
+  "download_time": "2025-07-25T01:57:09.323308",
+  "package_url": "https://pypi.org/project/types-aiobotocore-launch-wizard/"
+}
