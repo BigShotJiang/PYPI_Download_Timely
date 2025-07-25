@@ -1,0 +1,11 @@
+{
+  "name": "cumulusci-plus",
+  "version": "5.0.10",
+  "summary": "Build and release tools for Salesforce developers",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "cumulusci_plus-5.0.10.tar.gz",
+  "download_time": "2025-07-25T18:59:51.815782",
+  "package_url": "https://pypi.org/project/cumulusci-plus/"
+}

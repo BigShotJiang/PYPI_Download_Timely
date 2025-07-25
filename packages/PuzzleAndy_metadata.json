@@ -1,11 +1,11 @@
 {
   "name": "PuzzleAndy",
-  "version": "1.0.12",
+  "version": "1.0.14",
   "summary": null,
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "puzzleandy-1.0.12-py2.py3-none-any.whl",
-  "download_time": "2025-07-25T18:34:20.741432",
+  "download_filename": "puzzleandy-1.0.14-py2.py3-none-any.whl",
+  "download_time": "2025-07-25T19:00:16.065450",
   "package_url": "https://pypi.org/project/PuzzleAndy/"
 }

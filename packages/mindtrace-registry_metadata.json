@@ -1,0 +1,11 @@
+{
+  "name": "mindtrace-registry",
+  "version": "0.2.0",
+  "summary": "Registry functionality for Mindtrace",
+  "author": "Mindtrace Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mindtrace_registry-0.2.0.tar.gz",
+  "download_time": "2025-07-25T19:00:11.425076",
+  "package_url": "https://pypi.org/project/mindtrace-registry/"
+}

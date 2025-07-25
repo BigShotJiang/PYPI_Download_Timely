@@ -1,11 +1,11 @@
 {
   "name": "school-of-prompt",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "🎸 Rock your prompts! Enterprise-grade prompt optimization with statistical rigor and production features",
   "author": "Gustavo Pereyra",
   "license": null,
   "home_page": "https://github.com/gpereyra/school-of-prompt",
-  "download_filename": "school_of_prompt-0.4.1.tar.gz",
-  "download_time": "2025-07-25T15:46:20.800025",
+  "download_filename": "school_of_prompt-0.4.2.tar.gz",
+  "download_time": "2025-07-25T18:59:52.842622",
   "package_url": "https://pypi.org/project/school-of-prompt/"
 }

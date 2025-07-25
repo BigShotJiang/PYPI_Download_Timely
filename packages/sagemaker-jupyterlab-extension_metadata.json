@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-jupyterlab-extension",
+  "version": "0.5.1",
+  "summary": "SageMaker JupyterLab workspace primary extension module",
+  "author": "Amazon",
+  "license": "Amazon Software License",
+  "home_page": "https://aws.amazon.com/sagemaker/",
+  "download_filename": "sagemaker_jupyterlab_extension-0.5.1.tar.gz",
+  "download_time": "2025-07-25T19:00:09.375090",
+  "package_url": "https://pypi.org/project/sagemaker-jupyterlab-extension/"
+}

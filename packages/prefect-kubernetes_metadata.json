@@ -1,11 +1,11 @@
 {
   "name": "prefect-kubernetes",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Prefect integrations for interacting with Kubernetes.",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "prefect_kubernetes-0.6.2.tar.gz",
-  "download_time": "2025-07-24T22:47:27.139951",
+  "download_filename": "prefect_kubernetes-0.6.3.tar.gz",
+  "download_time": "2025-07-25T18:59:52.329702",
   "package_url": "https://pypi.org/project/prefect-kubernetes/"
 }
