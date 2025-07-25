@@ -1,11 +1,11 @@
 {
   "name": "cucu",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "Easy BDD web testing",
   "author": "Domino Data Lab, Rodney Gomes, Cedric Young, Xin Dong, Kavya, Kevin Garton, Joy Liao",
   "license": "The Clear BSD License",
   "home_page": null,
-  "download_filename": "cucu-1.2.6.tar.gz",
-  "download_time": "2025-07-23T23:13:47.487588",
+  "download_filename": "cucu-1.2.7.tar.gz",
+  "download_time": "2025-07-25T21:22:23.882126",
   "package_url": "https://pypi.org/project/cucu/"
 }

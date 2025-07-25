@@ -1,11 +1,11 @@
 {
   "name": "agrobiota-sdk",
-  "version": "0.1.0a0",
+  "version": "0.1.0a5",
   "summary": "An official SDK library for the AGROBIOTA environment",
   "author": "BIOTROP Bioinformatics Team",
   "license": "MIT",
   "home_page": "https://github.com/Biotrop/agb-sdk",
-  "download_filename": "agrobiota_sdk-0.1.0a0-py3-none-any.whl",
-  "download_time": "2025-07-23T21:13:16.691458",
+  "download_filename": "agrobiota_sdk-0.1.0a5-py3-none-any.whl",
+  "download_time": "2025-07-25T21:22:24.920096",
   "package_url": "https://pypi.org/project/agrobiota-sdk/"
 }

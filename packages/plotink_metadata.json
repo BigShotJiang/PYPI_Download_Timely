@@ -1,0 +1,11 @@
+{
+  "name": "plotink",
+  "version": "1.14.0",
+  "summary": "Helper routines for use with plotters",
+  "author": "Bantam Tools",
+  "license": null,
+  "home_page": "https://github.com/evil-mad/plotink",
+  "download_filename": "plotink-1.14.0.tar.gz",
+  "download_time": "2025-07-25T21:22:33.820239",
+  "package_url": "https://pypi.org/project/plotink/"
+}

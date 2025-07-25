@@ -1,0 +1,11 @@
+{
+  "name": "deepcode-hku",
+  "version": "1.0.3",
+  "summary": "AI Research Engine - Transform research papers into working code automatically",
+  "author": "DeepCodeTeam",
+  "license": null,
+  "home_page": "https://github.com/HKUDS/DeepCode",
+  "download_filename": "deepcode_hku-1.0.3.tar.gz",
+  "download_time": "2025-07-25T21:22:30.652779",
+  "package_url": "https://pypi.org/project/deepcode-hku/"
+}

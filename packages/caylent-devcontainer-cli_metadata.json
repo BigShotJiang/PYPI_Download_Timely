@@ -1,0 +1,11 @@
+{
+  "name": "caylent-devcontainer-cli",
+  "version": "1.4.0",
+  "summary": "CLI tool for managing Caylent devcontainers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "caylent_devcontainer_cli-1.4.0.tar.gz",
+  "download_time": "2025-07-25T21:22:44.795085",
+  "package_url": "https://pypi.org/project/caylent-devcontainer-cli/"
+}

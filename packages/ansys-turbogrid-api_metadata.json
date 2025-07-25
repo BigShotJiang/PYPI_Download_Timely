@@ -1,11 +1,11 @@
 {
   "name": "ansys-turbogrid-api",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "summary": null,
   "author": "ANSYS, Inc.",
   "license": "MIT",
   "home_page": "https://github.com/ansys-internal/ansys-api-turbogrid",
-  "download_filename": "ansys_turbogrid_api-0.4.8-py310-none-any.whl",
-  "download_time": "2025-07-25T19:25:49.929778",
+  "download_filename": "ansys_turbogrid_api-0.4.9-py310-none-any.whl",
+  "download_time": "2025-07-25T21:22:26.485825",
   "package_url": "https://pypi.org/project/ansys-turbogrid-api/"
 }

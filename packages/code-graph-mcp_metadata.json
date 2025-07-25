@@ -1,0 +1,11 @@
+{
+  "name": "code-graph-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for multi-language code graph intelligence and analysis across 25+ programming languages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_graph_mcp-1.0.0.tar.gz",
+  "download_time": "2025-07-25T21:22:25.442067",
+  "package_url": "https://pypi.org/project/code-graph-mcp/"
+}

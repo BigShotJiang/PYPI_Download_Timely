@@ -1,0 +1,11 @@
+{
+  "name": "e1",
+  "version": "0.2.1",
+  "summary": "Python support for the e1 compression format.",
+  "author": "Jonathan MacCarthy",
+  "license": "MIT",
+  "home_page": "https://github.com/LANL-seismoacoustics/e1",
+  "download_filename": "e1-0.2.1.tar.gz",
+  "download_time": "2025-07-25T21:22:31.701657",
+  "package_url": "https://pypi.org/project/e1/"
+}

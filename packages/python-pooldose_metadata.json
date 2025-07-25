@@ -1,0 +1,11 @@
+{
+  "name": "python-pooldose",
+  "version": "0.4.5",
+  "summary": "Unoffical async Python client for SEKO PoolDose devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_pooldose-0.4.5.tar.gz",
+  "download_time": "2025-07-25T21:22:35.919840",
+  "package_url": "https://pypi.org/project/python-pooldose/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adsputils",
+  "version": "1.5.11",
+  "summary": "ADS Pipeline Utils",
+  "author": "NASA/SAO ADS",
+  "license": "MIT",
+  "home_page": "https://github.com/adsabs/ADSPipelineUtils",
+  "download_filename": "adsputils-1.5.11.tar.gz",
+  "download_time": "2025-07-25T21:22:16.563924",
+  "package_url": "https://pypi.org/project/adsputils/"
+}

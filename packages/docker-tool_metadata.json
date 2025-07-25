@@ -1,0 +1,11 @@
+{
+  "name": "docker-tool",
+  "version": "1.0.1",
+  "summary": "🛠️ Simple and interactive CLI for Docker container management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docker_tool-1.0.1.tar.gz",
+  "download_time": "2025-07-25T21:22:09.588071",
+  "package_url": "https://pypi.org/project/docker-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-account-withholding",
+  "version": "16.0.1.0.0.2",
+  "summary": "Brazilian Withholding Invoice Generator",
+  "author": "Escodoo, Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_account_withholding-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-25T21:22:28.050409",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-account-withholding/"
+}

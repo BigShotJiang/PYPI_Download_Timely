@@ -1,11 +1,11 @@
 {
   "name": "ork.build",
-  "version": "0.0.275",
+  "version": "0.0.276",
   "summary": "Orkid Build Tools",
   "author": "Michael T. Mayers",
   "license": null,
   "home_page": "https://github.com/tweakoz/ork.build",
-  "download_filename": "ork_build-0.0.275.tar.gz",
-  "download_time": "2025-07-24T22:47:21.948741",
+  "download_filename": "ork_build-0.0.276.tar.gz",
+  "download_time": "2025-07-25T21:22:15.971785",
   "package_url": "https://pypi.org/project/ork.build/"
 }

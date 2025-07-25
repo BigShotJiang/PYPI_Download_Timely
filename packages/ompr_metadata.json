@@ -1,0 +1,11 @@
+{
+  "name": "ompr",
+  "version": "1.6.0",
+  "summary": "Object based Multi-Processing Runner",
+  "author": "Piotr Niewinski",
+  "license": "MIT",
+  "home_page": "https://github.com/piteren/ompr.git",
+  "download_filename": "ompr-1.6.0.tar.gz",
+  "download_time": "2025-07-25T21:22:13.799243",
+  "package_url": "https://pypi.org/project/ompr/"
+}
