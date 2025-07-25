@@ -1,0 +1,11 @@
+{
+  "name": "pulldown-cmark",
+  "version": "0.1.1",
+  "summary": "A Python interface to pulldown-cmark.",
+  "author": "Mohamad Makki <moe.m.makki@gmail.com>",
+  "license": "0BSD",
+  "home_page": "https://git.sr.ht/~orchid/pulldown-cmark-py",
+  "download_filename": "pulldown_cmark-0.1.1.tar.gz",
+  "download_time": "2025-07-25T03:41:39.203131",
+  "package_url": "https://pypi.org/project/pulldown-cmark/"
+}

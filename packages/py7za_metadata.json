@@ -1,0 +1,11 @@
+{
+  "name": "py7za",
+  "version": "0.4.2",
+  "summary": "Description",
+  "author": "BMT, Jaap van der Velde",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/Jaap.vanderVelde/py7za",
+  "download_filename": "py7za-0.4.2.tar.gz",
+  "download_time": "2025-07-25T03:41:38.148046",
+  "package_url": "https://pypi.org/project/py7za/"
+}

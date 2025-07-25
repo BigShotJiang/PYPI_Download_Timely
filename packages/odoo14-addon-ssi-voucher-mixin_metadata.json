@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-voucher-mixin",
+  "version": "14.0.2.1.0",
+  "summary": "Account Voucher Mixin",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_voucher_mixin-14.0.2.1.0-py3-none-any.whl",
+  "download_time": "2025-07-25T03:41:24.541748",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-voucher-mixin/"
+}

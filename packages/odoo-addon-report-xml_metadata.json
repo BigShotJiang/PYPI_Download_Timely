@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-report-xml",
+  "version": "18.0.1.0.0.3",
+  "summary": "Allow to generate XML reports",
+  "author": "Tecnativa, Odoo Community Association (OCA), Avoin.Systems",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/reporting-engine",
+  "download_filename": "odoo_addon_report_xml-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-07-25T03:41:26.681629",
+  "package_url": "https://pypi.org/project/odoo-addon-report-xml/"
+}
