@@ -1,11 +1,11 @@
 {
   "name": "superai-llms",
-  "version": "1.2.1.11",
+  "version": "1.2.1.12",
   "summary": "superai llms modules",
   "author": "Owen",
   "license": "Apache 2.0",
   "home_page": "https://github.com/xxx/superai",
-  "download_filename": "superai_llms-1.2.1.11-py3-none-manylinux2014_x86_64.whl",
-  "download_time": "2025-07-25T05:59:20.386912",
+  "download_filename": "superai_llms-1.2.1.12-py3-none-win_amd64.whl",
+  "download_time": "2025-07-25T07:35:56.613056",
   "package_url": "https://pypi.org/project/superai-llms/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "req-enc-dec",
+  "version": "0.2.0",
+  "summary": "Request/Response Encryption/Decryption Middleware",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/req_enc_dec",
+  "download_filename": "req_enc_dec-0.2.0.tar.gz",
+  "download_time": "2025-07-25T07:35:25.046406",
+  "package_url": "https://pypi.org/project/req-enc-dec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-cv1",
+  "version": "0.4.0",
+  "summary": "A Django app to conduct web-based cv.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cv1-0.4.0.tar.gz",
+  "download_time": "2025-07-25T07:35:42.211375",
+  "package_url": "https://pypi.org/project/django-cv1/"
+}

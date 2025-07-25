@@ -1,0 +1,11 @@
+{
+  "name": "rosys",
+  "version": "0.27.0",
+  "summary": "Modular Robot System With Elegant Automation Capabilities",
+  "author": "Zauberzeug GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/zauberzeug/rosys",
+  "download_filename": "rosys-0.27.0.tar.gz",
+  "download_time": "2025-07-25T07:35:35.512537",
+  "package_url": "https://pypi.org/project/rosys/"
+}

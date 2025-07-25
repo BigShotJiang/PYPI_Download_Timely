@@ -1,0 +1,11 @@
+{
+  "name": "pyD3TN",
+  "version": "0.14.3",
+  "summary": "Collection of DTN protocol implementations",
+  "author": null,
+  "license": "BSD-3-Clause OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyd3tn-0.14.3.tar.gz",
+  "download_time": "2025-07-25T07:35:34.997518",
+  "package_url": "https://pypi.org/project/pyD3TN/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "funcwatch",
+  "version": "0.1.0",
+  "summary": "A Python decorator for comprehensive function monitoring with execution timing, memory usage tracking, CPU monitoring, input/output validation, and structured logging.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "funcwatch-0.1.0.tar.gz",
+  "download_time": "2025-07-25T07:35:41.161332",
+  "package_url": "https://pypi.org/project/funcwatch/"
+}

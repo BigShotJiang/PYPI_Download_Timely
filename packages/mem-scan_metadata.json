@@ -1,0 +1,11 @@
+{
+  "name": "mem-scan",
+  "version": "1.0.0",
+  "summary": "A command-line tool for monitoring system and GPU memory usage during process execution",
+  "author": "ModelOpt Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mem_scan-1.0.0.tar.gz",
+  "download_time": "2025-07-25T07:35:53.993777",
+  "package_url": "https://pypi.org/project/mem-scan/"
+}

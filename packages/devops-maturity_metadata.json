@@ -1,0 +1,11 @@
+{
+  "name": "devops-maturity",
+  "version": "0.2.6",
+  "summary": "A tool to evaluate and measure the maturity level of your DevOps practices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devops_maturity-0.2.6-py3-none-any.whl",
+  "download_time": "2025-07-25T07:35:25.557878",
+  "package_url": "https://pypi.org/project/devops-maturity/"
+}

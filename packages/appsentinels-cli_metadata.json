@@ -1,0 +1,11 @@
+{
+  "name": "appsentinels-cli",
+  "version": "2.2.8",
+  "summary": "AppSentinels CLI - Modular API Security Management Tool with Plugin Architecture",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "appsentinels_cli-2.2.8.tar.gz",
+  "download_time": "2025-07-25T07:35:28.204770",
+  "package_url": "https://pypi.org/project/appsentinels-cli/"
+}

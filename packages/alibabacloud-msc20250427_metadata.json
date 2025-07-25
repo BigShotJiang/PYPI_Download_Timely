@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-msc20250427",
+  "version": "1.0.0",
+  "summary": "Alibaba Cloud Msc (20250427) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_msc20250427-1.0.0.tar.gz",
+  "download_time": "2025-07-25T07:35:29.228002",
+  "package_url": "https://pypi.org/project/alibabacloud-msc20250427/"
+}

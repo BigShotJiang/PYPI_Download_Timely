@@ -1,0 +1,11 @@
+{
+  "name": "adcustom",
+  "version": "0.0.3",
+  "summary": "A custom Python module containing various mathematical, string, and matrix operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adcustom-0.0.3.tar.gz",
+  "download_time": "2025-07-25T07:35:41.678059",
+  "package_url": "https://pypi.org/project/adcustom/"
+}

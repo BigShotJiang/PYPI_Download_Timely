@@ -1,0 +1,11 @@
+{
+  "name": "semantic-kernel-agent-factory",
+  "version": "0.0.8",
+  "summary": "SDK for creating and managing OpenAI agents with MCP server integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semantic_kernel_agent_factory-0.0.8-py3-none-any.whl",
+  "download_time": "2025-07-25T07:35:45.943225",
+  "package_url": "https://pypi.org/project/semantic-kernel-agent-factory/"
+}

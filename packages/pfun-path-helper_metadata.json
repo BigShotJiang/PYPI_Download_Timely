@@ -1,0 +1,11 @@
+{
+  "name": "pfun-path-helper",
+  "version": "0.1.3",
+  "summary": "Path helper script, appends relevant paths to sys.path to ease multi-package development.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pfun_path_helper-0.1.3.tar.gz",
+  "download_time": "2025-07-25T07:35:27.138632",
+  "package_url": "https://pypi.org/project/pfun-path-helper/"
+}

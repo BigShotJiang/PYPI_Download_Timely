@@ -1,0 +1,11 @@
+{
+  "name": "yuxin-auth",
+  "version": "2025.7.25.1",
+  "summary": "使用requests登录宇信系统",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yuxin_auth-2025.7.25.1.tar.gz",
+  "download_time": "2025-07-25T07:35:28.716493",
+  "package_url": "https://pypi.org/project/yuxin-auth/"
+}

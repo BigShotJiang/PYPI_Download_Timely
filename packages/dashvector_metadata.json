@@ -1,0 +1,11 @@
+{
+  "name": "dashvector",
+  "version": "1.0.21",
+  "summary": "DashVector Client Python Sdk Library",
+  "author": "Alibaba",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/alibaba/proxima",
+  "download_filename": "dashvector-1.0.21.tar.gz",
+  "download_time": "2025-07-25T07:35:21.343628",
+  "package_url": "https://pypi.org/project/dashvector/"
+}

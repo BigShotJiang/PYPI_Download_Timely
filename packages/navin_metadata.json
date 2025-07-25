@@ -1,0 +1,11 @@
+{
+  "name": "navin",
+  "version": "0.1",
+  "summary": "A simple local server with static HTML/CSS, started via 'navin runserver' command.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "navin-0.1.tar.gz",
+  "download_time": "2025-07-25T07:35:46.455082",
+  "package_url": "https://pypi.org/project/navin/"
+}
