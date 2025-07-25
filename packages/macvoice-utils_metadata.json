@@ -1,0 +1,11 @@
+{
+  "name": "macvoice-utils",
+  "version": "0.6",
+  "summary": "Python 3 utilities for reading literature with macOS voices, using different voices for different characters in the dialogue",
+  "author": "Silas S. Brown",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "macvoice_utils-0.6.tar.gz",
+  "download_time": "2025-07-25T05:59:14.119621",
+  "package_url": "https://pypi.org/project/macvoice-utils/"
+}

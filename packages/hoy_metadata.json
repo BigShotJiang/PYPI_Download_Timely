@@ -1,11 +1,11 @@
 {
   "name": "hoy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A dead simple notifier.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hoy-1.0.3.tar.gz",
-  "download_time": "2025-07-24T11:54:18.679309",
+  "download_filename": "hoy-1.0.4.tar.gz",
+  "download_time": "2025-07-25T05:59:15.671756",
   "package_url": "https://pypi.org/project/hoy/"
 }

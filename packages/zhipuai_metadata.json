@@ -1,11 +1,11 @@
 {
   "name": "zhipuai",
-  "version": "2.1.5.20250725",
+  "version": "2.1.5.20250726",
   "summary": "A SDK library for accessing big model apis from ZhipuAI",
   "author": "Zhipu AI",
   "license": null,
   "home_page": null,
-  "download_filename": "zhipuai-2.1.5.20250725.tar.gz",
-  "download_time": "2025-07-24T09:40:41.603643",
+  "download_filename": "zhipuai-2.1.5.20250726.tar.gz",
+  "download_time": "2025-07-25T05:59:18.295872",
   "package_url": "https://pypi.org/project/zhipuai/"
 }

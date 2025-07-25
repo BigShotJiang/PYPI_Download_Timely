@@ -1,14 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T05:45:25.307734
-- **Total Packages**: 77
-- **Total Size**: 29.91 MB
+- **Download Time**: 2025-07-25T05:59:55.262391
+- **Total Packages**: 82
+- **Total Size**: 3.51 MB
 
 ## Packages List
+- mseep-cli
+- cmai
+- polarisllm
+- folder2md4llms
+- gimlet-api
+- macvoice-utils
+- localstack-core
+- hoy
+- edri
+- nonebot-plugin-simple-setu
+- finter
+- pulumi-datadog
+- zhipuai
+- nessie-py
+- dxpars
+- basebio
+- superai-llms
+- spatialcell
+- pulumi-dbtcloud
+- dbgpt-ext
+- dbgpt-client
+- dbgpt-acc-flash-attn
+- dbgpt-acc-auto
+- dbgpt
+- prefig
+- texting-robots-py
+- swe-ai-agent
+- logsentinelai
 - cvxcla
 - kstprocess
-- nonebot-plugin-simple-setu
 - ngwidgets
 - mcpstore-cli
 - envhub-cli
@@ -17,7 +44,6 @@
 - p123client
 - reyworm
 - dapu
-- finter
 - matcha-ai
 - pysuezV2
 - molid
@@ -62,24 +88,3 @@
 - NexLang
 - iamdata
 - surface-fitter
-- phoebe-bird
-- ewokscore
-- leann-core
-- leann-backend-hnsw
-- devstack-cli
-- leann-backend-diskann
-- leann
-- ltx-video
-- fastapi-restfull
-- vmlab-py
-- nonebot-adapter-bilibili-live
-- cognite-toolkit
-- tvkit
-- qwen-agent
-- ainu-utils
-- mAbLab
-- alibabacloud-dts-mcp-server
-- spnkr
-- videojungle
-- kstflow
-- koatl
