@@ -1,0 +1,11 @@
+{
+  "name": "threedi-schema",
+  "version": "0.300.28",
+  "summary": "The schema of 3Di schematization files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "threedi_schema-0.300.28.tar.gz",
+  "download_time": "2025-07-25T09:34:47.169367",
+  "package_url": "https://pypi.org/project/threedi-schema/"
+}

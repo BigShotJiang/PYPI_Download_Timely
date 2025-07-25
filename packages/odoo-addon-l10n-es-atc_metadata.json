@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-atc",
+  "version": "18.0.1.0.0.2",
+  "summary": "=?utf-8?q?Modulo_=27glue=27_de_la_AEAT_para_el_men=C3=BA_de_la_ATC?=",
+  "author": "Binhex System Solutions,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_atc-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-25T09:34:53.460704",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-atc/"
+}

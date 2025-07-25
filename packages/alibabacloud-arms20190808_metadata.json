@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-arms20190808",
+  "version": "9.0.1",
+  "summary": "Alibaba Cloud Application Real-Time Monitoring Service (20190808) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_arms20190808-9.0.1.tar.gz",
+  "download_time": "2025-07-25T09:34:41.490939",
+  "package_url": "https://pypi.org/project/alibabacloud-arms20190808/"
+}

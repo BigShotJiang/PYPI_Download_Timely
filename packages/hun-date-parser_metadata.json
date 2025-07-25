@@ -1,0 +1,11 @@
+{
+  "name": "hun-date-parser",
+  "version": "0.3.0",
+  "summary": "A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.",
+  "author": "Soma Nagy",
+  "license": null,
+  "home_page": "https://github.com/szegedai/hun-date-parser",
+  "download_filename": "hun_date_parser-0.3.0.tar.gz",
+  "download_time": "2025-07-25T09:35:07.156739",
+  "package_url": "https://pypi.org/project/hun-date-parser/"
+}

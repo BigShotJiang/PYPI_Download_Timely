@@ -1,0 +1,11 @@
+{
+  "name": "coeai",
+  "version": "2.0.0",
+  "summary": "Client to interact with COE AI-hosted LLM models",
+  "author": "Konal Puri",
+  "license": "MIT",
+  "home_page": "https://github.com/pkonal/coeai",
+  "download_filename": "coeai-2.0.0.tar.gz",
+  "download_time": "2025-07-25T09:34:36.194806",
+  "package_url": "https://pypi.org/project/coeai/"
+}

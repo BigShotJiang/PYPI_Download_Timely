@@ -1,0 +1,11 @@
+{
+  "name": "invenio-workflows-tugraz",
+  "version": "0.11.0",
+  "summary": "\"Package serves as a place for the workflows of the repository of the TU Graz.\"",
+  "author": "Graz University of Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/tu-graz-library/invenio-workflows-tugraz",
+  "download_filename": "invenio_workflows_tugraz-0.11.0.tar.gz",
+  "download_time": "2025-07-25T09:34:43.182335",
+  "package_url": "https://pypi.org/project/invenio-workflows-tugraz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "paradance",
+  "version": "0.6.6",
+  "summary": "Offers a toolset for comprehensive, multi-faceted large-scale data analysis and optimizations.",
+  "author": "Yin Cheng",
+  "license": "MIT",
+  "home_page": "https://github.com/yinsn/paradance",
+  "download_filename": "paradance-0.6.6.tar.gz",
+  "download_time": "2025-07-25T09:35:05.476915",
+  "package_url": "https://pypi.org/project/paradance/"
+}

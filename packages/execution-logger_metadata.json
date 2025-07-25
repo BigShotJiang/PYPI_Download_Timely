@@ -1,0 +1,11 @@
+{
+  "name": "execution-logger",
+  "version": "1.1.6",
+  "summary": "A comprehensive Python logging solution with Microsoft SharePoint and Dataverse integration",
+  "author": "Rizwana",
+  "license": null,
+  "home_page": "https://github.com/The-Fruit-People/execution-logger",
+  "download_filename": "execution_logger-1.1.6.tar.gz",
+  "download_time": "2025-07-25T09:34:47.738095",
+  "package_url": "https://pypi.org/project/execution-logger/"
+}

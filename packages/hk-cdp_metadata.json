@@ -1,11 +1,11 @@
 {
   "name": "hk-cdp",
-  "version": "1.0.103",
+  "version": "1.0.104",
   "summary": "hk cdp",
   "author": "seven",
   "license": "MIT",
   "home_page": "http://gitlab.tdtech.gao7.com/newfire/hk_cap/hk_cdp/server/hk_cdp.git",
-  "download_filename": "hk_cdp-1.0.103.tar.gz",
-  "download_time": "2025-07-24T14:00:00.168030",
+  "download_filename": "hk_cdp-1.0.104.tar.gz",
+  "download_time": "2025-07-25T09:34:44.893804",
   "package_url": "https://pypi.org/project/hk-cdp/"
 }

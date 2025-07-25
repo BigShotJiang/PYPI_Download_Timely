@@ -1,0 +1,11 @@
+{
+  "name": "threedi-modelchecker",
+  "version": "2.18.13",
+  "summary": "Checks validity of a 3Di schematisation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "threedi_modelchecker-2.18.13.tar.gz",
+  "download_time": "2025-07-25T09:35:00.334483",
+  "package_url": "https://pypi.org/project/threedi-modelchecker/"
+}
