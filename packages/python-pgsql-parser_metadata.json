@@ -1,0 +1,11 @@
+{
+  "name": "python-pgsql-parser",
+  "version": "0.1.5",
+  "summary": "Advanced PostgreSQL SQL parser for extracting database schema metadata",
+  "author": "Sunny Liu",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/python-pgsql-parser",
+  "download_filename": "python_pgsql_parser-0.1.5.tar.gz",
+  "download_time": "2025-07-25T23:43:53.256577",
+  "package_url": "https://pypi.org/project/python-pgsql-parser/"
+}

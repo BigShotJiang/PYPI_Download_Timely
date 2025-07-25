@@ -1,0 +1,11 @@
+{
+  "name": "metworkpy",
+  "version": "0.2.0",
+  "summary": "Tools for creating and working with network models of metabolism.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metworkpy-0.2.0.tar.gz",
+  "download_time": "2025-07-25T23:43:48.567695",
+  "package_url": "https://pypi.org/project/metworkpy/"
+}

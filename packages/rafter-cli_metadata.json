@@ -1,0 +1,11 @@
+{
+  "name": "rafter-cli",
+  "version": "0.1.0",
+  "summary": "Rafter CLI",
+  "author": "Rafter Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rafter_cli-0.1.0.tar.gz",
+  "download_time": "2025-07-25T23:43:52.732626",
+  "package_url": "https://pypi.org/project/rafter-cli/"
+}

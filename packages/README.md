@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T23:23:31.516764
-- **Total Packages**: 90
-- **Total Size**: 33.94 MB
+- **Download Time**: 2025-07-25T23:44:29.804044
+- **Total Packages**: 89
+- **Total Size**: 18.42 MB
 
 ## Packages List
+- cua-agent
+- roark-analytics
+- yt-dlp
+- NetVizCorpy
+- luck-room-v1
+- pvevti
+- keyslide
+- bilibili-downloader
+- bugbug
+- ddcCryptography
+- enaml-extensions
+- metworkpy
+- STIFMaps
+- moose-lib
+- nv-ingest-client
+- medicafe
+- takit
+- epik8s-tools
+- rx-data
+- rafter-cli
+- python-pgsql-parser
+- cachew
+- PyTextArchive
+- unpage
+- arcade-google-sheets
+- lintrunner-adapters
+- arize-phoenix
+- leann-core
+- sportsball
+- leann-backend-hnsw
+- leann-backend-diskann
+- leann
+- daindex
+- spatialcell
+- litellm
 - azureml-designer-vowpal-wabbit-modules
 - prof-qx
 - azureml-designer-pytorch-modules
@@ -31,13 +66,10 @@
 - arcade-gmail
 - structifyai
 - primisai
-- medicafe
 - mase-triton
 - nbstripout-fast
 - scythe-ttp
-- daindex
 - aa-miningtaxes
-- NetVizCorpy
 - lmstrix
 - schemathesis
 - chainlit
@@ -63,36 +95,3 @@
 - arcade-microsoft
 - arcade-google-finance
 - unimi-crop-sensing
-- openprotein-python
-- litellm-enterprise
-- assisted-service-client
-- flwr-nightly
-- SAMBA-ilum
-- mcp-apache-spark-history-server
-- arcade-google-calendar
-- arcade-google-shopping
-- arcade-spotify
-- arcade-search
-- arcade-github
-- arcade-google-flights
-- arcade-zoom
-- arcade-google-maps
-- arcade-code-sandbox
-- arcade-e2b
-- arcade-google
-- arcade-google-jobs
-- arcade-google-contacts
-- arcade-dropbox
-- cogzia
-- fnl-aws-cdk
-- pybalt
-- staticdash
-- pytplot-mpl-temp
-- orkera
-- veloxx
-- daydream
-- pyzup
-- mlx-cpu
-- ddcCryptography
-- arize-phoenix
-- tbr-deal-finder

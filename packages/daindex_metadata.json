@@ -1,11 +1,11 @@
 {
   "name": "daindex",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "Deterioration Allocation Index Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daindex-0.8.1.tar.gz",
-  "download_time": "2025-07-25T23:22:58.873105",
+  "download_filename": "daindex-0.8.2.tar.gz",
+  "download_time": "2025-07-25T23:44:00.160913",
   "package_url": "https://pypi.org/project/daindex/"
 }
