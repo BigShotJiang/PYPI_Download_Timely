@@ -1,11 +1,11 @@
 {
   "name": "reclaimed",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A powerful disk usage analyzer with iCloud support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reclaimed-0.2.7.tar.gz",
-  "download_time": "2025-07-24T16:53:52.401697",
+  "download_filename": "reclaimed-0.2.8.tar.gz",
+  "download_time": "2025-07-25T19:25:33.936433",
   "package_url": "https://pypi.org/project/reclaimed/"
 }

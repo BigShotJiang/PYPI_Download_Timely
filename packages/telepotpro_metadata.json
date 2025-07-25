@@ -1,11 +1,11 @@
 {
   "name": "telepotpro",
-  "version": "13.6",
+  "version": "13.7",
   "summary": "Python framework for Telegram Bot API",
   "author": "Filippo Pesavento",
   "license": "MIT",
   "home_page": "https://github.com/pesaventofilippo/telepotpro",
-  "download_filename": "telepotpro-13.6.tar.gz",
-  "download_time": "2025-07-25T18:59:50.739418",
+  "download_filename": "telepotpro-13.7.tar.gz",
+  "download_time": "2025-07-25T19:25:38.040510",
   "package_url": "https://pypi.org/project/telepotpro/"
 }

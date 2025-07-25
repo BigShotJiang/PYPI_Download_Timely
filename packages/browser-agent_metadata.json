@@ -1,0 +1,11 @@
+{
+  "name": "browser-agent",
+  "version": "1.0.0",
+  "summary": "AI-powered web browser automation with multi-LLM support and modern GUI",
+  "author": "Browser Agent Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/browser-agent",
+  "download_filename": "browser_agent-1.0.0-py3-none-any.whl",
+  "download_time": "2025-07-25T19:25:41.668289",
+  "package_url": "https://pypi.org/project/browser-agent/"
+}

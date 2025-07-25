@@ -1,0 +1,11 @@
+{
+  "name": "slice-qtc",
+  "version": "0.1.2",
+  "summary": "A package to communicate with a VESCENT Slice-QTC temperature controller.",
+  "author": "Julian Stuermer",
+  "license": "MIT",
+  "home_page": "https://github.com/Stuermer/slice-qtc",
+  "download_filename": "slice_qtc-0.1.2.tar.gz",
+  "download_time": "2025-07-25T19:25:36.499992",
+  "package_url": "https://pypi.org/project/slice-qtc/"
+}

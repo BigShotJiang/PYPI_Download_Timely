@@ -1,0 +1,11 @@
+{
+  "name": "aria2tui",
+  "version": "0.1.9.10",
+  "summary": "aria2tui: A TUI Frontend for the Aria2c Download Manager",
+  "author": "Grim",
+  "license": null,
+  "home_page": "https://github.com/grimandgreedy/aria2tui",
+  "download_filename": "aria2tui-0.1.9.10.tar.gz",
+  "download_time": "2025-07-25T19:25:30.846504",
+  "package_url": "https://pypi.org/project/aria2tui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-redshift",
+  "version": "0.2.0",
+  "summary": "A Python utility library for Redshift data operations within SageMaker, enabling seamless UNLOAD and COPY operations between Redshift and S3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sagemaker-redshift-0.2.0.tar.gz",
+  "download_time": "2025-07-25T19:25:25.697390",
+  "package_url": "https://pypi.org/project/sagemaker-redshift/"
+}

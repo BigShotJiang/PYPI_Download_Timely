@@ -1,0 +1,11 @@
+{
+  "name": "notbank",
+  "version": "1.5.0",
+  "summary": "Notbank API client library",
+  "author": "Notbank",
+  "license": null,
+  "home_page": "https://github.com/notbank-exchange/notbank-python",
+  "download_filename": "notbank-1.5.0.tar.gz",
+  "download_time": "2025-07-25T19:25:42.696826",
+  "package_url": "https://pypi.org/project/notbank/"
+}

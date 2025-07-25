@@ -1,0 +1,11 @@
+{
+  "name": "cgcnn2",
+  "version": "0.5.1",
+  "summary": "Reproduction of Crystal Graph Convolutional Neural Networks",
+  "author": "Jiacheng Wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cgcnn2-0.5.1.tar.gz",
+  "download_time": "2025-07-25T19:25:47.866595",
+  "package_url": "https://pypi.org/project/cgcnn2/"
+}
