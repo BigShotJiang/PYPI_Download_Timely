@@ -1,0 +1,11 @@
+{
+  "name": "xmmpysas",
+  "version": "2.0.0",
+  "summary": "Python wrapper for XMM-Newton SAS.",
+  "author": "Ryan Tanner",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.cosmos.esa.int/web/xmm-newton/sas",
+  "download_filename": "xmmpysas-2.0.0.tar.gz",
+  "download_time": "2025-07-25T17:57:49.590730",
+  "package_url": "https://pypi.org/project/xmmpysas/"
+}

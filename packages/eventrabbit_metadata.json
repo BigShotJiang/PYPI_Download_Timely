@@ -1,0 +1,11 @@
+{
+  "name": "eventrabbit",
+  "version": "0.1.0",
+  "summary": "Event sourcing library for RabbitMQ (aio_pika)",
+  "author": "Artem",
+  "license": "MIT",
+  "home_page": "https://your-homepage-url.com",
+  "download_filename": "eventrabbit-0.1.0.tar.gz",
+  "download_time": "2025-07-25T17:57:45.900831",
+  "package_url": "https://pypi.org/project/eventrabbit/"
+}

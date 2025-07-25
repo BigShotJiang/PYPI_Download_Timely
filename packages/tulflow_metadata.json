@@ -1,0 +1,11 @@
+{
+  "name": "tulflow",
+  "version": "0.12.13",
+  "summary": "Package of Temple University Library Indexing & ETL functions used by Airflow.",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "tulflow-0.12.13.tar.gz",
+  "download_time": "2025-07-25T17:58:33.061466",
+  "package_url": "https://pypi.org/project/tulflow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "extrautilities",
+  "version": "2.1",
+  "summary": "This package provides a few extra utilities for Python, like Asyncronus Encryption/Decryption.",
+  "author": "RandomTimeTV",
+  "license": "Unlicensed",
+  "home_page": "https://github.com/RandomTimeLP/ExtraUtils",
+  "download_filename": "extrautilities-2.1.tar.gz",
+  "download_time": "2025-07-25T17:58:37.156697",
+  "package_url": "https://pypi.org/project/extrautilities/"
+}

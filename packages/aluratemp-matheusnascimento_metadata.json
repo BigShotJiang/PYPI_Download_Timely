@@ -1,0 +1,11 @@
+{
+  "name": "aluratemp-matheusnascimento",
+  "version": "1.0.0",
+  "summary": "Um simples conversor de temperatura (Celsius - Fahrenheit)",
+  "author": "Matheus Nascimento",
+  "license": "MIT",
+  "home_page": "https://github.com/yanorestes/aluratemp",
+  "download_filename": "aluratemp_matheusnascimento-1.0.0.tar.gz",
+  "download_time": "2025-07-25T17:57:51.506821",
+  "package_url": "https://pypi.org/project/aluratemp-matheusnascimento/"
+}

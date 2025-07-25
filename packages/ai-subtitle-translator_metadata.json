@@ -1,11 +1,11 @@
 {
   "name": "ai-subtitle-translator",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Advanced subtitle translator with LLM support for converting SRT to bilingual ASS files using OpenAI, Gemini, or DeepSeek APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_subtitle_translator-0.2.0.tar.gz",
-  "download_time": "2025-07-25T03:41:20.009958",
+  "download_filename": "ai_subtitle_translator-0.3.0.tar.gz",
+  "download_time": "2025-07-25T17:58:19.018786",
   "package_url": "https://pypi.org/project/ai-subtitle-translator/"
 }

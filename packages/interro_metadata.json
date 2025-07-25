@@ -1,0 +1,11 @@
+{
+  "name": "interro",
+  "version": "0.1.0",
+  "summary": "AI-powered code understanding and querying tool",
+  "author": "Sparsh Chakraborty",
+  "license": null,
+  "home_page": "https://github.com/codexx07/interro",
+  "download_filename": "interro-0.1.0.tar.gz",
+  "download_time": "2025-07-25T17:58:10.216048",
+  "package_url": "https://pypi.org/project/interro/"
+}

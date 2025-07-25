@@ -1,0 +1,11 @@
+{
+  "name": "APICORE-Python",
+  "version": "1.0.0",
+  "summary": "A Python library for parsing API configuration files following the APICORE specification",
+  "author": "SRInternet-Studio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apicore_python-1.0.0.tar.gz",
+  "download_time": "2025-07-25T17:58:22.865726",
+  "package_url": "https://pypi.org/project/APICORE-Python/"
+}

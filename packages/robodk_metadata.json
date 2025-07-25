@@ -1,0 +1,11 @@
+{
+  "name": "robodk",
+  "version": "5.9.2",
+  "summary": "RoboDK tools for simulating and programming industrial robots (implements the RoboDK API)",
+  "author": "RoboDK Inc.",
+  "license": "Apache Software License",
+  "home_page": "https://robodk.com/doc/en/PythonAPI/index.html",
+  "download_filename": "robodk-5.9.2-py2.py3-none-any.whl",
+  "download_time": "2025-07-25T17:58:06.340845",
+  "package_url": "https://pypi.org/project/robodk/"
+}
