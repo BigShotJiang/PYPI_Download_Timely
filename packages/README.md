@@ -1,24 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-25T21:54:45.825405
-- **Total Packages**: 69
-- **Total Size**: 22.78 MB
+- **Download Time**: 2025-07-25T22:23:32.051593
+- **Total Packages**: 76
+- **Total Size**: 34.64 MB
 
 ## Packages List
+- composabl-cli-dev
+- composabl-dev
+- composabl-api-dev
+- composabl-train-dev
+- aquiles-rag
+- devops-mcps
+- dsl-spa
+- weighted-pod
+- taskshed
+- par-cc-usage
+- kuzu
+- pickaxe-mcp-semantic-scholar
+- accounting-sh
+- artl-mcp
+- lusid-sdk
+- fastmcp-agents-library-agents
+- orionis
+- pulumi-okta
+- smume
+- kimvv
+- llm-tools-anki
+- rexplain
+- mirumoji
+- transformers-attention-viz
+- sportsball
+- zep-cloud
+- m24842-ml
+- regula-documentreader-webclient
+- dz-lib
+- automagik
+- metis-agent
+- wattameter
+- weave
+- pulumi-cloudflare
+- cellmaps-vnn
+- leann-backend-hnsw
+- voiladata
+- etana-trade-mcp
+- mcp-server-datahub
+- leann-backend-diskann
+- kvcached
+- kimina
+- deepliif
+- zvc
+- playlist2podcast
+- sagemaker-gen-ai-jupyterlab-extension
+- prof-qx
+- digitalarzengine
+- hexrec
 - pygpt-net
 - pageai-sdk
 - archguide-mcp
 - optlnls
 - PyQrackIsing
-- dz-lib
 - morphcloud
 - downitall-android
 - hivclustering
 - globus-sdk
 - unimi-crop-sensing
 - open-dread-rando
-- kuzu
 - streamdown
 - pulumi-auth0
 - soia-client
@@ -30,48 +77,8 @@
 - sandyie-read
 - charli3_dendrite
 - downitall-windows
-- pickaxe-mcp-semantic-scholar
 - ModelFlowIb
 - spamfilter
 - arcade-math
 - SharedPubSub
-- m24842-ml
 - langchain-valyu
-- qlip-algorithms
-- NetVizCorpy
-- cortana-agent
-- dsl-spa
-- aims-immune
-- x64dbg_automate
-- my-datasets-lib
-- daindex
-- promptfold
-- cisco-nso-mcp-server
-- better-python-doppler
-- imdbinfo
-- ws-bom-robot-app
-- parenx
-- prof-qx
-- minix
-- talipp
-- kmeruniq
-- awslabs.s3-tables-mcp-server
-- vivintpy
-- sqlmesh
-- relationalai
-- textual-window
-- aish-local
-- teraace-tracker
-- cite-extractor
-- solweig-gpu
-- nautobot-device-onboarding
-- docker-tool
-- orionis
-- clientfactory
-- torchrdit
-- torch-optimi
-- polyfile-weave
-- wakanda-whisper
-- ompr
-- mnspy
-- ork.build

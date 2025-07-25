@@ -1,11 +1,11 @@
 {
   "name": "kimina",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Client SDK to interact with Kimina Lean server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kimina-0.1.1.tar.gz",
-  "download_time": "2025-07-24T11:20:44.567401",
+  "download_filename": "kimina-0.1.2.tar.gz",
+  "download_time": "2025-07-25T22:23:13.520887",
   "package_url": "https://pypi.org/project/kimina/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "devops-mcps",
+  "version": "0.8.2",
+  "summary": "A FastMCP-based, Readonly MCP server for DevOps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devops_mcps-0.8.2.tar.gz",
+  "download_time": "2025-07-25T22:22:53.569630",
+  "package_url": "https://pypi.org/project/devops-mcps/"
+}

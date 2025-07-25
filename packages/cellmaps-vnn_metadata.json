@@ -1,0 +1,11 @@
+{
+  "name": "cellmaps-vnn",
+  "version": "0.2.2",
+  "summary": "The Cell Maps VNN Tool enables creation, training, and usage of an interpretable neural network-based models that predict cell response to a drug.",
+  "author": "Christopher Churas",
+  "license": "MIT license",
+  "home_page": "https://github.com/idekerlab/cellmaps_vnn",
+  "download_filename": "cellmaps_vnn-0.2.2.tar.gz",
+  "download_time": "2025-07-25T22:23:08.799931",
+  "package_url": "https://pypi.org/project/cellmaps-vnn/"
+}

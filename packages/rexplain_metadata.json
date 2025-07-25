@@ -1,11 +1,11 @@
 {
   "name": "rexplain",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Explain, test, and generate examples for regular expressions",
   "author": "Dev B. Makwana",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rexplain-0.3.0.tar.gz",
-  "download_time": "2025-07-25T20:46:50.413799",
+  "download_filename": "rexplain-0.3.1.tar.gz",
+  "download_time": "2025-07-25T22:23:02.025544",
   "package_url": "https://pypi.org/project/rexplain/"
 }

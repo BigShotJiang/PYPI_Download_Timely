@@ -1,11 +1,11 @@
 {
   "name": "transformers-attention-viz",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "Interactive attention visualization for multi-modal transformer models",
   "author": "Sisir Doppalapudi",
   "license": "MIT",
   "home_page": "https://github.com/sisird864/transformers-attention-viz",
-  "download_filename": "transformers_attention_viz-0.1.13.tar.gz",
-  "download_time": "2025-07-23T17:15:53.740759",
+  "download_filename": "transformers_attention_viz-0.1.15.tar.gz",
+  "download_time": "2025-07-25T22:23:03.060719",
   "package_url": "https://pypi.org/project/transformers-attention-viz/"
 }
