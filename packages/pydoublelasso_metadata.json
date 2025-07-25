@@ -1,0 +1,11 @@
+{
+  "name": "pydoublelasso",
+  "version": "0.2.0",
+  "summary": "Python implementation of the Double Post-Lasso estimator for treatment effect estimation",
+  "author": "Vasco Yasenov",
+  "license": null,
+  "home_page": "https://github.com/vyasenov/pydoublelasso",
+  "download_filename": "pydoublelasso-0.2.0.tar.gz",
+  "download_time": "2025-07-25T20:36:59.085521",
+  "package_url": "https://pypi.org/project/pydoublelasso/"
+}

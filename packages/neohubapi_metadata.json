@@ -1,0 +1,11 @@
+{
+  "name": "neohubapi",
+  "version": "3.1",
+  "summary": "Async library to communicate with Heatmiser NeoHub 2 API.",
+  "author": "Andrius Štikonas",
+  "license": null,
+  "home_page": "https://gitlab.com/neohubapi/neohubapi/",
+  "download_filename": "neohubapi-3.1.tar.gz",
+  "download_time": "2025-07-25T20:37:07.360847",
+  "package_url": "https://pypi.org/project/neohubapi/"
+}

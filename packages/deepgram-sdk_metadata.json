@@ -1,0 +1,11 @@
+{
+  "name": "deepgram-sdk",
+  "version": "4.8.0",
+  "summary": "The official Python SDK for the Deepgram automated speech recognition platform.",
+  "author": "Deepgram",
+  "license": "MIT",
+  "home_page": "https://github.com/deepgram/deepgram-python-sdk",
+  "download_filename": "deepgram_sdk-4.8.0.tar.gz",
+  "download_time": "2025-07-25T20:37:18.566782",
+  "package_url": "https://pypi.org/project/deepgram-sdk/"
+}

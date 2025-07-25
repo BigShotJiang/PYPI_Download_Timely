@@ -1,0 +1,11 @@
+{
+  "name": "pycinc",
+  "version": "0.2.0",
+  "summary": "A Python package for estimating the Changes-in-Changes model of Athey and Imbens (2006)",
+  "author": "Vasco Yasenov",
+  "license": null,
+  "home_page": "https://github.com/vyasenov/pycinc",
+  "download_filename": "pycinc-0.2.0.tar.gz",
+  "download_time": "2025-07-25T20:37:08.510902",
+  "package_url": "https://pypi.org/project/pycinc/"
+}

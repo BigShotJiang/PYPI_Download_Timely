@@ -1,0 +1,11 @@
+{
+  "name": "piQture",
+  "version": "0.2.0",
+  "summary": "piQture: A QML library for Image Processing",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "piqture-0.2.0.tar.gz",
+  "download_time": "2025-07-25T20:36:57.924955",
+  "package_url": "https://pypi.org/project/piQture/"
+}

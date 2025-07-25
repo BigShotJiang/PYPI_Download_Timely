@@ -1,11 +1,11 @@
 {
   "name": "quotientai",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Python library for tracing, logging, and detecting problems with AI Agents",
   "author": "Freddie Vargus",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "quotientai-0.4.4.tar.gz",
-  "download_time": "2025-07-24T14:57:22.261236",
+  "download_filename": "quotientai-0.4.5.tar.gz",
+  "download_time": "2025-07-25T20:37:09.679588",
   "package_url": "https://pypi.org/project/quotientai/"
 }

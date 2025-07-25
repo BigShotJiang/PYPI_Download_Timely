@@ -1,0 +1,11 @@
+{
+  "name": "swift-iso20022-toolbox",
+  "version": "0.1.0",
+  "summary": "Streamlit-based toolbox for uploading, parsing, and aggregating ISO 20022 payment message files (CSV, XML, Excel, XSD)",
+  "author": "Yous Guil",
+  "license": "MIT",
+  "home_page": "https://github.com/yousdin/swift-iso20022-payment-mt2mx-toolbox",
+  "download_filename": "swift_iso20022_toolbox-0.1.0-py3-none-any.whl",
+  "download_time": "2025-07-25T20:37:22.084340",
+  "package_url": "https://pypi.org/project/swift-iso20022-toolbox/"
+}

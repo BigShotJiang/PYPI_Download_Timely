@@ -1,0 +1,11 @@
+{
+  "name": "advx-shit-offline",
+  "version": "1.0.14",
+  "summary": "一个用于随机输出AdventureX文案的Python包（离线版本）",
+  "author": "AdventureX",
+  "license": null,
+  "home_page": "https://github.com/RATING3PRO/advx-shit-offline",
+  "download_filename": "advx_shit_offline-1.0.14.tar.gz",
+  "download_time": "2025-07-25T20:37:00.398637",
+  "package_url": "https://pypi.org/project/advx-shit-offline/"
+}

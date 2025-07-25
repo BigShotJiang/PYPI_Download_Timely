@@ -1,0 +1,11 @@
+{
+  "name": "Qelm",
+  "version": "0.1.1",
+  "summary": "Quantum-Enhanced Language Model",
+  "author": "Brenton Carter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qelm-0.1.1.tar.gz",
+  "download_time": "2025-07-25T20:37:16.158191",
+  "package_url": "https://pypi.org/project/Qelm/"
+}

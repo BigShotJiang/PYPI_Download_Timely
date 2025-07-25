@@ -1,0 +1,11 @@
+{
+  "name": "colabfit-kit",
+  "version": "0.0.4",
+  "summary": "A suite of tools for working with training datasets for interatomic potentials",
+  "author": "ColabFit",
+  "license": "The ColabFit Tools package is copyrighted by the Regents of the University of\n        Minnesota. It can be freely used for educational and research purposes by\n        non-profit institutions and US government agencies only. Other organizations are\n        allowed to use the ColabFit Tools package only for evaluation purposes, and any\n        further uses will require prior approval. The software may not be sold or\n        redistributed without prior approval. One may make copies of the software for\n        their use provided that the copies, are not sold or distributed, are used under\n        the same terms and conditions. As unestablished research software, this code is\n        provided on an \"as is'' basis without warranty of any kind, either expressed or\n        implied. The downloading, or executing any part of this software constitutes an\n        implicit agreement to these terms. These terms and conditions are subject to\n        change at any time without prior notice.\n        ",
+  "home_page": null,
+  "download_filename": "colabfit_kit-0.0.4.tar.gz",
+  "download_time": "2025-07-25T20:37:23.820614",
+  "package_url": "https://pypi.org/project/colabfit-kit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "email-extractor-from-string",
+  "version": "0.1.0",
+  "summary": "A simple email extraction module",
+  "author": "Nisamudheen Mamballi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "email_extractor_from_string-0.1.0.tar.gz",
+  "download_time": "2025-07-25T20:37:24.979791",
+  "package_url": "https://pypi.org/project/email-extractor-from-string/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "freeds",
+  "version": "0.2.12",
+  "summary": "The free data stack CLI",
+  "author": "Jens Köster",
+  "license": "GNU GENERAL PUBLIC LICENSE v3",
+  "home_page": null,
+  "download_filename": "freeds-0.2.12.tar.gz",
+  "download_time": "2025-07-25T20:37:06.057913",
+  "package_url": "https://pypi.org/project/freeds/"
+}

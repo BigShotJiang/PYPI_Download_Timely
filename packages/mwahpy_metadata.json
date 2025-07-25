@@ -1,0 +1,11 @@
+{
+  "name": "mwahpy",
+  "version": "2.1.2",
+  "summary": "A python package for easily parsing and processing data from MilkyWay@home",
+  "author": "Tom Donlon",
+  "license": null,
+  "home_page": "https://github.com/thomasdonlon/mwahpy",
+  "download_filename": "mwahpy-2.1.2.tar.gz",
+  "download_time": "2025-07-25T20:36:57.347229",
+  "package_url": "https://pypi.org/project/mwahpy/"
+}

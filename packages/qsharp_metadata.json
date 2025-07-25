@@ -1,0 +1,11 @@
+{
+  "name": "qsharp",
+  "version": "1.19.0",
+  "summary": "Q# Python Bindings",
+  "author": "Microsoft",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/qsharp",
+  "download_filename": "qsharp-1.19.0-cp39-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-07-25T20:37:05.476715",
+  "package_url": "https://pypi.org/project/qsharp/"
+}

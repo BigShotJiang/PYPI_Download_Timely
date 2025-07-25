@@ -1,11 +1,11 @@
 {
   "name": "pepeline",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A high-speed framework for image processing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pepeline-1.0.2.tar.gz",
-  "download_time": "2025-07-25T09:56:05.753049",
+  "download_filename": "pepeline-1.0.3.tar.gz",
+  "download_time": "2025-07-25T20:37:19.162254",
   "package_url": "https://pypi.org/project/pepeline/"
 }
