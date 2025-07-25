@@ -1,0 +1,11 @@
+{
+  "name": "deadline-cloud-for-nuke",
+  "version": "0.18.12",
+  "summary": "The submitter and adaptor to enable Nuke support for AWS Deadline Cloud",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadline_cloud_for_nuke-0.18.12.tar.gz",
+  "download_time": "2025-07-25T22:48:07.373754",
+  "package_url": "https://pypi.org/project/deadline-cloud-for-nuke/"
+}

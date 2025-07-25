@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda-builders",
+  "version": "1.56.0",
+  "summary": "Python library to compile, build & package AWS Lambda functions for several runtimes & frameworks.",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/awslabs/aws-lambda-builders",
+  "download_filename": "aws_lambda_builders-1.56.0.tar.gz",
+  "download_time": "2025-07-25T22:48:17.496122",
+  "package_url": "https://pypi.org/project/aws-lambda-builders/"
+}

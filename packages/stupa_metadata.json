@@ -1,0 +1,11 @@
+{
+  "name": "stupa",
+  "version": "0.1.2",
+  "summary": "A Django API toolkit for response utilities, exceptions, middleware, and alert handlers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stupa-0.1.2.tar.gz",
+  "download_time": "2025-07-25T22:48:06.291117",
+  "package_url": "https://pypi.org/project/stupa/"
+}
