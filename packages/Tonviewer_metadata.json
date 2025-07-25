@@ -1,0 +1,11 @@
+{
+  "name": "Tonviewer",
+  "version": "2.0",
+  "summary": "TON Crypto Info Scraper is a Python library that allows you to fetch real-time data from the TON blockchain and CoinGecko without needing any APIs",
+  "author": "deep",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tonviewer-2.0.tar.gz",
+  "download_time": "2025-07-25T12:49:40.848132",
+  "package_url": "https://pypi.org/project/Tonviewer/"
+}

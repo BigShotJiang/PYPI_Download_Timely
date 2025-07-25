@@ -1,0 +1,11 @@
+{
+  "name": "sentiment-analysis-lib",
+  "version": "1.1",
+  "summary": "This is a simple Python package for analysing sentiment of text data.",
+  "author": "Hemanth",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sentiment_analysis_lib-1.1.tar.gz",
+  "download_time": "2025-07-25T12:49:56.018791",
+  "package_url": "https://pypi.org/project/sentiment-analysis-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adapta",
+  "version": "3.4.2",
+  "summary": "Logging, data connectors, monitoring, secret handling and general lifehacks to make data people lives easier.",
+  "author": "ECCO Sneaks & Data",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/SneaksAndData/adapta",
+  "download_filename": "adapta-3.4.2.tar.gz",
+  "download_time": "2025-07-25T12:49:31.234586",
+  "package_url": "https://pypi.org/project/adapta/"
+}

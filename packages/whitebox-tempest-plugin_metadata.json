@@ -1,0 +1,11 @@
+{
+  "name": "whitebox-tempest-plugin",
+  "version": "0.1.0",
+  "summary": "Tempest plugin for whitebox testing. For testing things not exposed through the REST APIs.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://opendev.org/openstack/whitebox-tempest-plugin",
+  "download_filename": "whitebox_tempest_plugin-0.1.0.tar.gz",
+  "download_time": "2025-07-25T12:50:02.731097",
+  "package_url": "https://pypi.org/project/whitebox-tempest-plugin/"
+}

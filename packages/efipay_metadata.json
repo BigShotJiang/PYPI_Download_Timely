@@ -1,0 +1,11 @@
+{
+  "name": "efipay",
+  "version": "1.0.5",
+  "summary": "Module for integration with EfiPay API",
+  "author": "Consultoria Técnica",
+  "license": "MIT",
+  "home_page": "https://github.com/efipay/sdk-python-apis-efi",
+  "download_filename": "efipay-1.0.5.tar.gz",
+  "download_time": "2025-07-25T12:49:19.670585",
+  "package_url": "https://pypi.org/project/efipay/"
+}

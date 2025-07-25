@@ -1,0 +1,11 @@
+{
+  "name": "flask-tsk",
+  "version": "2.0.4",
+  "summary": "Flask Extension for TuskLang Integration - Up to 59x Faster Template Rendering (Verified)",
+  "author": "Grim Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/grim-project/flask-tsk",
+  "download_filename": "flask_tsk-2.0.4.tar.gz",
+  "download_time": "2025-07-25T12:49:43.171444",
+  "package_url": "https://pypi.org/project/flask-tsk/"
+}

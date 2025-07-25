@@ -1,0 +1,11 @@
+{
+  "name": "visitor-design-pattern",
+  "version": "1.0.10",
+  "summary": "Radiative Transfer Model template",
+  "author": "Nicolas Misk",
+  "license": null,
+  "home_page": "https://gitlab.rayference.dansaert.be/project-x01/drivers/the_visitors",
+  "download_filename": "visitor_design_pattern-1.0.10.tar.gz",
+  "download_time": "2025-07-25T12:49:38.471084",
+  "package_url": "https://pypi.org/project/visitor-design-pattern/"
+}

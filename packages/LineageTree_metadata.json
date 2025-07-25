@@ -1,0 +1,11 @@
+{
+  "name": "LineageTree",
+  "version": "2.0.3",
+  "summary": "Structure for Lineage Trees",
+  "author": "Giannis Liaskas, Christopher Mazzerbo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lineagetree-2.0.3.tar.gz",
+  "download_time": "2025-07-25T12:49:34.898260",
+  "package_url": "https://pypi.org/project/LineageTree/"
+}

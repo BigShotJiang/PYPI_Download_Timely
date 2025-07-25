@@ -1,0 +1,11 @@
+{
+  "name": "omnigenbench",
+  "version": "0.3.5a0",
+  "summary": "OmniGenBench: A comprehensive toolkit for genome analysis benchmarking.",
+  "author": "Yang, Heng",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yangheng95/OmniGenBench",
+  "download_filename": "omnigenbench-0.3.5a0.tar.gz",
+  "download_time": "2025-07-25T12:49:14.353029",
+  "package_url": "https://pypi.org/project/omnigenbench/"
+}

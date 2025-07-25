@@ -1,0 +1,11 @@
+{
+  "name": "autodevops-cli",
+  "version": "7.0",
+  "summary": "AutoDevOps CLI: Automate Git push and simulate CI/CD",
+  "author": "Kannan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autodevops-cli-7.0.tar.gz",
+  "download_time": "2025-07-25T12:49:16.107360",
+  "package_url": "https://pypi.org/project/autodevops-cli/"
+}

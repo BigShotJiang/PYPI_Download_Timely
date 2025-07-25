@@ -1,0 +1,11 @@
+{
+  "name": "PyChOpMarg",
+  "version": "3.1.2",
+  "summary": "Python implementation of COM, as per IEEE 802.3-22 Annex 93A/178A.",
+  "author": null,
+  "license": "BSD3",
+  "home_page": null,
+  "download_filename": "pychopmarg-3.1.2.tar.gz",
+  "download_time": "2025-07-25T12:49:50.307924",
+  "package_url": "https://pypi.org/project/PyChOpMarg/"
+}

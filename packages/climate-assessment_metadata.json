@@ -1,0 +1,11 @@
+{
+  "name": "climate-assessment",
+  "version": "0.1.5",
+  "summary": "Climate assessment of long-term emissions pathways: IPCC AR6 WGIII version",
+  "author": "Jarmo S. Kikstra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "climate_assessment-0.1.5.tar.gz",
+  "download_time": "2025-07-25T12:49:39.119303",
+  "package_url": "https://pypi.org/project/climate-assessment/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-zunno",
+  "version": "0.1.0",
+  "summary": "LangChain integration for Zunno LLM and Embeddings",
+  "author": "Amit Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/zunno/langchain-zunno",
+  "download_filename": "langchain_zunno-0.1.0.tar.gz",
+  "download_time": "2025-07-25T12:49:52.699855",
+  "package_url": "https://pypi.org/project/langchain-zunno/"
+}

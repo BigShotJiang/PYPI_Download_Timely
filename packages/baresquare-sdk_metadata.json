@@ -1,0 +1,11 @@
+{
+  "name": "baresquare-sdk",
+  "version": "1.1.2",
+  "summary": "Baresquare SDK for Python - Core utilities and 3rd party integrations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "baresquare_sdk-1.1.2.tar.gz",
+  "download_time": "2025-07-25T12:49:36.689670",
+  "package_url": "https://pypi.org/project/baresquare-sdk/"
+}

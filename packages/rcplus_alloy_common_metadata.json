@@ -1,0 +1,11 @@
+{
+  "name": "rcplus_alloy_common",
+  "version": "8.3.4",
+  "summary": "RC+/Alloy helpers functions for Python",
+  "author": "Ringier AG",
+  "license": "Proprietary",
+  "home_page": "https://github.com/alloy-ch/rcplus-alloy-lib-py-common",
+  "download_filename": "rcplus_alloy_common-8.3.4.tar.gz",
+  "download_time": "2025-07-25T12:49:46.101936",
+  "package_url": "https://pypi.org/project/rcplus_alloy_common/"
+}

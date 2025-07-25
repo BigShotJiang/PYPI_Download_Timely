@@ -1,0 +1,11 @@
+{
+  "name": "sofairfilter",
+  "version": "1.0.0",
+  "summary": "Tool for identifying candidate documents for software mention extraction.",
+  "author": "Martin Dočekal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sofairfilter-1.0.0.tar.gz",
+  "download_time": "2025-07-25T12:49:59.099796",
+  "package_url": "https://pypi.org/project/sofairfilter/"
+}

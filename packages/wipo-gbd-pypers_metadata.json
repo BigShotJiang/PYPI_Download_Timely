@@ -1,0 +1,11 @@
+{
+  "name": "wipo-gbd-pypers",
+  "version": "2.3.92",
+  "summary": "Pypers package",
+  "author": "WIPO GDB team",
+  "license": null,
+  "home_page": "https://bitbucket.org/wipo_bds/pypers",
+  "download_filename": "wipo_gbd_pypers-2.3.92-py3-none-any.whl",
+  "download_time": "2025-07-25T12:49:33.628944",
+  "package_url": "https://pypi.org/project/wipo-gbd-pypers/"
+}
