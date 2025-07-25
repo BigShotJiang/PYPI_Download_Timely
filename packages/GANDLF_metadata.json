@@ -1,0 +1,11 @@
+{
+  "name": "GANDLF",
+  "version": "0.1.4",
+  "summary": "PyTorch-based framework that handles segmentation/regression/classification using various DL architectures for medical imaging.",
+  "author": "MLCommons",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gandlf-0.1.4.tar.gz",
+  "download_time": "2025-07-25T04:27:04.905444",
+  "package_url": "https://pypi.org/project/GANDLF/"
+}

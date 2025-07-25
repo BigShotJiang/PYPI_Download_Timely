@@ -1,11 +1,11 @@
 {
   "name": "PyDCSL",
-  "version": "0.1",
-  "summary": "A Widevine DCSL Revocation Checker CLI library",
-  "author": "Pari Malam",
-  "license": null,
-  "home_page": null,
-  "download_filename": "pydcsl-0.1.tar.gz",
-  "download_time": "2025-07-25T03:41:21.657233",
+  "version": "0.3.0",
+  "summary": "A compact Python tool to check if a Widevine device certificate (DCSL) is revoked or valid.",
+  "author": "ThatNotEasy",
+  "license": "MIT",
+  "home_page": "https://github.com/ThatNotEasy/PyDCSL",
+  "download_filename": "pydcsl-0.3.0.tar.gz",
+  "download_time": "2025-07-25T04:26:35.659223",
   "package_url": "https://pypi.org/project/PyDCSL/"
 }

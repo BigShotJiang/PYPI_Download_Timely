@@ -1,0 +1,11 @@
+{
+  "name": "video-comprehension-score",
+  "version": "1.0.0",
+  "summary": "Video Comprehension Score (VCS) - A comprehensive metric for evaluating narrative similarity between reference and generated text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_comprehension_score-1.0.0.tar.gz",
+  "download_time": "2025-07-25T04:26:47.592792",
+  "package_url": "https://pypi.org/project/video-comprehension-score/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-acme",
+  "version": "12.3.0",
+  "summary": "Prebuilt acme Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-acme.git",
+  "download_filename": "cdktf_cdktf_provider_acme-12.3.0.tar.gz",
+  "download_time": "2025-07-25T04:26:58.012974",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-acme/"
+}

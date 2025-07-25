@@ -1,0 +1,11 @@
+{
+  "name": "doover-scheduler",
+  "version": "0.1.1",
+  "summary": "Python package for managing Doover scheduled tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doover_scheduler-0.1.1.tar.gz",
+  "download_time": "2025-07-25T04:26:30.086201",
+  "package_url": "https://pypi.org/project/doover-scheduler/"
+}

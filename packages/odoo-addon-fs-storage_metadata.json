@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-fs-storage",
-  "version": "18.0.2.0.1.1",
+  "version": "18.0.2.0.1.2",
   "summary": "Implement the concept of Storage with amazon S3, sftp...",
   "author": "ACSONE SA/NV, Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/storage",
-  "download_filename": "odoo_addon_fs_storage-18.0.2.0.1.1-py3-none-any.whl",
-  "download_time": "2025-07-24T04:34:26.926162",
+  "download_filename": "odoo_addon_fs_storage-18.0.2.0.1.2-py3-none-any.whl",
+  "download_time": "2025-07-25T04:26:51.365391",
   "package_url": "https://pypi.org/project/odoo-addon-fs-storage/"
 }

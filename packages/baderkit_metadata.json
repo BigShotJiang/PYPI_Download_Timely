@@ -1,0 +1,11 @@
+{
+  "name": "baderkit",
+  "version": "0.3.0",
+  "summary": "BaderKit is a python reimplementaion of the Henkelman Group's Bader code built on numba, numpy, and pymatgen.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "baderkit-0.3.0.tar.gz",
+  "download_time": "2025-07-25T04:26:36.764449",
+  "package_url": "https://pypi.org/project/baderkit/"
+}

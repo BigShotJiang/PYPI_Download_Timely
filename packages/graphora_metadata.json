@@ -1,0 +1,11 @@
+{
+  "name": "graphora",
+  "version": "0.3.0",
+  "summary": "Python client for the Graphora API",
+  "author": "Graphora Team",
+  "license": null,
+  "home_page": "https://github.com/graphora/graphora-client",
+  "download_filename": "graphora-0.3.0.tar.gz",
+  "download_time": "2025-07-25T04:26:38.860845",
+  "package_url": "https://pypi.org/project/graphora/"
+}

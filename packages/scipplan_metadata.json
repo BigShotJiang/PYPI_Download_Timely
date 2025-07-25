@@ -1,0 +1,11 @@
+{
+  "name": "scipplan",
+  "version": "0.2.2a0",
+  "summary": "Metric Hybrid Factored Planning in Nonlinear Domains with Constraint Generation in Python.",
+  "author": "Ari Gestetner, Buser Say",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "scipplan-0.2.2a0.tar.gz",
+  "download_time": "2025-07-25T04:26:41.617636",
+  "package_url": "https://pypi.org/project/scipplan/"
+}

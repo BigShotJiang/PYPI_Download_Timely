@@ -1,0 +1,11 @@
+{
+  "name": "gcp-utils-sds",
+  "version": "0.1.7",
+  "summary": "Utilities functions for interacting with GCP tools",
+  "author": "Sam Taylor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcp_utils_sds-0.1.7.tar.gz",
+  "download_time": "2025-07-25T04:26:43.793489",
+  "package_url": "https://pypi.org/project/gcp-utils-sds/"
+}

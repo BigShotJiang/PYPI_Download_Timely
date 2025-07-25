@@ -1,11 +1,11 @@
 {
   "name": "oocana",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "summary": "python implement of oocana to give a context for oocana block",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oocana-0.18.2.tar.gz",
-  "download_time": "2025-07-24T08:32:25.544325",
+  "download_filename": "oocana-0.18.3.tar.gz",
+  "download_time": "2025-07-25T04:26:45.462624",
   "package_url": "https://pypi.org/project/oocana/"
 }

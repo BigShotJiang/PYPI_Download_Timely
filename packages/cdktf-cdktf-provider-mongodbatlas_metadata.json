@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-mongodbatlas",
+  "version": "8.4.0",
+  "summary": "Prebuilt mongodbatlas Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-mongodbatlas.git",
+  "download_filename": "cdktf_cdktf_provider_mongodbatlas-8.4.0.tar.gz",
+  "download_time": "2025-07-25T04:26:55.586387",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-mongodbatlas/"
+}
