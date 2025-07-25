@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-restfull",
+  "version": "0.1.1",
+  "summary": "Utilities and base classes for FastAPI async projects using Beanie ODM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_restfull-0.1.1.tar.gz",
+  "download_time": "2025-07-25T05:01:39.069285",
+  "package_url": "https://pypi.org/project/fastapi-restfull/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "syft-flwr",
+  "version": "0.1.6",
+  "summary": "syft_flwr is an open source framework that facilitate federated learning projects using Flower over the SyftBox protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syft_flwr-0.1.6.tar.gz",
+  "download_time": "2025-07-25T05:01:59.542879",
+  "package_url": "https://pypi.org/project/syft-flwr/"
+}

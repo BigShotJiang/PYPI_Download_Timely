@@ -1,0 +1,11 @@
+{
+  "name": "flask-shopify-utils",
+  "version": "0.2.1",
+  "summary": "A Flask extension for Shopify app development",
+  "author": "Leo Chen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_shopify_utils-0.2.1.tar.gz",
+  "download_time": "2025-07-25T05:01:42.256996",
+  "package_url": "https://pypi.org/project/flask-shopify-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "npc-stim",
+  "version": "0.1.12",
+  "summary": "Tools for accessing and processing stim data, compatible with data in the cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npc_stim-0.1.12.tar.gz",
+  "download_time": "2025-07-25T05:01:56.407162",
+  "package_url": "https://pypi.org/project/npc-stim/"
+}

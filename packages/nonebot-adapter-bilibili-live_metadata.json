@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-adapter-bilibili-live",
+  "version": "0.2.1",
+  "summary": "bilibili 直播间协议支持",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_adapter_bilibili_live-0.2.1.tar.gz",
+  "download_time": "2025-07-25T05:01:40.139033",
+  "package_url": "https://pypi.org/project/nonebot-adapter-bilibili-live/"
+}

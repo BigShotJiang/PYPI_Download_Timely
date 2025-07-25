@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-impersonate",
+  "version": "1.5.2",
+  "summary": "Scrapy download handler that can impersonate browser fingerprints",
+  "author": "Jalil SA (jxlil)",
+  "license": "MIT",
+  "home_page": "https://github.com/jxlil/scrapy-impersonate",
+  "download_filename": "scrapy_impersonate-1.5.2.tar.gz",
+  "download_time": "2025-07-25T05:01:52.202956",
+  "package_url": "https://pypi.org/project/scrapy-impersonate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-alfresco-mcp-server",
+  "version": "1.1.0",
+  "summary": "FastMCP 2.0 server for Alfresco Content Services integration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "python_alfresco_mcp_server-1.1.0.tar.gz",
+  "download_time": "2025-07-25T05:02:02.114537",
+  "package_url": "https://pypi.org/project/python-alfresco-mcp-server/"
+}
