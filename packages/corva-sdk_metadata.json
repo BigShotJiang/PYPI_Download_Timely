@@ -1,0 +1,11 @@
+{
+  "name": "corva-sdk",
+  "version": "1.14.1",
+  "summary": "SDK for building Corva DevCenter Python apps.",
+  "author": "Jordan Ambra",
+  "license": "The Unlicense",
+  "home_page": "https://github.com/corva-ai/python-sdk",
+  "download_filename": "corva_sdk-1.14.1.tar.gz",
+  "download_time": "2025-07-25T14:50:02.866798",
+  "package_url": "https://pypi.org/project/corva-sdk/"
+}

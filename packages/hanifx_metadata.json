@@ -1,0 +1,11 @@
+{
+  "name": "hanifx",
+  "version": "13.1.0",
+  "summary": "Twine alternative: PyPI uploader with auto-build",
+  "author": "Hanif",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hanifx-13.1.0.tar.gz",
+  "download_time": "2025-07-25T14:50:09.208222",
+  "package_url": "https://pypi.org/project/hanifx/"
+}

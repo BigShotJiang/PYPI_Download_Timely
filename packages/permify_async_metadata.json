@@ -1,11 +1,11 @@
 {
   "name": "permify_async",
-  "version": "1.0.48",
+  "version": "1.0.51",
   "summary": "Permify API",
   "author": "API Support",
   "license": "Apache-2.0 license",
   "home_page": "https://github.com/mmx86/python-async-python",
-  "download_filename": "permify_async-1.0.48.tar.gz",
-  "download_time": "2025-07-25T10:28:27.862480",
+  "download_filename": "permify_async-1.0.51.tar.gz",
+  "download_time": "2025-07-25T14:50:01.829049",
   "package_url": "https://pypi.org/project/permify_async/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "behavex",
+  "version": "4.4.0",
+  "summary": "Agile testing framework on top of Behave (BDD).",
+  "author": "Hernan Rey",
+  "license": "MIT",
+  "home_page": "https://github.com/hrcorval/behavex",
+  "download_filename": "behavex-4.4.0.tar.gz",
+  "download_time": "2025-07-25T14:50:06.526639",
+  "package_url": "https://pypi.org/project/behavex/"
+}

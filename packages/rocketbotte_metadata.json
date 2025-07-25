@@ -1,11 +1,11 @@
 {
   "name": "rocketbotte",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A bot for rocketchat messaging, allowing you to react to messages or commands.",
   "author": "Styfore",
   "license": null,
   "home_page": "https://github.com/styfore/rocketbotte",
-  "download_filename": "rocketbotte-0.2.2.tar.gz",
-  "download_time": "2025-07-25T10:51:59.613411",
+  "download_filename": "rocketbotte-0.2.3.tar.gz",
+  "download_time": "2025-07-25T14:49:57.683163",
   "package_url": "https://pypi.org/project/rocketbotte/"
 }

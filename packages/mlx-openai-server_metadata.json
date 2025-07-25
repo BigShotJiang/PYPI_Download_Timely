@@ -1,0 +1,11 @@
+{
+  "name": "mlx-openai-server",
+  "version": "1.2.3",
+  "summary": "A high-performance API server that provides OpenAI-compatible endpoints for MLX models. Built with Python and FastAPI, it enables efficient, scalable, and user-friendly local deployment of MLX-based multimodal models with an OpenAI-compatible interface. Supports text, vision, and audio processing capabilities. Perfect for developers looking to run MLX models locally while maintaining compatibility with existing OpenAI-based applications.",
+  "author": "Huy Vuong",
+  "license": null,
+  "home_page": "https://github.com/cubist38/mlx-openai-server",
+  "download_filename": "mlx_openai_server-1.2.3.tar.gz",
+  "download_time": "2025-07-25T14:50:03.906558",
+  "package_url": "https://pypi.org/project/mlx-openai-server/"
+}

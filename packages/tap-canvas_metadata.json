@@ -1,0 +1,11 @@
+{
+  "name": "tap-canvas",
+  "version": "0.0.7",
+  "summary": "Singer tap for Canvas, built with the Meltano SDK for Singer Taps.",
+  "author": "Bruno Arnabar",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "tap_canvas-0.0.7.tar.gz",
+  "download_time": "2025-07-25T14:49:57.162327",
+  "package_url": "https://pypi.org/project/tap-canvas/"
+}

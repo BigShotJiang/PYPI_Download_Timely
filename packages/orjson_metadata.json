@@ -1,0 +1,11 @@
+{
+  "name": "orjson",
+  "version": "3.11.1",
+  "summary": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+  "author": "ijl <ijl@mailbox.org>",
+  "license": "Apache-2.0 OR MIT",
+  "home_page": null,
+  "download_filename": "orjson-3.11.1.tar.gz",
+  "download_time": "2025-07-25T14:50:08.143487",
+  "package_url": "https://pypi.org/project/orjson/"
+}
