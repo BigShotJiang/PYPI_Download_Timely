@@ -1,0 +1,11 @@
+{
+  "name": "latin-rectangles",
+  "version": "0.1.1",
+  "summary": "Count the number of one-row extensions of Latin rectangles.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "latin_rectangles-0.1.1.tar.gz",
+  "download_time": "2025-07-25T08:31:47.476604",
+  "package_url": "https://pypi.org/project/latin-rectangles/"
+}

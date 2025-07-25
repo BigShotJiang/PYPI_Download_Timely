@@ -1,0 +1,11 @@
+{
+  "name": "nvitop-exporter",
+  "version": "1.5.2",
+  "summary": "Prometheus exporter built on top of `nvitop`.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nvitop_exporter-1.5.2.tar.gz",
+  "download_time": "2025-07-25T08:31:51.638670",
+  "package_url": "https://pypi.org/project/nvitop-exporter/"
+}

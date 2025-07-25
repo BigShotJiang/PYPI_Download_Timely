@@ -1,11 +1,11 @@
 {
   "name": "SmallAppLib",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "App for simple console app building",
   "author": "Cupcake_wrld",
   "license": null,
   "home_page": null,
-  "download_filename": "smallapplib-1.0.0.tar.gz",
-  "download_time": "2025-07-24T08:32:46.896365",
+  "download_filename": "smallapplib-1.1.0.tar.gz",
+  "download_time": "2025-07-25T08:31:48.513353",
   "package_url": "https://pypi.org/project/SmallAppLib/"
 }

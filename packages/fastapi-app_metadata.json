@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-app",
+  "version": "0.1.0",
+  "summary": "Prosta aplikacja FastAPI",
+  "author": "Twoje Imię",
+  "license": null,
+  "home_page": "https://github.com/twojprofil/fastapi_app",
+  "download_filename": "fastapi_app-0.1.0.tar.gz",
+  "download_time": "2025-07-25T08:31:30.711709",
+  "package_url": "https://pypi.org/project/fastapi-app/"
+}

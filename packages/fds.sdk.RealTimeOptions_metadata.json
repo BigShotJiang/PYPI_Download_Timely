@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.RealTimeOptions",
+  "version": "0.1.0",
+  "summary": "Real-Time Options client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/RealTimeOptions/v4",
+  "download_filename": "fds_sdk_realtimeoptions-0.1.0.tar.gz",
+  "download_time": "2025-07-25T08:32:07.325246",
+  "package_url": "https://pypi.org/project/fds.sdk.RealTimeOptions/"
+}

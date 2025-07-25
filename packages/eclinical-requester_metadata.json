@@ -1,0 +1,11 @@
+{
+  "name": "eclinical-requester",
+  "version": "1.0.15",
+  "summary": "edetek api requester",
+  "author": "xiaodong.li",
+  "license": null,
+  "home_page": "http://example.com",
+  "download_filename": "eclinical_requester-1.0.15.tar.gz",
+  "download_time": "2025-07-25T08:31:58.387984",
+  "package_url": "https://pypi.org/project/eclinical-requester/"
+}

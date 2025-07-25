@@ -1,11 +1,11 @@
 {
   "name": "panda-agi",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "PandaAGI SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "panda_agi-0.6.0.tar.gz",
-  "download_time": "2025-07-24T10:27:11.794591",
+  "download_filename": "panda_agi-0.6.2.tar.gz",
+  "download_time": "2025-07-25T08:31:53.714992",
   "package_url": "https://pypi.org/project/panda-agi/"
 }

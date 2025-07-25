@@ -1,0 +1,11 @@
+{
+  "name": "uvenv",
+  "version": "3.9.17",
+  "summary": "uvenv: pipx for uv (🦀)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uvenv-3.9.17.tar.gz",
+  "download_time": "2025-07-25T08:31:30.192233",
+  "package_url": "https://pypi.org/project/uvenv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "school-sdk",
+  "version": "1.7.0",
+  "summary": "zf School SDK for Python",
+  "author": "farmer.chillax",
+  "license": "MIT",
+  "home_page": "https://github.com/Farmer-chong/new-school-sdk",
+  "download_filename": "school-sdk-1.7.0.tar.gz",
+  "download_time": "2025-07-25T08:32:06.288068",
+  "package_url": "https://pypi.org/project/school-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "twinew",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "summary": "Library allowing for endurance macro software to be configured and created.",
   "author": "WilsonSTW",
   "license": null,
   "home_page": null,
-  "download_filename": "twinew-0.0.5.tar.gz",
-  "download_time": "2025-07-24T08:32:54.743595",
+  "download_filename": "twinew-1.0.0.tar.gz",
+  "download_time": "2025-07-25T08:31:43.275659",
   "package_url": "https://pypi.org/project/twinew/"
 }

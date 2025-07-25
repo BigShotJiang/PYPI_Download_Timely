@@ -1,0 +1,11 @@
+{
+  "name": "gemini-wt",
+  "version": "0.1.2",
+  "summary": "Manage parallel Gemini CLI instances",
+  "author": "Daniel Ratmiroff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemini_wt-0.1.2.tar.gz",
+  "download_time": "2025-07-25T08:31:27.567742",
+  "package_url": "https://pypi.org/project/gemini-wt/"
+}
