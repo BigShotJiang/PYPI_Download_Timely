@@ -1,0 +1,11 @@
+{
+  "name": "pymedit",
+  "version": "1.4",
+  "summary": "Package pymedit for operating on 2D and 3D meshes in the INRIA mesh format",
+  "author": "Florian Feppon",
+  "license": "GNU GPL version 3",
+  "home_page": "https://gitlab.com/florian.feppon/pymedit",
+  "download_filename": "pymedit-1.4-py3-none-any.whl",
+  "download_time": "2025-07-25T14:29:31.811530",
+  "package_url": "https://pypi.org/project/pymedit/"
+}

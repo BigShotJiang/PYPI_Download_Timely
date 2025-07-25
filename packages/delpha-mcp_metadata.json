@@ -1,11 +1,11 @@
 {
   "name": "delpha-mcp",
-  "version": "0.1.4",
-  "summary": "Delpha Data Quality MCP Server: Data quality assessment for MCP-compatible tools.",
+  "version": "0.1.5",
+  "summary": "Intelligent AI Agents to ensure accurate, unique, and reliable customer data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "delpha_mcp-0.1.4.tar.gz",
-  "download_time": "2025-07-25T13:59:13.630860",
+  "download_filename": "delpha_mcp-0.1.5.tar.gz",
+  "download_time": "2025-07-25T14:29:41.060827",
   "package_url": "https://pypi.org/project/delpha-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fairdatanow",
+  "version": "0.2.2",
+  "summary": "Experimental Python package to support working with data from (y)our Nextcloud server",
+  "author": "Frank Ligterink",
+  "license": "MIT License",
+  "home_page": "https://github.com/fligt/fairdatanow",
+  "download_filename": "fairdatanow-0.2.2.tar.gz",
+  "download_time": "2025-07-25T14:29:20.623062",
+  "package_url": "https://pypi.org/project/fairdatanow/"
+}

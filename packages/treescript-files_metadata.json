@@ -1,0 +1,11 @@
+{
+  "name": "treescript-files",
+  "version": "0.2.2",
+  "summary": "Obtains the relative path of all files in the TreeScript.",
+  "author": "DK96-OS",
+  "license": "GPLv3",
+  "home_page": "https://github.com/DK96-OS/treescript-files/",
+  "download_filename": "treescript_files-0.2.2.tar.gz",
+  "download_time": "2025-07-25T14:29:35.658375",
+  "package_url": "https://pypi.org/project/treescript-files/"
+}

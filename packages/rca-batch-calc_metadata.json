@@ -1,0 +1,11 @@
+{
+  "name": "rca-batch-calc",
+  "version": "0.1.5",
+  "summary": "A tool to calculate Revealed Comparative Advantage (RCA) in batch.",
+  "author": "Ning An",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rca_batch_calc-0.1.5.tar.gz",
+  "download_time": "2025-07-25T14:29:22.250164",
+  "package_url": "https://pypi.org/project/rca-batch-calc/"
+}

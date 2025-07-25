@@ -1,11 +1,11 @@
 {
   "name": "csust-word-mcp-server",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Add your description here",
   "author": "DoubleWang1",
   "license": null,
   "home_page": null,
-  "download_filename": "csust_word_mcp_server-0.0.8.tar.gz",
-  "download_time": "2025-07-25T13:59:00.533712",
+  "download_filename": "csust_word_mcp_server-0.0.9.tar.gz",
+  "download_time": "2025-07-25T14:29:15.656164",
   "package_url": "https://pypi.org/project/csust-word-mcp-server/"
 }

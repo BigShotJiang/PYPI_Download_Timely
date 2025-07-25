@@ -1,0 +1,11 @@
+{
+  "name": "cyclic-correlation",
+  "version": "0.1.6",
+  "summary": "Cyclic cross-correlation utilities and Zadoff-Chu sequence generation",
+  "author": "Andrea Novero",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/noveroandrea/cyclic_correlation",
+  "download_filename": "cyclic_correlation-0.1.6.tar.gz",
+  "download_time": "2025-07-25T14:29:26.068951",
+  "package_url": "https://pypi.org/project/cyclic-correlation/"
+}

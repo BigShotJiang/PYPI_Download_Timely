@@ -1,11 +1,11 @@
 {
   "name": "alphacast",
-  "version": "0.1.8.6",
+  "version": "0.1.8.7",
   "summary": "Alphacast Python SDK",
   "author": "Alphacast.io",
   "license": "MIT",
   "home_page": "https://alphacast-python-sdk.readthedocs.io/",
-  "download_filename": "alphacast-0.1.8.6.tar.gz",
-  "download_time": "2025-07-23T19:13:26.816094",
+  "download_filename": "alphacast-0.1.8.7.tar.gz",
+  "download_time": "2025-07-25T14:29:20.082466",
   "package_url": "https://pypi.org/project/alphacast/"
 }

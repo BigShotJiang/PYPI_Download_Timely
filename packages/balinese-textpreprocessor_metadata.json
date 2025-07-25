@@ -1,0 +1,11 @@
+{
+  "name": "balinese-textpreprocessor",
+  "version": "2.2.1",
+  "summary": "A Python package for Balinese Text Preprocessing",
+  "author": "I Made Satria Bimantara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "balinese_textpreprocessor-2.2.1.tar.gz",
+  "download_time": "2025-07-25T14:29:37.272510",
+  "package_url": "https://pypi.org/project/balinese-textpreprocessor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyfreefem",
+  "version": "1.1.5",
+  "summary": "Package PyFreeFEM for interfacing Python and FreeFEM.",
+  "author": "Florian Feppon",
+  "license": "GNU GPL version 3",
+  "home_page": "https://pyfreefem.readthedocs.io/en/latest/",
+  "download_filename": "pyfreefem-1.1.5-py3-none-any.whl",
+  "download_time": "2025-07-25T14:29:34.554065",
+  "package_url": "https://pypi.org/project/pyfreefem/"
+}

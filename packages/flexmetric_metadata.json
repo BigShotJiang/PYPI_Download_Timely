@@ -1,0 +1,11 @@
+{
+  "name": "flexmetric",
+  "version": "0.5.4",
+  "summary": "A secure flexible Prometheus exporter for commands, databases, functions.",
+  "author": "Nikhil Lingadhal",
+  "license": "MIT",
+  "home_page": "https://github.com/nikhillingadhal1999/flexmetric",
+  "download_filename": "flexmetric-0.5.4.tar.gz",
+  "download_time": "2025-07-25T14:29:01.166756",
+  "package_url": "https://pypi.org/project/flexmetric/"
+}
