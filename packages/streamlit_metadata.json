@@ -1,0 +1,11 @@
+{
+  "name": "streamlit",
+  "version": "1.47.1",
+  "summary": "A faster way to build and share data apps",
+  "author": "Snowflake Inc",
+  "license": "Apache License 2.0",
+  "home_page": "https://streamlit.io",
+  "download_filename": "streamlit-1.47.1.tar.gz",
+  "download_time": "2025-07-25T15:46:30.274645",
+  "package_url": "https://pypi.org/project/streamlit/"
+}

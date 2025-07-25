@@ -1,11 +1,11 @@
 {
   "name": "detectree",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Tree detection from aerial imagery in Python.",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "detectree-0.7.0.tar.gz",
-  "download_time": "2025-07-24T16:28:14.500593",
+  "download_filename": "detectree-0.8.0.tar.gz",
+  "download_time": "2025-07-25T15:46:31.311908",
   "package_url": "https://pypi.org/project/detectree/"
 }

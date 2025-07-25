@@ -1,0 +1,11 @@
+{
+  "name": "shadowPaySDK",
+  "version": "1.0.2",
+  "summary": "ShadowPay SDK for ERC20/ERC721 and P2P smart contract interaction",
+  "author": "dazay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shadowpaysdk-1.0.2.tar.gz",
+  "download_time": "2025-07-25T15:46:29.705208",
+  "package_url": "https://pypi.org/project/shadowPaySDK/"
+}

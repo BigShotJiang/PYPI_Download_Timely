@@ -1,11 +1,11 @@
 {
   "name": "elecboltz",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Boltzmann transport for conductivity of materials using an FEM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elecboltz-0.3.4.tar.gz",
-  "download_time": "2025-07-24T23:54:37.809307",
+  "download_filename": "elecboltz-0.3.5.tar.gz",
+  "download_time": "2025-07-25T15:46:38.813413",
   "package_url": "https://pypi.org/project/elecboltz/"
 }

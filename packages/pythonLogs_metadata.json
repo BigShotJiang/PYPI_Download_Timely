@@ -1,0 +1,11 @@
+{
+  "name": "pythonLogs",
+  "version": "5.0.1",
+  "summary": "High-performance Python logging library with file rotation and optimized caching for better performance",
+  "author": "Daniel Costa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pythonlogs-5.0.1.tar.gz",
+  "download_time": "2025-07-25T15:46:26.063069",
+  "package_url": "https://pypi.org/project/pythonLogs/"
+}
