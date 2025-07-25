@@ -1,0 +1,11 @@
+{
+  "name": "pygelbooru",
+  "version": "1.0.0",
+  "summary": "PyGelbooru is an unofficial and lightweight asynchronous library for Gelbooru compatible API's.",
+  "author": "Makoto",
+  "license": "gpl-3.0",
+  "home_page": "https://github.com/FujiMakoto/pygelbooru",
+  "download_filename": "pygelbooru-1.0.0.tar.gz",
+  "download_time": "2025-07-25T10:52:15.253631",
+  "package_url": "https://pypi.org/project/pygelbooru/"
+}

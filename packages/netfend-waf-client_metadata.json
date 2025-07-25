@@ -1,11 +1,11 @@
 {
   "name": "netfend-waf-client",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "summary": "WAF Client SDK for Python - Netfend",
   "author": "Seu Nome",
   "license": null,
-  "home_page": "https://github.com/Shieldhaus/netfend-waf-client",
-  "download_filename": "netfend-waf-client-1.0.0.tar.gz",
-  "download_time": "2025-07-25T10:28:09.399834",
+  "home_page": "https://github.com/Shieldhaus/netfend_waf_client",
+  "download_filename": "netfend_waf_client-1.0.5.tar.gz",
+  "download_time": "2025-07-25T10:51:54.347283",
   "package_url": "https://pypi.org/project/netfend-waf-client/"
 }

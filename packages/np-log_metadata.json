@@ -1,0 +1,11 @@
+{
+  "name": "np-log",
+  "version": "0.2.4",
+  "summary": "日志管理器",
+  "author": "刘金林",
+  "license": "MIT",
+  "home_page": "https://github.com/Liu670/np_log",
+  "download_filename": "np_log-0.2.4-py3-none-any.whl",
+  "download_time": "2025-07-25T10:51:42.789118",
+  "package_url": "https://pypi.org/project/np-log/"
+}

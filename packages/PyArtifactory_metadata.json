@@ -1,0 +1,11 @@
+{
+  "name": "PyArtifactory",
+  "version": "2.10.0",
+  "summary": "Typed interactions with the Jfrog Artifactory REST API",
+  "author": "Ananias CARVALHO",
+  "license": "MIT",
+  "home_page": "https://github.com/anancarv/python-artifactory",
+  "download_filename": "pyartifactory-2.10.0.tar.gz",
+  "download_time": "2025-07-25T10:52:12.023436",
+  "package_url": "https://pypi.org/project/PyArtifactory/"
+}

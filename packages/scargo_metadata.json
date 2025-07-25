@@ -1,11 +1,11 @@
 {
   "name": "scargo",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "C/C++ package and software development life cycle manager inspired by RUST cargo idea.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scargo-3.2.1.tar.gz",
-  "download_time": "2025-07-25T09:56:18.292888",
+  "download_filename": "scargo-3.2.2.tar.gz",
+  "download_time": "2025-07-25T10:51:47.982210",
   "package_url": "https://pypi.org/project/scargo/"
 }

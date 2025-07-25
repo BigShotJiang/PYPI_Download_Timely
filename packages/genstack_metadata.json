@@ -1,0 +1,11 @@
+{
+  "name": "genstack",
+  "version": "0.1.9",
+  "summary": "Universal AI SDK from Genstack",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genstack-0.1.9.tar.gz",
+  "download_time": "2025-07-25T10:52:15.785777",
+  "package_url": "https://pypi.org/project/genstack/"
+}

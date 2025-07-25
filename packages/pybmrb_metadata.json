@@ -1,0 +1,11 @@
+{
+  "name": "pybmrb",
+  "version": "3.0.9",
+  "summary": "PyBMRB provides tools for visualizing BMRB entries and  NMR-STAR files. Maintained by the BMRB.",
+  "author": "Kumaran Baskaran",
+  "license": "MIT",
+  "home_page": "https://github.com/uwbmrb/PyBMRB",
+  "download_filename": "pybmrb-3.0.9.tar.gz",
+  "download_time": "2025-07-25T10:51:45.164065",
+  "package_url": "https://pypi.org/project/pybmrb/"
+}

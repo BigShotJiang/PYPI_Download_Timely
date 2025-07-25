@@ -1,0 +1,11 @@
+{
+  "name": "clip-benchmark",
+  "version": "1.6.2",
+  "summary": "CLIP-like models benchmarks on various datasets",
+  "author": "Mehdi Cherti",
+  "license": "MIT license",
+  "home_page": "https://github.com/mehdidc/clip_benchmark",
+  "download_filename": "clip_benchmark-1.6.2.tar.gz",
+  "download_time": "2025-07-25T10:51:55.576833",
+  "package_url": "https://pypi.org/project/clip-benchmark/"
+}

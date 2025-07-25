@@ -1,11 +1,11 @@
 {
   "name": "voicechatengine",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A production-ready Python framework for building real-time AI voice chat applications using OpenAI s Realtime API ",
   "author": "enes kuzucu",
   "license": null,
   "home_page": null,
-  "download_filename": "voicechatengine-0.0.1.tar.gz",
-  "download_time": "2025-07-25T09:56:34.920806",
+  "download_filename": "voicechatengine-0.0.3.tar.gz",
+  "download_time": "2025-07-25T10:52:08.920532",
   "package_url": "https://pypi.org/project/voicechatengine/"
 }

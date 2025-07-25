@@ -1,11 +1,11 @@
 {
   "name": "pycarta",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Python interface to Carta.",
   "author": "Branden Kappes",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycarta-0.3.3.tar.gz",
-  "download_time": "2025-07-23T16:17:44.015395",
+  "download_filename": "pycarta-0.3.4.tar.gz",
+  "download_time": "2025-07-25T10:51:43.441052",
   "package_url": "https://pypi.org/project/pycarta/"
 }

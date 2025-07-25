@@ -1,0 +1,11 @@
+{
+  "name": "libemg",
+  "version": "2.0.2",
+  "summary": "LibEMG - Myoelectric Control Library",
+  "author": "Ethan Eddy, Evan Campbell, Angkoon Phinyomark, Scott Bateman, and Erik Scheme",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libemg-2.0.2.tar.gz",
+  "download_time": "2025-07-25T10:51:44.588483",
+  "package_url": "https://pypi.org/project/libemg/"
+}
