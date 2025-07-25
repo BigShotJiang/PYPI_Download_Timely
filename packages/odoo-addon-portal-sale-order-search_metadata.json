@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-portal-sale-order-search",
+  "version": "16.0.1.0.1.2",
+  "summary": "Allow customers to set and search their own order reference in portal",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_portal_sale_order_search-16.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-07-25T06:45:24.514659",
+  "package_url": "https://pypi.org/project/odoo-addon-portal-sale-order-search/"
+}

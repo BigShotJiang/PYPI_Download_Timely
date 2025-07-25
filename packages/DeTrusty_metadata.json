@@ -1,11 +1,11 @@
 {
   "name": "DeTrusty",
-  "version": "0.20.1",
+  "version": "0.20.2",
   "summary": "DeTrusty - Decentralized and Trustable Query Engine",
   "author": "Philipp D. Rohde",
   "license": "GNU/GPLv3",
   "home_page": "https://github.com/SDM-TIB/DeTrusty",
-  "download_filename": "detrusty-0.20.1.tar.gz",
-  "download_time": "2025-07-24T07:54:01.116798",
+  "download_filename": "detrusty-0.20.2.tar.gz",
+  "download_time": "2025-07-25T06:45:53.341345",
   "package_url": "https://pypi.org/project/DeTrusty/"
 }

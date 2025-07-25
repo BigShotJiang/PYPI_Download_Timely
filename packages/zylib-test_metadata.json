@@ -1,11 +1,11 @@
 {
   "name": "zylib-test",
-  "version": "0.0.29",
+  "version": "0.0.36",
   "summary": null,
   "author": "lee gyu yeol-mac",
   "license": null,
   "home_page": null,
-  "download_filename": "zylib_test-0.0.29.tar.gz",
-  "download_time": "2025-07-24T05:20:01.077368",
+  "download_filename": "zylib_test-0.0.36.tar.gz",
+  "download_time": "2025-07-25T06:45:45.594148",
   "package_url": "https://pypi.org/project/zylib-test/"
 }

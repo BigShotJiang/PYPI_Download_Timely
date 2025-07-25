@@ -1,11 +1,11 @@
 {
   "name": "mseep-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP (Model Context Protocol) server that proxies requests to the MseeP AI Helper app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mseep_cli-0.1.0.tar.gz",
-  "download_time": "2025-07-25T05:59:11.432907",
+  "download_filename": "mseep_cli-0.1.1.tar.gz",
+  "download_time": "2025-07-25T06:45:59.512962",
   "package_url": "https://pypi.org/project/mseep-cli/"
 }

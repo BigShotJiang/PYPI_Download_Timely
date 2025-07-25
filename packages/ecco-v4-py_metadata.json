@@ -1,0 +1,11 @@
+{
+  "name": "ecco-v4-py",
+  "version": "1.7.8",
+  "summary": "Estimating the Circulation and Climate of the Ocean (ECCO) Version 4 Python Package",
+  "author": "Ian Fenty, Ou Wang, Tim Smith, Andrew Delman, and others",
+  "license": "MIT",
+  "home_page": "https://github.com/ECCO-GROUP/ECCOv4-py",
+  "download_filename": "ecco_v4_py-1.7.8.tar.gz",
+  "download_time": "2025-07-25T06:45:39.948710",
+  "package_url": "https://pypi.org/project/ecco-v4-py/"
+}

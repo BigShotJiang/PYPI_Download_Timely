@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.basicskin",
+  "version": "5.1",
+  "summary": "Zope ZMI Basic Skin",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.app.basicskin",
+  "download_filename": "zope_app_basicskin-5.1.tar.gz",
+  "download_time": "2025-07-25T06:45:29.166107",
+  "package_url": "https://pypi.org/project/zope.app.basicskin/"
+}

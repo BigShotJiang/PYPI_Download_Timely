@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-cms20240330",
+  "version": "2.3.0",
+  "summary": "Alibaba Cloud Cloud Monitor (20240330) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_cms20240330-2.3.0.tar.gz",
+  "download_time": "2025-07-25T06:45:46.616977",
+  "package_url": "https://pypi.org/project/alibabacloud-cms20240330/"
+}

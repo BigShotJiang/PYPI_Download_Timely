@@ -1,11 +1,11 @@
 {
   "name": "polarisllm",
-  "version": "2.0.1",
+  "version": "2.0.5",
   "summary": "🌟 The Ultimate Multi-Model LLM Runtime Platform - Deploy, manage, and serve 300+ language models with OpenAI-compatible APIs. Built on ms-swift for production-ready performance.",
   "author": "PolarisLLM Team",
   "license": null,
   "home_page": "https://github.com/polarisllm/polarisLLM",
-  "download_filename": "polarisllm-2.0.1.tar.gz",
-  "download_time": "2025-07-25T05:59:12.474274",
+  "download_filename": "polarisllm-2.0.5.tar.gz",
+  "download_time": "2025-07-25T06:45:19.650651",
   "package_url": "https://pypi.org/project/polarisllm/"
 }

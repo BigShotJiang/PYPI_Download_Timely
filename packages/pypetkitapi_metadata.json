@@ -1,11 +1,11 @@
 {
   "name": "pypetkitapi",
-  "version": "1.18.0",
+  "version": "1.18.1",
   "summary": "Python client for PetKit API",
   "author": "Jezza34000",
   "license": "MIT",
   "home_page": "https://github.com/Jezza34000/pypetkit",
-  "download_filename": "pypetkitapi-1.18.0.tar.gz",
-  "download_time": "2025-07-24T19:52:43.786209",
+  "download_filename": "pypetkitapi-1.18.1.tar.gz",
+  "download_time": "2025-07-25T06:45:49.707903",
   "package_url": "https://pypi.org/project/pypetkitapi/"
 }

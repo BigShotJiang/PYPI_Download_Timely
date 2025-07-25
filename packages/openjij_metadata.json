@@ -1,0 +1,11 @@
+{
+  "name": "openjij",
+  "version": "0.10.17",
+  "summary": "Framework for the Ising model and QUBO.",
+  "author": "Jij Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.openjij.org",
+  "download_filename": "openjij-0.10.17.tar.gz",
+  "download_time": "2025-07-25T06:45:27.107001",
+  "package_url": "https://pypi.org/project/openjij/"
+}

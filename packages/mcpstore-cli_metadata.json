@@ -1,11 +1,11 @@
 {
   "name": "mcpstore-cli",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Python MCP server registry and proxy for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcpstore_cli-0.1.15.tar.gz",
-  "download_time": "2025-07-25T05:44:46.516704",
+  "download_filename": "mcpstore_cli-0.1.16.tar.gz",
+  "download_time": "2025-07-25T06:45:31.216715",
   "package_url": "https://pypi.org/project/mcpstore-cli/"
 }

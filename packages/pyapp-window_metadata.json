@@ -1,0 +1,11 @@
+{
+  "name": "pyapp-window",
+  "version": "2.1.3",
+  "summary": "Launching URL with native window in WebView mode.",
+  "author": "Likianta",
+  "license": "MIT",
+  "home_page": "https://github.com/likianta/depsland",
+  "download_filename": "pyapp_window-2.1.3-py3-none-any.whl",
+  "download_time": "2025-07-25T06:45:52.317084",
+  "package_url": "https://pypi.org/project/pyapp-window/"
+}

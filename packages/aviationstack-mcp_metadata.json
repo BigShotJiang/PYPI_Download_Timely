@@ -1,0 +1,11 @@
+{
+  "name": "aviationstack-mcp",
+  "version": "1.3.1",
+  "summary": "An MCP server using the AviationStack API to fetch real-time flight data including airline flights, airport schedules, future flights and aircraft types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aviationstack_mcp-1.3.1.tar.gz",
+  "download_time": "2025-07-25T06:45:33.264531",
+  "package_url": "https://pypi.org/project/aviationstack-mcp/"
+}

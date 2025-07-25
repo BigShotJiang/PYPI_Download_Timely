@@ -1,0 +1,11 @@
+{
+  "name": "zignal-processing",
+  "version": "0.2.0",
+  "summary": "Zero-dependency image processing library",
+  "author": "zignal contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zignal_processing-0.2.0.tar.gz",
+  "download_time": "2025-07-25T06:45:34.289368",
+  "package_url": "https://pypi.org/project/zignal-processing/"
+}

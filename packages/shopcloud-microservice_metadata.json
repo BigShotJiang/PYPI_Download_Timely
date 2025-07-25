@@ -1,0 +1,11 @@
+{
+  "name": "shopcloud-microservice",
+  "version": "0.37.0",
+  "summary": "CLI tool for manage microservices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shopcloud_microservice-0.37.0.tar.gz",
+  "download_time": "2025-07-25T06:45:22.375015",
+  "package_url": "https://pypi.org/project/shopcloud-microservice/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "use-event",
+  "version": "0.1.0",
+  "summary": "A python nacos client based on the official open-api",
+  "author": "MicLon",
+  "license": "MIT",
+  "home_page": "https://github.com/use-py/use-event",
+  "download_filename": "use_event-0.1.0.tar.gz",
+  "download_time": "2025-07-25T06:45:52.828685",
+  "package_url": "https://pypi.org/project/use-event/"
+}

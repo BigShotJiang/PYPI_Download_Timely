@@ -1,0 +1,11 @@
+{
+  "name": "zope.app.pagetemplate",
+  "version": "5.1",
+  "summary": "PageTemplate integration for Zope 3",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.app.pagetemplate",
+  "download_filename": "zope_app_pagetemplate-5.1.tar.gz",
+  "download_time": "2025-07-25T06:45:26.573276",
+  "package_url": "https://pypi.org/project/zope.app.pagetemplate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jeet",
-  "version": "0.1",
+  "version": "0.1.2",
   "summary": "A prank pip package",
   "author": "Sangramjeet Ghosh",
   "license": null,
   "home_page": null,
-  "download_filename": "jeet-0.1.tar.gz",
-  "download_time": "2025-07-25T05:44:52.688203",
+  "download_filename": "jeet-0.1.2.tar.gz",
+  "download_time": "2025-07-25T06:45:37.888083",
   "package_url": "https://pypi.org/project/jeet/"
 }

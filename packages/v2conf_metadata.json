@@ -1,0 +1,11 @@
+{
+  "name": "v2conf",
+  "version": "0.2.0",
+  "summary": "V2Conf helps you build V2Ray Config file automatically and evaluate and change config rules based on outbounds performances.",
+  "author": "Mahyar Mahdavi",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/mahyar24/V2Conf/",
+  "download_filename": "v2conf-0.2.0.tar.gz",
+  "download_time": "2025-07-25T06:46:02.067550",
+  "package_url": "https://pypi.org/project/v2conf/"
+}
