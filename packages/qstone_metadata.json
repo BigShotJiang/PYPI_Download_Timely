@@ -1,11 +1,11 @@
 {
   "name": "qstone",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Benchmarking suite for Quantum Computers integration into HPC Systems",
   "author": "Riverlane ",
   "license": "Apache 2.0",
   "home_page": "https://github.com/riverlane/QStone",
-  "download_filename": "qstone-0.4.0.tar.gz",
-  "download_time": "2025-07-24T20:57:55.073746",
+  "download_filename": "qstone-0.4.1.tar.gz",
+  "download_time": "2025-07-25T13:42:22.709135",
   "package_url": "https://pypi.org/project/qstone/"
 }

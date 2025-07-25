@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-maxima",
+  "version": "10.5.48",
+  "summary": "passagemath: Symbolic calculus",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_maxima-10.5.48.tar.gz",
+  "download_time": "2025-07-25T13:42:47.106994",
+  "package_url": "https://pypi.org/project/passagemath-maxima/"
+}

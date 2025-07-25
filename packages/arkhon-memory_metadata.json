@@ -1,0 +1,11 @@
+{
+  "name": "arkhon-memory",
+  "version": "0.1.0",
+  "summary": "Lightweight, structured long-term memory layer for autonomous LLM agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arkhon_memory-0.1.0.tar.gz",
+  "download_time": "2025-07-25T13:43:18.207493",
+  "package_url": "https://pypi.org/project/arkhon-memory/"
+}

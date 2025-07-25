@@ -1,0 +1,11 @@
+{
+  "name": "bamboo-lca",
+  "version": "0.1.1",
+  "summary": "This is a Python package designed to import external input-output databases to brightway, such as EXIOBASE. In addition, it can assist you to model different types of uncertainty analysis or scenario analysis with datapackage matrix data.",
+  "author": "Ning An",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bamboo_lca-0.1.1.tar.gz",
+  "download_time": "2025-07-25T13:42:19.203646",
+  "package_url": "https://pypi.org/project/bamboo-lca/"
+}

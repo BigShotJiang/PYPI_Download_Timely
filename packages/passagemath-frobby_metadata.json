@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-frobby",
+  "version": "10.5.48",
+  "summary": "passagemath: Computations on monomial ideals with Frobby",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_frobby-10.5.48.tar.gz",
+  "download_time": "2025-07-25T13:42:59.217907",
+  "package_url": "https://pypi.org/project/passagemath-frobby/"
+}

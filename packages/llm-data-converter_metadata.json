@@ -1,0 +1,11 @@
+{
+  "name": "llm-data-converter",
+  "version": "2.2.0",
+  "summary": "Best open-source document to markdown converter for LLM training data. Convert PDF, Word, PowerPoint, Excel, images, URLs to clean markdown, JSON, HTML locally. Alternative to Unstructured, Docling, Marker, MarkItDown, MinerU, PaddleOCR, Tesseract",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_data_converter-2.2.0.tar.gz",
+  "download_time": "2025-07-25T13:43:17.570097",
+  "package_url": "https://pypi.org/project/llm-data-converter/"
+}
