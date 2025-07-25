@@ -1,11 +1,11 @@
 {
   "name": "engineai.sdk",
-  "version": "0.136.3",
+  "version": "0.136.6",
   "summary": "EngineAI's Platform SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "engineai_sdk-0.136.3.tar.gz",
-  "download_time": "2025-07-24T09:01:24.050939",
+  "download_filename": "engineai_sdk-0.136.6.tar.gz",
+  "download_time": "2025-07-25T09:56:12.559091",
   "package_url": "https://pypi.org/project/engineai.sdk/"
 }

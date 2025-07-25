@@ -1,0 +1,11 @@
+{
+  "name": "stable-baselines3",
+  "version": "2.7.0",
+  "summary": "Pytorch version of Stable Baselines, implementations of reinforcement learning algorithms.",
+  "author": "Antonin Raffin",
+  "license": "MIT",
+  "home_page": "https://github.com/DLR-RM/stable-baselines3",
+  "download_filename": "stable_baselines3-2.7.0.tar.gz",
+  "download_time": "2025-07-25T09:56:07.313898",
+  "package_url": "https://pypi.org/project/stable-baselines3/"
+}

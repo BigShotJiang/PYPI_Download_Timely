@@ -1,11 +1,11 @@
 {
   "name": "fandango",
-  "version": "16.0.0",
+  "version": "16.0.1",
   "summary": "Simplify the configuration of big Tango control systems",
   "author": "Sergi Rubio",
   "license": "LGPL",
   "home_page": "https://gitlab.com/tango-controls/fandango",
-  "download_filename": "fandango-16.0.0.tar.gz",
-  "download_time": "2025-07-24T16:28:19.700397",
+  "download_filename": "fandango-16.0.1.tar.gz",
+  "download_time": "2025-07-25T09:56:45.974466",
   "package_url": "https://pypi.org/project/fandango/"
 }

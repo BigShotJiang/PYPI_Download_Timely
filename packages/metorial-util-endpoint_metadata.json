@@ -1,0 +1,11 @@
+{
+  "name": "metorial-util-endpoint",
+  "version": "1.0.0",
+  "summary": "HTTP endpoint utilities for Metorial",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metorial_util_endpoint-1.0.0.tar.gz",
+  "download_time": "2025-07-25T09:56:25.046062",
+  "package_url": "https://pypi.org/project/metorial-util-endpoint/"
+}

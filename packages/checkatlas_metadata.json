@@ -1,0 +1,11 @@
+{
+  "name": "checkatlas",
+  "version": "0.6.0",
+  "summary": "One liner tool to check the quality of your single-cell atlases.",
+  "author": "becavin-lab",
+  "license": "BSD 3-Clause",
+  "home_page": "https://checkatlas.readthedocs.io/",
+  "download_filename": "checkatlas-0.6.0.tar.gz",
+  "download_time": "2025-07-25T09:56:16.733076",
+  "package_url": "https://pypi.org/project/checkatlas/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "panoptes_aggregation",
+  "version": "5.3.0",
+  "summary": "Aggregation code for Zooniverse panoptes projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "panoptes_aggregation-5.3.0.tar.gz",
+  "download_time": "2025-07-25T09:56:26.606556",
+  "package_url": "https://pypi.org/project/panoptes_aggregation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "g3projects",
+  "version": "0.2.10",
+  "summary": "System G3 Project PLC files generator",
+  "author": "Elektroline a.s.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "g3projects-0.2.10.tar.gz",
+  "download_time": "2025-07-25T09:56:19.838860",
+  "package_url": "https://pypi.org/project/g3projects/"
+}

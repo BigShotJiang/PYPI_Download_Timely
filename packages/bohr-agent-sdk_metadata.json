@@ -1,0 +1,11 @@
+{
+  "name": "bohr-agent-sdk",
+  "version": "0.1.100",
+  "summary": "SDK for scientific agents",
+  "author": "DP Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/dptech-corp/bohr-agent-sdk/",
+  "download_filename": "bohr_agent_sdk-0.1.100.tar.gz",
+  "download_time": "2025-07-25T09:56:46.492363",
+  "package_url": "https://pypi.org/project/bohr-agent-sdk/"
+}

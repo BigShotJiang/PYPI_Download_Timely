@@ -1,0 +1,11 @@
+{
+  "name": "vaiz-sdk",
+  "version": "0.4.7",
+  "summary": "Official SDK for interacting with the Vaiz API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vaiz_sdk-0.4.7.tar.gz",
+  "download_time": "2025-07-25T09:56:17.252208",
+  "package_url": "https://pypi.org/project/vaiz-sdk/"
+}

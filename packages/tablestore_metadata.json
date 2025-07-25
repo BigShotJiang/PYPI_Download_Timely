@@ -1,0 +1,11 @@
+{
+  "name": "tablestore",
+  "version": "6.2.1",
+  "summary": "Aliyun TableStore(OTS) SDK",
+  "author": "xunjian.sl",
+  "license": "Apache-2.0",
+  "home_page": "https://www.aliyun.com/product/ots",
+  "download_filename": "tablestore-6.2.1.tar.gz",
+  "download_time": "2025-07-25T09:56:22.974028",
+  "package_url": "https://pypi.org/project/tablestore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pm-rank",
+  "version": "0.2.0",
+  "summary": "A toolkit for scoring and ranking prediction market forecasters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pm_rank-0.2.0.tar.gz",
+  "download_time": "2025-07-25T09:56:36.502002",
+  "package_url": "https://pypi.org/project/pm-rank/"
+}
