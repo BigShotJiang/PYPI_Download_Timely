@@ -1,0 +1,11 @@
+{
+  "name": "httpdbg",
+  "version": "1.2.5",
+  "summary": "A very simple tool to debug HTTP(S) client and server requests.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "httpdbg-1.2.5.tar.gz",
+  "download_time": "2025-07-25T15:26:00.140094",
+  "package_url": "https://pypi.org/project/httpdbg/"
+}

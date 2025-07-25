@@ -1,0 +1,11 @@
+{
+  "name": "leximpact-dotations-back",
+  "version": "4.2.3",
+  "summary": "Simulating annual State grants to the French administrative divisions",
+  "author": "LexImpact",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "leximpact_dotations_back-4.2.3-py3-none-any.whl",
+  "download_time": "2025-07-25T15:25:59.617800",
+  "package_url": "https://pypi.org/project/leximpact-dotations-back/"
+}

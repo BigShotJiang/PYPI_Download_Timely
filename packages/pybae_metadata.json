@@ -1,11 +1,11 @@
 {
   "name": "pybae",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Core utilities for backend applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybae-0.1.6.tar.gz",
-  "download_time": "2025-07-25T14:49:53.514570",
+  "download_filename": "pybae-0.1.7.tar.gz",
+  "download_time": "2025-07-25T15:26:04.330652",
   "package_url": "https://pypi.org/project/pybae/"
 }

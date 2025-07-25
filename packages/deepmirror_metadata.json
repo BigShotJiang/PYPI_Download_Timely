@@ -1,0 +1,11 @@
+{
+  "name": "deepmirror",
+  "version": "0.0.7",
+  "summary": "Command line interface for the deepmirror public API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepmirror-0.0.7.tar.gz",
+  "download_time": "2025-07-25T15:26:22.083338",
+  "package_url": "https://pypi.org/project/deepmirror/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pySWATPlus",
+  "version": "1.0.2",
+  "summary": "Running and calibrating default or custom SWAT+ projects with Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyswatplus-1.0.2.tar.gz",
+  "download_time": "2025-07-25T15:26:03.810293",
+  "package_url": "https://pypi.org/project/pySWATPlus/"
+}

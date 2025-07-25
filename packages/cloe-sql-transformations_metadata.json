@@ -1,0 +1,11 @@
+{
+  "name": "cloe-sql-transformations",
+  "version": "1.0.11",
+  "summary": "Generates ready to use SQL DMLs based on metadata",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloe_sql_transformations-1.0.11-py3-none-any.whl",
+  "download_time": "2025-07-25T15:26:13.191801",
+  "package_url": "https://pypi.org/project/cloe-sql-transformations/"
+}

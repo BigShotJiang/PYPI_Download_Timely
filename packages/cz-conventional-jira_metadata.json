@@ -1,11 +1,11 @@
 {
   "name": "cz-conventional-jira",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Commitizen ruleset extending Conventional Commits with JIRA issue links",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cz_conventional_jira-0.1.2.tar.gz",
-  "download_time": "2025-07-25T14:49:49.344943",
+  "download_filename": "cz_conventional_jira-0.1.4.tar.gz",
+  "download_time": "2025-07-25T15:26:17.866184",
   "package_url": "https://pypi.org/project/cz-conventional-jira/"
 }

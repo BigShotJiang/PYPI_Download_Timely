@@ -1,0 +1,11 @@
+{
+  "name": "screenenv",
+  "version": "0.1.2",
+  "summary": "A powerful Python library for creating and managing isolated desktop environments using Docker containers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "screenenv-0.1.2.tar.gz",
+  "download_time": "2025-07-25T15:26:16.830591",
+  "package_url": "https://pypi.org/project/screenenv/"
+}

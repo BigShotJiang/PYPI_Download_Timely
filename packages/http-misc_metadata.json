@@ -1,0 +1,11 @@
+{
+  "name": "http-misc",
+  "version": "0.0.1",
+  "summary": "Утилитарный пакет межсервисного взаимодействия по протоколу HTTP",
+  "author": "Anton Gorinenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "http_misc-0.0.1.tar.gz",
+  "download_time": "2025-07-25T15:26:36.297357",
+  "package_url": "https://pypi.org/project/http-misc/"
+}

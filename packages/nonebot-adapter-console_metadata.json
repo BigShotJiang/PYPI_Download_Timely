@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-adapter-console",
+  "version": "0.9.0",
+  "summary": "console adapter for nonebot2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_adapter_console-0.9.0.tar.gz",
+  "download_time": "2025-07-25T15:26:34.226386",
+  "package_url": "https://pypi.org/project/nonebot-adapter-console/"
+}

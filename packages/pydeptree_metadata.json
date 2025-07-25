@@ -1,11 +1,11 @@
 {
   "name": "pydeptree",
-  "version": "0.3.20",
+  "version": "0.3.21",
   "summary": "A Python dependency tree analyzer with rich terminal output, and code quality features.",
   "author": "Todd Faucheux",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydeptree-0.3.20.tar.gz",
-  "download_time": "2025-07-25T14:50:03.386296",
+  "download_filename": "pydeptree-0.3.21.tar.gz",
+  "download_time": "2025-07-25T15:26:31.113103",
   "package_url": "https://pypi.org/project/pydeptree/"
 }

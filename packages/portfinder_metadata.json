@@ -1,11 +1,11 @@
 {
   "name": "portfinder",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "port scanner",
   "author": "Stanislav Shilov",
   "license": "MIT",
   "home_page": "https://github.com/stanley0707/portfinder",
-  "download_filename": "portfinder-0.1.6.tar.gz",
-  "download_time": "2025-07-24T11:20:54.821751",
+  "download_filename": "portfinder-0.1.8.tar.gz",
+  "download_time": "2025-07-25T15:26:27.378270",
   "package_url": "https://pypi.org/project/portfinder/"
 }

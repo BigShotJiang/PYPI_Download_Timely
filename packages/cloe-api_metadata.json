@@ -1,0 +1,11 @@
+{
+  "name": "cloe-api",
+  "version": "0.1.14",
+  "summary": "The API wraps most CLOE functions conveniently for the GUI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloe_api-0.1.14-py3-none-any.whl",
+  "download_time": "2025-07-25T15:26:12.127420",
+  "package_url": "https://pypi.org/project/cloe-api/"
+}

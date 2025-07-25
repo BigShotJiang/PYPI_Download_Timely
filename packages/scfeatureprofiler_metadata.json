@@ -1,0 +1,11 @@
+{
+  "name": "scfeatureprofiler",
+  "version": "1.0.0",
+  "summary": "A powerful, multi-interface Python package for deep characterization of single-cell feature expression patterns.",
+  "author": "Qingzhou Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scfeatureprofiler-1.0.0.tar.gz",
+  "download_time": "2025-07-25T15:25:54.881064",
+  "package_url": "https://pypi.org/project/scfeatureprofiler/"
+}
