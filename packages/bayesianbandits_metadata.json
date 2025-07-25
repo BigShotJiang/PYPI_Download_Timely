@@ -1,11 +1,11 @@
 {
   "name": "bayesianbandits",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A Pythonic microframework for Multi-Armed Bandit algorithms.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bayesianbandits-1.1.1.tar.gz",
-  "download_time": "2025-07-25T14:28:53.579573",
+  "download_filename": "bayesianbandits-1.1.2.tar.gz",
+  "download_time": "2025-07-25T16:30:59.355290",
   "package_url": "https://pypi.org/project/bayesianbandits/"
 }

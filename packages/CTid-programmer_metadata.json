@@ -1,0 +1,11 @@
+{
+  "name": "CTid-programmer",
+  "version": "1.5.2",
+  "summary": "A graphical user interface for programming CTid sensors.",
+  "author": "David Mosberger-Tang",
+  "license": "MIT License",
+  "home_page": "https://bitbucket.org/egauge/CTid-programmer/",
+  "download_filename": "ctid_programmer-1.5.2.tar.gz",
+  "download_time": "2025-07-25T16:30:12.307274",
+  "package_url": "https://pypi.org/project/CTid-programmer/"
+}

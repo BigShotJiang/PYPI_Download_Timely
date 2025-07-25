@@ -1,0 +1,11 @@
+{
+  "name": "tic-tac-toe-pygame",
+  "version": "0.4.0",
+  "summary": "A Python implementation of the Tic-Tac-Toe game using Pygame.",
+  "author": "Giansimone Perrino",
+  "license": "MIT",
+  "home_page": "https://github.com/giansimone/tic-tac-toe-pygame",
+  "download_filename": "tic_tac_toe_pygame-0.4.0.tar.gz",
+  "download_time": "2025-07-25T16:30:57.804753",
+  "package_url": "https://pypi.org/project/tic-tac-toe-pygame/"
+}

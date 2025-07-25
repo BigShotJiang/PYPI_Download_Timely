@@ -1,0 +1,11 @@
+{
+  "name": "logmerge",
+  "version": "0.2.1",
+  "summary": "A GUI application for viewing and analyzing multiple log files with advanced filtering and merging capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logmerge-0.2.1.tar.gz",
+  "download_time": "2025-07-25T16:30:42.929968",
+  "package_url": "https://pypi.org/project/logmerge/"
+}

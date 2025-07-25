@@ -1,0 +1,11 @@
+{
+  "name": "minify-tw-html",
+  "version": "0.1.5",
+  "summary": "Standalone CLI and Python package for modern HTML/CSS/JS/Tailwind minification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minify_tw_html-0.1.5.tar.gz",
+  "download_time": "2025-07-25T16:30:12.939482",
+  "package_url": "https://pypi.org/project/minify-tw-html/"
+}

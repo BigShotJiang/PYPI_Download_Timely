@@ -1,0 +1,11 @@
+{
+  "name": "nemo2riva",
+  "version": "2.21.0",
+  "summary": "('NeMo Model => Riva Deployment Converter',)",
+  "author": "NVIDIA Riva",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nemo2riva-2.21.0-py3-none-any.whl",
+  "download_time": "2025-07-25T16:30:52.195162",
+  "package_url": "https://pypi.org/project/nemo2riva/"
+}

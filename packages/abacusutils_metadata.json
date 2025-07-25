@@ -1,0 +1,11 @@
+{
+  "name": "abacusutils",
+  "version": "2.1.1",
+  "summary": "Python code to read halo catalogs and other Abacus N-body data products",
+  "author": "Daniel Eisenstein, Philip Pinto, Nina Maksimova, Sownak Bose, Boryana Hadzhiyska, Sihan (Sandy) Yuan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abacusutils-2.1.1-py3-none-any.whl",
+  "download_time": "2025-07-25T16:30:40.272423",
+  "package_url": "https://pypi.org/project/abacusutils/"
+}
