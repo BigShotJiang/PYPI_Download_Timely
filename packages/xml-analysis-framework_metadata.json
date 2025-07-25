@@ -1,0 +1,11 @@
+{
+  "name": "xml-analysis-framework",
+  "version": "1.0.0",
+  "summary": "Comprehensive framework for analyzing XML documents with AI/ML processing support",
+  "author": "AI Building Blocks",
+  "license": "MIT",
+  "home_page": "https://github.com/wjackson/xml-analysis-framework",
+  "download_filename": "xml_analysis_framework-1.0.0.tar.gz",
+  "download_time": "2025-07-25T19:42:08.923828",
+  "package_url": "https://pypi.org/project/xml-analysis-framework/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bdscore",
-  "version": "0.0.1b4",
+  "version": "0.0.1b5",
   "summary": "Biblioteca oficial da BDS DataSolution para integração com dados de mercado e dados proprietários.",
-  "author": "BDS DataSolution",
+  "author": null,
   "license": null,
-  "home_page": "https://bdsdatasolution.com.br",
-  "download_filename": "bdscore-0.0.1b4.tar.gz",
-  "download_time": "2025-07-25T19:25:26.723967",
+  "home_page": null,
+  "download_filename": "bdscore-0.0.1b5.tar.gz",
+  "download_time": "2025-07-25T19:42:07.019961",
   "package_url": "https://pypi.org/project/bdscore/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dropit",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "A Flask-based command line file sharing application.",
   "author": "Darshan P.",
   "license": null,
   "home_page": "https://github.com/1darshanpatil/dropit",
-  "download_filename": "dropit-0.1.9.tar.gz",
-  "download_time": "2025-07-25T19:25:31.357808",
+  "download_filename": "dropit-0.1.10.tar.gz",
+  "download_time": "2025-07-25T19:41:45.608356",
   "package_url": "https://pypi.org/project/dropit/"
 }

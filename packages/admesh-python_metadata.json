@@ -1,0 +1,11 @@
+{
+  "name": "admesh-python",
+  "version": "1.1.4",
+  "summary": "The official Python library for the admesh API",
+  "author": "Admesh",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "admesh_python-1.1.4.tar.gz",
+  "download_time": "2025-07-25T19:42:11.810037",
+  "package_url": "https://pypi.org/project/admesh-python/"
+}

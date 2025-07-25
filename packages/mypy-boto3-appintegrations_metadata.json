@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-appintegrations",
+  "version": "1.39.14",
+  "summary": "Type annotations for boto3 AppIntegrationsService 1.39.14 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "mypy_boto3_appintegrations-1.39.14.tar.gz",
+  "download_time": "2025-07-25T19:42:02.846884",
+  "package_url": "https://pypi.org/project/mypy-boto3-appintegrations/"
+}

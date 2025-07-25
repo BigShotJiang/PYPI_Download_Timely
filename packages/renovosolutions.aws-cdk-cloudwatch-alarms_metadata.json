@@ -1,0 +1,11 @@
+{
+  "name": "renovosolutions.aws-cdk-cloudwatch-alarms",
+  "version": "0.0.13",
+  "summary": "AWS CDK Construct Library to automatically create CloudWatch Alarms for resources in a CDK app based on resource type.",
+  "author": "Renovo Solutions<webmaster+cdk@renovo1.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RenovoSolutions/cdk-library-cloudwatch-alarms.git",
+  "download_filename": "renovosolutions_aws_cdk_cloudwatch_alarms-0.0.13.tar.gz",
+  "download_time": "2025-07-25T19:41:48.467423",
+  "package_url": "https://pypi.org/project/renovosolutions.aws-cdk-cloudwatch-alarms/"
+}

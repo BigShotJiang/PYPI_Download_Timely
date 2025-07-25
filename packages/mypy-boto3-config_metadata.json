@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-config",
+  "version": "1.39.14",
+  "summary": "Type annotations for boto3 ConfigService 1.39.14 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "mypy_boto3_config-1.39.14.tar.gz",
+  "download_time": "2025-07-25T19:42:01.684321",
+  "package_url": "https://pypi.org/project/mypy-boto3-config/"
+}

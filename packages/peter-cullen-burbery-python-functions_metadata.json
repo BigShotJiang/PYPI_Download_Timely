@@ -1,11 +1,11 @@
 {
   "name": "peter-cullen-burbery-python-functions",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Utility functions by Peter Cullen Burbery, including date_time_stamp and compare_images",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peter_cullen_burbery_python_functions-0.3.0.tar.gz",
-  "download_time": "2025-07-25T17:23:14.548298",
+  "download_filename": "peter_cullen_burbery_python_functions-0.3.1.tar.gz",
+  "download_time": "2025-07-25T19:42:08.348851",
   "package_url": "https://pypi.org/project/peter-cullen-burbery-python-functions/"
 }
