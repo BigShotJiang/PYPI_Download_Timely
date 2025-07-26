@@ -1,0 +1,11 @@
+{
+  "name": "johnsnowlabs",
+  "version": "6.0.4",
+  "summary": "The John Snow Labs Library gives you access to all of John Snow Labs Enterprise And Open Source products in an easy and simple manner. Access 10000+ state-of-the-art NLP and OCR models for Finance, Legal and Medical domains. Easily scalable to Spark Cluster ",
+  "author": "John Snow Labs",
+  "license": null,
+  "home_page": "https://www.johnsnowlabs.com/",
+  "download_filename": "johnsnowlabs-6.0.4.tar.gz",
+  "download_time": "2025-07-26T05:50:55.651664",
+  "package_url": "https://pypi.org/project/johnsnowlabs/"
+}

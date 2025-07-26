@@ -1,11 +1,11 @@
 {
   "name": "dxkstt",
-  "version": "0.1",
-  "summary": "this is speech to text package created by Kaushik",
+  "version": "0.1.4",
+  "summary": "This is a speech-to-text package created by Kaushik",
   "author": "kaushik",
   "license": null,
   "home_page": null,
-  "download_filename": "dxkstt-0.1.tar.gz",
-  "download_time": "2025-07-25T18:59:58.009274",
+  "download_filename": "dxkstt-0.1.4.tar.gz",
+  "download_time": "2025-07-26T05:50:37.508114",
   "package_url": "https://pypi.org/project/dxkstt/"
 }

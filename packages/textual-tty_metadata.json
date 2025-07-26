@@ -1,0 +1,11 @@
+{
+  "name": "textual-tty",
+  "version": "0.2.1",
+  "summary": "A tty for Textual UIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_tty-0.2.1.tar.gz",
+  "download_time": "2025-07-26T05:50:23.330836",
+  "package_url": "https://pypi.org/project/textual-tty/"
+}

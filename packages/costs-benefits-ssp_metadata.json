@@ -1,0 +1,11 @@
+{
+  "name": "costs-benefits-ssp",
+  "version": "0.1.19",
+  "summary": "Costs and Benefits package",
+  "author": "Hermilo Cortés",
+  "license": null,
+  "home_page": "https://github.com/milocortes/costs_benefits_ssp.git",
+  "download_filename": "costs_benefits_ssp-0.1.19.tar.gz",
+  "download_time": "2025-07-26T05:50:58.879125",
+  "package_url": "https://pypi.org/project/costs-benefits-ssp/"
+}

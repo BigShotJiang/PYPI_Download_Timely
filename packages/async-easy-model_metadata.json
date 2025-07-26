@@ -1,0 +1,11 @@
+{
+  "name": "async-easy-model",
+  "version": "0.4.2",
+  "summary": "A simplified SQLModel-based ORM for async database operations",
+  "author": "Pablo Schaffner",
+  "license": null,
+  "home_page": "https://github.com/puntorigen/easy-model",
+  "download_filename": "async_easy_model-0.4.2.tar.gz",
+  "download_time": "2025-07-26T05:50:35.092745",
+  "package_url": "https://pypi.org/project/async-easy-model/"
+}

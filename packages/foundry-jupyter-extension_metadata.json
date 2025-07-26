@@ -1,0 +1,11 @@
+{
+  "name": "foundry-jupyter-extension",
+  "version": "800.23.0",
+  "summary": "Fake internal tool for Foundry notebook extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "foundry_jupyter_extension-800.23.0.tar.gz",
+  "download_time": "2025-07-26T05:50:34.448629",
+  "package_url": "https://pypi.org/project/foundry-jupyter-extension/"
+}

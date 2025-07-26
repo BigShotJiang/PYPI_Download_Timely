@@ -1,11 +1,11 @@
 {
   "name": "mcp-templates",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "summary": "Deploy MCP server templates with zero configuration",
   "author": "Data Everything",
   "license": null,
   "home_page": "https://github.com/Data-Everything/mcp-server-templates",
-  "download_filename": "mcp_templates-1.0.2.tar.gz",
-  "download_time": "2025-07-25T09:56:17.773814",
+  "download_filename": "mcp_templates-1.0.7.tar.gz",
+  "download_time": "2025-07-26T05:50:56.284178",
   "package_url": "https://pypi.org/project/mcp-templates/"
 }

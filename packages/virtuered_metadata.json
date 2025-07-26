@@ -1,0 +1,11 @@
+{
+  "name": "virtuered",
+  "version": "2.1.0",
+  "summary": "CLI tool and Model Server for VirtueAI VirtueRed",
+  "author": "Virtue AI",
+  "license": "MIT",
+  "home_page": "https://github.com/Virtue-AI/VirtueRed-CLI.git",
+  "download_filename": "virtuered-2.1.0.tar.gz",
+  "download_time": "2025-07-26T05:50:32.018621",
+  "package_url": "https://pypi.org/project/virtuered/"
+}
