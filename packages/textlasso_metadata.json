@@ -1,11 +1,11 @@
 {
   "name": "textlasso",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Simple packego for grab data from raw text. ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "textlasso-0.1.0.tar.gz",
-  "download_time": "2025-07-26T05:31:20.028756",
+  "download_filename": "textlasso-0.1.2.tar.gz",
+  "download_time": "2025-07-26T14:45:24.415701",
   "package_url": "https://pypi.org/project/textlasso/"
 }

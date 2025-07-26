@@ -1,11 +1,11 @@
 {
   "name": "pyrest-framework",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Framework Python para criação de APIs REST - Estilo Express.js",
   "author": "Mamadu Sama",
   "license": "MIT",
   "home_page": "https://github.com/mamadusamadev/pyrest-framework",
-  "download_filename": "pyrest_framework-2.0.0.tar.gz",
-  "download_time": "2025-07-26T13:49:57.806184",
+  "download_filename": "pyrest_framework-2.0.1.tar.gz",
+  "download_time": "2025-07-26T14:45:33.678270",
   "package_url": "https://pypi.org/project/pyrest-framework/"
 }

@@ -1,19 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T14:22:15.243049
-- **Total Packages**: 74
-- **Total Size**: 13.52 MB
+- **Download Time**: 2025-07-26T14:46:04.242107
+- **Total Packages**: 79
+- **Total Size**: 8.2 MB
 
 ## Packages List
+- cell-annotator
+- pywheels
+- realmaths
+- ritm-annotation
+- agentlin
+- textlasso
+- plua
+- gyllm
+- prof-qux
+- hawadata
+- realtime-pipeline
+- mimicx
+- archguide-mcp-python
+- langchain-pangea
+- ddcDatabases
+- gshock-api
+- aias-common
+- awslabs.ec2-mcp-server
+- airsmodel
+- skypilot-nightly
+- pyrest-framework
+- ifstate
+- datapipe-core
+- pygfn0
+- py-docx-creator
+- minix
+- dreamai
+- m24842-ml
+- fastloop
+- openwakewordlistener
+- promptstream
+- pysiaalarmajax
 - portablesource
 - fown
 - stream33
 - intrabus
 - hello-pypi-jck
-- hawadata
 - ebird-api-data
-- pywheels
 - repo-scaffold
 - airbyte-source-cart
 - pralekh
@@ -23,14 +53,12 @@
 - airbyte-source-github
 - usdm4-fhir
 - query-farm-flight-server
-- openwakewordlistener
 - policyengine-uk
 - artl-mcp
 - meeseeql
 - pySmartHashtag
 - pydgc
 - postg-q
-- mimicx
 - garmin-workouts-mcp
 - pygfnff
 - tasepy
@@ -57,26 +85,3 @@
 - context-creator
 - rubpy
 - torchrecurrent
-- chemfit
-- zylib-test
-- pauron
-- minix
-- hg-evolve
-- usdm4
-- form-util
-- marge-mri
-- EzQt-App
-- graph-games-proto
-- fbgemm-gpu-nightly-cpu
-- sandyie-read
-- playa-pdf
-- jaganathanj
-- GauChkParser
-- pyrest-framework
-- Farhan-stt
-- q-materialise
-- jj-pre-push
-- autoad
-- usdm3
-- azpaddypy
-- wyrmx-core

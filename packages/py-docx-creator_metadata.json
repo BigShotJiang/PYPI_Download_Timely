@@ -1,11 +1,11 @@
 {
   "name": "py-docx-creator",
-  "version": "0.1.4.3",
+  "version": "0.1.4.4",
   "summary": "Пакет для работы с .docx файлами",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_docx_creator-0.1.4.3.tar.gz",
-  "download_time": "2025-07-26T11:41:16.168952",
+  "download_filename": "py_docx_creator-0.1.4.4.tar.gz",
+  "download_time": "2025-07-26T14:45:35.736386",
   "package_url": "https://pypi.org/project/py-docx-creator/"
 }

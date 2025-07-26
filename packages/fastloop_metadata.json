@@ -1,11 +1,11 @@
 {
   "name": "fastloop",
-  "version": "0.1.56",
+  "version": "0.1.57",
   "summary": "A Python package for deploying stateful loops",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastloop-0.1.56.tar.gz",
-  "download_time": "2025-07-25T16:30:58.315792",
+  "download_filename": "fastloop-0.1.57.tar.gz",
+  "download_time": "2025-07-26T14:45:37.792903",
   "package_url": "https://pypi.org/project/fastloop/"
 }
