@@ -1,11 +1,11 @@
 {
   "name": "Stackformer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Modular transformer blocks built in PyTorch",
   "author": "Gurumurthy",
   "license": "MIT",
   "home_page": "https://github.com/Gurumurthy30/Stackformer",
-  "download_filename": "stackformer-0.1.1.tar.gz",
-  "download_time": "2025-07-24T19:52:37.620330",
+  "download_filename": "stackformer-0.1.2.tar.gz",
+  "download_time": "2025-07-26T15:25:07.626287",
   "package_url": "https://pypi.org/project/Stackformer/"
 }

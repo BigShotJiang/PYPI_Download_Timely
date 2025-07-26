@@ -1,0 +1,11 @@
+{
+  "name": "frenet-system-creator",
+  "version": "0.3.0",
+  "summary": "Utilities for converting between Cartesian and Frenet frames",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frenet_system_creator-0.3.0.tar.gz",
+  "download_time": "2025-07-26T15:25:02.444861",
+  "package_url": "https://pypi.org/project/frenet-system-creator/"
+}

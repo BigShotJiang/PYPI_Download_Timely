@@ -1,0 +1,11 @@
+{
+  "name": "CalypSSO",
+  "version": "2.3.0",
+  "summary": "A small and static Next.js frontend for Hyperion",
+  "author": "AEECL ECLAIR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "calypsso-2.3.0.tar.gz",
+  "download_time": "2025-07-26T15:24:49.962836",
+  "package_url": "https://pypi.org/project/CalypSSO/"
+}

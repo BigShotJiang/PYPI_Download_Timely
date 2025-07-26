@@ -1,11 +1,11 @@
 {
   "name": "autodevops-cli",
-  "version": "7.0",
-  "summary": "AutoDevOps CLI: Automate Git push and simulate CI/CD",
+  "version": "8.0",
+  "summary": "AI-powered CLI tool for automating DevOps workflows like setup, Git, CI/CD, Docker, and documentation.",
   "author": "Kannan",
   "license": null,
-  "home_page": null,
-  "download_filename": "autodevops-cli-7.0.tar.gz",
-  "download_time": "2025-07-25T12:49:16.107360",
+  "home_page": "https://github.com/kannanb2745/Automated-DevOps",
+  "download_filename": "autodevops-cli-8.0.tar.gz",
+  "download_time": "2025-07-26T15:24:52.041206",
   "package_url": "https://pypi.org/project/autodevops-cli/"
 }

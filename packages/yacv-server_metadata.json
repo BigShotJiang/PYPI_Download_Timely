@@ -1,11 +1,11 @@
 {
   "name": "yacv-server",
-  "version": "0.9.7",
+  "version": "0.10.0",
   "summary": "Yet Another CAD Viewer (server)",
   "author": "Yeicor",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yacv_server-0.9.7.tar.gz",
-  "download_time": "2025-07-25T16:30:19.170114",
+  "download_filename": "yacv_server-0.10.0-py3-none-any.whl",
+  "download_time": "2025-07-26T15:24:48.339425",
   "package_url": "https://pypi.org/project/yacv-server/"
 }

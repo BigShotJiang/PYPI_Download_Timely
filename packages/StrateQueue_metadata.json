@@ -1,11 +1,11 @@
 {
   "name": "StrateQueue",
-  "version": "0.3.2.post0",
+  "version": "0.3.3",
   "summary": "The fastest way from backtest to live trading",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "stratequeue-0.3.2.post0.tar.gz",
-  "download_time": "2025-07-24T13:40:06.285369",
+  "download_filename": "stratequeue-0.3.3.tar.gz",
+  "download_time": "2025-07-26T15:25:14.457864",
   "package_url": "https://pypi.org/project/StrateQueue/"
 }

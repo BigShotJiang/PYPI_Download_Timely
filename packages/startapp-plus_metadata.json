@@ -1,11 +1,11 @@
 {
   "name": "startapp-plus",
-  "version": "2.5",
+  "version": "2.6",
   "summary": "Un générateur de structure d'app Django améliorée",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "startapp_plus-2.5.tar.gz",
-  "download_time": "2025-07-25T19:25:28.278138",
+  "download_filename": "startapp_plus-2.6.tar.gz",
+  "download_time": "2025-07-26T15:24:56.197798",
   "package_url": "https://pypi.org/project/startapp-plus/"
 }

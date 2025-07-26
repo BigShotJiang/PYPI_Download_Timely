@@ -1,0 +1,11 @@
+{
+  "name": "cbz",
+  "version": "3.4.2",
+  "summary": "CBZ simplifies creating, managing, and viewing comic book files in CBZ, CBR, and PDF formats, offering seamless packaging, metadata handling and built-in viewing capabilities.",
+  "author": "hyugogirubato",
+  "license": "MIT",
+  "home_page": "https://github.com/hyugogirubato/cbz",
+  "download_filename": "cbz-3.4.2.tar.gz",
+  "download_time": "2025-07-26T15:24:53.080305",
+  "package_url": "https://pypi.org/project/cbz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netcut",
+  "version": "1.0.0",
+  "summary": "Terminal-based network diagnostics and intelligence toolkit",
+  "author": "Shailesh Saravanan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netcut-1.0.0.tar.gz",
+  "download_time": "2025-07-26T15:25:01.925489",
+  "package_url": "https://pypi.org/project/netcut/"
+}

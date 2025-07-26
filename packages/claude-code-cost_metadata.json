@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-cost",
+  "version": "1.0.0",
+  "summary": "Claude Code Cost Calculator - Analyze token usage and costs from Claude Code history",
+  "author": "keakon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_code_cost-1.0.0.tar.gz",
+  "download_time": "2025-07-26T15:24:59.336176",
+  "package_url": "https://pypi.org/project/claude-code-cost/"
+}

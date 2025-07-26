@@ -1,11 +1,11 @@
 {
   "name": "sonnylabs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python client for the SonnyLabs AI Security Scanner - Test your AI applications for prompt injection vulnerabilities",
-  "author": "SonnyLabs",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/SonnyLabs/sonnylabs_py",
-  "download_filename": "sonnylabs-0.1.1.tar.gz",
-  "download_time": "2025-07-26T13:50:20.277792",
+  "home_page": null,
+  "download_filename": "sonnylabs-0.1.2.tar.gz",
+  "download_time": "2025-07-26T15:25:11.819608",
   "package_url": "https://pypi.org/project/sonnylabs/"
 }

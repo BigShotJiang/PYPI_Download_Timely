@@ -1,0 +1,11 @@
+{
+  "name": "django-swiftapi",
+  "version": "0.1.14",
+  "summary": "Easy to use django package for building APIs quicker than ever, built on top of django-ninja-extra",
+  "author": "Md Sohanur Khan Sagor",
+  "license": "MIT",
+  "home_page": "https://github.com/deepdiverguy/django_swiftapi",
+  "download_filename": "django_swiftapi-0.1.14.tar.gz",
+  "download_time": "2025-07-26T15:24:51.522133",
+  "package_url": "https://pypi.org/project/django-swiftapi/"
+}

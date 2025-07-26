@@ -1,11 +1,11 @@
 {
   "name": "fgo-api-types",
-  "version": "2025.7.26.10.38.44",
+  "version": "2025.7.26.15.8.36",
   "summary": "Provide Pydantic types from FGO API",
   "author": "squaresmile",
   "license": null,
   "home_page": null,
-  "download_filename": "fgo_api_types-2025.7.26.10.38.44.tar.gz",
-  "download_time": "2025-07-26T10:47:15.090887",
+  "download_filename": "fgo_api_types-2025.7.26.15.8.36.tar.gz",
+  "download_time": "2025-07-26T15:25:08.663003",
   "package_url": "https://pypi.org/project/fgo-api-types/"
 }
