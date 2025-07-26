@@ -1,0 +1,11 @@
+{
+  "name": "rtv-solver",
+  "version": "0.1.33",
+  "summary": "A solver for real-time vehicle routing problems",
+  "author": "Danushka Edirimanna",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rtv_solver-0.1.33.tar.gz",
+  "download_time": "2025-07-26T04:22:59.798451",
+  "package_url": "https://pypi.org/project/rtv-solver/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "helix-jupyter-thing",
+  "version": "0.1.1",
+  "summary": "A thing to help the Helix text editor connect to a Jupyter kernel.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "helix_jupyter_thing-0.1.1.tar.gz",
+  "download_time": "2025-07-26T04:22:36.703893",
+  "package_url": "https://pypi.org/project/helix-jupyter-thing/"
+}

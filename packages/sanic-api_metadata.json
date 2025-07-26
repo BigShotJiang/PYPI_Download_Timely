@@ -1,11 +1,11 @@
 {
   "name": "sanic-api",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Sanic 框架实用API工具集，拥有自动生成文档、参数校验、配置的导入、日志功能的优化等功能，更好的助力接口的开发",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sanic_api-0.5.0.tar.gz",
-  "download_time": "2025-07-25T10:28:05.809706",
+  "download_filename": "sanic_api-0.5.2.tar.gz",
+  "download_time": "2025-07-26T04:22:39.347693",
   "package_url": "https://pypi.org/project/sanic-api/"
 }

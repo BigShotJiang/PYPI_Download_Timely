@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-l10n-id-taxform-faktur-pajak-operating-unit",
+  "version": "14.0.1.0.0",
+  "summary": "Faktur Pajak + Operating Unit",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_l10n_id_taxform_faktur_pajak_operating_unit-14.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-07-26T04:22:57.713919",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-l10n-id-taxform-faktur-pajak-operating-unit/"
+}

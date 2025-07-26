@@ -1,0 +1,11 @@
+{
+  "name": "bintang",
+  "version": "0.1.43",
+  "summary": "A tiny and temporary db for quick data cleansing and transformation.",
+  "author": "Tomex Iskandar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bintang-0.1.43-py3-none-any.whl",
+  "download_time": "2025-07-26T04:22:47.730001",
+  "package_url": "https://pypi.org/project/bintang/"
+}

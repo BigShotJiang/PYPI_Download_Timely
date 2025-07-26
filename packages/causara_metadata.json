@@ -1,11 +1,11 @@
 {
   "name": "causara",
-  "version": "3.3.6",
+  "version": "3.3.7",
   "summary": "Causara is a Python package for optimizing ANY function by using surrogate models. More details at https://www.causara.com.",
   "author": "causara UG",
   "license": "Proprietary",
   "home_page": "https://www.causara.com",
-  "download_filename": "causara-3.3.6.tar.gz",
-  "download_time": "2025-07-26T03:37:31.286604",
+  "download_filename": "causara-3.3.7.tar.gz",
+  "download_time": "2025-07-26T04:22:51.910967",
   "package_url": "https://pypi.org/project/causara/"
 }

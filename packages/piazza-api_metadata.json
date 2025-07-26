@@ -1,0 +1,11 @@
+{
+  "name": "piazza-api",
+  "version": "0.15.0",
+  "summary": "Unofficial Client for Piazza's Internal API",
+  "author": "Hamza Faran",
+  "license": "MIT License",
+  "home_page": "http://github.com/hfaran/piazza-api/",
+  "download_filename": "piazza_api-0.15.0.tar.gz",
+  "download_time": "2025-07-26T04:22:52.952526",
+  "package_url": "https://pypi.org/project/piazza-api/"
+}
