@@ -1,11 +1,11 @@
 {
   "name": "triz-ai-patent-assistant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI + TRIZ system for patent formula generation and analysis",
-  "author": "Voronin Sergei",
+  "author": "Sergei Voronin",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "triz_ai_patent_assistant-0.1.0.tar.gz",
-  "download_time": "2025-07-26T06:33:22.853351",
+  "home_page": "https://github.com/voroninsergei/triz-ai-patent-assistant",
+  "download_filename": "triz_ai_patent_assistant-0.1.1.tar.gz",
+  "download_time": "2025-07-26T06:59:49.316130",
   "package_url": "https://pypi.org/project/triz-ai-patent-assistant/"
 }

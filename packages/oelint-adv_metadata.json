@@ -1,0 +1,11 @@
+{
+  "name": "oelint-adv",
+  "version": "8.2.0",
+  "summary": "Advanced bitbake-recipe linter",
+  "author": "Konrad Weihmann",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/priv-kweihmann/oelint-adv",
+  "download_filename": "oelint_adv-8.2.0.tar.gz",
+  "download_time": "2025-07-26T07:00:14.479008",
+  "package_url": "https://pypi.org/project/oelint-adv/"
+}

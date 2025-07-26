@@ -1,0 +1,11 @@
+{
+  "name": "Geode-Simplex",
+  "version": "9.5.7",
+  "summary": "Simplex remeshing Geode-solutions OpenGeode module",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "geode_simplex-9.5.7-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-26T07:00:00.942538",
+  "package_url": "https://pypi.org/project/Geode-Simplex/"
+}

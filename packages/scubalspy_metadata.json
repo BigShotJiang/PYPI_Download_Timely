@@ -1,0 +1,11 @@
+{
+  "name": "scubalspy",
+  "version": "0.0.20",
+  "summary": "A language-agnostic LSP client in Python, with a library interface. Intended to be used to build applications around language servers. Currently scubalspy supports language servers for Python, Rust, Java, Go, JavaScript, Ruby, C# and Dart. Originally appeared as part of Monitor-Guided Decoding (https://github.com/microsoft/monitors4codegen)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scubalspy-0.0.20.tar.gz",
+  "download_time": "2025-07-26T07:00:04.804529",
+  "package_url": "https://pypi.org/project/scubalspy/"
+}
