@@ -1,11 +1,11 @@
 {
   "name": "bfs-mro",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "BFS-enhanced method lookup for Python classes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bfs_mro-0.1.1.tar.gz",
-  "download_time": "2025-07-26T04:23:03.429009",
+  "download_filename": "bfs_mro-0.1.2.tar.gz",
+  "download_time": "2025-07-26T13:50:26.058560",
   "package_url": "https://pypi.org/project/bfs-mro/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hg-evolve",
+  "version": "11.1.9",
+  "summary": "Flexible evolution of Mercurial history.",
+  "author": "Pierre-Yves David",
+  "license": "GPLv2+",
+  "home_page": "https://www.mercurial-scm.org/doc/evolution/",
+  "download_filename": "hg_evolve-11.1.9.tar.gz",
+  "download_time": "2025-07-26T13:49:48.585723",
+  "package_url": "https://pypi.org/project/hg-evolve/"
+}

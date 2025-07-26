@@ -1,0 +1,11 @@
+{
+  "name": "smartfaker",
+  "version": "2.16.1",
+  "summary": "A powerful Python library for generating fake addresses, supporting bots, MTProto API frameworks, and scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartfaker-2.16.1.tar.gz",
+  "download_time": "2025-07-26T13:50:05.350430",
+  "package_url": "https://pypi.org/project/smartfaker/"
+}

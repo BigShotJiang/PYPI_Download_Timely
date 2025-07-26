@@ -1,11 +1,11 @@
 {
   "name": "meatpy",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Read and process limit order book data",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "meatpy-0.2.6.tar.gz",
-  "download_time": "2025-07-24T20:24:43.847828",
+  "download_filename": "meatpy-0.2.7.tar.gz",
+  "download_time": "2025-07-26T13:50:17.979533",
   "package_url": "https://pypi.org/project/meatpy/"
 }

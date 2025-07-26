@@ -1,11 +1,11 @@
 {
   "name": "sandyie-read",
-  "version": "0.4.4",
-  "summary": "A lightweight Python package to read various data formats including csv, excel, images, pdf, and more.",
+  "version": "0.4.7",
+  "summary": "A lightweight Python library to read various data formats including PDF, images, YAML, and more.",
   "author": "Sanju (Sandyie)",
   "license": "MIT",
   "home_page": "https://github.com/SanjayDK3669/sandyie_read",
-  "download_filename": "sandyie_read-0.4.4.tar.gz",
-  "download_time": "2025-07-26T10:47:13.479181",
+  "download_filename": "sandyie_read-0.4.7.tar.gz",
+  "download_time": "2025-07-26T13:49:54.861028",
   "package_url": "https://pypi.org/project/sandyie-read/"
 }

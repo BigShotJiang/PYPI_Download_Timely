@@ -1,0 +1,11 @@
+{
+  "name": "wyrmx-core",
+  "version": "0.1.12",
+  "summary": "Wyrmx Core is the framework engine for Wyrmx, offering DI, decorators, routing, and architecture patterns on top of FastAPI.",
+  "author": "Yousri Aouledissa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wyrmx_core-0.1.12.tar.gz",
+  "download_time": "2025-07-26T13:50:03.030230",
+  "package_url": "https://pypi.org/project/wyrmx-core/"
+}

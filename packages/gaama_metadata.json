@@ -1,0 +1,11 @@
+{
+  "name": "gaama",
+  "version": "0.7.2",
+  "summary": "GitHub-as-Artifactory for Model Artifacts",
+  "author": "Omkar Prabhu",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/prabhuomkar/bitbeast",
+  "download_filename": "gaama-0.7.2.tar.gz",
+  "download_time": "2025-07-26T13:50:19.700514",
+  "package_url": "https://pypi.org/project/gaama/"
+}

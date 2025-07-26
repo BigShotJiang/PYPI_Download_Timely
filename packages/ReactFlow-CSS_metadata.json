@@ -1,0 +1,11 @@
+{
+  "name": "ReactFlow-CSS",
+  "version": "2.0.0",
+  "summary": "A comprehensive Python package for seamless integration of CSS frameworks (Tailwind CSS, Bootstrap) with ReactPy applications and HTML projects",
+  "author": "Elang Muhammad",
+  "license": null,
+  "home_page": "https://github.com/Elang-elang/ReactFlow-CSS.git",
+  "download_filename": "reactflow_css-2.0.0.tar.gz",
+  "download_time": "2025-07-26T13:50:06.595143",
+  "package_url": "https://pypi.org/project/ReactFlow-CSS/"
+}

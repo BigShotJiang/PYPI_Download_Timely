@@ -1,0 +1,11 @@
+{
+  "name": "pauron",
+  "version": "0.1.2",
+  "summary": "AUR Automation Bot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pauron-0.1.2.tar.gz",
+  "download_time": "2025-07-26T13:49:46.839480",
+  "package_url": "https://pypi.org/project/pauron/"
+}

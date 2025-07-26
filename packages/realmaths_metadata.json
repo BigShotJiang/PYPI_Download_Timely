@@ -1,0 +1,11 @@
+{
+  "name": "realmaths",
+  "version": "1.0.1",
+  "summary": "Natural mathematical expressions for non-programmers",
+  "author": "Conor Reid",
+  "license": null,
+  "home_page": "https://github.com/conorzen/realmaths",
+  "download_filename": "realmaths-1.0.1.tar.gz",
+  "download_time": "2025-07-26T13:50:06.003134",
+  "package_url": "https://pypi.org/project/realmaths/"
+}
