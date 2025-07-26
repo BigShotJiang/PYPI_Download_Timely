@@ -1,0 +1,11 @@
+{
+  "name": "qpymenu",
+  "version": "0.6.0",
+  "summary": "A terminal-based ANSI-formatted menu system with nested menus, threading, logging, and user prompts.",
+  "author": "David J. Cartwright",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qpymenu-0.6.0.tar.gz",
+  "download_time": "2025-07-26T22:57:19.638159",
+  "package_url": "https://pypi.org/project/qpymenu/"
+}
