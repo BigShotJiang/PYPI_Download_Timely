@@ -1,0 +1,11 @@
+{
+  "name": "gen10",
+  "version": "1.4.3",
+  "summary": "Package for genetics and genomics related functions, mainly for educational purposes.",
+  "author": "Joan Alcaide-Núñez",
+  "license": null,
+  "home_page": "https://github.com/joanalnu/gen10",
+  "download_filename": "gen10-1.4.3.tar.gz",
+  "download_time": "2025-07-26T11:41:18.645741",
+  "package_url": "https://pypi.org/project/gen10/"
+}

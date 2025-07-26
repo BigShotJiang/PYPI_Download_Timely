@@ -1,0 +1,11 @@
+{
+  "name": "prezmanifest",
+  "version": "1.0.14",
+  "summary": "A Python package that provides a series of functions to work with Prez Manifests.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prezmanifest-1.0.14.tar.gz",
+  "download_time": "2025-07-26T11:41:17.480693",
+  "package_url": "https://pypi.org/project/prezmanifest/"
+}

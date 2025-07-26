@@ -1,0 +1,11 @@
+{
+  "name": "metorial-google",
+  "version": "1.0.0",
+  "summary": "Google (Gemini) provider for Metorial",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metorial_google-1.0.0.tar.gz",
+  "download_time": "2025-07-26T11:41:36.253387",
+  "package_url": "https://pypi.org/project/metorial-google/"
+}

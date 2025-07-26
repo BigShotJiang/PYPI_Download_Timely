@@ -1,11 +1,11 @@
 {
   "name": "captchafox",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "PyPI package based on camoufox with native captcha passing functions and the ability to switch to selenium_driverless (for the browser GUI) for development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "captchafox-0.6.0.tar.gz",
-  "download_time": "2025-07-24T07:53:58.423088",
+  "download_filename": "captchafox-0.7.0.tar.gz",
+  "download_time": "2025-07-26T11:41:28.577181",
   "package_url": "https://pypi.org/project/captchafox/"
 }

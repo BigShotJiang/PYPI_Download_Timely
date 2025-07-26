@@ -1,0 +1,11 @@
+{
+  "name": "awan",
+  "version": "9.5.5",
+  "summary": "Kemas Backend untuk mengkonversi aplikasi Python menjadi executable (.exe) dengan antarmuka GUI yang mudah digunakan",
+  "author": "Dwi Bakti N Dev",
+  "license": null,
+  "home_page": "https://github.com/royhtml",
+  "download_filename": "awan-9.5.5.tar.gz",
+  "download_time": "2025-07-26T11:41:27.375875",
+  "package_url": "https://pypi.org/project/awan/"
+}

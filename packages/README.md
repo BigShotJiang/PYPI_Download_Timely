@@ -1,41 +1,75 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T11:20:29.673819
-- **Total Packages**: 79
-- **Total Size**: 17.25 MB
+- **Download Time**: 2025-07-26T11:42:00.401547
+- **Total Packages**: 75
+- **Total Size**: 34.93 MB
 
 ## Packages List
+- FSRS-Optimizer
+- ecbrates
+- mimicx
+- py-docx-creator
+- OpenWakeWordListener
+- prezmanifest
+- mcpstore
+- gen10
+- evermind
+- netfend-waf-client
+- ramifice
+- thoth-vdbmanager
+- metorial-anthropic
+- easycoder
+- code-graph-mcp
+- pyverto
+- policyengine-uk
+- metorial-togetherai
+- torchx-nightly
+- metorial-xai
+- awan
+- openshift-python-wrapper
+- captchafox
+- jaganathanj
+- metorial-openai-compatible
+- oscn
+- torchft-nightly
+- pydantic_core
+- zrb
+- ingrain
+- metorial-mistral
+- ttsim-backend
+- pypformat
+- metorial-deepseek
+- docsray
+- metorial-google
+- claude-code-adk-validator
+- cite-extractor
+- mangoapi
+- agb-star-deprojection-methods
+- bittty
 - configcrunch
 - unity-scene-repacker
 - datacsv
 - Ecode-cmd
 - hats-import
 - authkeyman
-- py-docx-creator
 - lsdb
 - InstaSpy
 - notion-cli-ai
-- mimicx
-- mangoapi
 - PySVBench
 - records2
 - tcod
-- jaganathanj
 - cloud-map-py
 - async-typer
 - fastapi-di-chain
-- thoth-vdbmanager
 - wintree
 - KeyisBClient
-- pyverto
 - pygfnff
 - hats
 - raito
 - flynt
 - minix
 - meal-generator
-- code-graph-mcp
 - odfdo
 - strawberry-graphql-django
 - cromp
@@ -46,42 +80,4 @@
 - eunomia-ai
 - textalloc
 - konduktor-nightly
-- bittty
 - mlfcrafter
-- trainy-policy-nightly
-- pyrest-framework
-- blaubergvento-client
-- pygit2
-- letta-nightly
-- fast-bitrix24
-- agentsystems-sdk
-- paymob-sdk
-- layeutils
-- sandyie-read
-- django-forbid
-- django-admin-keyshortcuts
-- fgo-api-types
-- fairo
-- dism
-- q-materialise
-- roksta
-- ohlcutils
-- odoo14-addon-apps-product-creator
-- zbWidgetLib
-- heaven-bml
-- helloworld-goofy
-- fastpsl
-- rs-calculator
-- SFDL-DB
-- chameli
-- trepan3k
-- giga-spatial
-- tradingapi
-- sse-starlette
-- passagemath-rankwidth
-- passagemath-plot
-- passagemath-planarity
-- passagemath-objects
-- passagemath-modules
-- passagemath-homfly
-- passagemath-graphs

@@ -1,0 +1,11 @@
+{
+  "name": "evermind",
+  "version": "0.1.0",
+  "summary": "为智能体打造的“神级记忆装备”，一个可实现永久存活与自我进化的认知核心。",
+  "author": "AlbertCui",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/pforge-ai/evermind",
+  "download_filename": "evermind-0.1.0.tar.gz",
+  "download_time": "2025-07-26T11:41:19.226848",
+  "package_url": "https://pypi.org/project/evermind/"
+}
