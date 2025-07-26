@@ -1,11 +1,11 @@
 {
   "name": "pydgc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "PyDGC: A Deep Graph Clustering Benchmark",
   "author": "Benyu Wu",
   "license": null,
   "home_page": "https://github.com/Marigoldwu/PyDGC",
-  "download_filename": "pydgc-1.0.0.tar.gz",
-  "download_time": "2025-07-26T14:21:46.755867",
+  "download_filename": "pydgc-1.0.1.tar.gz",
+  "download_time": "2025-07-26T16:34:01.486216",
   "package_url": "https://pypi.org/project/pydgc/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "psiutils",
-  "version": "0.1.64",
+  "version": "0.1.65",
   "summary": "Various TKinter utilities.",
   "author": "Jeff",
   "license": null,
   "home_page": null,
-  "download_filename": "psiutils-0.1.64.tar.gz",
-  "download_time": "2025-07-25T16:55:04.907817",
+  "download_filename": "psiutils-0.1.65.tar.gz",
+  "download_time": "2025-07-26T16:34:26.115045",
   "package_url": "https://pypi.org/project/psiutils/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pycersi",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "summary": "PyCersi is a lightweight Python library for number-related utilities. It offers mathematical functions, checkers, and stack operations, simplifying common tasks. Easy to install via pip , it's designed for efficient integration into various Python projects.",
   "author": "Subhra Chakraborti",
   "license": "MIT",
   "home_page": "https://github.com/subhrachakraborti/PyCersi",
-  "download_filename": "pycersi-6.0.0.tar.gz",
-  "download_time": "2025-07-26T15:58:41.502820",
+  "download_filename": "pycersi-6.1.0.tar.gz",
+  "download_time": "2025-07-26T16:34:17.182333",
   "package_url": "https://pypi.org/project/pycersi/"
 }

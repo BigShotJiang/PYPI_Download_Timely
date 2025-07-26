@@ -1,0 +1,11 @@
+{
+  "name": "divine-typed-requests",
+  "version": "0.1.32",
+  "summary": "A type-safe HTTP client library with validation and detailed error reporting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "divine_typed_requests-0.1.32.tar.gz",
+  "download_time": "2025-07-26T16:34:06.684599",
+  "package_url": "https://pypi.org/project/divine-typed-requests/"
+}

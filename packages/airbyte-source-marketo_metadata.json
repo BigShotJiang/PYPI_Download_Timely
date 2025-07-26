@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-marketo",
+  "version": "1.4.29",
+  "summary": "Source implementation for Marketo.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_marketo-1.4.29.tar.gz",
+  "download_time": "2025-07-26T16:34:20.305391",
+  "package_url": "https://pypi.org/project/airbyte-source-marketo/"
+}

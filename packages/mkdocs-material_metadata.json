@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-material",
-  "version": "9.6.15",
+  "version": "9.6.16",
   "summary": "Documentation that simply works",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkdocs_material-9.6.15.tar.gz",
-  "download_time": "2025-07-26T15:58:43.860572",
+  "download_filename": "mkdocs_material-9.6.16.tar.gz",
+  "download_time": "2025-07-26T16:34:32.924355",
   "package_url": "https://pypi.org/project/mkdocs-material/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "interpals-api",
+  "version": "2.3.0",
+  "summary": "Unofficial Python API for Interpals.net.",
+  "author": "Alexander Khlebushchev",
+  "license": "MIT",
+  "home_page": "https://github.com/fomalhaut88/interpals-api",
+  "download_filename": "interpals_api-2.3.0.tar.gz",
+  "download_time": "2025-07-26T16:34:15.618795",
+  "package_url": "https://pypi.org/project/interpals-api/"
+}

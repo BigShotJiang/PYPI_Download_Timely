@@ -1,0 +1,11 @@
+{
+  "name": "pygeodesy",
+  "version": "25.7.25",
+  "summary": "Pure Python geodesy tools",
+  "author": "Jean M. Brouwers",
+  "license": "MIT",
+  "home_page": "https://GitHub.com/mrJean1/PyGeodesy",
+  "download_filename": "pygeodesy-25.7.25.tar.gz",
+  "download_time": "2025-07-26T16:34:21.938584",
+  "package_url": "https://pypi.org/project/pygeodesy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SpeechCore",
+  "version": "1.1.0",
+  "summary": "Python wrapper for the SpeechCore library (pybind11)",
+  "author": "still-standing88",
+  "license": "MIT",
+  "home_page": "https://github.com/still-standing88/speech-core/",
+  "download_filename": "speechcore-1.1.0-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-07-26T16:34:20.826118",
+  "package_url": "https://pypi.org/project/SpeechCore/"
+}
