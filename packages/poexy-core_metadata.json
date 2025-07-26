@@ -1,0 +1,11 @@
+{
+  "name": "poexy-core",
+  "version": "2025.7.3",
+  "summary": "Unified Python packaging backend for wheels, sdist, and executables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "poexy_core-2025.7.3.tar.gz",
+  "download_time": "2025-07-26T09:54:41.394742",
+  "package_url": "https://pypi.org/project/poexy-core/"
+}

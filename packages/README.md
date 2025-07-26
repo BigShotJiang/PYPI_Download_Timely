@@ -1,26 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T09:43:55.212998
-- **Total Packages**: 68
-- **Total Size**: 24.17 MB
+- **Download Time**: 2025-07-26T09:55:16.480739
+- **Total Packages**: 67
+- **Total Size**: 2.91 MB
 
 ## Packages List
+- seqmat
+- langchain-g4f-chat
+- rs-calculator
+- poexy-core
+- pytest-lobster
+- jaganathanj
+- aspyx-service
+- StatsPAI
+- aiows
+- must-cdk
+- spclone
+- trackersremoverqbt
+- aweson
+- wintree
+- captivate-ai-api
+- q-materialise
 - hertydlc
 - blueno
 - daytona_sdk
 - daytona
 - thoth-vdbmanager
 - time-agnostic-library
-- seqmat
 - repo-scaffold
 - llm-analysis-assistant
 - khard
-- spclone
 - hybrid-groups
 - daytona_api_client_async
 - daytona_api_client
-- langchain-g4f-chat
 - cluefin-openapi
 - layeutils
 - sandyie-read
@@ -29,7 +42,6 @@
 - reline
 - mcp-jira-confluence
 - morebuiltins
-- jaganathanj
 - vectorvein
 - energy_assistant
 - ipa-scanner
@@ -44,7 +56,6 @@
 - naga-helper
 - sproclib
 - agi-med-common
-- must-cdk
 - devDocs
 - parserclass
 - easycoder
@@ -62,15 +73,3 @@
 - django-secux
 - anna_agent
 - mathplootIib
-- pulumi-eks
-- spei
-- energy-assistant-frontend
-- AstrBot
-- seu-3d
-- autofmt
-- lsiwh37249_discordbot
-- btreeny
-- claude-code-adk-validator
-- auto-video-generator-mcp
-- mpmathbyyhu
-- spatialcell

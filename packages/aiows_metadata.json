@@ -1,11 +1,11 @@
 {
   "name": "aiows",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Modern WebSocket framework inspired by aiogram",
   "author": "aiows contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiows-0.0.3.tar.gz",
-  "download_time": "2025-07-25T20:46:54.081444",
+  "download_filename": "aiows-0.0.5.tar.gz",
+  "download_time": "2025-07-26T09:54:44.096572",
   "package_url": "https://pypi.org/project/aiows/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wintree",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A lightweight Python library and CLI tool for displaying visually structured directory trees with optional emoji and exclusion filters.",
   "author": "harumiWeb",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wintree-0.1.5.tar.gz",
-  "download_time": "2025-07-26T04:22:50.853397",
+  "download_filename": "wintree-0.1.6.tar.gz",
+  "download_time": "2025-07-26T09:54:46.729065",
   "package_url": "https://pypi.org/project/wintree/"
 }
