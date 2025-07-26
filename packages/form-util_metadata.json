@@ -1,11 +1,11 @@
 {
   "name": "form-util",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "Une app Django avec un formulaire de bienvenue simple",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "form_util-0.5.6.tar.gz",
-  "download_time": "2025-07-26T13:49:49.751979",
+  "download_filename": "form_util-0.5.7.tar.gz",
+  "download_time": "2025-07-26T14:57:23.697963",
   "package_url": "https://pypi.org/project/form-util/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ssf-coco",
+  "version": "0.2.3",
+  "summary": "Spreadsheet Number Format processor - a Python port of SheetJS/ssf.js",
+  "author": "Joe Cool",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/coco37629/ssf-coco",
+  "download_filename": "ssf_coco-0.2.3-py2.py3-none-any.whl",
+  "download_time": "2025-07-26T14:57:22.659847",
+  "package_url": "https://pypi.org/project/ssf-coco/"
+}

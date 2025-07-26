@@ -1,0 +1,11 @@
+{
+  "name": "ease-metric",
+  "version": "0.1.0",
+  "summary": "A metric to evaluate empathy in dialogue systems",
+  "author": "Srishti Gupta",
+  "license": null,
+  "home_page": "https://github.com/srishtigupta253/EASE",
+  "download_filename": "ease_metric-0.1.0.tar.gz",
+  "download_time": "2025-07-26T14:57:21.613567",
+  "package_url": "https://pypi.org/project/ease-metric/"
+}
