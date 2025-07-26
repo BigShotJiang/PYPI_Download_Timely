@@ -1,62 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T16:34:40.058835
-- **Total Packages**: 79
-- **Total Size**: 41.58 MB
+- **Download Time**: 2025-07-26T16:58:42.408107
+- **Total Packages**: 82
+- **Total Size**: 0.03 MB
 
 ## Packages List
-- mapflow
-- voxstream
-- cites-model
-- ecom-label-sorter
-- mirrulations
-- coiled
-- pydgc
-- usdm4-fhir
-- nbs-srednji-kurs
-- charmcli
-- python-markdown-document-offsets-injection-extension
-- microimpute
-- pyLodStorage
-- calsched
-- autostartx
-- chemfit
-- divine-typed-requests
-- cryoswath
-- autodla
-- usdm4
 - pyadverse
-- txt2ebook
-- fastapi-rest-utils
-- xsget
-- py-docx-creator
-- heatmap_cli
-- uvy
-- chora
-- youtrack-cli
-- fotolab
-- martor
-- openfisca-nouvelle-caledonie
-- pysnaptest
-- interpals-api
-- airbyte-source-google-ads
-- graphistry
-- pycersi
-- mimicx
-- fgo-api-types
-- airbyte-source-iterable
-- aws-bedrock-a2a-proxy
-- wyrmx-core
-- airbyte-source-marketo
-- SpeechCore
-- playa-pdf
-- pygeodesy
-- divine-type-enforcer
 - rx-data
+- martor
 - nord-config-generator
 - dorky-app
 - autorpt
+- mimicx
 - address-converter
 - aplustools
 - psiutils
@@ -69,6 +25,7 @@
 - parllama
 - portablesource
 - vsixget
+- pycersi
 - coldpack
 - dncer
 - mkdocs-material
@@ -84,4 +41,50 @@
 - spryx-http
 - kintera
 - aaxyumath
+- usdm4
 - bleak-py
+- snipd_export_parser
+- ilc-models
+- just-config-mixin
+- seleniumlibraries
+- pyverto
+- vinagent
+- usdm3
+- GanAI
+- libertai-utils
+- datapipe-core
+- votify
+- raito
+- subtitle-tool
+- fancy-tree
+- cgs-cli
+- aceiot-models-cli
+- neuronum
+- ring-flash-attn
+- pygdtf
+- sportsball
+- banc
+- odoo-addon-account-fiscal-position-partner-type
+- dhisana
+- xorq
+- pytest-nb
+- pyqcircuit
+- xync-schema
+- yacv-server
+- grim-reaper
+- torchvista
+- lmstrix
+- promptstream
+- divine-async-runner
+- nano-agent
+- gunicorn-prometheus-exporter
+- pyLodStorage
+- streamlit-json-tip
+- torchrl-nightly
+- CalypSSO
+- inference-gateway
+- frostbound
+- django-swiftapi
+- autodevops-cli
+- qsimbench
+- cbz
