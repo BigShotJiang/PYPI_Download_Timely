@@ -1,0 +1,11 @@
+{
+  "name": "tinyarray",
+  "version": "1.2.5",
+  "summary": "Arrays of numbers for Python, optimized for small sizes",
+  "author": "Christoph Groth (CEA) and others",
+  "license": "Simplified BSD license",
+  "home_page": "https://gitlab.kwant-project.org/kwant/tinyarray",
+  "download_filename": "tinyarray-1.2.5.tar.gz",
+  "download_time": "2025-07-26T12:44:46.259450",
+  "package_url": "https://pypi.org/project/tinyarray/"
+}

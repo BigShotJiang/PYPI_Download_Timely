@@ -1,0 +1,11 @@
+{
+  "name": "NextVibeTestnet",
+  "version": "0.3",
+  "summary": "A library for work with testnet wallets bitcoin, solana and tron",
+  "author": "Hard",
+  "license": null,
+  "home_page": "https://github.com/hardusss/TestnetWallets.git",
+  "download_filename": "nextvibetestnet-0.3.tar.gz",
+  "download_time": "2025-07-26T12:44:12.686862",
+  "package_url": "https://pypi.org/project/NextVibeTestnet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "relation",
+  "version": "1.0.3",
+  "summary": "a python module for making relationships between classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "relation-1.0.3.tar.gz",
+  "download_time": "2025-07-26T12:44:09.174254",
+  "package_url": "https://pypi.org/project/relation/"
+}

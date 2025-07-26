@@ -1,11 +1,11 @@
 {
   "name": "metorial-mistral",
-  "version": "1.0.0rc1",
+  "version": "1.0.0rc2",
   "summary": "Mistral AI provider for Metorial",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial_mistral-1.0.0rc1.tar.gz",
-  "download_time": "2025-07-26T11:52:43.661515",
+  "download_filename": "metorial_mistral-1.0.0rc2.tar.gz",
+  "download_time": "2025-07-26T12:44:26.377845",
   "package_url": "https://pypi.org/project/metorial-mistral/"
 }

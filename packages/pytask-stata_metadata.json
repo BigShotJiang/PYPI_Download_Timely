@@ -1,0 +1,11 @@
+{
+  "name": "pytask-stata",
+  "version": "0.5.0",
+  "summary": "Execute do-files with Stata and pytask.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytask_stata-0.5.0.tar.gz",
+  "download_time": "2025-07-26T12:44:22.987532",
+  "package_url": "https://pypi.org/project/pytask-stata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "IS-Score",
+  "version": "1.0",
+  "summary": "Python package for computing the IS-Score for baseline correction evaluation in Raman spectroscopy.",
+  "author": "Simone Innocente",
+  "license": null,
+  "home_page": null,
+  "download_filename": "IS_Score-1.0.tar.gz",
+  "download_time": "2025-07-26T12:44:44.009216",
+  "package_url": "https://pypi.org/project/IS-Score/"
+}

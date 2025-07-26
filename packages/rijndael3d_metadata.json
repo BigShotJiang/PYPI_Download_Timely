@@ -1,0 +1,11 @@
+{
+  "name": "rijndael3d",
+  "version": "1.0.2",
+  "summary": "An enhanced version of Rijndael encryption",
+  "author": "Jebbex",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rijndael3d-1.0.2.tar.gz",
+  "download_time": "2025-07-26T12:44:20.720533",
+  "package_url": "https://pypi.org/project/rijndael3d/"
+}

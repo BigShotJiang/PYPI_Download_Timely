@@ -1,0 +1,11 @@
+{
+  "name": "ner-agent",
+  "version": "0.1.1",
+  "summary": "A simple NER agent",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/allen2c/ner-agent",
+  "download_filename": "ner_agent-0.1.1.tar.gz",
+  "download_time": "2025-07-26T12:44:42.289673",
+  "package_url": "https://pypi.org/project/ner-agent/"
+}

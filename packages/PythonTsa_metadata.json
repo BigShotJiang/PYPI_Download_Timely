@@ -1,11 +1,11 @@
 {
   "name": "PythonTsa",
-  "version": "1.4.9",
+  "version": "1.5.0",
   "summary": "Package for Applied Time Series Analysis and Forecasting with Python, Springer 2022",
   "author": "Changquan Huang",
   "license": null,
-  "home_page": null,
-  "download_filename": "pythontsa-1.4.9.tar.gz",
-  "download_time": "2025-07-26T09:43:32.152648",
+  "home_page": "https://github.com/QuantLet/pyTSA",
+  "download_filename": "pythontsa-1.5.0.tar.gz",
+  "download_time": "2025-07-26T12:44:35.987746",
   "package_url": "https://pypi.org/project/PythonTsa/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "metorial-mcp-session",
-  "version": "1.0.0rc1",
+  "version": "1.0.0rc3",
   "summary": "MCP session management for Metorial",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial_mcp_session-1.0.0rc1.tar.gz",
-  "download_time": "2025-07-26T11:52:45.789947",
+  "download_filename": "metorial_mcp_session-1.0.0rc3.tar.gz",
+  "download_time": "2025-07-26T12:44:30.330554",
   "package_url": "https://pypi.org/project/metorial-mcp-session/"
 }

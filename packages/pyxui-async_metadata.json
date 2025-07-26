@@ -1,0 +1,11 @@
+{
+  "name": "pyxui-async",
+  "version": "1.0.3",
+  "summary": "An application with python that allows you to modify your xui panel",
+  "author": "Staliox, ARLIKIN",
+  "license": "MIT",
+  "home_page": "https://github.com/ARLIKIN/pyxui_async",
+  "download_filename": "pyxui_async-1.0.3.tar.gz",
+  "download_time": "2025-07-26T12:44:36.558823",
+  "package_url": "https://pypi.org/project/pyxui-async/"
+}

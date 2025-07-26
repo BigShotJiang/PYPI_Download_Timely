@@ -1,0 +1,11 @@
+{
+  "name": "pyCANape",
+  "version": "0.8.1",
+  "summary": "Pythonic wrapper around the VECTOR CANape API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycanape-0.8.1.tar.gz",
+  "download_time": "2025-07-26T12:44:34.282088",
+  "package_url": "https://pypi.org/project/pyCANape/"
+}

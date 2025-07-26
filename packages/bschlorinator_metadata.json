@@ -1,11 +1,11 @@
 {
   "name": "bschlorinator",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Package to send and recieve data from bs pools chlorinator unit and controlling ralays(On, off, programm time).",
   "author": "Vaclav Silhan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bschlorinator-0.4.1.tar.gz",
-  "download_time": "2025-07-25T14:49:35.842502",
+  "download_filename": "bschlorinator-0.4.2.tar.gz",
+  "download_time": "2025-07-26T12:44:38.865240",
   "package_url": "https://pypi.org/project/bschlorinator/"
 }

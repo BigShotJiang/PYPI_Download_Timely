@@ -1,0 +1,11 @@
+{
+  "name": "python-epo-ops-client",
+  "version": "4.2.0",
+  "summary": "Python client for EPO OPS, the European Patent Office's Open Patent Services API.",
+  "author": "George Song",
+  "license": null,
+  "home_page": "https://github.com/ip-tools/python-epo-ops-client",
+  "download_filename": "python_epo_ops_client-4.2.0.tar.gz",
+  "download_time": "2025-07-26T12:44:47.398531",
+  "package_url": "https://pypi.org/project/python-epo-ops-client/"
+}
