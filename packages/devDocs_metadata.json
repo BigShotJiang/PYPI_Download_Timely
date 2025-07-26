@@ -1,11 +1,11 @@
 {
   "name": "devDocs",
-  "version": "1.0.1",
-  "summary": "A CLI tool to auto-generate professional README.md files using Google Gemini API.",
+  "version": "1.0.3",
+  "summary": "AI-powered CLI tool that builds professional '*.md' documentation files of a project for internal teams using the Google Gemini API.",
   "author": "Gantavya Bansal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "devdocs-1.0.1.tar.gz",
-  "download_time": "2025-07-26T09:43:38.528438",
+  "download_filename": "devdocs-1.0.3.tar.gz",
+  "download_time": "2025-07-26T11:52:48.622629",
   "package_url": "https://pypi.org/project/devDocs/"
 }

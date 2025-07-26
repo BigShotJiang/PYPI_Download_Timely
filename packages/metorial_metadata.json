@@ -1,11 +1,11 @@
 {
   "name": "metorial",
-  "version": "1.0.1",
+  "version": "1.0.0rc1",
   "summary": "Python SDK for Metorial - AI-powered tool calling and session management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial-1.0.1.tar.gz",
-  "download_time": "2025-07-25T09:56:09.906434",
+  "download_filename": "metorial-1.0.0rc1.tar.gz",
+  "download_time": "2025-07-26T11:52:44.193046",
   "package_url": "https://pypi.org/project/metorial/"
 }

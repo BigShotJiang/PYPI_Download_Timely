@@ -1,11 +1,11 @@
 {
   "name": "metorial-core",
-  "version": "1.0.0",
+  "version": "1.0.0rc1",
   "summary": "Core SDK components for Metorial",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial_core-1.0.0.tar.gz",
-  "download_time": "2025-07-25T09:56:34.401965",
+  "download_filename": "metorial_core-1.0.0rc1.tar.gz",
+  "download_time": "2025-07-26T11:52:42.067939",
   "package_url": "https://pypi.org/project/metorial-core/"
 }

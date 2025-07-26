@@ -1,16 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T11:42:00.401547
-- **Total Packages**: 75
-- **Total Size**: 34.93 MB
+- **Download Time**: 2025-07-26T11:53:15.839725
+- **Total Packages**: 72
+- **Total Size**: 10.72 MB
 
 ## Packages List
+- quantanium
+- autonomy
+- psycho
+- vaultide
+- huff
+- agb-star-deprojection-methods
+- mimicx
+- jaganathanj
+- metorial-openai-compatible
+- metorial-openai
+- metorial-togetherai
+- metorial-core
+- metorial-google
+- metorial-generated
+- metorial-mistral
+- metorial
+- metorial-xai
+- metorial-anthropic
+- metorial-mcp-session
+- metorial-util-endpoint
+- metorial-deepseek
+- leohs
+- code-graph-mcp
+- devDocs
 - FSRS-Optimizer
 - ecbrates
-- mimicx
 - py-docx-creator
-- OpenWakeWordListener
 - prezmanifest
 - mcpstore
 - gen10
@@ -18,34 +40,24 @@
 - netfend-waf-client
 - ramifice
 - thoth-vdbmanager
-- metorial-anthropic
 - easycoder
-- code-graph-mcp
 - pyverto
 - policyengine-uk
-- metorial-togetherai
 - torchx-nightly
-- metorial-xai
 - awan
 - openshift-python-wrapper
 - captchafox
-- jaganathanj
-- metorial-openai-compatible
 - oscn
 - torchft-nightly
 - pydantic_core
 - zrb
 - ingrain
-- metorial-mistral
 - ttsim-backend
 - pypformat
-- metorial-deepseek
 - docsray
-- metorial-google
 - claude-code-adk-validator
 - cite-extractor
 - mangoapi
-- agb-star-deprojection-methods
 - bittty
 - configcrunch
 - unity-scene-repacker
@@ -66,18 +78,3 @@
 - KeyisBClient
 - pygfnff
 - hats
-- raito
-- flynt
-- minix
-- meal-generator
-- odfdo
-- strawberry-graphql-django
-- cromp
-- eunomia-sdk
-- eunomia-mcp
-- eunomia-langchain
-- eunomia-core
-- eunomia-ai
-- textalloc
-- konduktor-nightly
-- mlfcrafter
