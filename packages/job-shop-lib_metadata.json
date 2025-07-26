@@ -1,0 +1,11 @@
+{
+  "name": "job-shop-lib",
+  "version": "1.5.0",
+  "summary": "An easy-to-use and modular Python library for the Job Shop Scheduling Problem (JSSP)",
+  "author": "Pabloo22",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "job_shop_lib-1.5.0.tar.gz",
+  "download_time": "2025-07-26T19:52:40.504973",
+  "package_url": "https://pypi.org/project/job-shop-lib/"
+}

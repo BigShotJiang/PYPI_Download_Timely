@@ -1,11 +1,11 @@
 {
   "name": "opencodespace",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Launch disposable VS Code development environments with AI tooling support",
   "author": "Devadutta Ghat",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/opencodespace",
-  "download_filename": "opencodespace-0.3.1.tar.gz",
-  "download_time": "2025-07-26T19:22:27.377349",
+  "download_filename": "opencodespace-0.3.3.tar.gz",
+  "download_time": "2025-07-26T19:52:41.530670",
   "package_url": "https://pypi.org/project/opencodespace/"
 }

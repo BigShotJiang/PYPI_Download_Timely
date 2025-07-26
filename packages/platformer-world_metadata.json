@@ -1,11 +1,11 @@
 {
   "name": "platformer-world",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "2D Platformer build in pygame",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "platformer_world-0.0.1.tar.gz",
-  "download_time": "2025-07-26T19:40:13.138338",
+  "download_filename": "platformer_world-0.0.3.tar.gz",
+  "download_time": "2025-07-26T19:52:46.742542",
   "package_url": "https://pypi.org/project/platformer-world/"
 }
