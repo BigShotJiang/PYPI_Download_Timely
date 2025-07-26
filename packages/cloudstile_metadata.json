@@ -1,11 +1,11 @@
 {
   "name": "cloudstile",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Unofficial Cloudflare Turnstile library for Python with async and sync support.",
   "author": "NotAussie",
   "license": "MIT",
   "home_page": "https://github.com/notaussie/cloudstile",
-  "download_filename": "cloudstile-2.0.0.tar.gz",
-  "download_time": "2025-07-26T07:43:36.416929",
+  "download_filename": "cloudstile-2.0.1.tar.gz",
+  "download_time": "2025-07-26T07:55:35.372132",
   "package_url": "https://pypi.org/project/cloudstile/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "haiku.rag",
+  "version": "0.4.2",
+  "summary": "Retrieval Augmented Generation (RAG) with SQLite",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haiku_rag-0.4.2.tar.gz",
+  "download_time": "2025-07-26T07:55:34.097630",
+  "package_url": "https://pypi.org/project/haiku.rag/"
+}

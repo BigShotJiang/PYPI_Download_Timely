@@ -1,0 +1,11 @@
+{
+  "name": "marge-mri",
+  "version": "0.0.1a0",
+  "summary": "MaRCoS Graphical Environment (MaRGE)",
+  "author": "José Miguel Algarín",
+  "license": null,
+  "home_page": null,
+  "download_filename": "marge_mri-0.0.1a0.tar.gz",
+  "download_time": "2025-07-26T07:55:30.907780",
+  "package_url": "https://pypi.org/project/marge-mri/"
+}

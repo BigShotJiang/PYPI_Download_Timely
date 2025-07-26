@@ -1,11 +1,11 @@
 {
   "name": "mr-millionaire",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A console-based AI quiz game inspired by Who Wants to Be a Millionaire.",
-  "author": "Your Name",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/Mr-Mechatronics/mr-millionaire",
-  "download_filename": "mr_millionaire-0.1.0.tar.gz",
-  "download_time": "2025-07-25T10:52:20.579188",
+  "home_page": null,
+  "download_filename": "mr_millionaire-0.1.1.tar.gz",
+  "download_time": "2025-07-26T07:55:32.188070",
   "package_url": "https://pypi.org/project/mr-millionaire/"
 }
