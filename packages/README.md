@@ -1,19 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T19:23:06.539649
+- **Download Time**: 2025-07-26T19:40:50.108856
 - **Total Packages**: 79
-- **Total Size**: 15.24 MB
+- **Total Size**: 7.78 MB
 
 ## Packages List
+- avocavo-nutrition
+- django-restit
+- pygofastproxy
+- PraisonAI
+- cloud-autopkg-runner
+- unitypredict
+- unitypredict-engines
+- pypxcryptokit
+- julia-browser
+- platformer-world
+- praisonaiagents
+- israel-rail-api
+- mcp-git-training-wheels
+- sphinx-code-examples
+- robotframework-ride
+- fastrdp
+- sopsy
+- autostartx
+- reltc
+- JHOperfectmind
+- q-materialise
+- toomanysessions
+- bthome-ble
+- lazy-commit
 - omniopt2
 - scikit-robot
 - noexcept
-- julia-browser
 - otf-api
 - llmjammer
 - opencodespace
-- mcp-git-training-wheels
 - charli3_dendrite
 - jubtools
 - xml-analysis-framework
@@ -23,7 +45,6 @@
 - helperLTE
 - paymob-sdk
 - voxstream
-- toomanysessions
 - listpick
 - codeallybasic
 - scrall
@@ -41,7 +62,6 @@
 - upstream-sdk
 - roicat
 - cleanit
-- reltc
 - torchvista
 - cocode
 - lorann
@@ -65,23 +85,3 @@
 - test-awslabs.ec2-mcp-server
 - vfmc
 - vfmc-core
-- gshock-api
-- uvy
-- autorpt
-- pplx-cli
-- dataprocesslite
-- celery-simple-schedule
-- appodus-utils
-- OpenEXR
-- nao-bridge-client
-- unitsnet-py
-- pypomes-s3
-- framedisplay
-- localtalk
-- pybmc
-- subtitle-tool
-- core-mixins
-- league-tools
-- airbyte-source-facebook-marketing
-- not1mm
-- bytoken

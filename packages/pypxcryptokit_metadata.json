@@ -1,11 +1,11 @@
 {
   "name": "pypxcryptokit",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "Python cryptographic library implementing Double Ratchet and X3DH protocols",
   "author": "UNSHD-X7",
   "license": null,
   "home_page": "https://github.com/UNSHD-X7/PROJECT-PX1",
-  "download_filename": "pypxcryptokit-1.2.0.tar.gz",
-  "download_time": "2025-07-26T18:02:58.571703",
+  "download_filename": "pypxcryptokit-1.4.0.tar.gz",
+  "download_time": "2025-07-26T19:40:12.079395",
   "package_url": "https://pypi.org/project/pypxcryptokit/"
 }

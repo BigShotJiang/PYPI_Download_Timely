@@ -1,11 +1,11 @@
 {
   "name": "reltc",
-  "version": "1.1.0",
-  "summary": "Linux TC command-genearator",
+  "version": "1.1.1",
+  "summary": "Linux TC command-generator",
   "author": "Ariel Tubul",
   "license": null,
   "home_page": "https://github.com/mon231/reltc/",
-  "download_filename": "reltc-1.1.0.tar.gz",
-  "download_time": "2025-07-26T19:22:43.403702",
+  "download_filename": "reltc-1.1.1.tar.gz",
+  "download_time": "2025-07-26T19:40:18.341365",
   "package_url": "https://pypi.org/project/reltc/"
 }
