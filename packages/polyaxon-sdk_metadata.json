@@ -1,0 +1,11 @@
+{
+  "name": "polyaxon-sdk",
+  "version": "2.8.1",
+  "summary": "Polyaxon SDKs and REST API specification.",
+  "author": "Polyaxon sdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polyaxon-sdk-2.8.1.tar.gz",
+  "download_time": "2025-07-26T18:03:07.325434",
+  "package_url": "https://pypi.org/project/polyaxon-sdk/"
+}

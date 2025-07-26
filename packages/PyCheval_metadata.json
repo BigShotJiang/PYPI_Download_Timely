@@ -1,0 +1,11 @@
+{
+  "name": "PyCheval",
+  "version": "0.2.0",
+  "summary": "Factur-X/ZUGFeRD parsing and generation library for Python",
+  "author": "Sebastian Rittau",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pycheval-0.2.0.tar.gz",
+  "download_time": "2025-07-26T18:03:21.345056",
+  "package_url": "https://pypi.org/project/PyCheval/"
+}
