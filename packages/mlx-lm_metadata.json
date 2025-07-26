@@ -1,0 +1,11 @@
+{
+  "name": "mlx-lm",
+  "version": "0.26.1",
+  "summary": "LLMs with MLX and the Hugging Face Hub",
+  "author": "MLX Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/ml-explore/mlx-lm",
+  "download_filename": "mlx_lm-0.26.1.tar.gz",
+  "download_time": "2025-07-26T04:58:22.468140",
+  "package_url": "https://pypi.org/project/mlx-lm/"
+}

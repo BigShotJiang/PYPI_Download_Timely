@@ -1,11 +1,11 @@
 {
   "name": "og-nav",
-  "version": "0.1.3.dev0",
+  "version": "0.1.1.dev0",
   "summary": "A modular navigation system for robot navigation in OmniGibson environments.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "og_nav-0.1.3.dev0.tar.gz",
-  "download_time": "2025-07-26T04:22:38.289841",
+  "download_filename": "og_nav-0.1.1.dev0.tar.gz",
+  "download_time": "2025-07-26T04:58:19.347066",
   "package_url": "https://pypi.org/project/og-nav/"
 }

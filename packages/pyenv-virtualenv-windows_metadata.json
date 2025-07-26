@@ -1,0 +1,11 @@
+{
+  "name": "pyenv-virtualenv-windows",
+  "version": "1.2.4",
+  "summary": "A 'pyenv' plugin to manage Python virtual environments, depending on different Python versions, for various Python projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyenv_virtualenv_windows-1.2.4.tar.gz",
+  "download_time": "2025-07-26T04:58:30.789552",
+  "package_url": "https://pypi.org/project/pyenv-virtualenv-windows/"
+}

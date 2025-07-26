@@ -1,0 +1,11 @@
+{
+  "name": "tranci",
+  "version": "1.2.0",
+  "summary": "Tranci: a no-dependencies, lightweight, easy-to-use ANSI library",
+  "author": "Butterroach",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/Butterroach/tranci",
+  "download_filename": "tranci-1.2.0.tar.gz",
+  "download_time": "2025-07-26T04:58:23.508993",
+  "package_url": "https://pypi.org/project/tranci/"
+}

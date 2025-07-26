@@ -1,0 +1,11 @@
+{
+  "name": "arglink",
+  "version": "1.0.3",
+  "summary": "Linking an argument parser and a callable.",
+  "author": "Jiyuan Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arglink-1.0.3.tar.gz",
+  "download_time": "2025-07-26T04:58:30.270647",
+  "package_url": "https://pypi.org/project/arglink/"
+}

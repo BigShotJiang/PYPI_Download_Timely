@@ -1,0 +1,11 @@
+{
+  "name": "fpe-plus",
+  "version": "0.1.0",
+  "summary": "Format Preserving Encryption with support for dates, numbers, floats, and strings with any character",
+  "author": "Vasudev Jaiswal",
+  "license": null,
+  "home_page": "https://github.com/vasudevjaiswal/fpe_plus",
+  "download_filename": "fpe_plus-0.1.0.tar.gz",
+  "download_time": "2025-07-26T04:58:14.043389",
+  "package_url": "https://pypi.org/project/fpe-plus/"
+}

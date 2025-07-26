@@ -1,0 +1,11 @@
+{
+  "name": "sembr",
+  "version": "0.2.0",
+  "summary": "A semantic linebreaker powered by transformers",
+  "author": "admk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sembr-0.2.0.tar.gz",
+  "download_time": "2025-07-26T04:58:15.118100",
+  "package_url": "https://pypi.org/project/sembr/"
+}

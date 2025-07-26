@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-steam-info",
+  "version": "1.3.5",
+  "summary": "Steam 好友状态播报 NoneBot 插件",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_steam_info-1.3.5.tar.gz",
+  "download_time": "2025-07-26T04:58:18.279423",
+  "package_url": "https://pypi.org/project/nonebot-plugin-steam-info/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "spensireli.advanced-cdk-constructs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "advanced-cdk-constructs",
   "author": "spensireli<5614310+spensireli@users.noreply.github.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/spensireli/advanced-cdk-constructs.git",
-  "download_filename": "spensireli_advanced_cdk_constructs-0.0.2.tar.gz",
-  "download_time": "2025-07-26T03:37:51.104559",
+  "download_filename": "spensireli_advanced_cdk_constructs-0.0.3.tar.gz",
+  "download_time": "2025-07-26T04:58:27.141056",
   "package_url": "https://pypi.org/project/spensireli.advanced-cdk-constructs/"
 }

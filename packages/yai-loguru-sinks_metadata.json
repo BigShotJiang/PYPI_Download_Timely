@@ -1,0 +1,11 @@
+{
+  "name": "yai-loguru-sinks",
+  "version": "0.5.0",
+  "summary": "企业级 Loguru Sink 工厂，基于 loguru-config 的简洁架构，专注于阿里云 SLS 支持",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yai_loguru_sinks-0.5.0.tar.gz",
+  "download_time": "2025-07-26T04:58:25.587290",
+  "package_url": "https://pypi.org/project/yai-loguru-sinks/"
+}
