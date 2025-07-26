@@ -1,0 +1,11 @@
+{
+  "name": "churchsong",
+  "version": "0.10.2",
+  "summary": "Download the event agenda from ChurchTool and instantiate a PowerPoint slide template with the names and portraits of service staff as well as song database verification.",
+  "author": "Stefan Bellon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "churchsong-0.10.2.tar.gz",
+  "download_time": "2025-07-26T08:51:45.952429",
+  "package_url": "https://pypi.org/project/churchsong/"
+}

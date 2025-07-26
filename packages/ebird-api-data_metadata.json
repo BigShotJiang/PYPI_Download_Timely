@@ -1,11 +1,11 @@
 {
   "name": "ebird-api-data",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "eBird API Data is a reusable Django app for loading data from eBird into a database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ebird_api_data-0.3.4.tar.gz",
-  "download_time": "2025-07-25T13:42:27.899943",
+  "download_filename": "ebird_api_data-0.3.5.tar.gz",
+  "download_time": "2025-07-26T08:51:32.847066",
   "package_url": "https://pypi.org/project/ebird-api-data/"
 }

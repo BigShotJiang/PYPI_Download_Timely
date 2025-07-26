@@ -1,11 +1,11 @@
 {
   "name": "CellSegmentationEvaluator",
-  "version": "1.5.18",
+  "version": "1.5.19",
   "summary": "Functions for reference-free evaluation of the quality of cell segmentations",
   "author": "Haoran Chen and Ce Zhang and Robert F. Murphy",
   "license": "MIT",
   "home_page": "https://github.com/murphylab/CellSegmentationEvaluator/",
-  "download_filename": "CellSegmentationEvaluator-1.5.18.tar.gz",
-  "download_time": "2025-07-25T08:31:55.805424",
+  "download_filename": "CellSegmentationEvaluator-1.5.19.tar.gz",
+  "download_time": "2025-07-26T08:51:40.692397",
   "package_url": "https://pypi.org/project/CellSegmentationEvaluator/"
 }

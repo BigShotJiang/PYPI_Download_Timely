@@ -1,14 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T08:29:41.173126
-- **Total Packages**: 71
-- **Total Size**: 27.1 MB
+- **Download Time**: 2025-07-26T08:52:10.456401
+- **Total Packages**: 79
+- **Total Size**: 11.46 MB
 
 ## Packages List
+- auto-video-generator-mcp
+- mymathbyyhu
+- thoth-vdbmanager
 - mpmathbyyhu
-- html2css
+- spatialcell
+- test-amirpython
+- aiida-workgraph
+- mxupy
+- ebird-api-data
+- lightning-utilities
+- seqmat
+- q-materialise
+- tfp-nightly
+- rofimoji
 - lib-mail
+- itrx
+- cobra-lenguaje
+- airos
+- energysystemmodels
+- auto-vtna
+- pymcpevals
+- enfig
+- btreeny
+- CellSegmentationEvaluator
+- speedbuild
+- bittty
+- kuzu
+- nvfuser-cu126
+- nvfuser-cu128
+- coldpack
+- sandyie-read
+- yai-loguru-sinks
+- vexipy
+- churchsong
+- agent-knowledge-mcp
+- html2css
 - wdoc
 - dynamicforms
 - math-genie-calc
@@ -40,7 +73,6 @@
 - naga-helper
 - gallery-dl
 - synthizer3d
-- auto-video-generator-mcp
 - mite-extras
 - arctic-new
 - mr-millionaire
@@ -53,27 +85,3 @@
 - pulumi-gcp
 - python-sdk-remote
 - flight-display
-- csust-word-mcp-server
-- fgo-api-types
-- feldera
-- llmvision
-- openbb-platform-api
-- embygram
-- pycrucible
-- graphfaker
-- nonebot-plugin-bilichat
-- pyTelegramBotAPI
-- seguid
-- thoth-vdbmanager
-- py-sarvcrm-api
-- ultra-paas-sidecar
-- bed-solution-api
-- agent-enforcer
-- cooltool-library
-- sf-label-skew
-- rival-ai
-- oelint-data
-- classmods
-- garin54-strands-hello
-- relais
-- pulumi-oci

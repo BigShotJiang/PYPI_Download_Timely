@@ -1,0 +1,11 @@
+{
+  "name": "rofimoji",
+  "version": "6.6.0",
+  "summary": "Simple character picker using rofi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rofimoji-6.6.0.tar.gz",
+  "download_time": "2025-07-26T08:51:35.497560",
+  "package_url": "https://pypi.org/project/rofimoji/"
+}

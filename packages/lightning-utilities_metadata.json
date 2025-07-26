@@ -1,0 +1,11 @@
+{
+  "name": "lightning-utilities",
+  "version": "0.15.0",
+  "summary": "Lightning toolbox for across the our ecosystem.",
+  "author": "Lightning AI et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Lightning-AI/utilities",
+  "download_filename": "lightning_utilities-0.15.0.tar.gz",
+  "download_time": "2025-07-26T08:51:33.359141",
+  "package_url": "https://pypi.org/project/lightning-utilities/"
+}
