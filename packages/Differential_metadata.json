@@ -1,0 +1,11 @@
+{
+  "name": "Differential",
+  "version": "0.6.7",
+  "summary": "A Python script for easy uploading torrents to various PT sites.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "differential-0.6.7.tar.gz",
+  "download_time": "2025-07-26T13:21:18.171937",
+  "package_url": "https://pypi.org/project/Differential/"
+}

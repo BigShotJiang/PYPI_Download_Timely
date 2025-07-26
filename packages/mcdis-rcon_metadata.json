@@ -1,11 +1,11 @@
 {
   "name": "mcdis-rcon",
-  "version": "0.4.24a0",
+  "version": "0.4.29a0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcdis_rcon-0.4.24a0.tar.gz",
-  "download_time": "2025-07-26T12:44:14.401534",
+  "download_filename": "mcdis_rcon-0.4.29a0.tar.gz",
+  "download_time": "2025-07-26T13:21:13.635088",
   "package_url": "https://pypi.org/project/mcdis-rcon/"
 }

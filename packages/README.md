@@ -1,24 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T12:44:51.353560
-- **Total Packages**: 73
-- **Total Size**: 10.39 MB
+- **Download Time**: 2025-07-26T13:21:53.991909
+- **Total Packages**: 72
+- **Total Size**: 7.39 MB
 
 ## Packages List
+- python-plus-tools
+- corelogger-ai
+- tensorcircuit-nightly
+- autoad
+- mcdis-rcon
+- mimicx
+- antsibull-nox
+- snipd_export_parser
+- dj-polyglot
+- q-materialise
+- Differential
+- svpg
+- sportsball
+- ollmcp
+- mcp-client-for-ollama
+- m-mock
+- airfoileditor
+- postgres-mcp-pro-plus
 - relation
+- metorial
+- metorial-mcp-session
+- metorial-anthropic
+- ed2k
+- whool
+- embygram
+- NextVibeTestnet
+- marge-mri
 - casambi-bt-revamped
 - pr-properties
 - discid
 - portwine
-- m-mock
-- NextVibeTestnet
 - browser-use
 - tensorcircuit-ng
-- mcdis-rcon
 - hyper-sdk
-- python-plus-tools
-- mimicx
 - jaganathanj
 - ui-mcp-server
 - fluidkit
@@ -28,7 +49,6 @@
 - ecbrates
 - rijndael3d
 - openwakewordlistener
-- q-materialise
 - ebird-api-data
 - pytask-stata
 - pybibx
@@ -43,13 +63,9 @@
 - metorial-deepseek
 - metorial-core
 - metorial-togetherai
-- metorial-mcp-session
 - metorial-google
-- metorial-anthropic
 - metorial-util-endpoint
-- metorial
 - repo-mapper-rs
-- marge-mri
 - pyCANape
 - portablesource
 - context-creator
@@ -62,20 +78,3 @@
 - SAMBA-ilum
 - llm-contracts
 - localsets
-- sqlite-database
-- ner-agent
-- descartcan
-- RockyRoad
-- IS-Score
-- contourpy
-- pyTermTk
-- usso
-- tinyarray
-- skorkart
-- python-epo-ops-client
-- quantanium
-- autonomy
-- psycho
-- vaultide
-- huff
-- agb-star-deprojection-methods
