@@ -1,11 +1,11 @@
 {
   "name": "mirrulations",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A utility tool for accessing data from the Mirrulations dataset.",
   "author": "Jay Qi, Ben Coleman",
   "license": null,
   "home_page": null,
-  "download_filename": "mirrulations-0.1.1.tar.gz",
-  "download_time": "2025-07-26T16:34:00.384097",
+  "download_filename": "mirrulations-0.1.2.tar.gz",
+  "download_time": "2025-07-26T17:26:21.872409",
   "package_url": "https://pypi.org/project/mirrulations/"
 }

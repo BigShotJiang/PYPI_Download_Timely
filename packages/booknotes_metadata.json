@@ -1,0 +1,11 @@
+{
+  "name": "booknotes",
+  "version": "0.3.5",
+  "summary": "A terminal-based book note-taking app with tags and search",
+  "author": "Eren Öğrül",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "booknotes-0.3.5.tar.gz",
+  "download_time": "2025-07-26T17:26:28.046895",
+  "package_url": "https://pypi.org/project/booknotes/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kvbiii-plots",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A collection of plotting functions for data visualization in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kvbiii_plots-0.1.0.tar.gz",
-  "download_time": "2025-07-26T13:50:07.751792",
+  "download_filename": "kvbiii_plots-0.2.0.tar.gz",
+  "download_time": "2025-07-26T17:26:26.506689",
   "package_url": "https://pypi.org/project/kvbiii-plots/"
 }

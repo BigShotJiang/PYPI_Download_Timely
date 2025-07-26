@@ -1,0 +1,11 @@
+{
+  "name": "openvino2onnx",
+  "version": "1.1.0",
+  "summary": "An Open Neural Network Exchange (ONNX) Optimization and Transformation Tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openvino2onnx-1.1.0.tar.gz",
+  "download_time": "2025-07-26T17:26:22.384487",
+  "package_url": "https://pypi.org/project/openvino2onnx/"
+}

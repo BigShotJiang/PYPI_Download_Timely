@@ -1,0 +1,11 @@
+{
+  "name": "pdfbyte",
+  "version": "0.1.1",
+  "summary": "A simple package for working with PDFs",
+  "author": "Ramesh Chandra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdfbyte-0.1.1.tar.gz",
+  "download_time": "2025-07-26T17:26:11.077656",
+  "package_url": "https://pypi.org/project/pdfbyte/"
+}

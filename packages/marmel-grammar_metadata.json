@@ -1,11 +1,11 @@
 {
   "name": "marmel-grammar",
-  "version": "0.1.8",
-  "summary": "Самая мощная библиотека русской морфологии и транслитерации для Python",
+  "version": "0.1.9",
+  "summary": "Библиотека русской морфологии и транслитерации для Python",
   "author": "Dev-Marmel",
   "license": null,
-  "home_page": "https://github.com/dev-marmel/marmel-grammar",
-  "download_filename": "marmel_grammar-0.1.8.tar.gz",
-  "download_time": "2025-07-25T16:30:37.085923",
+  "home_page": "https://t.me/dev_marmel",
+  "download_filename": "marmel_grammar-0.1.9.tar.gz",
+  "download_time": "2025-07-26T17:26:23.410887",
   "package_url": "https://pypi.org/project/marmel-grammar/"
 }

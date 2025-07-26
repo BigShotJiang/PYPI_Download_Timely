@@ -1,0 +1,11 @@
+{
+  "name": "date-aware-logger",
+  "version": "1.1.0",
+  "summary": "A customized rotational logger with monthly archiving and compression",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "date_aware_logger-1.1.0.tar.gz",
+  "download_time": "2025-07-26T17:26:23.922296",
+  "package_url": "https://pypi.org/project/date-aware-logger/"
+}

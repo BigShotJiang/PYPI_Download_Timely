@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-cdk-errors",
+  "version": "1.2.36",
+  "summary": "@gammarers/aws-cdk-errors",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-cdk-errors.git",
+  "download_filename": "gammarers_aws_cdk_errors-1.2.36.tar.gz",
+  "download_time": "2025-07-26T17:26:27.019156",
+  "package_url": "https://pypi.org/project/gammarers.aws-cdk-errors/"
+}
