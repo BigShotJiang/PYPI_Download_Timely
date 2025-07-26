@@ -1,11 +1,11 @@
 {
   "name": "claude-mpm",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "summary": "Claude Multi-agent Project Manager - Clean orchestration with ticket management",
   "author": "Claude MPM Team",
   "license": "MIT",
   "home_page": "https://github.com/bobmatnyc/claude-mpm",
-  "download_filename": "claude_mpm-0.3.0.tar.gz",
-  "download_time": "2025-07-26T04:58:22.991865",
+  "download_filename": "claude_mpm-1.0.0.tar.gz",
+  "download_time": "2025-07-26T05:31:18.982122",
   "package_url": "https://pypi.org/project/claude-mpm/"
 }

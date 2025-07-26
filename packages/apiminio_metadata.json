@@ -1,11 +1,11 @@
 {
   "name": "apiminio",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "apiminio is a Python package that provides a ready-to-use REST API for interacting with MinIO S3 storage, built with FastAPI and the MinIO Python client. It enables seamless file uploads, downloads, and bucket management via HTTP interface ideal for integrating MinIO S3 into your applications with minimal setup.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apiminio-0.1.2.tar.gz",
-  "download_time": "2025-07-26T03:37:44.809225",
+  "download_filename": "apiminio-0.2.0.tar.gz",
+  "download_time": "2025-07-26T05:31:06.937348",
   "package_url": "https://pypi.org/project/apiminio/"
 }

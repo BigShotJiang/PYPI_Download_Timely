@@ -1,0 +1,11 @@
+{
+  "name": "ddbmodel",
+  "version": "0.1.4",
+  "summary": "A DynamoDB modeling library",
+  "author": "Joel Baumert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ddbmodel-0.1.4.tar.gz",
+  "download_time": "2025-07-26T05:31:13.748554",
+  "package_url": "https://pypi.org/project/ddbmodel/"
+}

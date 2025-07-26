@@ -1,0 +1,11 @@
+{
+  "name": "secfsdstools",
+  "version": "2.4.1",
+  "summary": "A few python tools to analyze the SEC.gov financial statements data sets (https://www.sec.gov/dera/data/financial-statement-data-sets)",
+  "author": "Hansjoerg",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "secfsdstools-2.4.1.tar.gz",
+  "download_time": "2025-07-26T05:31:14.268756",
+  "package_url": "https://pypi.org/project/secfsdstools/"
+}

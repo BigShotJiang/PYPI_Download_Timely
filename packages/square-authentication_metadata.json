@@ -1,0 +1,11 @@
+{
+  "name": "square-authentication",
+  "version": "8.0.2",
+  "summary": "authentication layer for my personal server.",
+  "author": "thePmSquare",
+  "license": null,
+  "home_page": "https://github.com/thepmsquare/square_authentication",
+  "download_filename": "square_authentication-8.0.2.tar.gz",
+  "download_time": "2025-07-26T05:31:17.427901",
+  "package_url": "https://pypi.org/project/square-authentication/"
+}

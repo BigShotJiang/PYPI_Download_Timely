@@ -1,0 +1,11 @@
+{
+  "name": "pystitch",
+  "version": "1.0.0",
+  "summary": "Embroidery IO library",
+  "author": "Tatarize",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pystitch-1.0.0.tar.gz",
+  "download_time": "2025-07-26T05:31:15.316368",
+  "package_url": "https://pypi.org/project/pystitch/"
+}

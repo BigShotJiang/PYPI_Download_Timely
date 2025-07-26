@@ -1,0 +1,11 @@
+{
+  "name": "mdllama",
+  "version": "4.1.1",
+  "summary": "A command-line interface for Ollama API",
+  "author": "QinCai-rui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdllama-4.1.1.tar.gz",
+  "download_time": "2025-07-26T05:31:03.254607",
+  "package_url": "https://pypi.org/project/mdllama/"
+}
