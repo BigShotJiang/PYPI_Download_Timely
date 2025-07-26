@@ -1,0 +1,11 @@
+{
+  "name": "qtealeaves",
+  "version": "1.5.21",
+  "summary": "Quantum TEA's python tensor network library",
+  "author": "Flavio Baccari, Davide Bacilieri, Marco Ballarin, Francesco Pio Barone, Francesco Campaioli, Alberto Giuseppe Catalano, Giovanni Cataldi, Alberto Coppi, Aurora Costantini, Asmita Datta, Andrea De Girolamo, Daniel Jaschke, Sven Benjamin Kožić, Giuseppe Magnifico, Carmelo Mordini, Simone Notarnicola, Alice Pagano, Luka Pavesic, Davide Rattacaso, Marco Rigobello, Nora Reinić, Simone Scarlatella, Ilaria Siloi, Darvin Wanisch, Marco Tesoro, Gianpaolo Torre",
+  "license": null,
+  "home_page": "https://baltig.infn.it/quantum_tea_leaves/py_api_quantum_tea_leaves.git",
+  "download_filename": "qtealeaves-1.5.21.tar.gz",
+  "download_time": "2025-07-26T19:22:39.632803",
+  "package_url": "https://pypi.org/project/qtealeaves/"
+}

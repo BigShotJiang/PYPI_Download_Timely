@@ -1,11 +1,11 @@
 {
   "name": "voxstream",
-  "version": "0.0.1",
-  "summary": "lightweight voice streamer ",
+  "version": "0.1.0",
+  "summary": "A lightweight, high-performance voice streaming engine for real-time AI applications",
   "author": "enes kuzucu",
   "license": null,
   "home_page": null,
-  "download_filename": "voxstream-0.0.1.tar.gz",
-  "download_time": "2025-07-26T16:33:58.825605",
+  "download_filename": "voxstream-0.1.0.tar.gz",
+  "download_time": "2025-07-26T19:22:33.158720",
   "package_url": "https://pypi.org/project/voxstream/"
 }

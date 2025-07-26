@@ -1,11 +1,11 @@
 {
   "name": "embygram",
-  "version": "2025.7.27",
+  "version": "2025.7.28",
   "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "embygram-2025.7.27.tar.gz",
-  "download_time": "2025-07-26T13:21:27.389177",
+  "download_filename": "embygram-2025.7.28.tar.gz",
+  "download_time": "2025-07-26T19:22:36.406417",
   "package_url": "https://pypi.org/project/embygram/"
 }

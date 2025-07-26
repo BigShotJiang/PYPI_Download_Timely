@@ -1,0 +1,11 @@
+{
+  "name": "cleanit",
+  "version": "0.4.9",
+  "summary": "Subtitles extremely clean",
+  "author": "Rato",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ratoaq2/cleanit",
+  "download_filename": "cleanit-0.4.9.tar.gz",
+  "download_time": "2025-07-26T19:22:42.877061",
+  "package_url": "https://pypi.org/project/cleanit/"
+}
