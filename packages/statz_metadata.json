@@ -1,11 +1,11 @@
 {
   "name": "statz",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "Cross-platform system stats made easy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "statz-2.2.0.tar.gz",
-  "download_time": "2025-07-24T21:43:39.998168",
+  "download_filename": "statz-2.3.0.tar.gz",
+  "download_time": "2025-07-26T03:37:59.918466",
   "package_url": "https://pypi.org/project/statz/"
 }

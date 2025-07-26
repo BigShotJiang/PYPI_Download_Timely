@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-repl",
+  "version": "0.1.0",
+  "summary": "Interactive REPL for Hanzo AI - Like Claude Code in your terminal",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "hanzo_repl-0.1.0.tar.gz",
+  "download_time": "2025-07-26T03:38:04.101526",
+  "package_url": "https://pypi.org/project/hanzo-repl/"
+}

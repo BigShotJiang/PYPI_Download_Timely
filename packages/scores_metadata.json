@@ -1,0 +1,11 @@
+{
+  "name": "scores",
+  "version": "2.2.0",
+  "summary": "Scores is a Python package containing mathematical functions for the verification, evaluation and optimisation of forecasts, predictions or models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scores-2.2.0.tar.gz",
+  "download_time": "2025-07-26T03:37:59.406593",
+  "package_url": "https://pypi.org/project/scores/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HTTP-PyServer",
+  "version": "0.1.4.4",
+  "summary": "Simple way to make complex HTTP servers with python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "http_pyserver-0.1.4.4.tar.gz",
+  "download_time": "2025-07-26T03:38:00.439423",
+  "package_url": "https://pypi.org/project/HTTP-PyServer/"
+}

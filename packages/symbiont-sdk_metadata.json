@@ -1,0 +1,11 @@
+{
+  "name": "symbiont-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for Symbiont platform with Tool Review and Runtime APIs",
+  "author": "Jascha Wanger / ThirdKey.ai",
+  "license": "MIT",
+  "home_page": "https://github.com/thirdkeyai/symbiont-sdk-python",
+  "download_filename": "symbiont_sdk-0.2.0.tar.gz",
+  "download_time": "2025-07-26T03:38:04.621242",
+  "package_url": "https://pypi.org/project/symbiont-sdk/"
+}

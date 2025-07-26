@@ -1,0 +1,11 @@
+{
+  "name": "promptvc",
+  "version": "0.0.1",
+  "summary": "A Git-like version controller for LLM prompts",
+  "author": "oha",
+  "license": null,
+  "home_page": "https://github.com/duriantaco/promptvc",
+  "download_filename": "promptvc-0.0.1.tar.gz",
+  "download_time": "2025-07-26T03:37:47.108401",
+  "package_url": "https://pypi.org/project/promptvc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-maintenance-timesheet",
-  "version": "18.0.1.1.0.1",
+  "version": "18.0.1.1.0.2",
   "summary": "Adds timesheets to maintenance requests",
   "author": "Odoo Community Association (OCA), Solvos",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/maintenance",
-  "download_filename": "odoo_addon_maintenance_timesheet-18.0.1.1.0.1-py3-none-any.whl",
-  "download_time": "2025-07-24T11:20:34.812261",
+  "download_filename": "odoo_addon_maintenance_timesheet-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-07-26T03:37:45.958134",
   "package_url": "https://pypi.org/project/odoo-addon-maintenance-timesheet/"
 }

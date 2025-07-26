@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-financial-risk",
+  "version": "18.0.1.0.4.2",
+  "summary": "Manage customer risk",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/credit-control",
+  "download_filename": "odoo_addon_account_financial_risk-18.0.1.0.4.2-py3-none-any.whl",
+  "download_time": "2025-07-26T03:38:09.274629",
+  "package_url": "https://pypi.org/project/odoo-addon-account-financial-risk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-et-payroll-category",
+  "version": "14.0.1.0.1.dev2",
+  "summary": "Additional payroll categories for Ethiopia",
+  "author": "TREVI Software",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/trevi-software/trevi-hr",
+  "download_filename": "odoo14_addon_l10n_et_payroll_category-14.0.1.0.1.dev2-py3-none-any.whl",
+  "download_time": "2025-07-26T03:37:54.191355",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-et-payroll-category/"
+}

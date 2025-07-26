@@ -1,0 +1,11 @@
+{
+  "name": "PythonWalker",
+  "version": "0.3.0",
+  "summary": "A Python based bot library for PixelWalker",
+  "author": "Tycho10101",
+  "license": null,
+  "home_page": "https://github.com/Tycho10101/PythonWalker",
+  "download_filename": "pythonwalker-0.3.0.tar.gz",
+  "download_time": "2025-07-26T03:37:32.563324",
+  "package_url": "https://pypi.org/project/PythonWalker/"
+}

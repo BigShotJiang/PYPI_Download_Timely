@@ -1,0 +1,11 @@
+{
+  "name": "gamechanger-client",
+  "version": "0.0.4",
+  "summary": "An easy-to-use wrapper for interacting with the GameChanger APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gamechanger_client-0.0.4.tar.gz",
+  "download_time": "2025-07-26T03:37:51.625087",
+  "package_url": "https://pypi.org/project/gamechanger-client/"
+}
