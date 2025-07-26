@@ -1,0 +1,11 @@
+{
+  "name": "ring-flash-attn",
+  "version": "0.1.7",
+  "summary": "Ring attention implementation with flash attention.",
+  "author": "zhuzilin",
+  "license": null,
+  "home_page": "https://github.com/zhuzilin/ring-flash-attention",
+  "download_filename": "ring_flash_attn-0.1.7.tar.gz",
+  "download_time": "2025-07-26T15:45:31.126198",
+  "package_url": "https://pypi.org/project/ring-flash-attn/"
+}

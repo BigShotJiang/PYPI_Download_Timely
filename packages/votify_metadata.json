@@ -1,0 +1,11 @@
+{
+  "name": "votify",
+  "version": "1.5.6",
+  "summary": "A command-line app for downloading songs, podcasts and videos from Spotify.",
+  "author": "glomatico",
+  "license": null,
+  "home_page": null,
+  "download_filename": "votify-1.5.6.tar.gz",
+  "download_time": "2025-07-26T15:45:26.575985",
+  "package_url": "https://pypi.org/project/votify/"
+}

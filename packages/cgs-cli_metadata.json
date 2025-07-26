@@ -1,11 +1,11 @@
 {
   "name": "cgs-cli",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A CLI tool to deploy your game server to the cloud with a single command.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "cgs_cli-0.1.2.tar.gz",
-  "download_time": "2025-07-24T19:00:02.866020",
+  "download_filename": "cgs_cli-0.2.0.tar.gz",
+  "download_time": "2025-07-26T15:45:28.882574",
   "package_url": "https://pypi.org/project/cgs-cli/"
 }

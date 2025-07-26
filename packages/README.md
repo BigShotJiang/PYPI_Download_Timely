@@ -1,12 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T15:25:35.652058
-- **Total Packages**: 88
-- **Total Size**: 28.4 MB
+- **Download Time**: 2025-07-26T15:46:08.046709
+- **Total Packages**: 85
+- **Total Size**: 10.67 MB
 
 ## Packages List
+- bleak-py
+- abstractrepo
+- snipd_export_parser
+- martor
+- ilc-models
+- just-config-mixin
+- seleniumlibraries
+- pyverto
+- vinagent
+- usdm3
+- GanAI
+- libertai-utils
+- datapipe-core
+- votify
+- raito
+- subtitle-tool
+- fancy-tree
+- cgs-cli
+- mimicx
+- aceiot-models-cli
+- neuronum
+- ring-flash-attn
+- dorky-app
+- pygdtf
+- sportsball
+- banc
+- odoo-addon-account-fiscal-position-partner-type
+- dhisana
+- xorq
+- pytest-nb
+- pyqcircuit
+- xync-schema
 - yacv-server
+- grim-reaper
+- torchvista
+- lmstrix
+- promptstream
+- riskmetrics
+- divine-async-runner
+- nano-agent
+- gunicorn-prometheus-exporter
+- pyLodStorage
 - streamlit-json-tip
 - torchrl-nightly
 - CalypSSO
@@ -27,13 +68,11 @@
 - openfl-nightly
 - chuk-mcp-math
 - claude-code-cost
-- banc
 - elecboltz
 - layeutils
 - netcut
 - frenet-system-creator
 - classendar
-- mimicx
 - x-transformers-rl
 - mcp-jira-confluence
 - coldpack
@@ -43,7 +82,6 @@
 - monoai
 - Stackformer
 - fgo-api-types
-- pyLodStorage
 - torrra
 - zylib-test
 - nord-config-generator
@@ -53,44 +91,3 @@
 - localdex
 - sssekai
 - archguide-mcp-python
-- StrateQueue
-- flux0-ai
-- fastapi-performance-monitor
-- edcba
-- riskmetrics
-- deepset
-- pywheels
-- flux0-server
-- passagemath-topcom
-- passagemath-tdlib
-- passagemath-tachyon
-- passagemath-sympow
-- passagemath-symbolics
-- sphinxcontrib-confluencebuilder
-- usso
-- passagemath-standard-no-symbolics
-- passagemath-sirocco
-- passagemath-singular
-- passagemath-schemes
-- passagemath-rubiks
-- passagemath-qepcad
-- passagemath-polyhedra
-- passagemath-plantri
-- passagemath-pari
-- passagemath-palp
-- passagemath-ntl
-- passagemath-nauty
-- passagemath-msolve
-- passagemath-meataxe
-- passagemath-mcqd
-- passagemath-maxima
-- passagemath-macaulay2
-- passagemath-lrslib
-- passagemath-linbox
-- passagemath-libecm
-- passagemath-libbraiding
-- passagemath-lcalc
-- passagemath-latte-4ti2
-- passagemath-kissat
-- passagemath-kenzo
-- passagemath-groups

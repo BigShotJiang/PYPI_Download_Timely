@@ -1,11 +1,11 @@
 {
   "name": "grim-reaper",
-  "version": "1.0.30",
-  "summary": "Grim: Unified Data Protection Ecosystem. When data death comes knocking, Grim ensures resurrection is just a command away. License management, auto backups, highly compressed backups, multi-algorithm compression, content-based deduplication, smart storage tiering save up to 60% space, military-grade encryption, license protection, security surveillance, and automated threat response.",
+  "version": "1.0.32",
+  "summary": "Death Defying Data Protection - When data death comes knocking, Grim ensures resurrection is just a command away",
   "author": "Bernie Gengel and his beagle Buddy",
-  "license": "MIT",
+  "license": "MIT License\n        \n        Copyright (c) 2024 Bernie Gengel and his beagle Buddy\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE. ",
   "home_page": "https://grim.so",
-  "download_filename": "grim_reaper-1.0.30.tar.gz",
-  "download_time": "2025-07-26T04:22:42.511021",
+  "download_filename": "grim_reaper-1.0.32.tar.gz",
+  "download_time": "2025-07-26T15:45:38.071239",
   "package_url": "https://pypi.org/project/grim-reaper/"
 }

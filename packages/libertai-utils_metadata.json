@@ -1,0 +1,11 @@
+{
+  "name": "libertai-utils",
+  "version": "0.0.16",
+  "summary": "LibertAI internal types and functions",
+  "author": "LibertAI.io team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libertai_utils-0.0.16.tar.gz",
+  "download_time": "2025-07-26T15:45:25.422549",
+  "package_url": "https://pypi.org/project/libertai-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-nb",
+  "version": "0.1.1",
+  "summary": "Seedable Jupyter Notebook testing tool",
+  "author": "Nathnael (Nati) Bekele",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_nb-0.1.1.tar.gz",
+  "download_time": "2025-07-26T15:45:35.756797",
+  "package_url": "https://pypi.org/project/pytest-nb/"
+}
