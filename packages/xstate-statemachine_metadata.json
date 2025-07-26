@@ -1,0 +1,11 @@
+{
+  "name": "xstate-statemachine",
+  "version": "0.4.1",
+  "summary": "A robust Python library for parsing and running XState JSON state machines.",
+  "author": "Basil T T",
+  "license": "MIT",
+  "home_page": "https://github.com/basiltt/xstate-statemachine",
+  "download_filename": "xstate_statemachine-0.4.1.tar.gz",
+  "download_time": "2025-07-26T22:22:38.412606",
+  "package_url": "https://pypi.org/project/xstate-statemachine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hoernchen",
+  "version": "0.7.0",
+  "summary": "sqlite3 wrapper based on dataclasses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hoernchen-0.7.0.tar.gz",
+  "download_time": "2025-07-26T22:22:41.820829",
+  "package_url": "https://pypi.org/project/hoernchen/"
+}

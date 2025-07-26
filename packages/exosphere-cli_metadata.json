@@ -1,0 +1,11 @@
+{
+  "name": "exosphere-cli",
+  "version": "1.0.0",
+  "summary": "A simple centralized patch reporting tool for unix systems",
+  "author": "Alexandre Gauthier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exosphere_cli-1.0.0.tar.gz",
+  "download_time": "2025-07-26T22:22:32.020009",
+  "package_url": "https://pypi.org/project/exosphere-cli/"
+}

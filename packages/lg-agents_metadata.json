@@ -1,0 +1,11 @@
+{
+  "name": "lg-agents",
+  "version": "0.0.9",
+  "summary": "A Toolkit for building SQL Agents that use Python to interact with a SQL database.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lg_agents-0.0.9-py3-none-any.whl",
+  "download_time": "2025-07-26T22:22:48.637138",
+  "package_url": "https://pypi.org/project/lg-agents/"
+}

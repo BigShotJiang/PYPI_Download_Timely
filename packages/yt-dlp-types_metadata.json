@@ -1,0 +1,11 @@
+{
+  "name": "yt-dlp-types",
+  "version": "0.0.18",
+  "summary": "PEP 561 type stubs for yt-dlp.",
+  "author": "Andrew Udvare",
+  "license": "MIT",
+  "home_page": "https://tatsh.github.io/yt-dlp-types/",
+  "download_filename": "yt_dlp_types-0.0.18.tar.gz",
+  "download_time": "2025-07-26T22:22:33.197497",
+  "package_url": "https://pypi.org/project/yt-dlp-types/"
+}
