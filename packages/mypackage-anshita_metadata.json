@@ -1,11 +1,11 @@
 {
   "name": "mypackage-anshita",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A flexible chatbot package with vector embeddings and prompt handling using Ollama and FAISS",
   "author": "Anshita Bhatnagar",
   "license": null,
   "home_page": "https://github.com/yourusername/mypackage_anshita",
-  "download_filename": "mypackage_anshita-0.1.2.tar.gz",
-  "download_time": "2025-07-23T22:14:05.051539",
+  "download_filename": "mypackage_anshita-0.1.4.tar.gz",
+  "download_time": "2025-07-26T20:44:25.666020",
   "package_url": "https://pypi.org/project/mypackage-anshita/"
 }

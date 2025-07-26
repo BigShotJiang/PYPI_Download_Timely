@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T20:25:41.265605
-- **Total Packages**: 73
-- **Total Size**: 21.45 MB
+- **Download Time**: 2025-07-26T20:45:04.695807
+- **Total Packages**: 76
+- **Total Size**: 2.45 MB
 
 ## Packages List
+- muFFT
+- test-awslabs.ec2-mcp-server
+- prompt-regress
+- diycontroller
+- lazyslide
+- mandoline
+- noexcept
+- python-tester
+- mypackage-anshita
+- Solidity-test
+- svy
+- cs2tracker
+- oscn
+- maps4fs
+- hijri-converter
+- opencodespace
 - pplx-cli
 - agentsystems-sdk
 - mosaic-mind
@@ -13,7 +29,6 @@
 - mkpipe
 - platformer-world
 - spensireli.advanced-cdk-constructs
-- test-awslabs.ec2-mcp-server
 - autostartx
 - umlshapes
 - tardis-dev
@@ -44,7 +59,6 @@
 - logsentinelai
 - job-shop-lib
 - py3-wget
-- opencodespace
 - blendsql
 - model-checker
 - multimodal-communication
@@ -68,14 +82,3 @@
 - unitypredict-engines
 - praisonaiagents
 - israel-rail-api
-- mcp-git-training-wheels
-- sphinx-code-examples
-- robotframework-ride
-- fastrdp
-- reltc
-- q-materialise
-- toomanysessions
-- bthome-ble
-- lazy-commit
-- omniopt2
-- scikit-robot

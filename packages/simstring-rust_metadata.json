@@ -1,11 +1,11 @@
 {
   "name": "simstring-rust",
-  "version": "0.3.1rc1",
+  "version": "0.3.1rc2",
   "summary": "A fast, native Rust implementation of the SimString algorithm with Python bindings.",
   "author": "Bernard Brenyah <bbrenyah@gmail.com>",
   "license": "MIT",
   "home_page": "https://github.com/PyDataBlog/simstring_rs",
-  "download_filename": "simstring_rust-0.3.1rc1-cp37-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2025-07-26T20:25:09.167884",
+  "download_filename": "simstring_rust-0.3.1rc2-cp37-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-07-26T20:44:38.013570",
   "package_url": "https://pypi.org/project/simstring-rust/"
 }

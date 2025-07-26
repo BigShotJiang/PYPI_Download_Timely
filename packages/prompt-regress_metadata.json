@@ -1,0 +1,11 @@
+{
+  "name": "prompt-regress",
+  "version": "0.1.0",
+  "summary": "A cli tool for prompt regression testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_regress-0.1.0.tar.gz",
+  "download_time": "2025-07-26T20:44:22.179028",
+  "package_url": "https://pypi.org/project/prompt-regress/"
+}
