@@ -1,0 +1,11 @@
+{
+  "name": "clairvoyance-feature-selection",
+  "version": "2025.7.26",
+  "summary": "AutoML simultaneous bayesian hyperparameter optimization and feature selection",
+  "author": "Josh L. Espinoza",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/jolespin/clairvoyance",
+  "download_filename": "clairvoyance_feature_selection-2025.7.26.tar.gz",
+  "download_time": "2025-07-26T23:54:39.006723",
+  "package_url": "https://pypi.org/project/clairvoyance-feature-selection/"
+}

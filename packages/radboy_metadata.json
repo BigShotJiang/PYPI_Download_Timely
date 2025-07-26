@@ -1,11 +1,11 @@
 {
   "name": "radboy",
-  "version": "0.0.511",
+  "version": "0.0.512",
   "summary": "A small example package",
   "author": "Carl Joseph Hirner III",
   "license": null,
   "home_page": null,
-  "download_filename": "radboy-0.0.511.tar.gz",
-  "download_time": "2025-07-26T20:25:14.950945",
+  "download_filename": "radboy-0.0.512.tar.gz",
+  "download_time": "2025-07-26T23:54:44.269888",
   "package_url": "https://pypi.org/project/radboy/"
 }

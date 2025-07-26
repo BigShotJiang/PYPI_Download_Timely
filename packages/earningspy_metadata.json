@@ -1,0 +1,11 @@
+{
+  "name": "earningspy",
+  "version": "0.1.1",
+  "summary": "Python toolkit for PEAD research and earnings calendar analysis.",
+  "author": "Alberto Rincones",
+  "license": "MIT",
+  "home_page": "https://github.com/c4road/earningspy",
+  "download_filename": "earningspy-0.1.1-py3-none-any.whl",
+  "download_time": "2025-07-26T23:54:41.082762",
+  "package_url": "https://pypi.org/project/earningspy/"
+}
