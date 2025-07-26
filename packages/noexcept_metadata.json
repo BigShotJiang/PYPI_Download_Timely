@@ -1,11 +1,11 @@
 {
   "name": "noexcept",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A callable interface for structured exceptions",
   "author": "Nichola Walch",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "noexcept-1.2.0.tar.gz",
-  "download_time": "2025-07-26T20:44:24.520494",
+  "download_filename": "noexcept-1.2.1.tar.gz",
+  "download_time": "2025-07-26T20:56:11.081885",
   "package_url": "https://pypi.org/project/noexcept/"
 }

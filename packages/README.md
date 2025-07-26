@@ -1,21 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T20:45:04.695807
-- **Total Packages**: 76
-- **Total Size**: 2.45 MB
+- **Download Time**: 2025-07-26T20:56:45.935247
+- **Total Packages**: 74
+- **Total Size**: 1.99 MB
 
 ## Packages List
+- minix
+- mosaic-mind
+- robust-python-demo
+- Pychemist
+- otf-api
+- panyc
+- celldiffusion
+- viva-safeland
+- xcode-mcp-server
+- flexfloat
+- noexcept
+- lm-deluge
+- pyverto
+- GeneralManager
+- simstring-rust
+- skfolio
 - muFFT
 - test-awslabs.ec2-mcp-server
 - prompt-regress
 - diycontroller
 - lazyslide
 - mandoline
-- noexcept
 - python-tester
 - mypackage-anshita
-- Solidity-test
 - svy
 - cs2tracker
 - oscn
@@ -24,7 +38,6 @@
 - opencodespace
 - pplx-cli
 - agentsystems-sdk
-- mosaic-mind
 - charli3_dendrite
 - mkpipe
 - platformer-world
@@ -35,7 +48,6 @@
 - vprikol
 - koatl
 - falyx
-- simstring-rust
 - auto-modeling
 - deqr
 - marge-mri
@@ -43,14 +55,12 @@
 - grafo
 - mathplootIib
 - sincpro-async-worker
-- flexfloat
 - radboy
 - hypha
 - libertai-agents
 - openintel
 - barid
 - pybmc
-- minix
 - sportsball
 - pypetkitapi
 - localdex
@@ -70,15 +80,3 @@
 - re-browser-use
 - julia-browser
 - sopsy
-- orpheuspypractice
-- pypxcryptokit
-- listpick
-- avocavo-nutrition
-- django-restit
-- pygofastproxy
-- PraisonAI
-- cloud-autopkg-runner
-- unitypredict
-- unitypredict-engines
-- praisonaiagents
-- israel-rail-api
