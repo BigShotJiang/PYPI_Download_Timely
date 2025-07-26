@@ -1,11 +1,11 @@
 {
   "name": "ultra-paas-sidecar",
-  "version": "0.0.69",
+  "version": "0.0.77",
   "summary": "一个简洁的Python微服务sidecar，支持自动注册到Nacos和Feign风格调用，支持配置中心，支持权限，资源管理",
   "author": "Luozhiguo",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/ultra-paas-py-sidecar",
-  "download_filename": "ultra_paas_sidecar-0.0.69.tar.gz",
-  "download_time": "2025-07-26T06:33:43.962276",
+  "download_filename": "ultra_paas_sidecar-0.0.77.tar.gz",
+  "download_time": "2025-07-26T07:28:16.871746",
   "package_url": "https://pypi.org/project/ultra-paas-sidecar/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agent-enforcer",
+  "version": "0.9.0",
+  "summary": "Agent Enforcer: A modular code quality checking tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_enforcer-0.9.0.tar.gz",
+  "download_time": "2025-07-26T07:28:17.996669",
+  "package_url": "https://pypi.org/project/agent-enforcer/"
+}
