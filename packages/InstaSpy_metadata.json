@@ -1,0 +1,11 @@
+{
+  "name": "InstaSpy",
+  "version": "1.0.2",
+  "summary": "Library Python untuk Instagram",
+  "author": "Ivan Firmansyah",
+  "license": null,
+  "home_page": "https://github.com/jepluk/instaspy",
+  "download_filename": "instaspy-1.0.2.tar.gz",
+  "download_time": "2025-07-26T11:19:52.391806",
+  "package_url": "https://pypi.org/project/InstaSpy/"
+}

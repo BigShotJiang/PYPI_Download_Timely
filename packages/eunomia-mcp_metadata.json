@@ -1,0 +1,11 @@
+{
+  "name": "eunomia-mcp",
+  "version": "0.3.9",
+  "summary": "Eunomia MCP authorization middleware",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eunomia_mcp-0.3.9.tar.gz",
+  "download_time": "2025-07-26T11:20:05.709805",
+  "package_url": "https://pypi.org/project/eunomia-mcp/"
+}

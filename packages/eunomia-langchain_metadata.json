@@ -1,0 +1,11 @@
+{
+  "name": "eunomia-langchain",
+  "version": "0.3.9",
+  "summary": "Eunomia extension for LangChain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eunomia_langchain-0.3.9.tar.gz",
+  "download_time": "2025-07-26T11:20:06.219152",
+  "package_url": "https://pypi.org/project/eunomia-langchain/"
+}

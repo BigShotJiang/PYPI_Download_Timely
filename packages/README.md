@@ -1,19 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T10:47:51.225441
-- **Total Packages**: 80
-- **Total Size**: 5.81 MB
+- **Download Time**: 2025-07-26T11:20:29.673819
+- **Total Packages**: 79
+- **Total Size**: 17.25 MB
 
 ## Packages List
-- pygit2
-- wintree
+- configcrunch
+- unity-scene-repacker
+- datacsv
+- Ecode-cmd
+- hats-import
+- authkeyman
+- py-docx-creator
+- lsdb
+- InstaSpy
+- notion-cli-ai
+- mimicx
+- mangoapi
 - PySVBench
-- letta-nightly
+- records2
+- tcod
 - jaganathanj
+- cloud-map-py
+- async-typer
+- fastapi-di-chain
+- thoth-vdbmanager
+- wintree
+- KeyisBClient
+- pyverto
+- pygfnff
+- hats
+- raito
+- flynt
+- minix
+- meal-generator
+- code-graph-mcp
+- odfdo
+- strawberry-graphql-django
+- cromp
+- eunomia-sdk
+- eunomia-mcp
+- eunomia-langchain
+- eunomia-core
+- eunomia-ai
+- textalloc
+- konduktor-nightly
+- bittty
+- mlfcrafter
+- trainy-policy-nightly
+- pyrest-framework
+- blaubergvento-client
+- pygit2
+- letta-nightly
 - fast-bitrix24
 - agentsystems-sdk
-- minix
 - paymob-sdk
 - layeutils
 - sandyie-read
@@ -22,10 +63,8 @@
 - fgo-api-types
 - fairo
 - dism
-- meal-generator
 - q-materialise
 - roksta
-- code-graph-mcp
 - ohlcutils
 - odoo14-addon-apps-product-creator
 - zbWidgetLib
@@ -46,43 +85,3 @@
 - passagemath-modules
 - passagemath-homfly
 - passagemath-graphs
-- passagemath-glpk
-- passagemath-combinat
-- passagemath-cmr
-- passagemath-cliquer
-- passagemath-cddlib
-- passagemath-categories
-- followthemoney
-- ten
-- fabik
-- pchjlib
-- mcp-jira-confluence
-- contextcol-binance-spot-sdk
-- stress-timer
-- sqlpoop
-- blueno
-- pyrest-framework
-- vistock
-- pyrebel
-- pgsrip
-- pyjiit
-- marge-mri
-- dreamai
-- openshift-python-wrapper
-- sigmund
-- odoo-addon-l10n-es-aeat-mod216
-- drf-nested-model-serializer
-- pypcapkit
-- readabs
-- GitHubKit
-- odoo-addon-iot-oca
-- filebin-cli
-- trackersremoverqbt
-- cryptg
-- KeyisBClient
-- thoth-vdbmanager
-- melobot
-- marmel-grammar
-- kptha
-- seqmat
-- langchain-g4f-chat

@@ -1,0 +1,11 @@
+{
+  "name": "authkeyman",
+  "version": "1.0.0",
+  "summary": "Quickly manage your authorized public SSH keys",
+  "author": "Tactical Laptop Bag",
+  "license": null,
+  "home_page": null,
+  "download_filename": "authkeyman-1.0.0.tar.gz",
+  "download_time": "2025-07-26T11:19:50.860676",
+  "package_url": "https://pypi.org/project/authkeyman/"
+}
