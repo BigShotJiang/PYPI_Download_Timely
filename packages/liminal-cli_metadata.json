@@ -1,11 +1,11 @@
 {
   "name": "liminal-cli",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "Liminal CLI and tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "liminal_cli-0.5.6.tar.gz",
-  "download_time": "2025-07-24T23:23:46.887069",
+  "download_filename": "liminal_cli-0.5.7.tar.gz",
+  "download_time": "2025-07-26T23:25:28.394861",
   "package_url": "https://pypi.org/project/liminal-cli/"
 }

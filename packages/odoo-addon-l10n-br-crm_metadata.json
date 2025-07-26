@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-l10n-br-crm",
-  "version": "16.0.3.0.0",
+  "version": "16.0.4.0.0",
   "summary": "Brazilian Localization CRM",
   "author": "Akretion, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/l10n-brazil",
-  "download_filename": "odoo_addon_l10n_br_crm-16.0.3.0.0-py3-none-any.whl",
-  "download_time": "2025-07-24T05:20:10.329240",
+  "download_filename": "odoo_addon_l10n_br_crm-16.0.4.0.0-py3-none-any.whl",
+  "download_time": "2025-07-26T23:25:33.524767",
   "package_url": "https://pypi.org/project/odoo-addon-l10n-br-crm/"
 }

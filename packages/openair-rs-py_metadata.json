@@ -1,11 +1,11 @@
 {
   "name": "openair-rs-py",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python bindings for OpenAir airspace file parser",
   "author": "Danilo Bargen <mail@dbrgn.ch>",
   "license": "MIT/Apache-2.0",
   "home_page": "https://github.com/dbrgn/openair-rs/",
-  "download_filename": "openair_rs_py-0.1.2.tar.gz",
-  "download_time": "2025-07-26T14:21:57.314576",
+  "download_filename": "openair_rs_py-0.1.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-07-26T23:25:26.762529",
   "package_url": "https://pypi.org/project/openair-rs-py/"
 }
