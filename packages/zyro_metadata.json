@@ -1,0 +1,11 @@
+{
+  "name": "zyro",
+  "version": "0.7.0",
+  "summary": "A zero-code backend orchestrator that turns a YAML config into a fully functional, deployable API — no code, just config.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zyro-0.7.0.tar.gz",
+  "download_time": "2025-07-26T08:29:18.448003",
+  "package_url": "https://pypi.org/project/zyro/"
+}

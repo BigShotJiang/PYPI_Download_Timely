@@ -1,0 +1,11 @@
+{
+  "name": "wdoc",
+  "version": "3.3.1",
+  "summary": "A perfect AI powered RAG for document query and summary. Supports ~all LLM and ~all filetypes (url, pdf, epub, youtube (incl playlist), audio, anki, md, docx, pptx, oe any combination!)",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://github.com/thiswillbeyourgithub/wdoc/",
+  "download_filename": "wdoc-3.3.1.tar.gz",
+  "download_time": "2025-07-26T08:29:03.816622",
+  "package_url": "https://pypi.org/project/wdoc/"
+}

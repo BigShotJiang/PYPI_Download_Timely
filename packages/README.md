@@ -1,22 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T07:56:11.491583
-- **Total Packages**: 76
-- **Total Size**: 10.48 MB
+- **Download Time**: 2025-07-26T08:29:41.173126
+- **Total Packages**: 71
+- **Total Size**: 27.1 MB
 
 ## Packages List
+- mpmathbyyhu
+- html2css
+- lib-mail
+- wdoc
+- dynamicforms
+- math-genie-calc
+- archipy
+- pypxcryptokit
+- localtalk
+- ug4py-plugins-ijkdata
+- nonebot-plugin-value
+- pytmat
+- notionary
 - xerror
+- dana-agent
+- spclone
+- pyglove
+- prefect
+- prefect-client
+- docker-tool
+- nonebot-plugin-bilibili-notifier
+- mgplot
+- julia-browser
+- netpicker-netbox-plugin
+- geobox
+- marge-mri
+- oocana
+- zyro
+- glycowork
+- grvpn
+- pytacs
 - naga-helper
 - gallery-dl
 - synthizer3d
 - auto-video-generator-mcp
-- julia-browser
 - mite-extras
-- marge-mri
 - arctic-new
 - mr-millionaire
-- grvpn
 - enveil
 - haiku.rag
 - py-ami-client
@@ -35,7 +62,6 @@
 - pycrucible
 - graphfaker
 - nonebot-plugin-bilichat
-- docker-tool
 - pyTelegramBotAPI
 - seguid
 - thoth-vdbmanager
@@ -43,7 +69,6 @@
 - ultra-paas-sidecar
 - bed-solution-api
 - agent-enforcer
-- math-genie-calc
 - cooltool-library
 - sf-label-skew
 - rival-ai
@@ -52,33 +77,3 @@
 - garin54-strands-hello
 - relais
 - pulumi-oci
-- streamlit-nightly
-- robotframework-schemathesislibrary
-- mcp2cli
-- yta-audio-base
-- demakein
-- pypremise
-- PCILeechFWGenerator
-- tf-models-nightly
-- yta-colors
-- puzzleandy
-- triz-ai-patent-assistant
-- uk_bin_collection
-- pulumi-vault
-- pulumi-wavefront
-- pulumi-vsphere
-- Geode-Implicit
-- logger-local
-- pulumi-tls
-- scrapy-impersonate
-- Geode-Hybrid
-- spclone
-- lexrchainer-client
-- tinty
-- paradigm_absorb
-- clams-python
-- msgflux
-- fpe-plus
-- yta-image-base
-- pulumi-awsx
-- fps

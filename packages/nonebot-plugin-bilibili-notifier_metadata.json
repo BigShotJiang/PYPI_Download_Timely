@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-bilibili-notifier",
+  "version": "0.2.1",
+  "summary": "NoneBot2 plugin for pushing update and live notifications from Bibibili.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot-plugin-bilibili-notifier-0.2.1.tar.gz",
+  "download_time": "2025-07-26T08:29:13.828192",
+  "package_url": "https://pypi.org/project/nonebot-plugin-bilibili-notifier/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dana-agent",
-  "version": "0.25.7.27",
+  "version": "0.25.7.29",
   "summary": "Dana programming language for Domain-Aware Neurosymbolic Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dana_agent-0.25.7.27.tar.gz",
-  "download_time": "2025-07-25T09:34:31.464945",
+  "download_filename": "dana_agent-0.25.7.29.tar.gz",
+  "download_time": "2025-07-26T08:29:10.265810",
   "package_url": "https://pypi.org/project/dana-agent/"
 }
