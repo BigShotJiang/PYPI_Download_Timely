@@ -1,0 +1,11 @@
+{
+  "name": "filebin-cli",
+  "version": "0.3.1",
+  "summary": "A cli tool to temporarily share file without any hassle. Uses filebin.net public api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "filebin_cli-0.3.1.tar.gz",
+  "download_time": "2025-07-26T10:23:44.836268",
+  "package_url": "https://pypi.org/project/filebin-cli/"
+}

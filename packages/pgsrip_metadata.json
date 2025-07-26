@@ -1,0 +1,11 @@
+{
+  "name": "pgsrip",
+  "version": "0.1.12",
+  "summary": "Rip your PGS subtitles",
+  "author": "Rato",
+  "license": "MIT",
+  "home_page": "https://github.com/ratoaq2/pgsrip",
+  "download_filename": "pgsrip-0.1.12.tar.gz",
+  "download_time": "2025-07-26T10:23:37.018133",
+  "package_url": "https://pypi.org/project/pgsrip/"
+}

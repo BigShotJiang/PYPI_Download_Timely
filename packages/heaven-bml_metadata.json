@@ -1,0 +1,11 @@
+{
+  "name": "heaven-bml",
+  "version": "2.6.0",
+  "summary": "Build-Measure-Learn GitHub project management for AI agents",
+  "author": "HEAVEN Development Team",
+  "license": null,
+  "home_page": "https://github.com/sancovp/heaven-bml",
+  "download_filename": "heaven_bml-2.6.0-py3-none-any.whl",
+  "download_time": "2025-07-26T10:23:27.278731",
+  "package_url": "https://pypi.org/project/heaven-bml/"
+}

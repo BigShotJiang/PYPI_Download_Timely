@@ -1,0 +1,11 @@
+{
+  "name": "drf-nested-model-serializer",
+  "version": "0.0.1",
+  "summary": "Adds support for writable nested serializers to the Django REST framework.",
+  "author": "GniLudio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drf_nested_model_serializer-0.0.1.tar.gz",
+  "download_time": "2025-07-26T10:23:41.223861",
+  "package_url": "https://pypi.org/project/drf-nested-model-serializer/"
+}

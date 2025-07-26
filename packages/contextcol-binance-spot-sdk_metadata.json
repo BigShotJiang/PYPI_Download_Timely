@@ -1,0 +1,11 @@
+{
+  "name": "contextcol-binance-spot-sdk",
+  "version": "0.1.10",
+  "summary": "Python SDK for Binance trading with ContextCol API integration",
+  "author": "khemmapich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "contextcol_binance_spot_sdk-0.1.10.tar.gz",
+  "download_time": "2025-07-26T10:23:32.930805",
+  "package_url": "https://pypi.org/project/contextcol-binance-spot-sdk/"
+}

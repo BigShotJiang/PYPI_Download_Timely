@@ -1,0 +1,11 @@
+{
+  "name": "stress-timer",
+  "version": "0.1.1",
+  "summary": "A timer that says the time, and stresses you out, it also provides tracking for questions and the time spent on the questions.",
+  "author": "Oce4nM4n",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stress_timer-0.1.1.tar.gz",
+  "download_time": "2025-07-26T10:23:33.441447",
+  "package_url": "https://pypi.org/project/stress-timer/"
+}

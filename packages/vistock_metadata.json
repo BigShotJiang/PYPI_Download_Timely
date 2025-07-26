@@ -1,0 +1,11 @@
+{
+  "name": "vistock",
+  "version": "0.1.0b4",
+  "summary": "Vistock is an open-source library focused on searching, retrieving, and analyzing Vietnamese stock market data.",
+  "author": "Thang Duong",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/kaiismith/vistock",
+  "download_filename": "vistock-0.1.0b4.tar.gz",
+  "download_time": "2025-07-26T10:23:35.485190",
+  "package_url": "https://pypi.org/project/vistock/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kptha",
+  "version": "1.0.0",
+  "summary": "Korean-based Python syntax translator | 한국어 파이썬 번역기",
+  "author": "rainy58",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kptha-1.0.0.tar.gz",
+  "download_time": "2025-07-26T10:23:48.934467",
+  "package_url": "https://pypi.org/project/kptha/"
+}

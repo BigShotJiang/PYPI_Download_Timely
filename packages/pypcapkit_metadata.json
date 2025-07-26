@@ -1,0 +1,11 @@
+{
+  "name": "pypcapkit",
+  "version": "1.3.5.post25",
+  "summary": "PyPCAPKit: comprehensive network packet analysis library",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "pypcapkit-1.3.5.post25.tar.gz",
+  "download_time": "2025-07-26T10:23:42.279165",
+  "package_url": "https://pypi.org/project/pypcapkit/"
+}
