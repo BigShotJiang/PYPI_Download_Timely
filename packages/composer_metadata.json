@@ -1,0 +1,11 @@
+{
+  "name": "composer",
+  "version": "0.32.1",
+  "summary": "Composer is a PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy.",
+  "author": "MosaicML",
+  "license": null,
+  "home_page": "https://github.com/mosaicml/composer",
+  "download_filename": "composer-0.32.1.tar.gz",
+  "download_time": "2025-07-26T01:54:11.743461",
+  "package_url": "https://pypi.org/project/composer/"
+}

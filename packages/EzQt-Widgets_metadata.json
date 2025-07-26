@@ -1,11 +1,11 @@
 {
   "name": "EzQt-Widgets",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "A collection of custom Qt widgets to enhance applications built with EzQt-App. This module provides advanced, reusable, and stylish graphical components, making it easier to develop modern and user-friendly interfaces.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ezqt_widgets-1.0.7.tar.gz",
-  "download_time": "2025-07-25T03:41:47.860840",
+  "download_filename": "ezqt_widgets-1.0.8.tar.gz",
+  "download_time": "2025-07-26T01:54:50.476284",
   "package_url": "https://pypi.org/project/EzQt-Widgets/"
 }

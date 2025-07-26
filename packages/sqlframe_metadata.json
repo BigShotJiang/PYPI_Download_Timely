@@ -1,0 +1,11 @@
+{
+  "name": "sqlframe",
+  "version": "3.38.0",
+  "summary": "Turning PySpark Into a Universal DataFrame API",
+  "author": "Ryan Eakman",
+  "license": "MIT",
+  "home_page": "https://github.com/eakmanrq/sqlframe",
+  "download_filename": "sqlframe-3.38.0-py3-none-any.whl",
+  "download_time": "2025-07-26T01:54:24.912083",
+  "package_url": "https://pypi.org/project/sqlframe/"
+}

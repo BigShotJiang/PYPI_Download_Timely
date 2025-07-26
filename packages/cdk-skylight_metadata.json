@@ -1,11 +1,11 @@
 {
   "name": "cdk-skylight",
-  "version": "1.1.832",
+  "version": "1.1.833",
   "summary": "cdk-skylight",
   "author": "Dudu (David) Twizer<dudut@amazon.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdklabs/cdk-skylight.git",
-  "download_filename": "cdk_skylight-1.1.832.tar.gz",
-  "download_time": "2025-07-25T07:54:19.120077",
+  "download_filename": "cdk_skylight-1.1.833.tar.gz",
+  "download_time": "2025-07-26T01:54:26.684398",
   "package_url": "https://pypi.org/project/cdk-skylight/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flowtask",
-  "version": "5.8.21",
+  "version": "5.8.22",
   "summary": "Framework for running Tasks and from CLI and API for orchestation. Component-based Task builder/Runner for non-programmers.",
   "author": "Jesus Lara",
   "license": "Apache-2.0",
   "home_page": "https://github.com/phenobarbital/flowtask",
-  "download_filename": "flowtask-5.8.21-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-  "download_time": "2025-07-23T15:27:15.690504",
+  "download_filename": "flowtask-5.8.22-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-07-26T01:54:34.955115",
   "package_url": "https://pypi.org/project/flowtask/"
 }

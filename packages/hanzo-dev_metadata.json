@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-dev",
+  "version": "1.22.0",
+  "summary": "Hanzo Dev: Unified AI Development Environment",
+  "author": "Hanzo Industries Inc",
+  "license": "MIT",
+  "home_page": "https://github.com/hanzoai/ide",
+  "download_filename": "hanzo_dev-1.22.0.tar.gz",
+  "download_time": "2025-07-26T01:54:34.325805",
+  "package_url": "https://pypi.org/project/hanzo-dev/"
+}

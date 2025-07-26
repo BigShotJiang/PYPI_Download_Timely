@@ -1,11 +1,11 @@
 {
   "name": "mct-quantizers-nightly",
-  "version": "1.6.0.20250725.post1619",
+  "version": "1.6.0.20250726.post1542",
   "summary": "Infrastructure for support neural networks compression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mct_quantizers_nightly-1.6.0.20250725.post1619.tar.gz",
-  "download_time": "2025-07-25T07:54:19.775308",
+  "download_filename": "mct_quantizers_nightly-1.6.0.20250726.post1542.tar.gz",
+  "download_time": "2025-07-26T01:54:29.687569",
   "package_url": "https://pypi.org/project/mct-quantizers-nightly/"
 }

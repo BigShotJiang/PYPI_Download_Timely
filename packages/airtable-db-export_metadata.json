@@ -1,11 +1,11 @@
 {
   "name": "airtable-db-export",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Download data from Airtable to a SQL database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airtable_db_export-0.2.2.tar.gz",
-  "download_time": "2025-07-25T21:54:18.118777",
+  "download_filename": "airtable_db_export-0.2.5.tar.gz",
+  "download_time": "2025-07-26T01:54:49.327324",
   "package_url": "https://pypi.org/project/airtable-db-export/"
 }

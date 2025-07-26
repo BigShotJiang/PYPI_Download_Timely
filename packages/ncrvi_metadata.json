@@ -1,11 +1,11 @@
 {
   "name": "ncrvi",
-  "version": "2025.7.25.0",
+  "version": "2025.7.26.0",
   "summary": "Check rudimentary information",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ncrvi-2025.7.25.0.tar.gz",
-  "download_time": "2025-07-25T13:42:33.396833",
+  "download_filename": "ncrvi-2025.7.26.0.tar.gz",
+  "download_time": "2025-07-26T01:54:47.001032",
   "package_url": "https://pypi.org/project/ncrvi/"
 }

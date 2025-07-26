@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-datahub",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "A Model Context Protocol (MCP) server for DataHub",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_datahub-0.3.7.tar.gz",
-  "download_time": "2025-07-25T22:23:10.903112",
+  "download_filename": "mcp_server_datahub-0.3.8.tar.gz",
+  "download_time": "2025-07-26T01:54:23.132683",
   "package_url": "https://pypi.org/project/mcp-server-datahub/"
 }

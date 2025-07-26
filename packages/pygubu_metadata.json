@@ -1,0 +1,11 @@
+{
+  "name": "pygubu",
+  "version": "0.38.2",
+  "summary": "A simple GUI builder for the python tkinter module",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygubu-0.38.2.tar.gz",
+  "download_time": "2025-07-26T01:54:23.711296",
+  "package_url": "https://pypi.org/project/pygubu/"
+}

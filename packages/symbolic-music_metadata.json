@@ -1,0 +1,11 @@
+{
+  "name": "symbolic-music",
+  "version": "0.1.0",
+  "summary": "Rust library with Python bindings for symbolic music processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "symbolic_music-0.1.0.tar.gz",
+  "download_time": "2025-07-26T01:54:42.950246",
+  "package_url": "https://pypi.org/project/symbolic-music/"
+}

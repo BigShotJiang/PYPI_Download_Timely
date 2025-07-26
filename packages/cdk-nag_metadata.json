@@ -1,11 +1,11 @@
 {
   "name": "cdk-nag",
-  "version": "2.36.45",
+  "version": "2.36.46",
   "summary": "Check CDK v2 applications for best practices using a combination on available rule packs.",
   "author": "Arun Donti<donti@amazon.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdklabs/cdk-nag.git",
-  "download_filename": "cdk_nag-2.36.45.tar.gz",
-  "download_time": "2025-07-25T07:54:21.074675",
+  "download_filename": "cdk_nag-2.36.46.tar.gz",
+  "download_time": "2025-07-26T01:54:28.427237",
   "package_url": "https://pypi.org/project/cdk-nag/"
 }

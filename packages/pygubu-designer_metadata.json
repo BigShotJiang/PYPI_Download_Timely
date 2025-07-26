@@ -1,0 +1,11 @@
+{
+  "name": "pygubu-designer",
+  "version": "0.41.3",
+  "summary": "A simple GUI designer for the python tkinter module",
+  "author": null,
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "pygubu_designer-0.41.3.tar.gz",
+  "download_time": "2025-07-26T01:54:22.558900",
+  "package_url": "https://pypi.org/project/pygubu-designer/"
+}

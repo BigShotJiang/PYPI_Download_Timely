@@ -1,0 +1,11 @@
+{
+  "name": "ry",
+  "version": "0.0.51",
+  "summary": "ry = rust + python kitchen sink utils (WIP)",
+  "author": "Jesse K. Rubin <jessekrubin@gmail.com>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/jessekrubin/ry",
+  "download_filename": "ry-0.0.51.tar.gz",
+  "download_time": "2025-07-26T01:54:05.870141",
+  "package_url": "https://pypi.org/project/ry/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sigenergy2mqtt",
+  "version": "2025.7.26.post1",
+  "summary": "Publish Modbus data from Sigenergy to MQTT, with optional Home Assistant Auto-Discovery and PVOutput updating",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigenergy2mqtt-2025.7.26.post1.tar.gz",
+  "download_time": "2025-07-26T01:54:48.156416",
+  "package_url": "https://pypi.org/project/sigenergy2mqtt/"
+}
