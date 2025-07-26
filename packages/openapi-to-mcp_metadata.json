@@ -1,11 +1,11 @@
 {
   "name": "openapi-to-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python library to automatically convert any OpenAPI v2/v3 specification into a Model Context Protocol (MCP) server, with integrations for popular frameworks like FastAPI.",
-  "author": "Ritesh Krishan",
+  "author": "Sriram Krishna",
   "license": "MPL-2.0",
   "home_page": "https://github.com/itssri5/openapi-to-mcp",
-  "download_filename": "openapi_to_mcp-0.1.0.tar.gz",
-  "download_time": "2025-07-26T22:22:31.316406",
+  "download_filename": "openapi_to_mcp-0.1.1.tar.gz",
+  "download_time": "2025-07-26T22:46:15.158646",
   "package_url": "https://pypi.org/project/openapi-to-mcp/"
 }

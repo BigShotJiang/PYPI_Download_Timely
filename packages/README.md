@@ -1,13 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T22:23:15.135889
+- **Download Time**: 2025-07-26T22:46:41.737029
 - **Total Packages**: 78
-- **Total Size**: 19.97 MB
+- **Total Size**: 12.97 MB
 
 ## Packages List
-- kube-debugger
+- types-idlelib
+- sqlite-database
+- platformer-world
+- MrdStudioLogger
+- bittty
+- coppersun-brass
+- CodeMutator
+- mush-wikis-scraper
+- cleanmypc
+- tiktok-uploader
+- plush-fabric
+- utils-b-infra
+- led-kurokku
+- tunacode-cli
+- grvpn
+- sagemaker-studio-dataengineering-extensions
+- sagemaker-studio-dataengineering-sessions
+- chunkwrap
+- xax
+- pyjigsaw
+- cmipld
+- tiferet
+- secxbrl
+- vprikol
+- astdoc
+- API-to-MCP-Generator
+- orbitlab
 - openapi-to-mcp
+- ytflashback
+- intracktive
+- kube-debugger
 - exosphere-cli
 - hiten
 - yt-dlp-types
@@ -17,7 +46,6 @@
 - a2a-sigstore
 - mil-alliance-taxes
 - rxiv-maker
-- sqlite-database
 - pve-cli
 - xstate-statemachine
 - mosaic-mind
@@ -35,20 +63,16 @@
 - sense-table
 - file-dealer
 - ozi-core
-- orbitlab
 - lg-agents
 - agentrun-plus
-- secxbrl
 - fixed-width-int
 - plua
 - pymobiledevice3
 - followme
 - mozichem-hub
 - plan2eplus
-- tiferet
 - multiprogress
 - fp-orchestrator-utils
-- ytflashback
 - ovld
 - xml-analysis-framework
 - grizabella
@@ -60,27 +84,3 @@
 - annize
 - opentable-mcp-server
 - opentable-rest-client
-- autowt
-- velocity-python
-- autodla
-- unfake
-- blocks-sdk
-- pympebm
-- catalyst-orm
-- tzk
-- css-inline
-- bytoken
-- statz
-- hammadbhai-tools
-- requirementsengineering
-- carcara
-- kubevim-vivnfm-client
-- mini-swe-agent
-- iolanta
-- sportsball
-- policyengine-us-data
-- limber-timber
-- gshock-api
-- sagemaker-studio-dataengineering-extensions
-- sagemaker-studio-dataengineering-sessions
-- winipedia-utils

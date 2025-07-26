@@ -1,11 +1,11 @@
 {
   "name": "bittty",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "a pure python tty",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bittty-0.0.4.tar.gz",
-  "download_time": "2025-07-26T11:41:39.813033",
+  "download_filename": "bittty-0.0.5.tar.gz",
+  "download_time": "2025-07-26T22:46:02.630444",
   "package_url": "https://pypi.org/project/bittty/"
 }
