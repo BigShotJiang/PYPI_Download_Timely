@@ -1,0 +1,11 @@
+{
+  "name": "trepan3k",
+  "version": "1.4.0",
+  "summary": "GDB-like Python Debugger in the Trepan family",
+  "author": "Rocky Bernstein",
+  "license": "GPL3",
+  "home_page": "http://github.com/rocky/python3-trepan/",
+  "download_filename": "trepan3k-1.4.0.tar.gz",
+  "download_time": "2025-07-26T10:47:23.545375",
+  "package_url": "https://pypi.org/project/trepan3k/"
+}

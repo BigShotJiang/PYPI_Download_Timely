@@ -1,11 +1,11 @@
 {
   "name": "giga-spatial",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "summary": "A package for spatial data download & processing",
   "author": "Utku Can Ozturk",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/unicef/giga-spatial",
-  "download_filename": "giga_spatial-0.6.8.tar.gz",
-  "download_time": "2025-07-26T10:23:41.755030",
+  "download_filename": "giga_spatial-0.6.9.tar.gz",
+  "download_time": "2025-07-26T10:47:24.056186",
   "package_url": "https://pypi.org/project/giga-spatial/"
 }

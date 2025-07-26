@@ -1,0 +1,11 @@
+{
+  "name": "helloworld-goofy",
+  "version": "0.1",
+  "summary": "A goofy hello world package",
+  "author": "Legendry Goofy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "helloworld_goofy-0.1.tar.gz",
+  "download_time": "2025-07-26T10:47:20.858259",
+  "package_url": "https://pypi.org/project/helloworld-goofy/"
+}

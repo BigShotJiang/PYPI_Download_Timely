@@ -1,0 +1,11 @@
+{
+  "name": "django-forbid",
+  "version": "0.1.7",
+  "summary": "Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.",
+  "author": "Artyom Vancyan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_forbid-0.1.7.tar.gz",
+  "download_time": "2025-07-26T10:47:13.990799",
+  "package_url": "https://pypi.org/project/django-forbid/"
+}

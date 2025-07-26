@@ -1,0 +1,11 @@
+{
+  "name": "fast-bitrix24",
+  "version": "1.8.8",
+  "summary": "API wrapper для быстрого получения данных от Битрикс24 через REST API. Параллельные запросы к серверу, упаковка запросов в батчи, контроль скорости запросов, есть синхронный и асинхронный клиенты.",
+  "author": "Alexey Leshchenko",
+  "license": "MIT",
+  "home_page": "https://github.com/leshchenko1979/fast_bitrix24",
+  "download_filename": "fast_bitrix24-1.8.8.tar.gz",
+  "download_time": "2025-07-26T10:47:10.860056",
+  "package_url": "https://pypi.org/project/fast-bitrix24/"
+}
