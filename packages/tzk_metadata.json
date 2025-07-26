@@ -1,0 +1,11 @@
+{
+  "name": "tzk",
+  "version": "0.5.1",
+  "summary": "Build tool for TiddlyWiki Zettelkasten",
+  "author": "Soren I. Bjornstad",
+  "license": null,
+  "home_page": "https://github.com/sobjornstad/tzk",
+  "download_filename": "tzk-0.5.1.tar.gz",
+  "download_time": "2025-07-26T21:54:42.656623",
+  "package_url": "https://pypi.org/project/tzk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "autodla",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A simple ORM with history tracking for rapid POC development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autodla-0.1.8.tar.gz",
-  "download_time": "2025-07-26T20:25:11.398020",
+  "download_filename": "autodla-0.1.9.tar.gz",
+  "download_time": "2025-07-26T21:54:40.100574",
   "package_url": "https://pypi.org/project/autodla/"
 }

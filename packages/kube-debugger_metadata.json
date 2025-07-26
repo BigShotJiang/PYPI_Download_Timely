@@ -1,11 +1,11 @@
 {
   "name": "kube-debugger",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Kube-Debugger is a Kubernetes CLI Tool which will help you debug your cluster",
   "author": "Ayush Mishra A",
   "license": "MIT",
   "home_page": "https://github.com/Ayushmishra05/KubeDebugger",
-  "download_filename": "kube_debugger-0.0.1.tar.gz",
-  "download_time": "2025-07-26T21:42:57.364361",
+  "download_filename": "kube_debugger-0.0.3.tar.gz",
+  "download_time": "2025-07-26T21:54:32.380893",
   "package_url": "https://pypi.org/project/kube-debugger/"
 }

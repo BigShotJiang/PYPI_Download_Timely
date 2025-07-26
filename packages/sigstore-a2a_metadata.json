@@ -1,0 +1,11 @@
+{
+  "name": "sigstore-a2a",
+  "version": "0.1.0",
+  "summary": "Keyless signing library for A2A Agent Cards using Sigstore and SLSA provenance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigstore_a2a-0.1.0.tar.gz",
+  "download_time": "2025-07-26T21:54:34.428211",
+  "package_url": "https://pypi.org/project/sigstore-a2a/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "autowt",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Customizable git worktree manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autowt-0.4.1.tar.gz",
-  "download_time": "2025-07-24T23:43:46.273656",
+  "download_filename": "autowt-0.4.2.tar.gz",
+  "download_time": "2025-07-26T21:54:38.568810",
   "package_url": "https://pypi.org/project/autowt/"
 }
