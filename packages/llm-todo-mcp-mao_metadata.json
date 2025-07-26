@@ -1,0 +1,11 @@
+{
+  "name": "llm-todo-mcp-mao",
+  "version": "0.1.0",
+  "summary": "A todo application MCP server designed for AI agent task management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_todo_mcp_mao-0.1.0.tar.gz",
+  "download_time": "2025-07-26T06:33:21.831918",
+  "package_url": "https://pypi.org/project/llm-todo-mcp-mao/"
+}

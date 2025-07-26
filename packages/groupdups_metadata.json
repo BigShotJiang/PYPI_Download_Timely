@@ -1,0 +1,11 @@
+{
+  "name": "groupdups",
+  "version": "0.1.0",
+  "summary": "Group duplicate values in a list with their index positions",
+  "author": "Harsh Laghave",
+  "license": null,
+  "home_page": null,
+  "download_filename": "groupdups-0.1.0.tar.gz",
+  "download_time": "2025-07-26T06:33:27.993563",
+  "package_url": "https://pypi.org/project/groupdups/"
+}

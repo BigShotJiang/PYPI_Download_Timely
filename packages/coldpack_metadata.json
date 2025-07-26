@@ -1,11 +1,11 @@
 {
   "name": "coldpack",
-  "version": "0.1.0b3",
+  "version": "0.1.0b5",
   "summary": "Cross-platform cold storage CLI package for standardized tar.zst archives with comprehensive verification",
   "author": "coldpack contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coldpack-0.1.0b3-py3-none-any.whl",
-  "download_time": "2025-07-25T17:23:21.255196",
+  "download_filename": "coldpack-0.1.0b5-py3-none-any.whl",
+  "download_time": "2025-07-26T06:33:30.582988",
   "package_url": "https://pypi.org/project/coldpack/"
 }

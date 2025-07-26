@@ -1,11 +1,11 @@
 {
   "name": "ez-wsi-dicomweb",
-  "version": "6.0.20",
+  "version": "6.0.21",
   "summary": "A library that provides the ability to extract an image patch from a pathology DICOM whole slide image.",
   "author": "Google LLC.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/GoogleCloudPlatform/ez-wsi-dicomweb",
-  "download_filename": "ez_wsi_dicomweb-6.0.20.tar.gz",
-  "download_time": "2025-07-26T04:22:58.233906",
+  "download_filename": "ez_wsi_dicomweb-6.0.21.tar.gz",
+  "download_time": "2025-07-26T06:33:49.601765",
   "package_url": "https://pypi.org/project/ez-wsi-dicomweb/"
 }

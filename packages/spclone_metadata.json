@@ -1,0 +1,11 @@
+{
+  "name": "spclone",
+  "version": "0.1.6",
+  "summary": "A lightweight alternative to 'git clone' for installing Python packages directly from GitHub.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spclone-0.1.6.tar.gz",
+  "download_time": "2025-07-26T06:33:16.986091",
+  "package_url": "https://pypi.org/project/spclone/"
+}

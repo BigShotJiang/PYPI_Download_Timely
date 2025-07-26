@@ -1,0 +1,11 @@
+{
+  "name": "log-dynamo",
+  "version": "0.1.2",
+  "summary": "Log by DynamoDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "log_dynamo-0.1.2.tar.gz",
+  "download_time": "2025-07-26T06:33:29.543058",
+  "package_url": "https://pypi.org/project/log-dynamo/"
+}

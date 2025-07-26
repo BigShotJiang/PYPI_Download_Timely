@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-openstack",
+  "version": "5.3.2",
+  "summary": "A Pulumi package for creating and managing OpenStack cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_openstack-5.3.2.tar.gz",
+  "download_time": "2025-07-26T06:33:21.319189",
+  "package_url": "https://pypi.org/project/pulumi-openstack/"
+}

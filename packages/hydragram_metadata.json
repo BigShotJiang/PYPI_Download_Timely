@@ -1,0 +1,11 @@
+{
+  "name": "hydragram",
+  "version": "3.0",
+  "summary": "An enhanced Pyrogram-like filter and handler system using Pyrogram.",
+  "author": "Endtrz",
+  "license": null,
+  "home_page": "https://github.com/Endtrz/hydragram",
+  "download_filename": "hydragram-3.0.tar.gz",
+  "download_time": "2025-07-26T06:33:52.685296",
+  "package_url": "https://pypi.org/project/hydragram/"
+}

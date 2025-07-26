@@ -1,0 +1,11 @@
+{
+  "name": "SurvivalEVAL",
+  "version": "0.4.5",
+  "summary": "The most comprehensive Python package for evaluating survival analysis models.",
+  "author": "Shi-ang Qi",
+  "license": "MIT",
+  "home_page": "https://github.com/shi-ang/SurvivalEVAL",
+  "download_filename": "survivaleval-0.4.5.tar.gz",
+  "download_time": "2025-07-26T06:33:33.134064",
+  "package_url": "https://pypi.org/project/SurvivalEVAL/"
+}
