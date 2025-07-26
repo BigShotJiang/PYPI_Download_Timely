@@ -1,12 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T19:53:17.278039
+- **Download Time**: 2025-07-26T20:25:41.265605
 - **Total Packages**: 73
-- **Total Size**: 7.74 MB
+- **Total Size**: 21.45 MB
 
 ## Packages List
+- pplx-cli
+- agentsystems-sdk
+- mosaic-mind
+- charli3_dendrite
+- mkpipe
+- platformer-world
+- spensireli.advanced-cdk-constructs
+- test-awslabs.ec2-mcp-server
+- autostartx
+- umlshapes
+- tardis-dev
+- vprikol
+- koatl
+- falyx
+- simstring-rust
+- auto-modeling
+- deqr
+- marge-mri
+- autodla
+- grafo
 - mathplootIib
+- sincpro-async-worker
+- flexfloat
+- radboy
+- hypha
+- libertai-agents
+- openintel
+- barid
+- pybmc
+- minix
+- sportsball
+- pypetkitapi
+- localdex
+- JHOperfectmind
+- sdss-too
 - logsentinelai
 - job-shop-lib
 - py3-wget
@@ -20,13 +54,11 @@
 - sdss-target-selection
 - utils-b-infra
 - re-browser-use
-- platformer-world
 - julia-browser
 - sopsy
 - orpheuspypractice
 - pypxcryptokit
 - listpick
-- test-awslabs.ec2-mcp-server
 - avocavo-nutrition
 - django-restit
 - pygofastproxy
@@ -40,42 +72,10 @@
 - sphinx-code-examples
 - robotframework-ride
 - fastrdp
-- autostartx
 - reltc
-- JHOperfectmind
 - q-materialise
 - toomanysessions
 - bthome-ble
 - lazy-commit
 - omniopt2
 - scikit-robot
-- noexcept
-- otf-api
-- llmjammer
-- charli3_dendrite
-- jubtools
-- xml-analysis-framework
-- plexy
-- grafo
-- rock-solid-base
-- helperLTE
-- paymob-sdk
-- voxstream
-- codeallybasic
-- scrall
-- tako-sdk
-- embygram
-- tunacode-cli
-- pylipextractor
-- retrievableset
-- embykeeper
-- tensor-ipc
-- qtealeaves
-- transfermarkt-wrapper
-- zeroapi
-- pygritbx
-- upstream-sdk
-- roicat
-- cleanit
-- torchvista
-- cocode

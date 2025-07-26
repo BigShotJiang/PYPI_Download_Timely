@@ -1,0 +1,11 @@
+{
+  "name": "sdss-too",
+  "version": "1.1.0",
+  "summary": "Targets of Opportunity (ToO) for SDSS-V",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "sdss_too-1.1.0.tar.gz",
+  "download_time": "2025-07-26T20:25:20.915310",
+  "package_url": "https://pypi.org/project/sdss-too/"
+}

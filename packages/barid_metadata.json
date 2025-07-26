@@ -1,0 +1,11 @@
+{
+  "name": "barid",
+  "version": "0.2.0",
+  "summary": "A deeply abstract, fully asynchronous Python client for the Barid temporary email API with complex architecture and type-heavy design.",
+  "author": "Hexa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "barid-0.2.0.tar.gz",
+  "download_time": "2025-07-26T20:25:17.223465",
+  "package_url": "https://pypi.org/project/barid/"
+}
