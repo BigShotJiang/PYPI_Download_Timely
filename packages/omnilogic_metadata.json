@@ -1,0 +1,11 @@
+{
+  "name": "omnilogic",
+  "version": "0.5.9",
+  "summary": "Integration for the Hayward OmniLogic pool control system",
+  "author": "Tim Empringham",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/djtimca/omnilogic-api",
+  "download_filename": "omnilogic-0.5.9.tar.gz",
+  "download_time": "2025-07-26T18:58:57.225160",
+  "package_url": "https://pypi.org/project/omnilogic/"
+}

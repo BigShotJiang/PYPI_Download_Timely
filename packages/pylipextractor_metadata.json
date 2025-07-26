@@ -1,0 +1,11 @@
+{
+  "name": "pylipextractor",
+  "version": "2.2.1",
+  "summary": "A Python package for robust lip frame extraction from videos using MediaPipe, featuring enhanced stability, configurable options, and customizable GPU-accelerated lossless video format conversion for VSR tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylipextractor-2.2.1.tar.gz",
+  "download_time": "2025-07-26T18:59:01.319083",
+  "package_url": "https://pypi.org/project/pylipextractor/"
+}

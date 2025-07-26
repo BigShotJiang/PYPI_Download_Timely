@@ -1,0 +1,11 @@
+{
+  "name": "dataprocesslite",
+  "version": "0.1.0",
+  "summary": "A user-friendly Python package for working with CSV data",
+  "author": "Conor Reidy",
+  "license": null,
+  "home_page": "https://github.com/conorzen/dataprocess",
+  "download_filename": "dataprocesslite-0.1.0.tar.gz",
+  "download_time": "2025-07-26T18:59:11.133323",
+  "package_url": "https://pypi.org/project/dataprocesslite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jsonAI",
+  "version": "0.15.0",
+  "summary": "A Python library for dynamic JSON generation based on schemas using language models.",
+  "author": "1rgs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonai-0.15.0.tar.gz",
+  "download_time": "2025-07-26T18:58:59.782744",
+  "package_url": "https://pypi.org/project/jsonAI/"
+}

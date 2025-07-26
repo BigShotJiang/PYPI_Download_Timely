@@ -1,11 +1,11 @@
 {
   "name": "pipelex",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "summary": "Pipelex is an open-source dev tool based on a simple declarative language that lets you define replicable, structured, composable LLM pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pipelex-0.6.8.tar.gz",
-  "download_time": "2025-07-25T09:56:13.079302",
+  "download_filename": "pipelex-0.6.9.tar.gz",
+  "download_time": "2025-07-26T18:59:01.831974",
   "package_url": "https://pypi.org/project/pipelex/"
 }
