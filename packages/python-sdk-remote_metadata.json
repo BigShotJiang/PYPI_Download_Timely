@@ -1,0 +1,11 @@
+{
+  "name": "python-sdk-remote",
+  "version": "0.0.149",
+  "summary": "PyPI Package for Circles Python SDK Local Python",
+  "author": "Circles",
+  "license": null,
+  "home_page": "https://github.com/circles-zone/python-sdk-remote-python-package",
+  "download_filename": "python_sdk_remote-0.0.149.tar.gz",
+  "download_time": "2025-07-26T07:43:34.366550",
+  "package_url": "https://pypi.org/project/python-sdk-remote/"
+}

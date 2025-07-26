@@ -1,0 +1,11 @@
+{
+  "name": "llmvision",
+  "version": "0.1.1",
+  "summary": "Visualize how LLMs tokenize text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmvision-0.1.1.tar.gz",
+  "download_time": "2025-07-26T07:43:38.530976",
+  "package_url": "https://pypi.org/project/llmvision/"
+}
