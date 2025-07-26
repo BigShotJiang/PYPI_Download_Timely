@@ -1,0 +1,11 @@
+{
+  "name": "homismart-client",
+  "version": "0.1.5",
+  "summary": "Python client for Homismart WebSocket API",
+  "author": "Adir Krafman",
+  "license": "MIT",
+  "home_page": "https://github.com/krafman/homismart-client",
+  "download_filename": "homismart_client-0.1.5.tar.gz",
+  "download_time": "2025-07-26T14:21:56.293967",
+  "package_url": "https://pypi.org/project/homismart-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bluer-ugv",
+  "version": "6.528.1",
+  "summary": "🐬 AI x ROS.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/bluer-ugv",
+  "download_filename": "bluer_ugv-6.528.1.tar.gz",
+  "download_time": "2025-07-26T14:21:54.255001",
+  "package_url": "https://pypi.org/project/bluer-ugv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-github",
+  "version": "1.8.36",
+  "summary": "Source implementation for GitHub.",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_github-1.8.36.tar.gz",
+  "download_time": "2025-07-26T14:21:42.414893",
+  "package_url": "https://pypi.org/project/airbyte-source-github/"
+}

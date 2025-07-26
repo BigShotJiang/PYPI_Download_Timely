@@ -1,11 +1,11 @@
 {
   "name": "seconohe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "SET's ComfyUI Node Helpers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "seconohe-1.0.1.tar.gz",
-  "download_time": "2025-07-25T13:58:48.804876",
+  "download_filename": "seconohe-1.0.2.tar.gz",
+  "download_time": "2025-07-26T14:21:50.782373",
   "package_url": "https://pypi.org/project/seconohe/"
 }

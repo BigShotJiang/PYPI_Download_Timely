@@ -1,0 +1,11 @@
+{
+  "name": "brave-releases-checker",
+  "version": "0.3.7",
+  "summary": "Checks for new Brave Browser releases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brave_releases_checker-0.3.7.tar.gz",
+  "download_time": "2025-07-26T14:21:56.802343",
+  "package_url": "https://pypi.org/project/brave-releases-checker/"
+}

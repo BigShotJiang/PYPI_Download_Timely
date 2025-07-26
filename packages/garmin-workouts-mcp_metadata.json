@@ -1,0 +1,11 @@
+{
+  "name": "garmin-workouts-mcp",
+  "version": "0.6.1",
+  "summary": "Garmin Workouts MCP Server",
+  "author": "Stev Witzel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "garmin_workouts_mcp-0.6.1.tar.gz",
+  "download_time": "2025-07-26T14:21:48.480646",
+  "package_url": "https://pypi.org/project/garmin-workouts-mcp/"
+}

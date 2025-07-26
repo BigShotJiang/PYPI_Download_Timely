@@ -1,0 +1,11 @@
+{
+  "name": "pralekh",
+  "version": "0.1.0",
+  "summary": "Unified document text and table extractor for PDFs, DOCX, PPTX, XLSX, and TXT (with OCR support)",
+  "author": "Jasteg Singh",
+  "license": null,
+  "home_page": "https://github.com/JastegSingh19/pralekh",
+  "download_filename": "pralekh-0.1.0.tar.gz",
+  "download_time": "2025-07-26T14:21:40.187746",
+  "package_url": "https://pypi.org/project/pralekh/"
+}

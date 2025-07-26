@@ -1,0 +1,11 @@
+{
+  "name": "torchrecurrent",
+  "version": "0.1.2",
+  "summary": "A package for recurrent neural networks in PyTorch",
+  "author": "Francesco Martinuzzi",
+  "license": "MIT",
+  "home_page": "https://github.com/MartinuzziFrancesco/torchrecurrent",
+  "download_filename": "torchrecurrent-0.1.2.tar.gz",
+  "download_time": "2025-07-26T14:22:02.073486",
+  "package_url": "https://pypi.org/project/torchrecurrent/"
+}

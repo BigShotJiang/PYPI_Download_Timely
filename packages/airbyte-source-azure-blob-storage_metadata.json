@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-azure-blob-storage",
+  "version": "0.6.12",
+  "summary": "Source implementation for Azure Blob Storage.",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_azure_blob_storage-0.6.12.tar.gz",
+  "download_time": "2025-07-26T14:21:40.759441",
+  "package_url": "https://pypi.org/project/airbyte-source-azure-blob-storage/"
+}

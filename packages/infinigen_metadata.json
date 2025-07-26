@@ -1,0 +1,11 @@
+{
+  "name": "infinigen",
+  "version": "1.15.5",
+  "summary": "Infinite Photorealistic Worlds using Procedural Generation",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "infinigen-1.15.5-cp311-cp311-macosx_13_0_x86_64.whl",
+  "download_time": "2025-07-26T14:21:51.387603",
+  "package_url": "https://pypi.org/project/infinigen/"
+}
