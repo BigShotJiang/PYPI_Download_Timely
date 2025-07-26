@@ -1,65 +1,13 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T08:52:10.456401
-- **Total Packages**: 79
-- **Total Size**: 11.46 MB
+- **Download Time**: 2025-07-26T09:24:01.709491
+- **Total Packages**: 73
+- **Total Size**: 0.12 MB
 
 ## Packages List
-- auto-video-generator-mcp
-- mymathbyyhu
-- thoth-vdbmanager
-- mpmathbyyhu
-- spatialcell
-- test-amirpython
-- aiida-workgraph
-- mxupy
-- ebird-api-data
-- lightning-utilities
-- seqmat
-- q-materialise
-- tfp-nightly
-- rofimoji
-- lib-mail
-- itrx
-- cobra-lenguaje
-- airos
-- energysystemmodels
-- auto-vtna
-- pymcpevals
-- enfig
-- btreeny
-- CellSegmentationEvaluator
-- speedbuild
-- bittty
-- kuzu
-- nvfuser-cu126
-- nvfuser-cu128
-- coldpack
-- sandyie-read
-- yai-loguru-sinks
-- vexipy
-- churchsong
-- agent-knowledge-mcp
-- html2css
-- wdoc
-- dynamicforms
-- math-genie-calc
-- archipy
-- pypxcryptokit
-- localtalk
-- ug4py-plugins-ijkdata
-- nonebot-plugin-value
-- pytmat
-- notionary
-- xerror
-- dana-agent
-- spclone
-- pyglove
-- prefect
-- prefect-client
-- docker-tool
 - nonebot-plugin-bilibili-notifier
+- pypxcryptokit
 - mgplot
 - julia-browser
 - netpicker-netbox-plugin
@@ -70,9 +18,11 @@
 - glycowork
 - grvpn
 - pytacs
+- xerror
 - naga-helper
 - gallery-dl
 - synthizer3d
+- auto-video-generator-mcp
 - mite-extras
 - arctic-new
 - mr-millionaire
@@ -85,3 +35,47 @@
 - pulumi-gcp
 - python-sdk-remote
 - flight-display
+- csust-word-mcp-server
+- fgo-api-types
+- feldera
+- llmvision
+- openbb-platform-api
+- embygram
+- pycrucible
+- graphfaker
+- nonebot-plugin-bilichat
+- docker-tool
+- pyTelegramBotAPI
+- seguid
+- thoth-vdbmanager
+- py-sarvcrm-api
+- ultra-paas-sidecar
+- bed-solution-api
+- agent-enforcer
+- math-genie-calc
+- cooltool-library
+- sf-label-skew
+- rival-ai
+- oelint-data
+- classmods
+- garin54-strands-hello
+- relais
+- pulumi-oci
+- streamlit-nightly
+- robotframework-schemathesislibrary
+- mcp2cli
+- yta-audio-base
+- demakein
+- pypremise
+- PCILeechFWGenerator
+- tf-models-nightly
+- yta-colors
+- puzzleandy
+- triz-ai-patent-assistant
+- uk_bin_collection
+- pulumi-vault
+- pulumi-wavefront
+- pulumi-vsphere
+- Geode-Implicit
+- logger-local
+- pulumi-tls
