@@ -1,0 +1,11 @@
+{
+  "name": "letstry",
+  "version": "0.1.1",
+  "summary": "Toolkit for RCE testing, command execution, and file enumeration",
+  "author": "Mukesh Kumar",
+  "license": null,
+  "home_page": "https://github.com/mukeshkumar-a",
+  "download_filename": "letstry-0.1.1.tar.gz",
+  "download_time": "2025-07-26T21:21:33.524419",
+  "package_url": "https://pypi.org/project/letstry/"
+}

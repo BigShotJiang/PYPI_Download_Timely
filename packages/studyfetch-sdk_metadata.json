@@ -1,0 +1,11 @@
+{
+  "name": "studyfetch-sdk",
+  "version": "0.1.0a21",
+  "summary": "The official Python library for the studyfetch-sdk API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "studyfetch_sdk-0.1.0a21.tar.gz",
+  "download_time": "2025-07-26T21:21:33.007257",
+  "package_url": "https://pypi.org/project/studyfetch-sdk/"
+}

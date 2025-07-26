@@ -1,19 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-26T20:56:45.935247
-- **Total Packages**: 74
-- **Total Size**: 1.99 MB
+- **Download Time**: 2025-07-26T21:22:00.155855
+- **Total Packages**: 79
+- **Total Size**: 9.72 MB
 
 ## Packages List
+- kubevim-vivnfm-client
+- mil-alliance-taxes
+- mini-swe-agent
+- iolanta
+- sportsball
+- policyengine-us-data
+- limber-timber
+- gshock-api
+- sagemaker-studio-dataengineering-extensions
+- sagemaker-studio-dataengineering-sessions
+- winipedia-utils
+- viva-safeland
+- mcp-server-appwrite
+- PyQrackIsing
+- pplx-cli
+- pyrulesrunner
+- pyflyde
 - minix
+- warp-beacon
+- pysaleryd
+- coffy
+- lazylabel-gui
+- requirementsengineering
+- artemis-model
+- pyleebounds
+- tunacode-cli
+- tree-sitter-ghactions
+- django-dbmi-client
+- studyfetch-sdk
+- letstry
+- workspace-mcp
+- Solidity-test
+- pypetkitapi
+- media-agent-mcp
+- gyllm
+- mozichem-hub
+- blocks-sdk
+- hammadbhai-tools
+- policyengine-uk
+- EAIK
 - mosaic-mind
 - robust-python-demo
 - Pychemist
 - otf-api
 - panyc
 - celldiffusion
-- viva-safeland
 - xcode-mcp-server
 - flexfloat
 - noexcept
@@ -36,7 +74,6 @@
 - maps4fs
 - hijri-converter
 - opencodespace
-- pplx-cli
 - agentsystems-sdk
 - charli3_dendrite
 - mkpipe
@@ -48,35 +85,3 @@
 - vprikol
 - koatl
 - falyx
-- auto-modeling
-- deqr
-- marge-mri
-- autodla
-- grafo
-- mathplootIib
-- sincpro-async-worker
-- radboy
-- hypha
-- libertai-agents
-- openintel
-- barid
-- pybmc
-- sportsball
-- pypetkitapi
-- localdex
-- JHOperfectmind
-- sdss-too
-- logsentinelai
-- job-shop-lib
-- py3-wget
-- blendsql
-- model-checker
-- multimodal-communication
-- simple-orm-sqlite
-- ynab-unlinked
-- premai
-- sdss-target-selection
-- utils-b-infra
-- re-browser-use
-- julia-browser
-- sopsy

@@ -1,11 +1,11 @@
 {
   "name": "blocks-sdk",
-  "version": "0.1.79",
+  "version": "0.1.80",
   "summary": "Write custom AI-enabled codebase automations in Python. Leverage a full codebase-aware API. Automatically trigger automations from Github, Slack, and other providers.",
   "author": "BlocksOrg",
   "license": "AGPL",
   "home_page": "https://github.com/BlocksOrg/sdk",
-  "download_filename": "blocks-sdk-0.1.79.tar.gz",
-  "download_time": "2025-07-26T18:33:04.649002",
+  "download_filename": "blocks-sdk-0.1.80.tar.gz",
+  "download_time": "2025-07-26T21:21:37.665980",
   "package_url": "https://pypi.org/project/blocks-sdk/"
 }

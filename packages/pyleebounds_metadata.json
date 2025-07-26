@@ -1,0 +1,11 @@
+{
+  "name": "pyleebounds",
+  "version": "0.2.0",
+  "summary": "Python package for Lee 2009 treatment effect bounds under sample selection",
+  "author": "Vasco Yasenov",
+  "license": null,
+  "home_page": "https://github.com/vyasenov/pyleebounds",
+  "download_filename": "pyleebounds-0.2.0.tar.gz",
+  "download_time": "2025-07-26T21:21:30.414997",
+  "package_url": "https://pypi.org/project/pyleebounds/"
+}

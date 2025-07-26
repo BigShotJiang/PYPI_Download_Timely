@@ -1,0 +1,11 @@
+{
+  "name": "pyrulesrunner",
+  "version": "1.0.0",
+  "summary": "A lightweight Python test runner with method-level discovery and coverage reporting",
+  "author": "Pradeep Margasahayam Prakash",
+  "license": "MIT",
+  "home_page": "https://github.com/Pradeep241094/pythonrules",
+  "download_filename": "pyrulesrunner-1.0.0.tar.gz",
+  "download_time": "2025-07-26T21:21:25.739334",
+  "package_url": "https://pypi.org/project/pyrulesrunner/"
+}

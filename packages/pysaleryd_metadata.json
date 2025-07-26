@@ -1,11 +1,11 @@
 {
   "name": "pysaleryd",
-  "version": "7.3.1",
+  "version": "7.3.2",
   "summary": "Python library for controlling Saleryd HRV system",
   "author": "Björn Dalfors",
   "license": "MIT",
   "home_page": "https://github.com/bj00rn/pysaleryd/",
-  "download_filename": "pysaleryd-7.3.1.tar.gz",
-  "download_time": "2025-07-24T10:27:19.655924",
+  "download_filename": "pysaleryd-7.3.2.tar.gz",
+  "download_time": "2025-07-26T21:21:27.819988",
   "package_url": "https://pypi.org/project/pysaleryd/"
 }

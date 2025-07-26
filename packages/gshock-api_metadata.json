@@ -1,11 +1,11 @@
 {
   "name": "gshock-api",
-  "version": "2.0.17",
+  "version": "2.0.18",
   "summary": "Pythgon API for GShock Watches using BLE",
   "author": "Ivo Zivkov",
   "license": null,
   "home_page": "https://github.com/pyscaffold/pyscaffold/",
-  "download_filename": "gshock_api-2.0.17.tar.gz",
-  "download_time": "2025-07-26T18:59:09.085536",
+  "download_filename": "gshock_api-2.0.18.tar.gz",
+  "download_time": "2025-07-26T21:21:21.559470",
   "package_url": "https://pypi.org/project/gshock-api/"
 }

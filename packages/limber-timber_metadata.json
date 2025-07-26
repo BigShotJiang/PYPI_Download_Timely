@@ -1,0 +1,11 @@
+{
+  "name": "limber-timber",
+  "version": "0.0.4",
+  "summary": "Database Migrations Made Easy",
+  "author": "Daniel Tashjian",
+  "license": "MIT",
+  "home_page": "https://github.com/Wopple/limber-timber",
+  "download_filename": "limber_timber-0.0.4.tar.gz",
+  "download_time": "2025-07-26T21:21:21.040680",
+  "package_url": "https://pypi.org/project/limber-timber/"
+}

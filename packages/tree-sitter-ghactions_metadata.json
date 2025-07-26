@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-ghactions",
+  "version": "0.1.2",
+  "summary": "Parser for Github Actions expressions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_ghactions-0.1.2.tar.gz",
+  "download_time": "2025-07-26T21:21:31.457394",
+  "package_url": "https://pypi.org/project/tree-sitter-ghactions/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-dbmi-client",
+  "version": "2.4.1",
+  "summary": null,
+  "author": "HMS DBMI Tech-core",
+  "license": "Creative Commons Attribution-Noncommercial-Share Alike license",
+  "home_page": "https://github.com/hms-dbmi/django-dbmi-client",
+  "download_filename": "django-dbmi-client-2.4.1.tar.gz",
+  "download_time": "2025-07-26T21:21:32.487602",
+  "package_url": "https://pypi.org/project/django-dbmi-client/"
+}
