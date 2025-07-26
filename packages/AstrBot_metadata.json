@@ -1,0 +1,11 @@
+{
+  "name": "AstrBot",
+  "version": "3.5.23",
+  "summary": "易上手的多平台 LLM 聊天机器人及开发框架",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrbot-3.5.23.tar.gz",
+  "download_time": "2025-07-26T09:43:50.535266",
+  "package_url": "https://pypi.org/project/AstrBot/"
+}

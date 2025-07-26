@@ -1,11 +1,11 @@
 {
   "name": "repo-scaffold",
-  "version": "0.12.1",
+  "version": "0.13.0",
   "summary": "shawn deng repo temple project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "repo_scaffold-0.12.1.tar.gz",
-  "download_time": "2025-07-25T10:28:08.826149",
+  "download_filename": "repo_scaffold-0.13.0.tar.gz",
+  "download_time": "2025-07-26T09:43:20.135568",
   "package_url": "https://pypi.org/project/repo-scaffold/"
 }

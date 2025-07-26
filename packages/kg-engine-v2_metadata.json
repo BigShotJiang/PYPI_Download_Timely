@@ -1,11 +1,11 @@
 {
   "name": "kg-engine-v2",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Advanced Knowledge Graph Engine with semantic search and temporal tracking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kg_engine_v2-2.3.0.tar.gz",
-  "download_time": "2025-07-26T06:33:16.475367",
+  "download_filename": "kg_engine_v2-2.3.1.tar.gz",
+  "download_time": "2025-07-26T09:43:34.803776",
   "package_url": "https://pypi.org/project/kg-engine-v2/"
 }

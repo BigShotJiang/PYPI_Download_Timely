@@ -1,0 +1,11 @@
+{
+  "name": "sproclib",
+  "version": "3.0.1",
+  "summary": "Standard Process Control Library for chemical process control - Semantic API for chemical plant design using familiar ML patterns",
+  "author": "Thorsten Gressling",
+  "license": "MIT",
+  "home_page": "https://github.com/gressling/sproclib",
+  "download_filename": "sproclib-3.0.1-py3-none-any.whl",
+  "download_time": "2025-07-26T09:43:36.396931",
+  "package_url": "https://pypi.org/project/sproclib/"
+}

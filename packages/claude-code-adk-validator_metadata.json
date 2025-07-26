@@ -1,11 +1,11 @@
 {
   "name": "claude-code-adk-validator",
-  "version": "1.11.4",
+  "version": "1.12.2",
   "summary": "Hybrid security + TDD validation for Claude Code with automatic test result capture using Google Gemini",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_adk_validator-1.11.4.tar.gz",
-  "download_time": "2025-07-25T19:00:19.790658",
+  "download_filename": "claude_code_adk_validator-1.12.2.tar.gz",
+  "download_time": "2025-07-26T09:43:53.150106",
   "package_url": "https://pypi.org/project/claude-code-adk-validator/"
 }
