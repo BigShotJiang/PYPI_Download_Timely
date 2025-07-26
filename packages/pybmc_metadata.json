@@ -1,0 +1,11 @@
+{
+  "name": "pybmc",
+  "version": "0.1.0",
+  "summary": "A package for Bayesian model combination",
+  "author": "Kyle Godbey",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/ascsn/pybmc",
+  "download_filename": "pybmc-0.1.0.tar.gz",
+  "download_time": "2025-07-26T18:32:50.493597",
+  "package_url": "https://pypi.org/project/pybmc/"
+}

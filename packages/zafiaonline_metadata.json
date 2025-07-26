@@ -1,0 +1,11 @@
+{
+  "name": "zafiaonline",
+  "version": "5.4.0",
+  "summary": "A Python API library for interacting with Mafia Online game.",
+  "author": "unelected",
+  "license": "LGPL-2.1",
+  "home_page": null,
+  "download_filename": "zafiaonline-5.4.0.tar.gz",
+  "download_time": "2025-07-26T18:33:01.481357",
+  "package_url": "https://pypi.org/project/zafiaonline/"
+}

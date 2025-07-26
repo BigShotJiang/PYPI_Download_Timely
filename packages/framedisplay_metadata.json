@@ -1,0 +1,11 @@
+{
+  "name": "framedisplay",
+  "version": "1.1.2",
+  "summary": "Post-mortem debugging tools for Python",
+  "author": "Nima Sarang",
+  "license": null,
+  "home_page": "https://github.com/nsarang/framedisplay",
+  "download_filename": "framedisplay-1.1.2.tar.gz",
+  "download_time": "2025-07-26T18:32:49.401560",
+  "package_url": "https://pypi.org/project/framedisplay/"
+}

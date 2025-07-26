@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-firebolt",
+  "version": "2.0.30",
+  "summary": "Source implementation for Firebolt.",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_firebolt-2.0.30.tar.gz",
+  "download_time": "2025-07-26T18:32:57.838875",
+  "package_url": "https://pypi.org/project/airbyte-source-firebolt/"
+}

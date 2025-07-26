@@ -1,0 +1,11 @@
+{
+  "name": "pwlf",
+  "version": "2.5.2",
+  "summary": "fit piecewise linear functions to data",
+  "author": "Charles Jekel",
+  "license": "MIT License",
+  "home_page": "https://github.com/cjekel/piecewise_linear_fit_py",
+  "download_filename": "pwlf-2.5.2-py3-none-any.whl",
+  "download_time": "2025-07-26T18:32:56.261249",
+  "package_url": "https://pypi.org/project/pwlf/"
+}
