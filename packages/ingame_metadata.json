@@ -1,11 +1,11 @@
 {
   "name": "ingame",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A window and UI library based on tkinter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ingame-0.1.6.tar.gz",
-  "download_time": "2025-07-27T21:54:11.317233",
+  "download_filename": "ingame-0.1.7.tar.gz",
+  "download_time": "2025-07-27T22:23:32.135065",
   "package_url": "https://pypi.org/project/ingame/"
 }

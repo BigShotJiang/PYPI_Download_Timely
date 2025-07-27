@@ -1,11 +1,11 @@
 {
   "name": "pystatar",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Comprehensive Python package providing Stata-equivalent commands for pandas DataFrames",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pystatar-0.1.3.tar.gz",
-  "download_time": "2025-07-27T21:54:15.569573",
+  "download_filename": "pystatar-0.1.4.tar.gz",
+  "download_time": "2025-07-27T22:22:56.090214",
   "package_url": "https://pypi.org/project/pystatar/"
 }
