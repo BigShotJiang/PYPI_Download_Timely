@@ -1,0 +1,11 @@
+{
+  "name": "fields-local",
+  "version": "0.0.12",
+  "summary": "PyPI Package for Circles fields-local Python",
+  "author": "Circles",
+  "license": null,
+  "home_page": "https://github.com/circles-zone/fields-local-python-package",
+  "download_filename": "fields_local-0.0.12.tar.gz",
+  "download_time": "2025-07-27T19:25:24.121565",
+  "package_url": "https://pypi.org/project/fields-local/"
+}

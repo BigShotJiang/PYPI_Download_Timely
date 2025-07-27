@@ -1,11 +1,11 @@
 {
   "name": "swe-ai-agent",
-  "version": "1.0.82",
+  "version": "1.0.83",
   "summary": "SWE Agent - Headless Agentic IDE with comprehensive tool support",
   "author": "Harish SG",
   "license": null,
   "home_page": "https://github.com/harishsg993010/swe-ai-agent",
-  "download_filename": "swe_ai_agent-1.0.82.tar.gz",
-  "download_time": "2025-07-27T18:35:21.833650",
+  "download_filename": "swe_ai_agent-1.0.83.tar.gz",
+  "download_time": "2025-07-27T19:25:19.345066",
   "package_url": "https://pypi.org/project/swe-ai-agent/"
 }

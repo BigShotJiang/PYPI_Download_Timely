@@ -1,0 +1,11 @@
+{
+  "name": "maturin",
+  "version": "1.9.2",
+  "summary": "Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",
+  "author": "konstin <konstin@mailbox.org>, messense <messense@icloud.com>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/pyo3/maturin",
+  "download_filename": "maturin-1.9.2.tar.gz",
+  "download_time": "2025-07-27T19:25:25.731494",
+  "package_url": "https://pypi.org/project/maturin/"
+}

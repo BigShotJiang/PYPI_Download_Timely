@@ -1,0 +1,11 @@
+{
+  "name": "youtube-toolkit",
+  "version": "0.1.0",
+  "summary": "MCP server for YouTube content analysis, transcript extraction, and creator style profiling with intelligent caching and rate limit protection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "youtube_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-07-27T19:25:38.261234",
+  "package_url": "https://pypi.org/project/youtube-toolkit/"
+}

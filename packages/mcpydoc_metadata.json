@@ -1,0 +1,11 @@
+{
+  "name": "mcpydoc",
+  "version": "0.2.0",
+  "summary": "Model Context Protocol (MCP) server providing documentation and code analysis for Python packages",
+  "author": "Amit Ronen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpydoc-0.2.0.tar.gz",
+  "download_time": "2025-07-27T19:25:26.771753",
+  "package_url": "https://pypi.org/project/mcpydoc/"
+}

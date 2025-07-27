@@ -1,11 +1,11 @@
 {
   "name": "debug-dojo",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Debbugging dojo for Python developers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "debug_dojo-0.3.0.tar.gz",
-  "download_time": "2025-07-27T18:59:29.124848",
+  "download_filename": "debug_dojo-0.3.1.tar.gz",
+  "download_time": "2025-07-27T19:25:37.223549",
   "package_url": "https://pypi.org/project/debug-dojo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "py_sysml_rdf",
+  "version": "0.0.2",
+  "summary": "KA Python library providing RDF ontology definitions for SysML.",
+  "author": "Dirk Friedenberger",
+  "license": "MIT",
+  "home_page": "https://github.com/dfriedenberger/sysml-rdf-model",
+  "download_filename": "py_sysml_rdf-0.0.2.tar.gz",
+  "download_time": "2025-07-27T19:25:20.940861",
+  "package_url": "https://pypi.org/project/py_sysml_rdf/"
+}
