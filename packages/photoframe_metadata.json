@@ -1,0 +1,11 @@
+{
+  "name": "photoframe",
+  "version": "0.1.4",
+  "summary": "A CLI tool for adding watermarks to photos with lossless output and Chinese font support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "photoframe-0.1.4.tar.gz",
+  "download_time": "2025-07-27T03:54:00.388748",
+  "package_url": "https://pypi.org/project/photoframe/"
+}

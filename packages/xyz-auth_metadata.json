@@ -1,0 +1,11 @@
+{
+  "name": "xyz-auth",
+  "version": "0.3.1",
+  "summary": "auth common api",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-auth",
+  "download_filename": "xyz_auth-0.3.1-py3-none-any.whl",
+  "download_time": "2025-07-27T03:54:26.400462",
+  "package_url": "https://pypi.org/project/xyz-auth/"
+}

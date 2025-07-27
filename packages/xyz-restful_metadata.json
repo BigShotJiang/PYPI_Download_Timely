@@ -1,0 +1,11 @@
+{
+  "name": "xyz-restful",
+  "version": "0.3.2",
+  "summary": "restful utils",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-restful",
+  "download_filename": "xyz_restful-0.3.2-py3-none-any.whl",
+  "download_time": "2025-07-27T03:54:04.600638",
+  "package_url": "https://pypi.org/project/xyz-restful/"
+}

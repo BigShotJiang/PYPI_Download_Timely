@@ -1,11 +1,11 @@
 {
   "name": "mcp-jira-confluence",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "Model Context Protocol server for Jira and Confluence",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_jira_confluence-0.1.9.tar.gz",
-  "download_time": "2025-07-26T15:25:04.521822",
+  "download_filename": "mcp_jira_confluence-0.2.1.tar.gz",
+  "download_time": "2025-07-27T03:54:17.699426",
   "package_url": "https://pypi.org/project/mcp-jira-confluence/"
 }

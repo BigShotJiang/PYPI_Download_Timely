@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-aeat",
+  "version": "18.0.1.3.3.2",
+  "summary": "Modulo base para declaraciones de la AEAT",
+  "author": "Pexego, Acysos S.L., AvanzOSC, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_aeat-18.0.1.3.3.2-py3-none-any.whl",
+  "download_time": "2025-07-27T03:54:12.425852",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-aeat/"
+}

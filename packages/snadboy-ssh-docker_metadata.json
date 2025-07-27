@@ -1,11 +1,11 @@
 {
   "name": "snadboy-ssh-docker",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A Python library for managing Docker containers over SSH connections",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snadboy_ssh_docker-0.1.1.tar.gz",
-  "download_time": "2025-07-25T19:25:52.066908",
+  "download_filename": "snadboy_ssh_docker-0.2.0.tar.gz",
+  "download_time": "2025-07-27T03:53:59.327294",
   "package_url": "https://pypi.org/project/snadboy-ssh-docker/"
 }

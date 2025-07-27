@@ -1,0 +1,11 @@
+{
+  "name": "bconsole",
+  "version": "0.0.26",
+  "summary": "A logging library that provides helper classes and functions to colorize and manipulate terminal output easily.",
+  "author": "BetaKors",
+  "license": "MIT",
+  "home_page": "https://github.com/betakors/bconsole",
+  "download_filename": "bconsole-0.0.26.tar.gz",
+  "download_time": "2025-07-27T03:54:12.957765",
+  "package_url": "https://pypi.org/project/bconsole/"
+}

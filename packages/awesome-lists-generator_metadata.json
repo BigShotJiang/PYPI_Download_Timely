@@ -1,0 +1,11 @@
+{
+  "name": "awesome-lists-generator",
+  "version": "0.1.0a2",
+  "summary": "Create markdown based Awesome Lists from yaml files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awesome_lists_generator-0.1.0a2.tar.gz",
+  "download_time": "2025-07-27T03:54:09.808096",
+  "package_url": "https://pypi.org/project/awesome-lists-generator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isaacus",
+  "version": "0.8.0",
+  "summary": "The official Python library for the isaacus API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "isaacus-0.8.0.tar.gz",
+  "download_time": "2025-07-27T03:54:14.026467",
+  "package_url": "https://pypi.org/project/isaacus/"
+}

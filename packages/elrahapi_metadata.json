@@ -1,0 +1,11 @@
+{
+  "name": "elrahapi",
+  "version": "1.1.9",
+  "summary": "Package de développement d'API basé FastAPI",
+  "author": "Harlequelrah",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/Harlequelrah/Library-ElrahAPI",
+  "download_filename": "elrahapi-1.1.9.tar.gz",
+  "download_time": "2025-07-27T03:54:13.492430",
+  "package_url": "https://pypi.org/project/elrahapi/"
+}

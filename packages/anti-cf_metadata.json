@@ -1,0 +1,11 @@
+{
+  "name": "anti-cf",
+  "version": "1.1.1",
+  "summary": "Anti-CloudFlare package",
+  "author": "Steven Van Ingelgem",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anti_cf-1.1.1.tar.gz",
+  "download_time": "2025-07-27T03:54:01.948138",
+  "package_url": "https://pypi.org/project/anti-cf/"
+}

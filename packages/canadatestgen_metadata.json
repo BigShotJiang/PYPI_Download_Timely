@@ -1,0 +1,11 @@
+{
+  "name": "canadatestgen",
+  "version": "0.1.3",
+  "summary": "Generate fake Canadian-style test data with a simple CLI or Python module.",
+  "author": "Jeremie Nombro",
+  "license": null,
+  "home_page": "https://github.com/GuiNom16/canadatestgen",
+  "download_filename": "canadatestgen-0.1.3.tar.gz",
+  "download_time": "2025-07-27T03:54:05.113922",
+  "package_url": "https://pypi.org/project/canadatestgen/"
+}

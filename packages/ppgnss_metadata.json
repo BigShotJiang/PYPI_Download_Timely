@@ -1,0 +1,11 @@
+{
+  "name": "ppgnss",
+  "version": "1.7.9",
+  "summary": "Python Package of GNSS data processing",
+  "author": "Liang Zhang",
+  "license": null,
+  "home_page": "https://gitee.com/snnugiser/ppgnss",
+  "download_filename": "ppgnss-1.7.9.tar.gz",
+  "download_time": "2025-07-27T03:54:01.415501",
+  "package_url": "https://pypi.org/project/ppgnss/"
+}

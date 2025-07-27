@@ -1,11 +1,11 @@
 {
   "name": "hvala",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Compute the Approximate Vertex Cover for undirected graph encoded in DIMACS format.",
   "author": "Frank Vega",
   "license": "MIT License",
   "home_page": "https://github.com/frankvegadelgado/hvala",
-  "download_filename": "hvala-0.0.1.tar.gz",
-  "download_time": "2025-07-27T02:07:20.906885",
+  "download_filename": "hvala-0.0.3.tar.gz",
+  "download_time": "2025-07-27T03:53:56.720522",
   "package_url": "https://pypi.org/project/hvala/"
 }
