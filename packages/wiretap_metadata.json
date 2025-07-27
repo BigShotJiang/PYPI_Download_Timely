@@ -1,0 +1,11 @@
+{
+  "name": "wiretap",
+  "version": "12.0.0",
+  "summary": "This package provides a context-oriented logger.",
+  "author": "he-dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wiretap-12.0.0-py3-none-any.whl",
+  "download_time": "2025-07-27T20:26:18.700687",
+  "package_url": "https://pypi.org/project/wiretap/"
+}

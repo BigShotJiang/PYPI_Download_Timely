@@ -1,0 +1,11 @@
+{
+  "name": "parse-slice",
+  "version": "0.1.0a0",
+  "summary": "A Python function that normalizes and validates slice objects, converting `None` values to infinity and ensuring correct bounds based on the step direction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parse_slice-0.1.0a0.tar.gz",
+  "download_time": "2025-07-27T20:25:58.503554",
+  "package_url": "https://pypi.org/project/parse-slice/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "model-checker",
-  "version": "0.9.31",
+  "version": "0.9.33",
   "summary": "A hyperintensional theorem prover for modal, counterfactual conditional, constitutive explanatory, and extensional operators.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "model_checker-0.9.31.tar.gz",
-  "download_time": "2025-07-26T19:52:42.565976",
+  "download_filename": "model_checker-0.9.33.tar.gz",
+  "download_time": "2025-07-27T20:26:16.115614",
   "package_url": "https://pypi.org/project/model-checker/"
 }

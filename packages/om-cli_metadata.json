@@ -1,0 +1,11 @@
+{
+  "name": "om-cli",
+  "version": "0.1.0",
+  "summary": "Advanced Mental Health CLI Platform - Privacy-first wellness toolkit with AI coaching, CBT tools, crisis support, and evidence-based interventions",
+  "author": "frism",
+  "license": null,
+  "home_page": "https://github.com/frism/om",
+  "download_filename": "om_cli-0.1.0.tar.gz",
+  "download_time": "2025-07-27T20:26:26.398328",
+  "package_url": "https://pypi.org/project/om-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eth-wake",
+  "version": "4.20.0",
+  "summary": "Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors.",
+  "author": "Ackee Blockchain",
+  "license": "ISC",
+  "home_page": "https://getwake.io",
+  "download_filename": "eth_wake-4.20.0.tar.gz",
+  "download_time": "2025-07-27T20:26:06.270580",
+  "package_url": "https://pypi.org/project/eth-wake/"
+}

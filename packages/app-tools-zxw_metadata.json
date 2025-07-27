@@ -1,11 +1,11 @@
 {
   "name": "app-tools-zxw",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "更新： 全新苹果内购支付SDK，与旧版本不兼容",
   "author": "薛伟的小工具",
   "license": null,
   "home_page": "https://github.com/sunshineinwater/",
-  "download_filename": "app_tools_zxw-2.0.0.tar.gz",
-  "download_time": "2025-07-27T13:23:11.640535",
+  "download_filename": "app_tools_zxw-2.1.0.tar.gz",
+  "download_time": "2025-07-27T20:26:08.329012",
   "package_url": "https://pypi.org/project/app-tools-zxw/"
 }

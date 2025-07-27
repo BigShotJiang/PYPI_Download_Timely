@@ -1,0 +1,11 @@
+{
+  "name": "glu-cli",
+  "version": "2.6.0",
+  "summary": "A CLI tool to facilitate the developer workflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glu_cli-2.6.0.tar.gz",
+  "download_time": "2025-07-27T20:26:01.618043",
+  "package_url": "https://pypi.org/project/glu-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xword-dl",
+  "version": "2025.7.27",
+  "summary": "CLI download tool for online crossword puzzles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xword_dl-2025.7.27.tar.gz",
+  "download_time": "2025-07-27T20:26:14.061126",
+  "package_url": "https://pypi.org/project/xword-dl/"
+}

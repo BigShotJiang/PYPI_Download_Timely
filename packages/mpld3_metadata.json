@@ -1,0 +1,11 @@
+{
+  "name": "mpld3",
+  "version": "0.5.11",
+  "summary": "D3 Viewer for Matplotlib",
+  "author": "Jake VanderPlas",
+  "license": "BSD 3-clause",
+  "home_page": "http://mpld3.github.com",
+  "download_filename": "mpld3-0.5.11.tar.gz",
+  "download_time": "2025-07-27T20:26:05.742387",
+  "package_url": "https://pypi.org/project/mpld3/"
+}

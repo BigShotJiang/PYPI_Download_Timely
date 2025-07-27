@@ -1,11 +1,11 @@
 {
   "name": "grim-reaper",
-  "version": "1.0.33",
+  "version": "1.0.36",
   "summary": "Death Defying Data Protection - When data death comes knocking, Grim ensures resurrection is just a command away",
   "author": "Bernie Gengel and his beagle Buddy",
   "license": null,
   "home_page": "https://grim.so",
-  "download_filename": "grim_reaper-1.0.33.tar.gz",
-  "download_time": "2025-07-27T17:46:29.039242",
+  "download_filename": "grim-reaper-1.0.36.tar.gz",
+  "download_time": "2025-07-27T20:25:54.366418",
   "package_url": "https://pypi.org/project/grim-reaper/"
 }
