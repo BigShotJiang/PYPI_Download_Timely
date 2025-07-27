@@ -1,12 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T20:58:13.318430
-- **Total Packages**: 74
-- **Total Size**: 17.54 MB
+- **Download Time**: 2025-07-27T21:25:38.725343
+- **Total Packages**: 78
+- **Total Size**: 9.52 MB
 
 ## Packages List
+- vidnavigator
+- pydle
+- himosoft-payment-client
+- himosoft-payment-logging-client
+- crashlens
+- cramjam
+- perfectpizza
+- mimicx
+- biobase
+- smartrun
+- make-post-sell
+- pymodbus
+- ckb-textify
+- sqlmesh
+- pystatar
+- ThermoSim
+- agentle
+- BatchalignHK
+- batchalign
+- API-to-MCP-Generator
+- baderkit
+- escobar
+- cbler
 - algoflex
+- async-redis-rate-limiters
+- terminaide
+- layeutils
+- cc-validator
+- pyEDAA.OutputFilter
+- saftig
+- edq-lms-toolkit
+- intronator
 - blog-agent-framework
 - pwb-toolbox
 - zeroeval
@@ -35,7 +66,6 @@
 - tencentcloud-sdk-python-common
 - tencentcloud-sdk-python-cdn
 - tencentcloud-sdk-python-cdb
-- async-redis-rate-limiters
 - snadboy-ssh-docker
 - policyengine-us
 - tencentcloud-sdk-python-intl-en
@@ -44,39 +74,13 @@
 - syft-serve
 - noexcept
 - flet-charts
-- mimicx
 - par-mcp-inspector-tui
 - bootplot
 - gima
 - xtrack
-- API-to-MCP-Generator
 - deckgen
 - sf-music-calendar
 - tdd-guard-pytest
 - splitter-mr
 - ingame
 - path
-- magique
-- df-types
-- cffi-stubgen
-- wtfis
-- tccli-intl-en
-- nominal-api-protos
-- nominal-api
-- pex
-- maisaedu-poormans-dms
-- maisaedu-utilities-prefect
-- parse-lp
-- pystatar
-- orionis
-- meowda
-- metabase-api
-- aiobale
-- pianosdk
-- zmk
-- ast-grep-py
-- ast-grep-cli
-- duppla-slack
-- biobase
-- data-source-local
-- godot-universal-spritepacker

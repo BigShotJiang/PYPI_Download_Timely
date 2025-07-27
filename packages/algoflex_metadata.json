@@ -1,11 +1,11 @@
 {
   "name": "algoflex",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Algoflex - An algorithm practice TUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "algoflex-0.1.10.tar.gz",
-  "download_time": "2025-07-27T20:57:33.169331",
+  "download_filename": "algoflex-0.1.11.tar.gz",
+  "download_time": "2025-07-27T21:25:09.483012",
   "package_url": "https://pypi.org/project/algoflex/"
 }

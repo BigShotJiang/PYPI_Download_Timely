@@ -1,0 +1,11 @@
+{
+  "name": "pydle",
+  "version": "1.1.0",
+  "summary": "A compact, flexible, and standards-abiding IRC library for python3.",
+  "author": "Shiz",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pydle-1.1.0.tar.gz",
+  "download_time": "2025-07-27T21:24:57.611408",
+  "package_url": "https://pypi.org/project/pydle/"
+}

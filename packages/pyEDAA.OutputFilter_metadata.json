@@ -1,0 +1,11 @@
+{
+  "name": "pyEDAA.OutputFilter",
+  "version": "0.4.0",
+  "summary": "Post-processing of EDA Tool outputs (log files).",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/edaa-org/pyEDAA.OutputFilter",
+  "download_filename": "pyedaa_outputfilter-0.4.0.tar.gz",
+  "download_time": "2025-07-27T21:25:12.047903",
+  "package_url": "https://pypi.org/project/pyEDAA.OutputFilter/"
+}

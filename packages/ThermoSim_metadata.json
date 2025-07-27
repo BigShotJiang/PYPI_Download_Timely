@@ -1,0 +1,11 @@
+{
+  "name": "ThermoSim",
+  "version": "2.3.2",
+  "summary": "A simulation package for thermodynamic systems",
+  "author": "Md. Waheduzzaman Nouman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "thermosim-2.3.2.tar.gz",
+  "download_time": "2025-07-27T21:25:05.353718",
+  "package_url": "https://pypi.org/project/ThermoSim/"
+}

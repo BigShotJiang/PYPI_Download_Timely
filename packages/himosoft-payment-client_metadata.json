@@ -1,0 +1,11 @@
+{
+  "name": "himosoft-payment-client",
+  "version": "1.0.0",
+  "summary": "A Python client library for integrating with the Himosoft Payment Logging API",
+  "author": "Himosoft",
+  "license": "MIT",
+  "home_page": "https://github.com/Swe-HimelRana/payment-logging-client",
+  "download_filename": "himosoft_payment_client-1.0.0.tar.gz",
+  "download_time": "2025-07-27T21:24:58.122610",
+  "package_url": "https://pypi.org/project/himosoft-payment-client/"
+}

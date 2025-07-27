@@ -1,0 +1,11 @@
+{
+  "name": "saftig",
+  "version": "0.1.1",
+  "summary": "Implementations of different static and adaptive filtering techniques for the prediction of a correlated signal component from witness signals.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "saftig-0.1.1.tar.gz",
+  "download_time": "2025-07-27T21:25:12.558517",
+  "package_url": "https://pypi.org/project/saftig/"
+}
