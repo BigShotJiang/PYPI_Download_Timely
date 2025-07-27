@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-ocr",
-  "version": "3.0.1429",
+  "version": "3.0.1431",
   "summary": "Tencent Cloud Ocr SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-ocr-3.0.1429.tar.gz",
-  "download_time": "2025-07-23T21:13:31.109338",
+  "download_filename": "tencentcloud-sdk-python-ocr-3.0.1431.tar.gz",
+  "download_time": "2025-07-27T20:57:43.475630",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-ocr/"
 }

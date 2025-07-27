@@ -1,12 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T20:46:24.187180
-- **Total Packages**: 70
-- **Total Size**: 18.3 MB
+- **Download Time**: 2025-07-27T20:58:13.318430
+- **Total Packages**: 74
+- **Total Size**: 17.54 MB
 
 ## Packages List
+- algoflex
+- blog-agent-framework
+- pwb-toolbox
+- zeroeval
+- mbta-mcp
+- rtv-solver
 - utils4plans
+- cribl-control-plane
+- lang-voter
+- synqly
+- aceiot-models
+- unit-converter-mcp
+- btd
+- tencentcloud-sdk-python-wsa
+- boot_dummy
+- tencentcloud-sdk-python-tsf
+- tencentcloud-sdk-python-ssl
+- tencentcloud-sdk-python-postgres
+- tencentcloud-sdk-python-ocr
+- tencentcloud-sdk-python-oceanus
+- tencentcloud-sdk-python-lke
+- tencentcloud-sdk-python-live
+- tencentcloud-sdk-python-lcic
+- tencentcloud-sdk-python-gs
+- tencentcloud-sdk-python-essbasic
+- tencentcloud-sdk-python-dsgc
+- tencentcloud-sdk-python-common
+- tencentcloud-sdk-python-cdn
+- tencentcloud-sdk-python-cdb
+- async-redis-rate-limiters
+- snadboy-ssh-docker
+- policyengine-us
+- tencentcloud-sdk-python-intl-en
+- ipyslides
+- iso-4217
 - syft-serve
 - noexcept
 - flet-charts
@@ -14,7 +48,6 @@
 - par-mcp-inspector-tui
 - bootplot
 - gima
-- rtv-solver
 - xtrack
 - API-to-MCP-Generator
 - deckgen
@@ -44,35 +77,6 @@
 - ast-grep-py
 - ast-grep-cli
 - duppla-slack
-- pwb-toolbox
 - biobase
-- zeroeval
 - data-source-local
 - godot-universal-spritepacker
-- grim-reaper
-- chebfun
-- hica
-- drux
-- aoc-data
-- intronator
-- definable
-- parse-slice
-- media-agent-mcp
-- django-structured-json-field
-- xync-schema
-- glu-cli
-- ispprogrammer
-- umlshapes
-- spatiomic
-- clash-cli
-- contextgem
-- mpld3
-- eth-wake
-- mbta-mcp
-- jjdiff
-- agentsystems-sdk
-- app-tools-zxw
-- robust-python-demo
-- higgs
-- core-aws
-- graphql-http-server

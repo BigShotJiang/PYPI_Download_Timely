@@ -1,0 +1,11 @@
+{
+  "name": "iso-4217",
+  "version": "0.7.250512",
+  "summary": "ISO 4217 currency code library",
+  "author": "Igor Kozyrenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iso_4217-0.7.250512.tar.gz",
+  "download_time": "2025-07-27T20:57:52.579336",
+  "package_url": "https://pypi.org/project/iso-4217/"
+}

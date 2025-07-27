@@ -1,0 +1,11 @@
+{
+  "name": "lang-voter",
+  "version": "0.1.0",
+  "summary": "Voting-based sentence-level language classifier for Indian languages",
+  "author": "Yash Ingle",
+  "license": null,
+  "home_page": "https://github.com/yashingle-ai/lang_voter",
+  "download_filename": "lang_voter-0.1.0.tar.gz",
+  "download_time": "2025-07-27T20:57:38.187542",
+  "package_url": "https://pypi.org/project/lang-voter/"
+}
