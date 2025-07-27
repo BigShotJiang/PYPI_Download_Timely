@@ -1,0 +1,11 @@
+{
+  "name": "game-utils",
+  "version": "0.2.4",
+  "summary": "A pygame engine for common game operations like vector math and maintaining events in the game loop",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "game_utils-0.2.4.tar.gz",
+  "download_time": "2025-07-27T13:49:23.079778",
+  "package_url": "https://pypi.org/project/game-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ecg-marker",
+  "version": "1.0.0",
+  "summary": "This program allows the interactive visualization and annotation of ECG tracings from input files (either raw data or previously annotated)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecg_marker-1.0.0.tar.gz",
+  "download_time": "2025-07-27T13:49:23.589109",
+  "package_url": "https://pypi.org/project/ecg-marker/"
+}

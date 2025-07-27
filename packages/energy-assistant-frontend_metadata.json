@@ -1,11 +1,11 @@
 {
   "name": "energy-assistant-frontend",
-  "version": "0.0.67",
+  "version": "0.0.68",
   "summary": "The Energy Assistant frontend",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "energy_assistant_frontend-0.0.67.tar.gz",
-  "download_time": "2025-07-26T09:43:50.001054",
+  "download_filename": "energy_assistant_frontend-0.0.68.tar.gz",
+  "download_time": "2025-07-27T13:49:27.240249",
   "package_url": "https://pypi.org/project/energy-assistant-frontend/"
 }

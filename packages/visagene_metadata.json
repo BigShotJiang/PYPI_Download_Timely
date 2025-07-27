@@ -1,11 +1,11 @@
 {
   "name": "visagene",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "Face detection and recognition library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "visagene-0.3.4.tar.gz",
-  "download_time": "2025-07-26T05:31:13.225623",
+  "download_filename": "visagene-0.3.6.tar.gz",
+  "download_time": "2025-07-27T13:49:22.059849",
   "package_url": "https://pypi.org/project/visagene/"
 }

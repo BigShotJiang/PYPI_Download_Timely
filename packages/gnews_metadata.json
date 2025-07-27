@@ -1,0 +1,11 @@
+{
+  "name": "gnews",
+  "version": "0.4.2",
+  "summary": "Provide an API to search for articles on Google News and returns a usable JSON response.",
+  "author": "Muhammad Abdullah",
+  "license": null,
+  "home_page": "https://github.com/ranahaani/GNews/",
+  "download_filename": "gnews-0.4.2.tar.gz",
+  "download_time": "2025-07-27T13:49:16.362437",
+  "package_url": "https://pypi.org/project/gnews/"
+}

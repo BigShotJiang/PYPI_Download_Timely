@@ -1,0 +1,11 @@
+{
+  "name": "pam-python",
+  "version": "0.1.25",
+  "summary": "Pam Python Library",
+  "author": "Narongrit Kanhanoi",
+  "license": null,
+  "home_page": "https://github.com/heart/pam-python",
+  "download_filename": "pam_python-0.1.25.tar.gz",
+  "download_time": "2025-07-27T13:49:17.554932",
+  "package_url": "https://pypi.org/project/pam-python/"
+}

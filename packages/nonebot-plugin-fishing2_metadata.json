@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-fishing2",
+  "version": "0.1.1",
+  "summary": "更好的电子钓鱼",
+  "author": "ALittleBot",
+  "license": "MIT",
+  "home_page": "https://github.com/GLDYM/nonebot-plugin-fishing2",
+  "download_filename": "nonebot_plugin_fishing2-0.1.1.tar.gz",
+  "download_time": "2025-07-27T13:49:22.569753",
+  "package_url": "https://pypi.org/project/nonebot-plugin-fishing2/"
+}
