@@ -1,11 +1,11 @@
 {
   "name": "duppla-slack",
-  "version": "2025.7.27.15.14",
+  "version": "2025.7.27.15.28",
   "summary": "Custom implementation for Slack API",
   "author": "duppla",
   "license": null,
   "home_page": null,
-  "download_filename": "duppla_slack-2025.7.27.15.14-py3-none-any.whl",
-  "download_time": "2025-07-27T20:26:03.167617",
+  "download_filename": "duppla_slack-2025.7.27.15.28-py3-none-any.whl",
+  "download_time": "2025-07-27T20:46:06.265572",
   "package_url": "https://pypi.org/project/duppla-slack/"
 }

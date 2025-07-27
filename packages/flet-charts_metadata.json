@@ -1,0 +1,11 @@
+{
+  "name": "flet-charts",
+  "version": "0.2.0.dev35",
+  "summary": "A Flet extension for creating interactive charts and graphs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_charts-0.2.0.dev35.tar.gz",
+  "download_time": "2025-07-27T20:45:48.271900",
+  "package_url": "https://pypi.org/project/flet-charts/"
+}

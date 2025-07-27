@@ -1,0 +1,11 @@
+{
+  "name": "wtfis",
+  "version": "0.13.0",
+  "summary": "Passive hostname, domain and IP lookup tool for non-robots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wtfis-0.13.0.tar.gz",
+  "download_time": "2025-07-27T20:45:57.215803",
+  "package_url": "https://pypi.org/project/wtfis/"
+}

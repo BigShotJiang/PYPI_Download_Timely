@@ -1,0 +1,11 @@
+{
+  "name": "metabase-api",
+  "version": "3.5.2",
+  "summary": "A Python Wrapper for Metabase API",
+  "author": "Vahid Vaezian",
+  "license": null,
+  "home_page": "https://github.com/vvaezian/metabase_api_python",
+  "download_filename": "metabase-api-3.5.2.tar.gz",
+  "download_time": "2025-07-27T20:46:03.113768",
+  "package_url": "https://pypi.org/project/metabase-api/"
+}

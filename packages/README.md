@@ -1,18 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T20:26:31.475512
-- **Total Packages**: 71
-- **Total Size**: 20.87 MB
+- **Download Time**: 2025-07-27T20:46:24.187180
+- **Total Packages**: 70
+- **Total Size**: 18.3 MB
 
 ## Packages List
+- utils4plans
+- syft-serve
+- noexcept
+- flet-charts
+- mimicx
+- par-mcp-inspector-tui
+- bootplot
+- gima
+- rtv-solver
+- xtrack
+- API-to-MCP-Generator
+- deckgen
+- sf-music-calendar
+- tdd-guard-pytest
+- splitter-mr
+- ingame
+- path
+- magique
+- df-types
+- cffi-stubgen
+- wtfis
+- tccli-intl-en
+- nominal-api-protos
+- nominal-api
+- pex
+- maisaedu-poormans-dms
+- maisaedu-utilities-prefect
+- parse-lp
+- pystatar
+- orionis
+- meowda
+- metabase-api
+- aiobale
+- pianosdk
+- zmk
+- ast-grep-py
+- ast-grep-cli
+- duppla-slack
+- pwb-toolbox
+- biobase
+- zeroeval
 - data-source-local
 - godot-universal-spritepacker
-- mimicx
-- noexcept
 - grim-reaper
 - chebfun
-- rtv-solver
 - hica
 - drux
 - aoc-data
@@ -21,11 +59,9 @@
 - parse-slice
 - media-agent-mcp
 - django-structured-json-field
-- pystatar
 - xync-schema
 - glu-cli
 - ispprogrammer
-- duppla-slack
 - umlshapes
 - spatiomic
 - clash-cli
@@ -40,40 +76,3 @@
 - higgs
 - core-aws
 - graphql-http-server
-- deckgen
-- robotframework-visualizer
-- xync-client
-- demiurg
-- pyopencl
-- moose-cli
-- xword-dl
-- localdex
-- simple-orm-sqlite
-- model-checker
-- x-transformers
-- salp
-- moose-lib
-- cc-validator
-- wiretap
-- bjdata
-- vellum-workflow-server
-- graphiti-core-falkordb
-- qelm
-- core-ciphers
-- iragent
-- corgea-cli
-- elpie
-- sqla-filter
-- rat-king-parser
-- clselove
-- liege.urban
-- om-cli
-- ui-mcp-server
-- datapatch
-- ballchasing-scrape
-- gitlab-projects-migrate
-- btd
-- staticdash
-- bluer-ugv
-- orq-ai-sdk
-- btreeny

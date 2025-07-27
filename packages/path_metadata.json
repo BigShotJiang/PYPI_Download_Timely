@@ -1,0 +1,11 @@
+{
+  "name": "path",
+  "version": "17.1.1",
+  "summary": "A module wrapper for os.path",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "path-17.1.1.tar.gz",
+  "download_time": "2025-07-27T20:45:55.103609",
+  "package_url": "https://pypi.org/project/path/"
+}

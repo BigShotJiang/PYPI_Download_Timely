@@ -1,11 +1,11 @@
 {
   "name": "tdd-guard-pytest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Pytest plugin for TDD Guard - enforces Test-Driven Development principles",
   "author": "Nizar Selander, Durafen",
   "license": null,
   "home_page": null,
-  "download_filename": "tdd_guard_pytest-0.1.0.tar.gz",
-  "download_time": "2025-07-24T19:00:25.222209",
+  "download_filename": "tdd_guard_pytest-0.1.1.tar.gz",
+  "download_time": "2025-07-27T20:45:53.509295",
   "package_url": "https://pypi.org/project/tdd-guard-pytest/"
 }

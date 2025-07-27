@@ -1,11 +1,11 @@
 {
   "name": "xtrack",
-  "version": "0.86.2",
+  "version": "0.86.3",
   "summary": "Tracking library for particle accelerators",
   "author": "G. Iadarola et al.",
   "license": "Apache 2.0",
   "home_page": "https://xsuite.readthedocs.io/",
-  "download_filename": "xtrack-0.86.2.tar.gz",
-  "download_time": "2025-07-24T19:00:40.314559",
+  "download_filename": "xtrack-0.86.3.tar.gz",
+  "download_time": "2025-07-27T20:45:51.407177",
   "package_url": "https://pypi.org/project/xtrack/"
 }
