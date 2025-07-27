@@ -1,11 +1,11 @@
 {
   "name": "xax",
-  "version": "0.3.8",
+  "version": "0.3.10",
   "summary": "A library for fast Jax experimentation",
   "author": "Benjamin Bolte",
   "license": null,
   "home_page": "https://github.com/kscalelabs/xax",
-  "download_filename": "xax-0.3.8.tar.gz",
-  "download_time": "2025-07-27T02:07:43.270698",
+  "download_filename": "xax-0.3.10.tar.gz",
+  "download_time": "2025-07-27T06:34:50.526994",
   "package_url": "https://pypi.org/project/xax/"
 }

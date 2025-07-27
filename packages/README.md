@@ -1,18 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T05:51:58.837004
-- **Total Packages**: 69
-- **Total Size**: 10.95 MB
+- **Download Time**: 2025-07-27T06:35:27.581155
+- **Total Packages**: 77
+- **Total Size**: 14.2 MB
 
 ## Packages List
+- dapu
+- ai-edge-litert-sdk-mediatek-nightly
+- mlsauce
+- ai-edge-litert-sdk-qualcomm-nightly
+- mlforgex
+- lybic
+- zai-sdk
+- xmodules
+- logsentinelai
+- rajnish-dc-crystal
+- garin54-strands-hello
+- spatialcell
+- contextq
+- abstr
+- fastdataframe
+- terminalpainter
+- jaganathanj
+- FermaCongress
+- xax
+- tomodo
+- wsgi-to-zpm
+- julia-browser
+- fatum
+- ms-agent
+- triz-ai-patent-assistant
+- flowmotion
+- tiferet
+- ai-edge-litert-nightly
+- scraper2_hj3415
+- pyg-nightly
+- media-agent-mcp
+- withpi
+- leap-bundle
+- darknet2any
+- Rubka
+- lamda
+- tart-tools
+- tart
+- liminal-cli
+- django-revolution
+- stx-pysdk
+- duckbridge
+- hyperparse
 - freealg
 - eclyptic
 - live2d-py
-- abstr
-- spatialcell
 - v-installer
-- triz-ai-patent-assistant
 - prefig
 - segmentation-robustness-framework
 - permacache
@@ -23,13 +63,11 @@
 - label-sorter
 - jxORM
 - scoda-viz
-- flowmotion
 - myapp-betrand1999
 - noiv
 - gwtransport
 - magique
 - hijri-converter
-- media-agent-mcp
 - CodeMutator
 - dataplot
 - maths-add
@@ -38,7 +76,6 @@
 - css-tidy
 - flashinfer-python
 - OiBot
-- withpi
 - SecAutoBan
 - langchain_plainid
 - wakanda-whisper
@@ -46,32 +83,3 @@
 - stardewModPY
 - entropic-measurement
 - mcp-coroot
-- r-capture
-- Ryzenth
-- SMdRQA
-- pchjlib
-- video-edit-mcp
-- ai-subtitle-translator
-- quant-met
-- iamdata
-- appwrite-lab
-- asynctodon
-- dapu
-- dbpoint
-- FermaCongress
-- localtalk
-- fp-orchestrator-utils
-- eval-protocol
-- async_garlandtools
-- mcp-pypi-qj001a
-- magique-ai
-- logsentinelai
-- utils4plans
-- paraview-trame-components
-- trame-common
-- pants-wheel
-- syft-serve
-- bjdata
-- flask-ishuman
-- zep-crewai
-- airfoileditor

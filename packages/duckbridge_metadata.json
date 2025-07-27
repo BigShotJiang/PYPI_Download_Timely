@@ -1,0 +1,11 @@
+{
+  "name": "duckbridge",
+  "version": "0.4.0",
+  "summary": "A lightweight client-server library fluently extending DuckDB's httpserver setup to Python",
+  "author": "Markian Hromiak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckbridge-0.4.0.tar.gz",
+  "download_time": "2025-07-27T06:35:05.654766",
+  "package_url": "https://pypi.org/project/duckbridge/"
+}

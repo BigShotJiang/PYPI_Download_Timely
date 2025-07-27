@@ -1,11 +1,11 @@
 {
   "name": "darknet2any",
-  "version": "0.3.0",
+  "version": "0.3.5",
   "summary": "converts from darknet weights to tf, onnx, trt and other model formats",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "darknet2any-0.3.0.tar.gz",
-  "download_time": "2025-07-25T07:35:22.411231",
+  "download_filename": "darknet2any-0.3.5.tar.gz",
+  "download_time": "2025-07-27T06:35:00.875932",
   "package_url": "https://pypi.org/project/darknet2any/"
 }

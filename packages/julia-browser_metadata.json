@@ -1,11 +1,11 @@
 {
   "name": "julia-browser",
-  "version": "1.8.3",
+  "version": "1.8.5",
   "summary": "A comprehensive Python-based CLI web browser with JavaScript support and modern web compatibility",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "julia_browser-1.8.3-py3-none-any.whl",
-  "download_time": "2025-07-27T04:47:20.325051",
+  "download_filename": "julia_browser-1.8.5-py3-none-any.whl",
+  "download_time": "2025-07-27T06:34:52.448360",
   "package_url": "https://pypi.org/project/julia-browser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lamda",
+  "version": "8.45",
+  "summary": "Android reverse engineering & automation framework (Client API)",
+  "author": "rev1si0n",
+  "license": null,
+  "home_page": "https://github.com/firerpa/lamda",
+  "download_filename": "lamda-8.45.tar.gz",
+  "download_time": "2025-07-27T06:35:02.090282",
+  "package_url": "https://pypi.org/project/lamda/"
+}

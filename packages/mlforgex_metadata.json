@@ -1,11 +1,11 @@
 {
   "name": "mlforgex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support",
   "author": "Priyanshu Mathur",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/mlforge",
-  "download_filename": "mlforgex-1.0.3.tar.gz",
-  "download_time": "2025-07-26T17:26:24.950467",
+  "home_page": null,
+  "download_filename": "mlforgex-1.0.4.tar.gz",
+  "download_time": "2025-07-27T06:34:41.354745",
   "package_url": "https://pypi.org/project/mlforgex/"
 }
