@@ -1,11 +1,11 @@
 {
   "name": "fakexyz",
-  "version": "2.1",
+  "version": "2.2",
   "summary": "Generate fake user and address information for various countries.",
   "author": "Mahir Labib",
   "license": "MIT",
   "home_page": "https://github.com/bbinl/fakexyz.git",
-  "download_filename": "fakexyz-2.1.tar.gz",
-  "download_time": "2025-07-27T14:45:20.824619",
+  "download_filename": "fakexyz-2.2.tar.gz",
+  "download_time": "2025-07-27T14:56:23.553962",
   "package_url": "https://pypi.org/project/fakexyz/"
 }

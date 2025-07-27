@@ -1,11 +1,11 @@
 {
   "name": "portfolio-toolkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A comprehensive toolkit for portfolio analysis and management",
   "author": "Guido Genzone",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "portfolio_toolkit-0.1.1.tar.gz",
-  "download_time": "2025-07-25T10:52:03.019124",
+  "download_filename": "portfolio_toolkit-0.1.2.tar.gz",
+  "download_time": "2025-07-27T14:56:20.776934",
   "package_url": "https://pypi.org/project/portfolio-toolkit/"
 }

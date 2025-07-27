@@ -1,0 +1,11 @@
+{
+  "name": "wsdiff",
+  "version": "0.2.0",
+  "summary": "wsdiff is a tool that produces a syntax-highlighted, self-contained, static HTML file that will show a colored, syntax-highlighted diff of two files or folders without external dependencies or javascript.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wsdiff-0.2.0.tar.gz",
+  "download_time": "2025-07-27T14:56:16.835380",
+  "package_url": "https://pypi.org/project/wsdiff/"
+}

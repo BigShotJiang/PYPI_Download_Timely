@@ -1,11 +1,11 @@
 {
   "name": "mangoautomation",
-  "version": "1.0.55",
+  "version": "1.0.56",
   "summary": "测试工具",
   "author": "毛鹏",
   "license": null,
   "home_page": "https://gitee.com/mao-peng/testkit",
-  "download_filename": "mangoautomation-1.0.55.tar.gz",
-  "download_time": "2025-07-25T09:00:16.076508",
+  "download_filename": "mangoautomation-1.0.56.tar.gz",
+  "download_time": "2025-07-27T14:56:29.428008",
   "package_url": "https://pypi.org/project/mangoautomation/"
 }

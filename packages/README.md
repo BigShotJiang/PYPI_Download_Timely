@@ -1,14 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T14:45:40.429269
-- **Total Packages**: 81
-- **Total Size**: 31.51 MB
+- **Download Time**: 2025-07-27T14:57:00.305891
+- **Total Packages**: 80
+- **Total Size**: 15.22 MB
 
 ## Packages List
+- leap-model-parser
+- wsdiff
+- defuss-apl
+- code-loader
+- iracing-mcp-server
+- setup-poetry
+- core-db
+- InstaSpy
+- portfolio-toolkit
+- triz-ai-patent-assistant
+- ecg-marker
+- gshock-api
+- chaincash
+- fakexyz
+- PKDevTools
+- delos-llmax
+- context-portal-mcp
+- media-agent-mcp
+- jupyter-remote-kernel
+- claude-mpm
+- cwyodmodules
+- qiskit-connector
+- flowhunt
+- pytdc-nextml
+- mangoautomation
+- sqlalchemy-psql-upsert
+- robinzhon
+- streamlit-nightly
+- terminalpainter
+- ddcUtils
+- ytsaurus-client
+- mcp-graphql
+- kapso
+- xianb
+- anchorbrowser
+- charmcli
+- spec-server
+- tdastro
+- robhan-cdk-lib.aws-grafana
+- django-dbsync
+- academia-mcp
+- pyautoguide
+- shalinee-pattern-package
+- gbp-archive
+- picoquake
+- crawlo
+- eca-lib
 - inspect-ai
 - frogml
-- django-dbsync
 - graph-games-proto
 - reporters-db
 - core-ftp
@@ -19,10 +65,8 @@
 - netbox-plugin-dns
 - smartrun
 - rpcclient
-- media-agent-mcp
 - hallyd
 - tree-creator
-- pyautoguide
 - hugo
 - django-manifeststaticfiles-enhanced
 - coverage
@@ -42,48 +86,3 @@
 - bosesoundtouchapi
 - boot_dummy
 - sqlglot
-- pynenguk-quiz
-- hiten
-- academia-mcp
-- timecamp-mcp-server
-- simple-mcp-client
-- odoo14-addon-ssi-service
-- ccdexplorer-fundamentals
-- aiosmsactivate
-- akeyless-cdktf
-- fakexyz
-- qiskit-connector
-- spotifywebapipython
-- followthemoney
-- socket-jsonrpc
-- py-ark-vrf
-- tensordict-nightly
-- BharatFinTrack
-- exospherehost
-- gima
-- ttsim-backend
-- fastapi-mongo-base
-- core-etl
-- MaxBridge
-- casambi-bt-revamped
-- pycompgen
-- sqlBackup
-- fedapay-connector
-- rigour
-- gnews
-- bota
-- pam-python
-- aaxyumath
-- nonebot-plugin-fishing2
-- game-utils
-- ecg-marker
-- playdice
-- roboflow
-- digitalis
-- flowhunt
-- energy-assistant-frontend
-- webssh
-- wanip
-- fbgemm-gpu-nightly-cpu
-- pypatch-url
-- shinestacker

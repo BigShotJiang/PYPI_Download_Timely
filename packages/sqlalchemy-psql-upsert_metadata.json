@@ -1,11 +1,11 @@
 {
   "name": "sqlalchemy-psql-upsert",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "PostgreSQL upsert library with intelligent conflict resolution and multi-threaded processing",
   "author": "Joao Brito",
   "license": "MIT",
   "home_page": "https://github.com/machado000/sqlalchemy-psql-upsert",
-  "download_filename": "sqlalchemy_psql_upsert-1.1.1.tar.gz",
-  "download_time": "2025-07-24T17:21:28.949319",
+  "download_filename": "sqlalchemy_psql_upsert-1.2.0.tar.gz",
+  "download_time": "2025-07-27T14:56:29.950802",
   "package_url": "https://pypi.org/project/sqlalchemy-psql-upsert/"
 }

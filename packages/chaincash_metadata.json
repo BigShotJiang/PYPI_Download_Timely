@@ -1,0 +1,11 @@
+{
+  "name": "chaincash",
+  "version": "0.1.2",
+  "summary": "ChainCash - Crypto payments library for BEP20",
+  "author": "Saeed Noroozi",
+  "license": "MIT",
+  "home_page": "https://github.com/SaeedNoroozi/ChainCash",
+  "download_filename": "chaincash-0.1.2.tar.gz",
+  "download_time": "2025-07-27T14:56:22.995109",
+  "package_url": "https://pypi.org/project/chaincash/"
+}
