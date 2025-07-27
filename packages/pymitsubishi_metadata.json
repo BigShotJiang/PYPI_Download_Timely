@@ -1,11 +1,11 @@
 {
   "name": "pymitsubishi",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Control and monitor Mitsubishi Air Conditioners",
   "author": "Ashleigh Hopkins",
   "license": null,
   "home_page": "https://github.com/pymitsubishi/pymitsubishi",
-  "download_filename": "pymitsubishi-0.1.5.tar.gz",
-  "download_time": "2025-07-27T19:25:20.422649",
+  "download_filename": "pymitsubishi-0.1.6.tar.gz",
+  "download_time": "2025-07-27T21:43:05.394404",
   "package_url": "https://pypi.org/project/pymitsubishi/"
 }
