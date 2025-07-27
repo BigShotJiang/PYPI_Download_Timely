@@ -1,11 +1,11 @@
 {
   "name": "GanAI",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Gan AI API wrapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ganai-0.1.1.tar.gz",
-  "download_time": "2025-07-26T16:58:20.095091",
+  "download_filename": "ganai-0.1.2.tar.gz",
+  "download_time": "2025-07-27T09:56:14.425961",
   "package_url": "https://pypi.org/project/GanAI/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pycof",
+  "version": "1.5.9",
+  "summary": "A package for commonly used functions",
+  "author": "Florian Felice",
+  "license": null,
+  "home_page": "https://www.florianfelice.com/pycof",
+  "download_filename": "pycof-1.5.9.tar.gz",
+  "download_time": "2025-07-27T09:56:15.582589",
+  "package_url": "https://pypi.org/project/pycof/"
+}

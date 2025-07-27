@@ -1,0 +1,11 @@
+{
+  "name": "fails",
+  "version": "0.0.1",
+  "summary": "Safe dummy package to demonstrate PoC upload - cygut7.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://cygut7.cygut7",
+  "download_filename": "fails-0.0.1.tar.gz",
+  "download_time": "2025-07-27T09:56:33.312331",
+  "package_url": "https://pypi.org/project/fails/"
+}

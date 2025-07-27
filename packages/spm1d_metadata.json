@@ -1,0 +1,11 @@
+{
+  "name": "spm1d",
+  "version": "0.4.53",
+  "summary": "One-Dimensional Statistical Parametric Mapping",
+  "author": "Todd Pataky",
+  "license": null,
+  "home_page": "https://github.com/0todd0000/spm1d",
+  "download_filename": "spm1d-0.4.53.tar.gz",
+  "download_time": "2025-07-27T09:56:32.789880",
+  "package_url": "https://pypi.org/project/spm1d/"
+}

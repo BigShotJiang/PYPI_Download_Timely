@@ -1,0 +1,11 @@
+{
+  "name": "diacamma-syndic",
+  "version": "2.7.5.25070818",
+  "summary": "Condominium application.",
+  "author": "Lucterios",
+  "license": "GNU General Public License v3",
+  "home_page": "http://www.diacamma.fr",
+  "download_filename": "diacamma_syndic-2.7.5.25070818-py3-none-any.whl",
+  "download_time": "2025-07-27T09:56:21.638068",
+  "package_url": "https://pypi.org/project/diacamma-syndic/"
+}

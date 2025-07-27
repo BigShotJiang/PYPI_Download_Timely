@@ -1,0 +1,11 @@
+{
+  "name": "archive-all-my-mails",
+  "version": "0.1.0",
+  "summary": "A Python tool to archive all emails from Gmail inbox using the Gmail API",
+  "author": "Nathan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "archive_all_my_mails-0.1.0.tar.gz",
+  "download_time": "2025-07-27T09:56:34.397961",
+  "package_url": "https://pypi.org/project/archive-all-my-mails/"
+}

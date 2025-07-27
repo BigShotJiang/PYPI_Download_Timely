@@ -1,11 +1,11 @@
 {
   "name": "celery-simple-schedule",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightweight Python utility that simplifies defining Celery Beat schedules using a clean, declarative function-based API.",
   "author": "StanislavJPG",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "celery_simple_schedule-0.2.0.tar.gz",
-  "download_time": "2025-07-26T18:59:11.645110",
+  "download_filename": "celery_simple_schedule-0.2.1.tar.gz",
+  "download_time": "2025-07-27T09:56:16.138814",
   "package_url": "https://pypi.org/project/celery-simple-schedule/"
 }

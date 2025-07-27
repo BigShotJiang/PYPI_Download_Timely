@@ -1,11 +1,11 @@
 {
   "name": "kedro-mlflow",
-  "version": "0.14.5",
+  "version": "1.0.0",
   "summary": "A kedro-plugin to use mlflow in your kedro projects",
   "author": "Yolan Honoré-Rougé",
   "license": "Apache Software License (Apache 2.0)",
   "home_page": null,
-  "download_filename": "kedro_mlflow-0.14.5.tar.gz",
-  "download_time": "2025-07-27T08:51:12.437997",
+  "download_filename": "kedro_mlflow-1.0.0.tar.gz",
+  "download_time": "2025-07-27T09:56:33.875181",
   "package_url": "https://pypi.org/project/kedro-mlflow/"
 }

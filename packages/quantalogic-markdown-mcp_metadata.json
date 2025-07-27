@@ -1,11 +1,11 @@
 {
   "name": "quantalogic-markdown-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A flexible and extensible Markdown parser with AST support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quantalogic_markdown_mcp-0.1.1.tar.gz",
-  "download_time": "2025-07-27T06:59:27.054231",
+  "download_filename": "quantalogic_markdown_mcp-0.2.0.tar.gz",
+  "download_time": "2025-07-27T09:56:11.181592",
   "package_url": "https://pypi.org/project/quantalogic-markdown-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lucterios-contacts",
+  "version": "2.7.4.25070818",
+  "summary": "contacts managment module for Lucterios framework.",
+  "author": "Lucterios",
+  "license": "GNU General Public License v3",
+  "home_page": "http://www.lucterios.org",
+  "download_filename": "lucterios_contacts-2.7.4.25070818-py3-none-any.whl",
+  "download_time": "2025-07-27T09:56:36.277202",
+  "package_url": "https://pypi.org/project/lucterios-contacts/"
+}

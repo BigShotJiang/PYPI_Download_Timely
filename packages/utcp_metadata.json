@@ -1,0 +1,11 @@
+{
+  "name": "utcp",
+  "version": "0.1.8",
+  "summary": "Universal Tool Calling Protocol (UTCP) client library for Python",
+  "author": "Razvan-Ion Radulescu, Andrei-Stefan Ghiurtu, Juan Viera Garcia, Ali Raza, Ulugbek Isroilov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utcp-0.1.8.tar.gz",
+  "download_time": "2025-07-27T09:56:39.065639",
+  "package_url": "https://pypi.org/project/utcp/"
+}

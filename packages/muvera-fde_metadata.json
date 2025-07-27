@@ -1,0 +1,11 @@
+{
+  "name": "muvera-fde",
+  "version": "0.1.0",
+  "summary": "Python bindings for Google's graph-mining Fixed Dimensional Encoding (FDE) from MUVERA",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "muvera_fde-0.1.0.tar.gz",
+  "download_time": "2025-07-27T09:56:30.413554",
+  "package_url": "https://pypi.org/project/muvera-fde/"
+}

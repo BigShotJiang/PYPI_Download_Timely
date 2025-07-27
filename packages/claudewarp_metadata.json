@@ -1,0 +1,11 @@
+{
+  "name": "claudewarp",
+  "version": "0.0.14",
+  "summary": "Claude API proxy management tool with CLI and GUI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claudewarp-0.0.14.tar.gz",
+  "download_time": "2025-07-27T09:56:23.242883",
+  "package_url": "https://pypi.org/project/claudewarp/"
+}
