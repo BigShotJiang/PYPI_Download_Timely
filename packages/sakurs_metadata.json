@@ -1,0 +1,11 @@
+{
+  "name": "sakurs",
+  "version": "0.1.1",
+  "summary": "Fast, parallel sentence boundary detection using Delta-Stack Monoid algorithm",
+  "author": "sog4be <163720533+sog4be@users.noreply.github.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/sog4be/sakurs",
+  "download_filename": "sakurs-0.1.1-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-07-27T15:43:56.252261",
+  "package_url": "https://pypi.org/project/sakurs/"
+}

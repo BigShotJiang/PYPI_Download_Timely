@@ -1,0 +1,11 @@
+{
+  "name": "zensols-nlp",
+  "version": "1.12.6",
+  "summary": "This framework wraps the spaCy framework and creates light weight features in a class hierarchy that reflects the structure of natural language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_nlp-1.12.6-py3-none-any.whl",
+  "download_time": "2025-07-27T15:43:54.196605",
+  "package_url": "https://pypi.org/project/zensols-nlp/"
+}

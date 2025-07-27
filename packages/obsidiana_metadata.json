@@ -1,0 +1,11 @@
+{
+  "name": "obsidiana",
+  "version": "2025.7.7",
+  "summary": "Tools for working with Obsidian vault(s)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidiana-2025.7.7.tar.gz",
+  "download_time": "2025-07-27T15:43:52.649614",
+  "package_url": "https://pypi.org/project/obsidiana/"
+}

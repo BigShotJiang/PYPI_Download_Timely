@@ -1,0 +1,11 @@
+{
+  "name": "qredtea",
+  "version": "0.2.5",
+  "summary": "Quantum TEA's python tensor library beyond numpy/cupy",
+  "author": "Francesco Pio Barone, Flavio Baccari, Marco Ballarin, Alberto Coppi, Andrea De Girolamo, Daniel Jaschke, Luka Pavešić, Davide Rattacaso, Nora Reinić, Carmelo Mordini",
+  "license": null,
+  "home_page": "https://baltig.infn.it/quantum_red_tea/py_api_quantum_red_tea.git",
+  "download_filename": "qredtea-0.2.5.tar.gz",
+  "download_time": "2025-07-27T15:44:00.342867",
+  "package_url": "https://pypi.org/project/qredtea/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zenoo-rpc",
+  "version": "0.1.0",
+  "summary": "A zen-like, modern async Python library for Odoo RPC with type safety, transactions, caching, and superior DX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zenoo_rpc-0.1.0.tar.gz",
+  "download_time": "2025-07-27T15:44:07.539162",
+  "package_url": "https://pypi.org/project/zenoo-rpc/"
+}

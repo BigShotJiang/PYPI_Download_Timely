@@ -1,0 +1,11 @@
+{
+  "name": "bootwrap",
+  "version": "1.2.6",
+  "summary": "Package for rapid development of web-based user interfaces.",
+  "author": "Mykola Galushka",
+  "license": null,
+  "home_page": "https://github.com/mmgalushka/bootwrap",
+  "download_filename": "bootwrap-1.2.6.tar.gz",
+  "download_time": "2025-07-27T15:43:54.716335",
+  "package_url": "https://pypi.org/project/bootwrap/"
+}

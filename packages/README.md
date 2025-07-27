@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T15:24:15.301851
-- **Total Packages**: 81
-- **Total Size**: 23.29 MB
+- **Download Time**: 2025-07-27T15:44:24.781512
+- **Total Packages**: 74
+- **Total Size**: 12.52 MB
 
 ## Packages List
+- subtitle-tool
+- graph-games-proto
+- TRI-LBM
+- edi-cli
+- django-dbsync
+- academic-contacts
+- belton-api
+- triz-ai-patent-assistant
+- fixed-width-int
+- media-agent-mcp
+- jtable
+- eiogram
+- firedust
+- obsidiana
+- radex-booking
+- vrmlxpy
+- zensols-nlp
+- bootwrap
+- euclid_msi
+- earningspy
+- sakurs
+- medicafe
+- voice-mode
+- fortyseven-secrets
+- reolink-aio
+- lmstrix
+- tinyshare
+- fluidkit
+- qredtea
+- flowhunt
+- rara-meta-extractor
+- dj-notify
+- soga_ai
+- colight-prose
+- colight
+- greenflash
+- vit-pytorch
+- autocrud
+- pymetkit
+- ingame
+- dj-lite
+- torchrl-nightly
+- zenoo-rpc
+- copasi-petab-importer
 - autoclean-icvision
 - messenger-logger-callback
 - python-fofa-sy
@@ -13,14 +57,11 @@
 - metkitlib
 - julia-browser
 - openfl-nightly
-- academic-contacts
 - denoising-diffusion-pytorch
 - repo-smith
-- eiogram
 - ke-python-dubbo
 - peegy
 - necbol
-- vit-pytorch
 - par-mcp-inspector-tui
 - localdex
 - kubesplit
@@ -30,9 +71,7 @@
 - fakexyz
 - envist
 - streamlit-passwordless
-- vrmlxpy
 - bvwx
-- django-dbsync
 - iracing-mcp-server
 - metamorproxies
 - AHCodeCompiler
@@ -41,49 +80,3 @@
 - torrra
 - islam-sdk
 - numba-stats
-- medicafe
-- imfind
-- triz-ai-patent-assistant
-- abstractrepo
-- quantalogic-markdown-mcp
-- pex
-- ecg-marker
-- conjunto
-- library
-- mlrun
-- leap-model-parser
-- lessllm
-- record-list
-- academia-mcp
-- pywebtransport
-- pyobas
-- default_logging
-- wsdiff
-- defuss-apl
-- code-loader
-- core-db
-- InstaSpy
-- portfolio-toolkit
-- gshock-api
-- chaincash
-- PKDevTools
-- delos-llmax
-- context-portal-mcp
-- media-agent-mcp
-- jupyter-remote-kernel
-- claude-mpm
-- cwyodmodules
-- qiskit-connector
-- flowhunt
-- pytdc-nextml
-- mangoautomation
-- sqlalchemy-psql-upsert
-- robinzhon
-- streamlit-nightly
-- terminalpainter
-- ddcUtils
-- ytsaurus-client
-- mcp-graphql
-- kapso
-- xianb
-- anchorbrowser

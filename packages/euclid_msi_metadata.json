@@ -1,0 +1,11 @@
+{
+  "name": "euclid_msi",
+  "version": "0.0.5",
+  "summary": "A package for spatial lipidomics data analysis including preprocessing, embedding, clustering, postprocessing, case-control analysis, and plotting.",
+  "author": "Luca Fusar Bassini",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "euclid_msi-0.0.5.tar.gz",
+  "download_time": "2025-07-27T15:43:55.225559",
+  "package_url": "https://pypi.org/project/euclid_msi/"
+}
