@@ -1,11 +1,11 @@
 {
   "name": "noiv",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "🚀AI-Powered API Testing CLI - Generate tests from natural language, interactive builder, performance benchmarking, Postman import",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "noiv-0.2.7-py3-none-any.whl",
-  "download_time": "2025-07-27T05:51:32.946539",
+  "download_filename": "noiv-0.2.8-py3-none-any.whl",
+  "download_time": "2025-07-27T08:51:22.759988",
   "package_url": "https://pypi.org/project/noiv/"
 }

@@ -1,28 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T08:29:35.992061
-- **Total Packages**: 83
-- **Total Size**: 23.06 MB
+- **Download Time**: 2025-07-27T08:51:55.709770
+- **Total Packages**: 81
+- **Total Size**: 16.4 MB
 
 ## Packages List
+- logsentinelai
+- coffea
+- rtl-433-discoverandsubmit
+- tfp-nightly
+- sanctum
+- embcli-chroma
+- django-markup
+- kedro-mlflow
+- qalsadi
+- fastapi-mongo-base
+- dbmngrx
+- cssfix
+- yta-video-editor
+- model-logger-dp
+- print-tricks-and-more
+- mcp-foxxy-bridge
+- liblaf-tangerine
+- fakexyz
+- arxiv-dl
+- rs-audio-stats
+- brix-term
+- UltraQuery
+- deps-rocker
+- noiv
+- seguid
+- nvfuser-cu126
+- nvfuser-cu128
+- elasticrag
+- embcli-core
+- kuzu
+- plua
+- pyverto
+- feed2fedi
+- smartrun
+- nautobot-app-livedata
+- ai-bootstrap
+- port-pulumi
+- odoo-addon-l10n-es-aeat-mod130
+- xync-client
 - spatialcell
 - findpath
 - ML-Genius
-- rs-audio-stats
 - chainlit-aki
-- rtl-433-discoverandsubmit
 - abtree
 - atk-common
 - py-dimg4md
-- plua
 - hanzo-mcp
 - bridgecrew
 - pystatar
-- sanctum
 - csust-word-mcp-server
 - remoterunlib
-- smartrun
 - hybrid-groups
 - finam-trade-api
 - lucid-dl
@@ -41,7 +75,6 @@
 - minix
 - reicore-sdk
 - xmodules
-- logsentinelai
 - streamgrid
 - annofabcli
 - fzf-bin
@@ -54,38 +87,3 @@
 - fastapi-login-shield
 - PY-TELUGU-VERSION
 - workforce
-- absltest12345
-- dapu
-- crawlo
-- sklearn-migrator
-- PKDevTools
-- coffea
-- mcp-coroot
-- pyverto
-- gx-mcp-server
-- whatsloon
-- sense-table
-- embcli-chroma
-- scribe-python-client
-- twigs
-- garin54-slack-emoji-attached-strands
-- protograf
-- spiritlong
-- tomodo
-- pytest-rca-report
-- q-materialise
-- KeyisBClient
-- minienv
-- pypomes-s3
-- owa-msgs
-- owa-env-gst
-- owa-env-desktop
-- owa-core
-- owa-cli
-- ocap
-- mcap-owa-support
-- owa
-- pymcpevals
-- llm-client-redis
-- pystrfreq
-- arxiv-dl

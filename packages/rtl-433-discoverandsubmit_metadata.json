@@ -1,11 +1,11 @@
 {
   "name": "rtl-433-discoverandsubmit",
-  "version": "0.1.11",
+  "version": "0.1.121",
   "summary": "A small command line utility to connect to an MQTT server, listen to rtl_433 events and allow a user to generate auto-discovery config for home assistant for the devices they choose",
   "author": "Tom George",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rtl_433_discoverandsubmit-0.1.11.tar.gz",
-  "download_time": "2025-07-27T08:28:54.016021",
+  "download_filename": "rtl_433_discoverandsubmit-0.1.121.tar.gz",
+  "download_time": "2025-07-27T08:51:08.565189",
   "package_url": "https://pypi.org/project/rtl-433-discoverandsubmit/"
 }

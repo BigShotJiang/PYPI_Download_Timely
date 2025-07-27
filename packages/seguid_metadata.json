@@ -1,11 +1,11 @@
 {
   "name": "seguid",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Sequence Globally Unique Identifier (SEGUID) Checksums for Linear, Circular, Single-Stranded and Double-Stranded Biological Sequences",
   "author": "Bjorn Johansson",
   "license": "MIT",
   "home_page": "https://www.seguid.org",
-  "download_filename": "seguid-0.2.0.tar.gz",
-  "download_time": "2025-07-26T07:28:15.310487",
+  "download_filename": "seguid-0.2.1.tar.gz",
+  "download_time": "2025-07-27T08:51:23.404248",
   "package_url": "https://pypi.org/project/seguid/"
 }

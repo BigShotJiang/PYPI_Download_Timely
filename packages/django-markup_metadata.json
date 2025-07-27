@@ -1,0 +1,11 @@
+{
+  "name": "django-markup",
+  "version": "1.10",
+  "summary": "A generic Django application to convert text with specific markup to html.",
+  "author": "Martin Mahner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_markup-1.10.tar.gz",
+  "download_time": "2025-07-27T08:51:11.725412",
+  "package_url": "https://pypi.org/project/django-markup/"
+}

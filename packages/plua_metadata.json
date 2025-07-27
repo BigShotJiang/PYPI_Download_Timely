@@ -1,11 +1,11 @@
 {
   "name": "plua",
-  "version": "1.0.100",
+  "version": "1.0.101",
   "summary": "Python-Lua async runtime with timer support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plua-1.0.100.tar.gz",
-  "download_time": "2025-07-27T08:28:56.308276",
+  "download_filename": "plua-1.0.101.tar.gz",
+  "download_time": "2025-07-27T08:51:27.049157",
   "package_url": "https://pypi.org/project/plua/"
 }

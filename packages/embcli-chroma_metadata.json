@@ -1,11 +1,11 @@
 {
   "name": "embcli-chroma",
-  "version": "0.1.0.dev0",
+  "version": "0.1.0",
   "summary": "ChromaDB integration for embcli",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "embcli_chroma-0.1.0.dev0.tar.gz",
-  "download_time": "2025-07-27T07:42:54.313315",
+  "download_filename": "embcli_chroma-0.1.0.tar.gz",
+  "download_time": "2025-07-27T08:51:11.092422",
   "package_url": "https://pypi.org/project/embcli-chroma/"
 }

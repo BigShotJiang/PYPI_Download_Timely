@@ -1,0 +1,11 @@
+{
+  "name": "embcli-core",
+  "version": "0.1.2",
+  "summary": "embcli - CLI for Embeddings",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "embcli_core-0.1.2.tar.gz",
+  "download_time": "2025-07-27T08:51:25.827829",
+  "package_url": "https://pypi.org/project/embcli-core/"
+}

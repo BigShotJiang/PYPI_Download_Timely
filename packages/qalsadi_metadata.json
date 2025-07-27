@@ -1,0 +1,11 @@
+{
+  "name": "qalsadi",
+  "version": "0.5.1",
+  "summary": "Qalsadi Arabic Morphological Analyzer and lemmatizer for Python",
+  "author": "Taha Zerrouki",
+  "license": "GPL",
+  "home_page": "http://qalsadi.sourceforge.net/",
+  "download_filename": "qalsadi-0.5.1-py3-none-any.whl",
+  "download_time": "2025-07-27T08:51:13.072828",
+  "package_url": "https://pypi.org/project/qalsadi/"
+}

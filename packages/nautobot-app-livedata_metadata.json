@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-app-livedata",
+  "version": "2.4.6",
+  "summary": "Provides a live view of network data within Nautobot.",
+  "author": "Josef Fuchs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/jifox/nautobot-app-livedata.git",
+  "download_filename": "nautobot_app_livedata-2.4.6.tar.gz",
+  "download_time": "2025-07-27T08:51:29.841763",
+  "package_url": "https://pypi.org/project/nautobot-app-livedata/"
+}
