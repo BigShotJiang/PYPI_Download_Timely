@@ -1,16 +1,8 @@
 {
-  "download_time": "2025-07-27T16:51:55.114113",
-  "total_packages_downloaded": 79,
-  "total_size_mb": 7.33,
+  "download_time": "2025-07-27T17:22:26.568000",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 4.06,
   "packages": [
-    "gitlab-wrapper-sdk",
-    "django-api-monitor",
-    "almaflow",
-    "axmp-openapi-mcp-server",
-    "pulse-transitions",
-    "syft-serve",
-    "orionis",
-    "jval",
     "almanet",
     "smartbindb",
     "gcal-sync",
@@ -32,6 +24,7 @@
     "cffi-stubgen",
     "datagenix",
     "cratedb-mcp",
+    "jval",
     "pyinstaller-hooks-contrib",
     "ucdp-regf",
     "agno-cli",
@@ -81,6 +74,11 @@
     "atsphinx-footnotes",
     "pymitsubishi",
     "linknote",
-    "usso"
+    "usso",
+    "slimformers",
+    "mcp-graphql",
+    "hoyolab-rss-feeds",
+    "valguard",
+    "fluidkit"
   ]
 }

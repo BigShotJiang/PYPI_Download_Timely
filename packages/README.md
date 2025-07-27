@@ -1,19 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T16:51:55.114113
-- **Total Packages**: 79
-- **Total Size**: 7.33 MB
+- **Download Time**: 2025-07-27T17:22:26.568000
+- **Total Packages**: 77
+- **Total Size**: 4.06 MB
 
 ## Packages List
-- gitlab-wrapper-sdk
-- django-api-monitor
-- almaflow
-- axmp-openapi-mcp-server
-- pulse-transitions
-- syft-serve
-- orionis
-- jval
 - almanet
 - smartbindb
 - gcal-sync
@@ -35,6 +27,7 @@
 - cffi-stubgen
 - datagenix
 - cratedb-mcp
+- jval
 - pyinstaller-hooks-contrib
 - ucdp-regf
 - agno-cli
@@ -85,3 +78,8 @@
 - pymitsubishi
 - linknote
 - usso
+- slimformers
+- mcp-graphql
+- hoyolab-rss-feeds
+- valguard
+- fluidkit
