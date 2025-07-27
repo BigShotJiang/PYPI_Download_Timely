@@ -1,11 +1,11 @@
 {
   "name": "devops-automation-cli",
-  "version": "1.1",
+  "version": "1.2",
   "summary": "AI-powered CLI tool for automating DevOps workflows like setup, Git, CI/CD, Docker, and documentation.",
   "author": "Dinesh",
   "license": null,
   "home_page": "https://github.com/Dinesh-4/Devops-Automation",
-  "download_filename": "devops_automation_cli-1.1.tar.gz",
-  "download_time": "2025-07-27T12:46:10.058524",
+  "download_filename": "devops_automation_cli-1.2.tar.gz",
+  "download_time": "2025-07-27T13:23:27.766916",
   "package_url": "https://pypi.org/project/devops-automation-cli/"
 }

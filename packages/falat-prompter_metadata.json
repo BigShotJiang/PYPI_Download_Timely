@@ -1,11 +1,11 @@
 {
   "name": "falat-prompter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Extensible LLM provider system",
   "author": "falatform",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "falat_prompter-0.1.0.tar.gz",
-  "download_time": "2025-07-27T10:24:18.100601",
+  "download_filename": "falat_prompter-0.1.1.tar.gz",
+  "download_time": "2025-07-27T13:23:02.807250",
   "package_url": "https://pypi.org/project/falat-prompter/"
 }

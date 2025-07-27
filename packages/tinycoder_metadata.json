@@ -1,0 +1,11 @@
+{
+  "name": "tinycoder",
+  "version": "0.6.2",
+  "summary": "A simplified AI coding assistant.",
+  "author": "Koen van Eijk",
+  "license": null,
+  "home_page": "https://github.com/koenvaneijk/tinycoder",
+  "download_filename": "tinycoder-0.6.2.tar.gz",
+  "download_time": "2025-07-27T13:23:20.500160",
+  "package_url": "https://pypi.org/project/tinycoder/"
+}

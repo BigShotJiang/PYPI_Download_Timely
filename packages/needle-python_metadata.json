@@ -1,0 +1,11 @@
+{
+  "name": "needle-python",
+  "version": "0.6.0",
+  "summary": "Needle client library for Python",
+  "author": "Onur Eken",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "needle_python-0.6.0.tar.gz",
+  "download_time": "2025-07-27T13:23:03.324869",
+  "package_url": "https://pypi.org/project/needle-python/"
+}

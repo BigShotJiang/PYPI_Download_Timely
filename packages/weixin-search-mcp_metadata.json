@@ -1,0 +1,11 @@
+{
+  "name": "weixin-search-mcp",
+  "version": "0.1.1",
+  "summary": "微信公众号内容搜索和获取工具",
+  "author": "mini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "weixin_search_mcp-0.1.1.tar.gz",
+  "download_time": "2025-07-27T13:22:52.153614",
+  "package_url": "https://pypi.org/project/weixin-search-mcp/"
+}

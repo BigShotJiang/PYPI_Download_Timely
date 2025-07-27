@@ -1,11 +1,11 @@
 {
   "name": "minix",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "A modular Python framework for backend, AI, and data projects",
   "author": "AmirHossein Advari",
   "license": null,
   "home_page": null,
-  "download_filename": "minix-0.1.22.tar.gz",
-  "download_time": "2025-07-27T11:52:45.962326",
+  "download_filename": "minix-0.1.23.tar.gz",
+  "download_time": "2025-07-27T13:23:08.008100",
   "package_url": "https://pypi.org/project/minix/"
 }

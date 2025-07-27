@@ -1,11 +1,11 @@
 {
   "name": "prunetree",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A DecisionTreeClassifier with automatic validation-based pruning",
   "author": "Arun Sundar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prunetree-0.1.0.tar.gz",
-  "download_time": "2025-07-27T12:46:06.409483",
+  "download_filename": "prunetree-0.1.1.tar.gz",
+  "download_time": "2025-07-27T13:22:54.354670",
   "package_url": "https://pypi.org/project/prunetree/"
 }

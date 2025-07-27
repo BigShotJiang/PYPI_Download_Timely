@@ -1,0 +1,11 @@
+{
+  "name": "krrez",
+  "version": "10.0.1291",
+  "summary": "Infrastructure-as-code framework for personal computers",
+  "author": "Josef Hahn",
+  "license": "AGPL 3",
+  "home_page": "https://pseudopolis.eu/pino/krrez",
+  "download_filename": "krrez-10.0.1291-py3-none-any.whl",
+  "download_time": "2025-07-27T13:23:06.968084",
+  "package_url": "https://pypi.org/project/krrez/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pybase64",
+  "version": "1.4.2",
+  "summary": "Fast Base64 encoding/decoding",
+  "author": "Matthieu Darbois",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/mayeut/pybase64",
+  "download_filename": "pybase64-1.4.2.tar.gz",
+  "download_time": "2025-07-27T13:23:13.730324",
+  "package_url": "https://pypi.org/project/pybase64/"
+}

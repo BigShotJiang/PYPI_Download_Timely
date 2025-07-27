@@ -1,0 +1,11 @@
+{
+  "name": "py-enum",
+  "version": "2.0.0",
+  "summary": "enums for choices fields",
+  "author": "SkylerHu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/SkylerHu/py-enum.git",
+  "download_filename": "py-enum-2.0.0.tar.gz",
+  "download_time": "2025-07-27T13:23:16.865661",
+  "package_url": "https://pypi.org/project/py-enum/"
+}

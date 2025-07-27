@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.workflow",
+  "version": "0.58",
+  "summary": "RCSB Python data processing and ETL/ELT workflow entry points",
+  "author": "John Westbrook",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-rcsb_workflow",
+  "download_filename": "rcsb_workflow-0.58.tar.gz",
+  "download_time": "2025-07-27T13:23:10.603776",
+  "package_url": "https://pypi.org/project/rcsb.workflow/"
+}

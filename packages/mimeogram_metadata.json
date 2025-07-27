@@ -1,0 +1,11 @@
+{
+  "name": "mimeogram",
+  "version": "1.5",
+  "summary": "Exchange of file collections with LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mimeogram-1.5.tar.gz",
+  "download_time": "2025-07-27T13:23:11.122259",
+  "package_url": "https://pypi.org/project/mimeogram/"
+}
