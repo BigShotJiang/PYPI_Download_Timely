@@ -1,11 +1,11 @@
 {
   "name": "tomodo",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "A CLI for managing MongoDB deployments on Docker",
   "author": "Yuval Herziger",
   "license": "MIT",
   "home_page": "https://tomodo.dev",
-  "download_filename": "tomodo-1.4.2.tar.gz",
-  "download_time": "2025-07-27T06:59:32.792264",
+  "download_filename": "tomodo-1.4.3.tar.gz",
+  "download_time": "2025-07-27T07:27:49.929487",
   "package_url": "https://pypi.org/project/tomodo/"
 }

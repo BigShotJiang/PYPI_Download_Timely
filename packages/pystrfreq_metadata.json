@@ -1,0 +1,11 @@
+{
+  "name": "pystrfreq",
+  "version": "0.3.2",
+  "summary": "Tabulate the frequency of string object in a python codebase",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pystrfreq-0.3.2.tar.gz",
+  "download_time": "2025-07-27T07:28:00.411050",
+  "package_url": "https://pypi.org/project/pystrfreq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inventree-order-history",
+  "version": "0.5.3",
+  "summary": "Order history plugin for InvenTree",
+  "author": "Oliver Walters",
+  "license": "MIT",
+  "home_page": "https://github.com/inventree/inventree-order-history",
+  "download_filename": "inventree_order_history-0.5.3.tar.gz",
+  "download_time": "2025-07-27T07:28:10.372101",
+  "package_url": "https://pypi.org/project/inventree-order-history/"
+}

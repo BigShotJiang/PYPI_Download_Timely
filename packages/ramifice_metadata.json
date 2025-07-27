@@ -1,11 +1,11 @@
 {
   "name": "ramifice",
-  "version": "0.8.13",
+  "version": "0.8.14",
   "summary": "ORM-pseudo-like API MongoDB for Python language.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ramifice-0.8.13-py3-none-any.whl",
-  "download_time": "2025-07-26T13:50:27.778264",
+  "download_filename": "ramifice-0.8.14-py3-none-any.whl",
+  "download_time": "2025-07-27T07:28:08.301215",
   "package_url": "https://pypi.org/project/ramifice/"
 }
