@@ -1,0 +1,11 @@
+{
+  "name": "emoji-diamond",
+  "version": "0.1",
+  "summary": "A Python package that generates a diamond shape using random emojis.",
+  "author": "Joseph Bonsu 🇬🇭",
+  "license": null,
+  "home_page": "https://github.com/OligoCodes/emoji_diamond",
+  "download_filename": "emoji_diamond-0.1.tar.gz",
+  "download_time": "2025-07-27T06:59:31.218424",
+  "package_url": "https://pypi.org/project/emoji-diamond/"
+}

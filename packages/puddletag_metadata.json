@@ -1,0 +1,11 @@
+{
+  "name": "puddletag",
+  "version": "2.5.0",
+  "summary": "Powerful, simple, audio tag editor",
+  "author": "puddletag developers",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://docs.puddletag.net/",
+  "download_filename": "puddletag-2.5.0.tar.gz",
+  "download_time": "2025-07-27T06:59:22.885534",
+  "package_url": "https://pypi.org/project/puddletag/"
+}

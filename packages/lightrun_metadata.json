@@ -1,0 +1,11 @@
+{
+  "name": "lightrun",
+  "version": "1.64.0",
+  "summary": "Add logs and snapshots (virtual breakpoints) to live applications - without stopping them.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "lightrun-1.64.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-27T06:59:31.751661",
+  "package_url": "https://pypi.org/project/lightrun/"
+}

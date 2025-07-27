@@ -1,0 +1,11 @@
+{
+  "name": "GeoPatch",
+  "version": "1.2.0",
+  "summary": "GeoPatch generates patches from remote sensing data for semantic segmentation and object detection with YOLO-format annotations",
+  "author": "Hejar Shahabi",
+  "license": "MIT",
+  "home_page": "https://github.com/Hejarshahabi/GeoPatch",
+  "download_filename": "geopatch-1.2.0.tar.gz",
+  "download_time": "2025-07-27T06:59:20.808073",
+  "package_url": "https://pypi.org/project/GeoPatch/"
+}

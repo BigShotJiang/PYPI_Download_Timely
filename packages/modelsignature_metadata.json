@@ -1,0 +1,11 @@
+{
+  "name": "modelsignature",
+  "version": "0.2.0",
+  "summary": "Cryptographic identity verification for AI models — like SSL certificates for AI conversations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modelsignature-0.2.0.tar.gz",
+  "download_time": "2025-07-27T06:59:23.924656",
+  "package_url": "https://pypi.org/project/modelsignature/"
+}
