@@ -1,11 +1,11 @@
 {
   "name": "finbourne-horizon-sdk",
-  "version": "2.1.979",
+  "version": "2.1.980",
   "summary": "FINBOURNE Horizon API",
   "author": "FINBOURNE Technology",
   "license": "MIT",
   "home_page": "https://github.com/finbourne/horizon-sdk-python",
-  "download_filename": "finbourne_horizon_sdk-2.1.979.tar.gz",
-  "download_time": "2025-07-25T17:23:20.741614",
+  "download_filename": "finbourne_horizon_sdk-2.1.980.tar.gz",
+  "download_time": "2025-07-27T23:45:11.521910",
   "package_url": "https://pypi.org/project/finbourne-horizon-sdk/"
 }

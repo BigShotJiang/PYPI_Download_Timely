@@ -1,0 +1,11 @@
+{
+  "name": "chatbot-test-framework",
+  "version": "0.1.17",
+  "summary": "An open-source framework for testing and tracing conversational AI and chatbot applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatbot_test_framework-0.1.17.tar.gz",
+  "download_time": "2025-07-27T23:45:06.097931",
+  "package_url": "https://pypi.org/project/chatbot-test-framework/"
+}

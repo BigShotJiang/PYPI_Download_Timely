@@ -1,0 +1,11 @@
+{
+  "name": "cs-debug",
+  "version": "20250728",
+  "summary": "Assorted debugging facilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cs_debug-20250728.tar.gz",
+  "download_time": "2025-07-27T23:45:08.795382",
+  "package_url": "https://pypi.org/project/cs-debug/"
+}

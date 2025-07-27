@@ -1,11 +1,11 @@
 {
   "name": "auto-favicon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Model Context Protocol server providing tools for automatic favicon generation from PNG images or URLs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "auto_favicon-1.0.0.tar.gz",
-  "download_time": "2025-07-27T23:23:45.895816",
+  "download_filename": "auto_favicon-1.0.1.tar.gz",
+  "download_time": "2025-07-27T23:45:09.951159",
   "package_url": "https://pypi.org/project/auto-favicon/"
 }

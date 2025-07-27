@@ -1,11 +1,11 @@
 {
   "name": "snakestack",
-  "version": "0.1.4",
-  "summary": null,
+  "version": "0.1.5",
+  "summary": "Uma coleção de utilitários para acelerar o desenvolvimento backend em Python com padrões reutilizáveis e produtivos",
   "author": "Bruno Segato",
   "license": null,
   "home_page": null,
-  "download_filename": "snakestack-0.1.4.tar.gz",
-  "download_time": "2025-07-27T17:46:40.320741",
+  "download_filename": "snakestack-0.1.5.tar.gz",
+  "download_time": "2025-07-27T23:45:03.936077",
   "package_url": "https://pypi.org/project/snakestack/"
 }

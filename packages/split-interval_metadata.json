@@ -1,0 +1,11 @@
+{
+  "name": "split-interval",
+  "version": "0.1.0a0",
+  "summary": "A Python function that splits left-closed, right-open intervals into parts relative to a reference interval.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "split_interval-0.1.0a0.tar.gz",
+  "download_time": "2025-07-27T23:45:02.838720",
+  "package_url": "https://pypi.org/project/split-interval/"
+}
