@@ -1,0 +1,11 @@
+{
+  "name": "fedapay-connector",
+  "version": "1.3.4",
+  "summary": "Un client asynchrone robuste pour l'API FedaPay, offrant une gestion automatisée des paiements avec support complet des webhooks.",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "fedapay_connector-1.3.4.tar.gz",
+  "download_time": "2025-07-27T14:20:46.202595",
+  "package_url": "https://pypi.org/project/fedapay-connector/"
+}
