@@ -1,11 +1,11 @@
 {
   "name": "gunicorn-prometheus-exporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Prometheus metrics exporter for Gunicorn",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gunicorn_prometheus_exporter-0.1.1.tar.gz",
-  "download_time": "2025-07-26T15:45:42.554613",
+  "download_filename": "gunicorn_prometheus_exporter-0.1.2.tar.gz",
+  "download_time": "2025-07-27T18:35:00.193569",
   "package_url": "https://pypi.org/project/gunicorn-prometheus-exporter/"
 }

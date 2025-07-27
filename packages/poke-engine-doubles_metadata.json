@@ -1,11 +1,11 @@
 {
   "name": "poke-engine-doubles",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "poke_engine_doubles-0.0.4.tar.gz",
-  "download_time": "2025-07-27T13:23:19.462151",
+  "download_filename": "poke_engine_doubles-0.0.5.tar.gz",
+  "download_time": "2025-07-27T18:35:11.329887",
   "package_url": "https://pypi.org/project/poke-engine-doubles/"
 }

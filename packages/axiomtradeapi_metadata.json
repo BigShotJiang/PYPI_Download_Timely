@@ -1,0 +1,11 @@
+{
+  "name": "axiomtradeapi",
+  "version": "0.2.0",
+  "summary": "A Python client for the AxiomTrade API with token-based authentication, WebSocket support, and Telegram bot integration.",
+  "author": "ChipaDevTeam",
+  "license": "MIT",
+  "home_page": "https://github.com/ChipaDevTeam/AxiomTradeAPI-py",
+  "download_filename": "axiomtradeapi-0.2.0.tar.gz",
+  "download_time": "2025-07-27T18:35:13.254449",
+  "package_url": "https://pypi.org/project/axiomtradeapi/"
+}

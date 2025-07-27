@@ -1,11 +1,11 @@
 {
   "name": "skyrelis",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI Agent Security Library - Enterprise-grade security for AI agents, starting with comprehensive observability",
   "author": "Skyrelis Security Team",
   "license": "Proprietary",
   "home_page": "https://github.com/skyrelis/skyrelis",
-  "download_filename": "skyrelis-0.1.1.tar.gz",
-  "download_time": "2025-07-27T03:54:00.901541",
+  "download_filename": "skyrelis-0.1.2.tar.gz",
+  "download_time": "2025-07-27T18:35:23.833126",
   "package_url": "https://pypi.org/project/skyrelis/"
 }

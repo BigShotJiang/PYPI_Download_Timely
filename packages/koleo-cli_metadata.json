@@ -1,0 +1,11 @@
+{
+  "name": "koleo-cli",
+  "version": "0.2.137.23",
+  "summary": "Koleo CLI",
+  "author": "Zoey !",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/lzgirlcat/koleo-cli",
+  "download_filename": "koleo_cli-0.2.137.23.tar.gz",
+  "download_time": "2025-07-27T18:35:41.543131",
+  "package_url": "https://pypi.org/project/koleo-cli/"
+}

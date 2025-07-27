@@ -1,0 +1,11 @@
+{
+  "name": "object-symbols-parser",
+  "version": "0.1.2",
+  "summary": "Object symbol table wrangler. Useful for finding static memory and code size usage in embedded systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "object_symbols_parser-0.1.2.tar.gz",
+  "download_time": "2025-07-27T18:35:08.116658",
+  "package_url": "https://pypi.org/project/object-symbols-parser/"
+}

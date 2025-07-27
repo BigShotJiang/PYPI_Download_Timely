@@ -1,0 +1,11 @@
+{
+  "name": "deckgen",
+  "version": "0.9.1",
+  "summary": "Tool to create anki decks using generative AI",
+  "author": "Manuel Gil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deckgen-0.9.1.tar.gz",
+  "download_time": "2025-07-27T18:35:07.475775",
+  "package_url": "https://pypi.org/project/deckgen/"
+}

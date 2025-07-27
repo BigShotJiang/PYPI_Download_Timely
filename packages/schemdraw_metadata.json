@@ -1,0 +1,11 @@
+{
+  "name": "schemdraw",
+  "version": "0.21",
+  "summary": "Electrical circuit schematic drawing",
+  "author": "Collin J. Delker",
+  "license": "MIT",
+  "home_page": "https://schemdraw.readthedocs.io",
+  "download_filename": "schemdraw-0.21.tar.gz",
+  "download_time": "2025-07-27T18:35:32.318754",
+  "package_url": "https://pypi.org/project/schemdraw/"
+}

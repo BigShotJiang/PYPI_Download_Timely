@@ -1,11 +1,11 @@
 {
   "name": "definable",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Infrastructure for building and deploying AI agents",
   "author": "Definable Team",
   "license": null,
   "home_page": "https://github.com/definable/definable",
-  "download_filename": "definable-0.1.6.tar.gz",
-  "download_time": "2025-07-27T13:23:22.057125",
+  "download_filename": "definable-0.1.7.tar.gz",
+  "download_time": "2025-07-27T18:35:00.839859",
   "package_url": "https://pypi.org/project/definable/"
 }

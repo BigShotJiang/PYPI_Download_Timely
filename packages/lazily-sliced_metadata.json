@@ -1,0 +1,11 @@
+{
+  "name": "lazily-sliced",
+  "version": "0.1.0a0",
+  "summary": "A memory-efficient Python sequence wrapper that applies slicing operations lazily, deferring data access until elements are actually needed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lazily_sliced-0.1.0a0.tar.gz",
+  "download_time": "2025-07-27T18:35:04.762748",
+  "package_url": "https://pypi.org/project/lazily-sliced/"
+}

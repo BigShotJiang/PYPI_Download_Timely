@@ -1,11 +1,11 @@
 {
   "name": "docu-lite",
-  "version": "1.3.0",
+  "version": "1.5.0",
   "summary": "🧾 docu-lite: Ultra-light Zero-dependency HTML outline generator for Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docu_lite-1.3.0.tar.gz",
-  "download_time": "2025-07-24T09:01:39.764659",
+  "download_filename": "docu_lite-1.5.0.tar.gz",
+  "download_time": "2025-07-27T18:35:08.770399",
   "package_url": "https://pypi.org/project/docu-lite/"
 }
