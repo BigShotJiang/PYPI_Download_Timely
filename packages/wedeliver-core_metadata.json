@@ -1,0 +1,11 @@
+{
+  "name": "wedeliver-core",
+  "version": "0.6.8",
+  "summary": "weDeliverCore package",
+  "author": "Eyad Farra",
+  "license": "MIT",
+  "home_page": "https://www.wedeliverapp.com/",
+  "download_filename": "wedeliver_core-0.6.8.tar.gz",
+  "download_time": "2025-07-27T16:51:34.822558",
+  "package_url": "https://pypi.org/project/wedeliver-core/"
+}

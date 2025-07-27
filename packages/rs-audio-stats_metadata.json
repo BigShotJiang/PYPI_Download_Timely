@@ -1,11 +1,11 @@
 {
   "name": "rs-audio-stats",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "High-performance audio analysis library with EBU R128 loudness measurement, powered by Rust",
   "author": "Hiroshi Tamura",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "rs_audio_stats-1.2.3-cp310-abi3-win_amd64.whl",
-  "download_time": "2025-07-27T16:28:14.722933",
+  "home_page": "https://pypi.org/project/rs-audio-stats/",
+  "download_filename": "rs_audio_stats-1.2.4-cp310-abi3-win_amd64.whl",
+  "download_time": "2025-07-27T16:51:30.196173",
   "package_url": "https://pypi.org/project/rs-audio-stats/"
 }

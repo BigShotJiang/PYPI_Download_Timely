@@ -1,0 +1,11 @@
+{
+  "name": "almanet",
+  "version": "1.2.4",
+  "summary": "Web Messaging Protocol",
+  "author": "aturkenov",
+  "license": "MIT",
+  "home_page": "https://github.com/aturkenov/almanetpy",
+  "download_filename": "almanet-1.2.4.tar.gz",
+  "download_time": "2025-07-27T16:51:17.198744",
+  "package_url": "https://pypi.org/project/almanet/"
+}

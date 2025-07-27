@@ -1,0 +1,11 @@
+{
+  "name": "hlo123",
+  "version": "0.1.0",
+  "summary": "A sample Python package named hlo123",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/hlo123",
+  "download_filename": "hlo123-0.1.0.tar.gz",
+  "download_time": "2025-07-27T16:51:21.967262",
+  "package_url": "https://pypi.org/project/hlo123/"
+}

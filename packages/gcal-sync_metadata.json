@@ -1,0 +1,11 @@
+{
+  "name": "gcal-sync",
+  "version": "8.0.0",
+  "summary": "A python library for syncing Google Calendar to local storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcal_sync-8.0.0.tar.gz",
+  "download_time": "2025-07-27T16:51:18.241629",
+  "package_url": "https://pypi.org/project/gcal-sync/"
+}

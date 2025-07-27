@@ -1,0 +1,11 @@
+{
+  "name": "py2md",
+  "version": "0.1.2",
+  "summary": "Run Python code in Jupyter to generate markdown reports.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py2md-0.1.2.tar.gz",
+  "download_time": "2025-07-27T16:51:35.845449",
+  "package_url": "https://pypi.org/project/py2md/"
+}

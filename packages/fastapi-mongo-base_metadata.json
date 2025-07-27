@@ -1,11 +1,11 @@
 {
   "name": "fastapi-mongo-base",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "summary": "A simple boilerplate application, including models and schemas and abstract router, for FastAPI with MongoDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_mongo_base-1.0.15.tar.gz",
-  "download_time": "2025-07-27T14:45:26.836238",
+  "download_filename": "fastapi_mongo_base-1.0.16.tar.gz",
+  "download_time": "2025-07-27T16:51:31.747147",
   "package_url": "https://pypi.org/project/fastapi-mongo-base/"
 }
