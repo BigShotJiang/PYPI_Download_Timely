@@ -1,0 +1,11 @@
+{
+  "name": "flowline",
+  "version": "0.1.1",
+  "summary": "Extract flowlines from a velocity field.",
+  "author": "Michael Field",
+  "license": "MIT",
+  "home_page": "https://github.com/mjfield2/flowline_extraction",
+  "download_filename": "flowline-0.1.1.tar.gz",
+  "download_time": "2025-07-27T02:07:19.874249",
+  "package_url": "https://pypi.org/project/flowline/"
+}

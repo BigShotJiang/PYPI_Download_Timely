@@ -1,0 +1,11 @@
+{
+  "name": "lpminimk3",
+  "version": "0.6.4",
+  "summary": "Python API for the Novation Launchpad Mini MK3",
+  "author": "Chronic Coder",
+  "license": "MIT",
+  "home_page": "https://github.com/obeezzy/lpminimk3",
+  "download_filename": "lpminimk3-0.6.4.tar.gz",
+  "download_time": "2025-07-27T02:07:15.713845",
+  "package_url": "https://pypi.org/project/lpminimk3/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "edi-cli",
+  "version": "0.1.0",
+  "summary": "A modern, developer-friendly CLI for parsing and testing EDI files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edi_cli-0.1.0.tar.gz",
+  "download_time": "2025-07-27T02:07:23.032414",
+  "package_url": "https://pypi.org/project/edi-cli/"
+}

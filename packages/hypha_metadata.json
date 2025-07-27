@@ -1,11 +1,11 @@
 {
   "name": "hypha",
-  "version": "0.20.72",
+  "version": "0.20.73",
   "summary": "A serverless application framework for large-scale data management and AI model serving.",
   "author": "Amun AI AB",
   "license": "MIT",
   "home_page": "http://github.com/amun-ai/hypha",
-  "download_filename": "hypha-0.20.72.tar.gz",
-  "download_time": "2025-07-26T20:25:15.531214",
+  "download_filename": "hypha-0.20.73.tar.gz",
+  "download_time": "2025-07-27T02:07:19.338880",
   "package_url": "https://pypi.org/project/hypha/"
 }

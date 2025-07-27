@@ -1,11 +1,11 @@
 {
   "name": "pydelt",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Python package for calculating derivatives of time series data using various methods",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydelt-0.3.1.tar.gz",
-  "download_time": "2025-07-25T15:46:40.372112",
+  "download_filename": "pydelt-0.4.0.tar.gz",
+  "download_time": "2025-07-27T02:07:15.176275",
   "package_url": "https://pypi.org/project/pydelt/"
 }

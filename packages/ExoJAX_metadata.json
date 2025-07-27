@@ -1,0 +1,11 @@
+{
+  "name": "ExoJAX",
+  "version": "2.1",
+  "summary": "Auto-differentiable line-by-line spectral modeling of exoplanets/brown dwarfs using JAX.",
+  "author": "Hajime Kawahara and collaborators",
+  "license": "MIT",
+  "home_page": "http://secondearths.sakura.ne.jp/exojax/",
+  "download_filename": "ExoJAX-2.1-py2.py3-none-any.whl",
+  "download_time": "2025-07-27T02:07:38.455867",
+  "package_url": "https://pypi.org/project/ExoJAX/"
+}

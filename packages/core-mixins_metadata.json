@@ -1,11 +1,11 @@
 {
   "name": "core-mixins",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "This project contains common and generic functions, decorators, interfaces and classes...",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "core_mixins-2.0.0.tar.gz",
-  "download_time": "2025-07-26T18:32:52.059035",
+  "download_filename": "core_mixins-2.0.1.tar.gz",
+  "download_time": "2025-07-27T02:07:17.770611",
   "package_url": "https://pypi.org/project/core-mixins/"
 }

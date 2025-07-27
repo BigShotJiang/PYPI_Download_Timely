@@ -1,0 +1,11 @@
+{
+  "name": "rotary-embedding-torch",
+  "version": "0.8.9",
+  "summary": "Rotary Embedding - Pytorch",
+  "author": "Phil Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/lucidrains/rotary-embedding-torch",
+  "download_filename": "rotary_embedding_torch-0.8.9.tar.gz",
+  "download_time": "2025-07-27T02:07:36.762952",
+  "package_url": "https://pypi.org/project/rotary-embedding-torch/"
+}

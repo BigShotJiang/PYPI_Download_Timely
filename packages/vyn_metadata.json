@@ -1,0 +1,11 @@
+{
+  "name": "vyn",
+  "version": "0.1.7",
+  "summary": "A CLI tool that scans files for vulnerabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vyn-0.1.7.tar.gz",
+  "download_time": "2025-07-27T02:07:21.976855",
+  "package_url": "https://pypi.org/project/vyn/"
+}
