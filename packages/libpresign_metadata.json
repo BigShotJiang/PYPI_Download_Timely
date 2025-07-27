@@ -1,11 +1,11 @@
 {
   "name": "libpresign",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "High-performance library for generating AWS S3 presigned URLs",
-  "author": "Your Name",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/libpresign",
-  "download_filename": "libpresign-1.1.1.tar.gz",
-  "download_time": "2025-07-25T19:53:47.003976",
+  "home_page": null,
+  "download_filename": "libpresign-1.2.0.tar.gz",
+  "download_time": "2025-07-27T04:47:18.738160",
   "package_url": "https://pypi.org/project/libpresign/"
 }

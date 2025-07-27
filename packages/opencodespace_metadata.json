@@ -1,11 +1,11 @@
 {
   "name": "opencodespace",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Launch disposable VS Code development environments with AI tooling support",
   "author": "ngram.com",
   "license": "MIT",
   "home_page": "https://github.com/ngramai/opencodespace",
-  "download_filename": "opencodespace-0.4.0.tar.gz",
-  "download_time": "2025-07-26T20:44:30.211751",
+  "download_filename": "opencodespace-0.5.0.tar.gz",
+  "download_time": "2025-07-27T04:47:19.806641",
   "package_url": "https://pypi.org/project/opencodespace/"
 }

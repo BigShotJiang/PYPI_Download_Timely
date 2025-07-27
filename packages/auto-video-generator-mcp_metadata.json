@@ -1,11 +1,11 @@
 {
   "name": "auto-video-generator-mcp",
-  "version": "1.0.24",
-  "summary": "基于MCP协议的智能视频自动生成与剪辑工具，支持字幕、TTS、音色克隆、批量处理等。",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "auto_video_generator_mcp-1.0.24.tar.gz",
-  "download_time": "2025-07-26T08:51:28.640857",
+  "version": "3.0.0",
+  "summary": "基于MCP协议的智能视频生成系统，支持自动添加字幕、语音合成和视频剪辑功能",
+  "author": "zgmurder",
+  "license": "MIT",
+  "home_page": "https://github.com/zgmurder/auto_video_generator-mcp",
+  "download_filename": "auto_video_generator_mcp-3.0.0-py3-none-any.whl",
+  "download_time": "2025-07-27T04:47:09.868309",
   "package_url": "https://pypi.org/project/auto-video-generator-mcp/"
 }

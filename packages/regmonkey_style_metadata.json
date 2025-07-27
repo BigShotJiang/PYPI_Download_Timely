@@ -1,0 +1,11 @@
+{
+  "name": "regmonkey_style",
+  "version": "2.0.0",
+  "summary": "plotly and matplotlib style for statistics-for-regression-monkey",
+  "author": "RyoNak",
+  "license": "MIT",
+  "home_page": "https://github.com/RyoNakagami",
+  "download_filename": "regmonkey_style-2.0.0.tar.gz",
+  "download_time": "2025-07-27T04:47:11.971960",
+  "package_url": "https://pypi.org/project/regmonkey_style/"
+}

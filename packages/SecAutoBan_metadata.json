@@ -1,11 +1,11 @@
 {
   "name": "SecAutoBan",
-  "version": "4.0.3",
+  "version": "5.0.0",
   "summary": "SecAutoBan SDK",
   "author": "SecReport",
   "license": null,
   "home_page": "https://github.com/SecAegis/SecAutoBan",
-  "download_filename": "secautoban-4.0.3.tar.gz",
-  "download_time": "2025-07-26T04:58:21.424922",
+  "download_filename": "secautoban-5.0.0.tar.gz",
+  "download_time": "2025-07-27T04:47:21.880708",
   "package_url": "https://pypi.org/project/SecAutoBan/"
 }

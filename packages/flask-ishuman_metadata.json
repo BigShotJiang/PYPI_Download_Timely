@@ -1,0 +1,11 @@
+{
+  "name": "flask-ishuman",
+  "version": "2.1.2",
+  "summary": "simple flask captcha validation",
+  "author": "Arija A.",
+  "license": "GPLv3+",
+  "home_page": "https://ari.lt/gh/flask-ishuman",
+  "download_filename": "flask_ishuman-2.1.2-py2.py3-none-any.whl",
+  "download_time": "2025-07-27T04:47:06.726126",
+  "package_url": "https://pypi.org/project/flask-ishuman/"
+}

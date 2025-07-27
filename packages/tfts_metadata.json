@@ -1,0 +1,11 @@
+{
+  "name": "tfts",
+  "version": "0.0.19",
+  "summary": "Deep learning time series with TensorFlow",
+  "author": "Longxing Tan",
+  "license": null,
+  "home_page": "https://time-series-prediction.readthedocs.io",
+  "download_filename": "tfts-0.0.19.tar.gz",
+  "download_time": "2025-07-27T04:47:15.632976",
+  "package_url": "https://pypi.org/project/tfts/"
+}

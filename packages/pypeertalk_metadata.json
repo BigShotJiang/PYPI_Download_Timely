@@ -1,0 +1,11 @@
+{
+  "name": "pypeertalk",
+  "version": "0.1.0",
+  "summary": "Python binding for PeerTalk client through USB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypeertalk-0.1.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-27T04:47:24.510345",
+  "package_url": "https://pypi.org/project/pypeertalk/"
+}

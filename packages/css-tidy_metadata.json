@@ -1,11 +1,11 @@
 {
   "name": "css-tidy",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A Python tool to tidy and format CSS files",
   "author": "Henry Lok",
   "license": "MIT",
   "home_page": "https://github.com/henrylok/css-tidy",
-  "download_filename": "css_tidy-0.1.2.tar.gz",
-  "download_time": "2025-07-27T03:54:04.065992",
+  "download_filename": "css_tidy-0.1.5.tar.gz",
+  "download_time": "2025-07-27T04:47:07.244945",
   "package_url": "https://pypi.org/project/css-tidy/"
 }

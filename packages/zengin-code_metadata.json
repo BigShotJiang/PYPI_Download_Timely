@@ -1,0 +1,11 @@
+{
+  "name": "zengin-code",
+  "version": "1.1.0.20250727",
+  "summary": "bank codes and branch codes for Japanese.",
+  "author": "Zengin Code",
+  "license": "MIT",
+  "home_page": "https://github.com/zengin-code/zengin-py",
+  "download_filename": "zengin_code-1.1.0.20250727.tar.gz",
+  "download_time": "2025-07-27T04:47:26.071219",
+  "package_url": "https://pypi.org/project/zengin-code/"
+}
