@@ -1,0 +1,11 @@
+{
+  "name": "django-crm-admin",
+  "version": "1.5.1",
+  "summary": "The Analytical CRM with Tasks management, Email marketing and many more. This Django CRM software app is built for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development.",
+  "author": "Vadym Kharchenko",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://DjangoCRM.github.io/info/",
+  "download_filename": "django_crm_admin-1.5.1.tar.gz",
+  "download_time": "2025-07-27T10:24:16.568112",
+  "package_url": "https://pypi.org/project/django-crm-admin/"
+}

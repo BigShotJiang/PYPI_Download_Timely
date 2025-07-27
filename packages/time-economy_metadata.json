@@ -1,0 +1,11 @@
+{
+  "name": "time-economy",
+  "version": "1.0.0",
+  "summary": "A comprehensive toolkit for time-based economy simulation, focusing on wealth distribution and economic modeling",
+  "author": "Double-N-A",
+  "license": null,
+  "home_page": "https://github.com/double-n-a/time-economy",
+  "download_filename": "time_economy-1.0.0.tar.gz",
+  "download_time": "2025-07-27T10:24:24.828334",
+  "package_url": "https://pypi.org/project/time-economy/"
+}

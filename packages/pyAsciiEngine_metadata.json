@@ -1,0 +1,11 @@
+{
+  "name": "pyAsciiEngine",
+  "version": "0.0.12",
+  "summary": "Ascii games engine",
+  "author": "Arizel79",
+  "license": null,
+  "home_page": "https://github.com/Arizel79/pyAsciiEngine",
+  "download_filename": "pyasciiengine-0.0.12.tar.gz",
+  "download_time": "2025-07-27T10:24:21.744031",
+  "package_url": "https://pypi.org/project/pyAsciiEngine/"
+}

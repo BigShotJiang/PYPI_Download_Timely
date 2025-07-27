@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-contract-api-somconnexio",
+  "version": "16.0.1.0.5",
+  "summary": "Expose the REST API used in Som Connexió to create and manage contracts in Odoo.",
+  "author": "Som Connexió SCCL, Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/som-connexio/odoo/odoo-somconnexio",
+  "download_filename": "odoo-addon-contract_api_somconnexio-16.0.1.0.5.tar.gz",
+  "download_time": "2025-07-27T10:24:18.612604",
+  "package_url": "https://pypi.org/project/odoo-addon-contract-api-somconnexio/"
+}

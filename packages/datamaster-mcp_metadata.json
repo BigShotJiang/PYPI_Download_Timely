@@ -1,11 +1,11 @@
 {
   "name": "datamaster-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "DataMaster MCP - AI-powered data analysis tool with MCP protocol support",
   "author": "Shan",
   "license": null,
   "home_page": "https://github.com/szqshan/DataMaster",
-  "download_filename": "datamaster_mcp-1.0.2.tar.gz",
-  "download_time": "2025-07-25T10:28:26.093950",
+  "download_filename": "datamaster_mcp-1.0.3.tar.gz",
+  "download_time": "2025-07-27T10:24:15.533877",
   "package_url": "https://pypi.org/project/datamaster-mcp/"
 }

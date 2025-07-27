@@ -1,11 +1,11 @@
 {
   "name": "dnsbl-check",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "OXL DNSBL Checker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dnsbl_check-2.0.1.tar.gz",
-  "download_time": "2025-07-24T10:51:28.007261",
+  "download_filename": "dnsbl_check-2.0.2.tar.gz",
+  "download_time": "2025-07-27T10:24:27.384859",
   "package_url": "https://pypi.org/project/dnsbl-check/"
 }
