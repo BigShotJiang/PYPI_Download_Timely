@@ -1,0 +1,11 @@
+{
+  "name": "model-compose",
+  "version": "0.3.0",
+  "summary": "model-compose: Declarative AI Model and Workflow Orchestrator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_compose-0.3.0.tar.gz",
+  "download_time": "2025-07-27T07:54:11.311506",
+  "package_url": "https://pypi.org/project/model-compose/"
+}
