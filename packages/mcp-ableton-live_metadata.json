@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ableton-live",
+  "version": "0.1.0",
+  "summary": "MCP server for Ableton Live integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ableton_live-0.1.0.tar.gz",
+  "download_time": "2025-07-27T11:41:38.051144",
+  "package_url": "https://pypi.org/project/mcp-ableton-live/"
+}

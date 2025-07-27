@@ -1,11 +1,11 @@
 {
   "name": "AHCodeCompiler",
-  "version": "1.0.2",
-  "summary": "A Python SDK for code compilation by Akash Halder. It allows developers to use this SDK and create their frontend for online code compilation",
+  "version": "1.0.3",
+  "summary": "A Python SDK by Akash Halder for compiling and executing code online with beautiful CLI output.",
   "author": "Akash Halder",
   "license": "MIT",
   "home_page": "https://akashhalder.in/",
-  "download_filename": "ahcodecompiler-1.0.2.tar.gz",
-  "download_time": "2025-07-26T14:22:00.029507",
+  "download_filename": "ahcodecompiler-1.0.3.tar.gz",
+  "download_time": "2025-07-27T11:41:46.769641",
   "package_url": "https://pypi.org/project/AHCodeCompiler/"
 }

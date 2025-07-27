@@ -1,11 +1,11 @@
 {
   "name": "p115client",
-  "version": "0.0.5.17.4",
+  "version": "0.0.5.17.5",
   "summary": "Python 115 webdisk client.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/p115client",
-  "download_filename": "p115client-0.0.5.17.4.tar.gz",
-  "download_time": "2025-07-26T06:33:35.185984",
+  "download_filename": "p115client-0.0.5.17.5.tar.gz",
+  "download_time": "2025-07-27T11:41:25.190422",
   "package_url": "https://pypi.org/project/p115client/"
 }

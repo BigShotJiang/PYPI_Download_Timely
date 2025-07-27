@@ -1,11 +1,11 @@
 {
   "name": "spatialcell",
-  "version": "1.0.29",
+  "version": "1.0.31",
   "summary": "Integrated pipeline for spatial transcriptomics cell segmentation and annotation using QuPath, Bin2cell, and TopAct",
   "author": "Xinyan",
   "license": null,
   "home_page": "https://github.com/Xinyan-C/Spatialcell",
-  "download_filename": "spatialcell-1.0.29.tar.gz",
-  "download_time": "2025-07-27T09:24:23.046094",
+  "download_filename": "spatialcell-1.0.31.tar.gz",
+  "download_time": "2025-07-27T11:41:10.325066",
   "package_url": "https://pypi.org/project/spatialcell/"
 }

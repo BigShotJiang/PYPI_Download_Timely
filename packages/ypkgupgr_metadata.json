@@ -1,0 +1,11 @@
+{
+  "name": "ypkgupgr",
+  "version": "1.13.1",
+  "summary": "A simple pip package updater",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ypkgupgr-1.13.1.tar.gz",
+  "download_time": "2025-07-27T11:41:30.840868",
+  "package_url": "https://pypi.org/project/ypkgupgr/"
+}

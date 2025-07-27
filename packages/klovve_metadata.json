@@ -1,0 +1,11 @@
+{
+  "name": "klovve",
+  "version": "1.6.143",
+  "summary": "Python User Interfaces",
+  "author": "Josef Hahn",
+  "license": "AGPL 3",
+  "home_page": "https://pseudopolis.eu/pino/klovve",
+  "download_filename": "klovve-1.6.143-py3-none-any.whl",
+  "download_time": "2025-07-27T11:41:09.813091",
+  "package_url": "https://pypi.org/project/klovve/"
+}

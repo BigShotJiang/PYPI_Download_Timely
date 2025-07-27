@@ -1,0 +1,11 @@
+{
+  "name": "frameon",
+  "version": "0.1.0a1",
+  "summary": "Frameon extends pandas DataFrame with analysis methods while keeping all original functionality intact.",
+  "author": "Pavel Grigoryev",
+  "license": "MIT",
+  "home_page": "https://github.com/PavelGrigoryevDS/frameon",
+  "download_filename": "frameon-0.1.0a1.tar.gz",
+  "download_time": "2025-07-27T11:41:07.244222",
+  "package_url": "https://pypi.org/project/frameon/"
+}

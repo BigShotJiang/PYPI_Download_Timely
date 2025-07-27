@@ -1,0 +1,11 @@
+{
+  "name": "rhamaa",
+  "version": "0.1.0b1",
+  "summary": "CLI tools to accelerate Wagtail web development with RhamaaCMS",
+  "author": "RhamaaCMS Team",
+  "license": "MIT",
+  "home_page": "https://github.com/RhamaaCMS/RhamaaCLI",
+  "download_filename": "rhamaa-0.1.0b1.tar.gz",
+  "download_time": "2025-07-27T11:41:32.368648",
+  "package_url": "https://pypi.org/project/rhamaa/"
+}

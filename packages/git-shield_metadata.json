@@ -1,0 +1,11 @@
+{
+  "name": "git-shield",
+  "version": "1.0.0",
+  "summary": "Advanced secret detection for Git repositories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_shield-1.0.0.tar.gz",
+  "download_time": "2025-07-27T11:41:20.070444",
+  "package_url": "https://pypi.org/project/git-shield/"
+}

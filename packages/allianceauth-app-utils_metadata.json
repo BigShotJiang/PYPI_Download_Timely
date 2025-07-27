@@ -1,0 +1,11 @@
+{
+  "name": "allianceauth-app-utils",
+  "version": "1.26.1",
+  "summary": "Commonly used utilities and helpers for rapid development of Alliance Auth apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allianceauth_app_utils-1.26.1.tar.gz",
+  "download_time": "2025-07-27T11:41:11.856788",
+  "package_url": "https://pypi.org/project/allianceauth-app-utils/"
+}

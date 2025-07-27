@@ -1,11 +1,11 @@
 {
   "name": "nginx-set-conf",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Python library for generating nginx reverse proxy configurations for Docker applications.",
   "author": "Equitania Software GmbH",
   "license": null,
   "home_page": "https://github.com/equitania/nginx-set-conf",
-  "download_filename": "nginx_set_conf-1.5.0.tar.gz",
-  "download_time": "2025-07-27T10:24:25.339553",
+  "download_filename": "nginx_set_conf-1.5.1.tar.gz",
+  "download_time": "2025-07-27T11:41:21.604923",
   "package_url": "https://pypi.org/project/nginx-set-conf/"
 }

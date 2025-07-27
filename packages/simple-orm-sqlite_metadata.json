@@ -1,11 +1,11 @@
 {
   "name": "simple-orm-sqlite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Basic Orm for sqlite",
   "author": "Danilo Souza",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "simple_orm_sqlite-0.0.1.tar.gz",
-  "download_time": "2025-07-26T19:52:43.590031",
+  "download_filename": "simple_orm_sqlite-0.0.2.tar.gz",
+  "download_time": "2025-07-27T11:41:29.819178",
   "package_url": "https://pypi.org/project/simple-orm-sqlite/"
 }

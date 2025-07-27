@@ -1,0 +1,11 @@
+{
+  "name": "mcp-youtube-extractor",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server for YouTube operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_youtube_extractor-0.1.0.tar.gz",
+  "download_time": "2025-07-27T11:41:09.299670",
+  "package_url": "https://pypi.org/project/mcp-youtube-extractor/"
+}

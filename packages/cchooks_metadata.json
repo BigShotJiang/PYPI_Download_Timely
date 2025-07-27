@@ -1,0 +1,11 @@
+{
+  "name": "cchooks",
+  "version": "0.1.2",
+  "summary": "A Python utility module for claude-code hook development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cchooks-0.1.2.tar.gz",
+  "download_time": "2025-07-27T11:41:12.368156",
+  "package_url": "https://pypi.org/project/cchooks/"
+}

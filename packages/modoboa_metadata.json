@@ -1,11 +1,11 @@
 {
   "name": "modoboa",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "summary": "Mail hosting made simple",
   "author": null,
   "license": "ISC License\n        \n        Copyright (c) 2009-2023, Antoine Nguyen <tonio@ngyn.org>\n        \n        Permission to use, copy, modify, and/or distribute this software for any\n        purpose with or without fee is hereby granted, provided that the above\n        copyright notice and this permission notice appear in all copies.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES\n        WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF\n        MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR\n        ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES\n        WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN\n        ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF\n        OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n        ",
   "home_page": null,
-  "download_filename": "modoboa-2.4.6.tar.gz",
-  "download_time": "2025-07-26T18:59:04.989268",
+  "download_filename": "modoboa-2.4.7.tar.gz",
+  "download_time": "2025-07-27T11:41:28.273723",
   "package_url": "https://pypi.org/project/modoboa/"
 }
