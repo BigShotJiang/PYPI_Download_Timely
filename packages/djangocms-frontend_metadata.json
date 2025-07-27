@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-frontend",
+  "version": "2.1.4",
+  "summary": "Adds abstract User Interface items as plugins to django CMS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangocms_frontend-2.1.4.tar.gz",
+  "download_time": "2025-07-27T14:44:58.668404",
+  "package_url": "https://pypi.org/project/djangocms-frontend/"
+}

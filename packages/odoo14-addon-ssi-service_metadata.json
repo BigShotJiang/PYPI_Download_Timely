@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-service",
+  "version": "14.0.2.9.0",
+  "summary": "Service",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_service-14.0.2.9.0-py3-none-any.whl",
+  "download_time": "2025-07-27T14:45:18.664352",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-service/"
+}

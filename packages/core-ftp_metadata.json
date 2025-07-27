@@ -1,0 +1,11 @@
+{
+  "name": "core-ftp",
+  "version": "1.1.3",
+  "summary": "This project/library contains common elements related to FTP connections...",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "core_ftp-1.1.3.tar.gz",
+  "download_time": "2025-07-27T14:44:58.093503",
+  "package_url": "https://pypi.org/project/core-ftp/"
+}

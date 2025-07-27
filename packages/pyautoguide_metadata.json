@@ -1,11 +1,11 @@
 {
   "name": "pyautoguide",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Advance GUI automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyautoguide-0.4.0.tar.gz",
-  "download_time": "2025-07-27T11:41:36.517201",
+  "download_filename": "pyautoguide-0.4.2.tar.gz",
+  "download_time": "2025-07-27T14:45:04.031987",
   "package_url": "https://pypi.org/project/pyautoguide/"
 }

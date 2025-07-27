@@ -1,11 +1,11 @@
 {
   "name": "ggufloader",
-  "version": "2.0.0",
-  "summary": "Enhanced GGUF Model Loader with Advanced Resource Management - Local AI Chat Application",
+  "version": "2.0.1",
+  "summary": "Advanced GGUF Model Loader with Smart Floating Assistant",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "ggufloader-2.0.0-py3-none-any.whl",
-  "download_time": "2025-07-27T08:29:08.400443",
+  "download_filename": "ggufloader-2.0.1.tar.gz",
+  "download_time": "2025-07-27T14:44:59.728047",
   "package_url": "https://pypi.org/project/ggufloader/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pynenguk-quiz",
+  "version": "0.7.3",
+  "summary": "CLI tool to run pyneng quiz",
+  "author": "Natasha Samoylenko",
+  "license": "MIT",
+  "home_page": "https://github.com/natenka/pynenguk-quiz",
+  "download_filename": "pynenguk_quiz-0.7.3.tar.gz",
+  "download_time": "2025-07-27T14:45:15.455363",
+  "package_url": "https://pypi.org/project/pynenguk-quiz/"
+}
