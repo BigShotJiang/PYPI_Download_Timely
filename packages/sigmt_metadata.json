@@ -1,0 +1,11 @@
+{
+  "name": "sigmt",
+  "version": "2.0.7",
+  "summary": "A tool for magnetotelluric time series processing",
+  "author": "Ajithabh K.S.",
+  "license": "GPL",
+  "home_page": "https://github.com/ajithabhks/sigmt",
+  "download_filename": "sigmt-2.0.7.tar.gz",
+  "download_time": "2025-07-27T17:46:18.071314",
+  "package_url": "https://pypi.org/project/sigmt/"
+}

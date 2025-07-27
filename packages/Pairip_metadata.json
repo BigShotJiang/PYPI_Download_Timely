@@ -1,0 +1,11 @@
+{
+  "name": "Pairip",
+  "version": "3.6",
+  "summary": "Recover String & Rebuild Apk",
+  "author": "RK_TECHNO_INDIA",
+  "license": "MIT",
+  "home_page": "https://github.com/Technoindian/RKPairip",
+  "download_filename": "pairip-3.6.tar.gz",
+  "download_time": "2025-07-27T17:46:24.193520",
+  "package_url": "https://pypi.org/project/Pairip/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dilemma",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "This is an expression language python package.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dilemma-0.3.3.tar.gz",
-  "download_time": "2025-07-27T17:21:48.220879",
+  "download_filename": "dilemma-0.3.4.tar.gz",
+  "download_time": "2025-07-27T17:46:23.648482",
   "package_url": "https://pypi.org/project/dilemma/"
 }

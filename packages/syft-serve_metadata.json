@@ -1,11 +1,11 @@
 {
   "name": "syft-serve",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Generic FastAPI server process management and deduplication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syft_serve-0.2.0.tar.gz",
-  "download_time": "2025-07-27T16:51:15.657287",
+  "download_filename": "syft_serve-0.2.2.tar.gz",
+  "download_time": "2025-07-27T17:46:39.203195",
   "package_url": "https://pypi.org/project/syft-serve/"
 }

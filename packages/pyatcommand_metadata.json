@@ -1,11 +1,11 @@
 {
   "name": "pyatcommand",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "An interface for V.25 Hayes AT commands",
   "author": "gbrucepayne",
   "license": "MIT",
   "home_page": "https://github.com/gbrucepayne/pyatcommand",
-  "download_filename": "pyatcommand-0.4.1.tar.gz",
-  "download_time": "2025-07-25T18:34:34.913050",
+  "download_filename": "pyatcommand-0.4.2.tar.gz",
+  "download_time": "2025-07-27T17:46:21.381021",
   "package_url": "https://pypi.org/project/pyatcommand/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sajupy",
+  "version": "0.2.0",
+  "summary": "사주팔자 만세력 계산 라이브러리",
+  "author": "Suh Seungwan",
+  "license": "MIT",
+  "home_page": "https://github.com/0ssw1/sajupy",
+  "download_filename": "sajupy-0.2.0.tar.gz",
+  "download_time": "2025-07-27T17:46:09.935996",
+  "package_url": "https://pypi.org/project/sajupy/"
+}

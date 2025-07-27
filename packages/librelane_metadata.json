@@ -1,11 +1,11 @@
 {
   "name": "librelane",
-  "version": "3.0.0.dev27",
+  "version": "3.0.0.dev28",
   "summary": "An infrastructure for implementing chip design flows",
   "author": "Mohamed Gaber",
   "license": "Apache-2.0",
   "home_page": "https://github.com/librelane/librelane",
-  "download_filename": "librelane-3.0.0.dev27.tar.gz",
-  "download_time": "2025-07-25T09:56:40.658755",
+  "download_filename": "librelane-3.0.0.dev28.tar.gz",
+  "download_time": "2025-07-27T17:46:07.162744",
   "package_url": "https://pypi.org/project/librelane/"
 }

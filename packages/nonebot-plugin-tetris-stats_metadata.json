@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-tetris-stats",
+  "version": "1.11.0",
+  "summary": "一款基于 NoneBot2 的用于查询 Tetris 相关游戏数据的插件",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_tetris_stats-1.11.0.tar.gz",
+  "download_time": "2025-07-27T17:46:08.825083",
+  "package_url": "https://pypi.org/project/nonebot-plugin-tetris-stats/"
+}

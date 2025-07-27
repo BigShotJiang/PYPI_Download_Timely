@@ -1,11 +1,11 @@
 {
   "name": "mathplootIib",
-  "version": "0.53",
+  "version": "0.54",
   "summary": "mathplotlib",
   "author": "Ayush Chadha",
   "license": null,
   "home_page": "https://github.com/elegantShock2258/mathplotlib",
-  "download_filename": "mathplootiib-0.53.tar.gz",
-  "download_time": "2025-07-26T20:25:12.621914",
+  "download_filename": "mathplootiib-0.54.tar.gz",
+  "download_time": "2025-07-27T17:46:13.721634",
   "package_url": "https://pypi.org/project/mathplootIib/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vanillacorn",
-  "version": "0.0.2",
+  "version": "0.1.2",
   "summary": "A vanilla ASGI server: a basic implementation of the ASGI specification using pure Python and asyncio.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vanillacorn-0.0.2.tar.gz",
-  "download_time": "2025-07-27T02:07:21.439287",
+  "download_filename": "vanillacorn-0.1.2.tar.gz",
+  "download_time": "2025-07-27T17:46:23.096719",
   "package_url": "https://pypi.org/project/vanillacorn/"
 }

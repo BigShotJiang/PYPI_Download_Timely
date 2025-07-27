@@ -1,0 +1,11 @@
+{
+  "name": "floodlight",
+  "version": "1.0.0",
+  "summary": "A high-level framework for sports data analysis",
+  "author": "draabe",
+  "license": "MIT",
+  "home_page": "https://github.com/floodlight-sports/floodlight",
+  "download_filename": "floodlight-1.0.0.tar.gz",
+  "download_time": "2025-07-27T17:46:33.899114",
+  "package_url": "https://pypi.org/project/floodlight/"
+}

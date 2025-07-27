@@ -1,0 +1,11 @@
+{
+  "name": "pymimir-rl",
+  "version": "0.1.1",
+  "summary": "Reinforcement Learning (RL) package for Mimir.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymimir_rl-0.1.1.tar.gz",
+  "download_time": "2025-07-27T17:46:15.345213",
+  "package_url": "https://pypi.org/project/pymimir-rl/"
+}

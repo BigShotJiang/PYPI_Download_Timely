@@ -1,0 +1,11 @@
+{
+  "name": "batchata",
+  "version": "0.4.0",
+  "summary": "Unified Python API for AI batch requests with 50% cost savings on OpenAI and Anthropic",
+  "author": "Agam More",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "batchata-0.4.0.tar.gz",
+  "download_time": "2025-07-27T17:46:40.869904",
+  "package_url": "https://pypi.org/project/batchata/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "axmp-openapi-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "This is a template mcp server for the axmp-ai-agent-studio",
   "author": "Kilsoo Kang",
   "license": null,
   "home_page": "https://github.com/cloudz-mp",
-  "download_filename": "axmp_openapi_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-07-27T16:51:14.617625",
+  "download_filename": "axmp_openapi_mcp_server-0.1.2.tar.gz",
+  "download_time": "2025-07-27T17:46:30.655067",
   "package_url": "https://pypi.org/project/axmp-openapi-mcp-server/"
 }

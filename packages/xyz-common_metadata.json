@@ -1,0 +1,11 @@
+{
+  "name": "xyz-common",
+  "version": "0.3.0",
+  "summary": "common",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-common",
+  "download_filename": "xyz_common-0.3.0-py3-none-any.whl",
+  "download_time": "2025-07-27T17:46:37.073238",
+  "package_url": "https://pypi.org/project/xyz-common/"
+}

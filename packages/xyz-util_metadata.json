@@ -1,0 +1,11 @@
+{
+  "name": "xyz-util",
+  "version": "1.4.0",
+  "summary": "common utils",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-util",
+  "download_filename": "xyz_util-1.4.0-py3-none-any.whl",
+  "download_time": "2025-07-27T17:46:31.184759",
+  "package_url": "https://pypi.org/project/xyz-util/"
+}
