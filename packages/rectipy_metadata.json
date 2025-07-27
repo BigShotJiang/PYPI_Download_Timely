@@ -1,0 +1,11 @@
+{
+  "name": "rectipy",
+  "version": "0.12.2",
+  "summary": "Recurrent neural network training in Python",
+  "author": "Richard Gast",
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "rectipy-0.12.2.tar.gz",
+  "download_time": "2025-07-27T17:57:25.072980",
+  "package_url": "https://pypi.org/project/rectipy/"
+}
