@@ -1,0 +1,11 @@
+{
+  "name": "peegy",
+  "version": "1.5.9",
+  "summary": "Tools to pipeline bulk analyses of EEG and other modalities.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peegy-1.5.9.tar.gz",
+  "download_time": "2025-07-27T15:23:37.994219",
+  "package_url": "https://pypi.org/project/peegy/"
+}

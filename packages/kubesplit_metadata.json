@@ -1,0 +1,11 @@
+{
+  "name": "kubesplit",
+  "version": "0.4.0",
+  "summary": "A CLI to split multidoc yaml formatted kubernetes descriptors to a set of single resource files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubesplit-0.4.0-py3-none-any.whl",
+  "download_time": "2025-07-27T15:23:40.569268",
+  "package_url": "https://pypi.org/project/kubesplit/"
+}

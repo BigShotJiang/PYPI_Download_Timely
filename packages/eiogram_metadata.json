@@ -1,11 +1,11 @@
 {
   "name": "eiogram",
-  "version": "1.5.2",
+  "version": "1.7.0",
   "summary": "A Python library for",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eiogram-1.5.2.tar.gz",
-  "download_time": "2025-07-26T23:54:32.672705",
+  "download_filename": "eiogram-1.7.0.tar.gz",
+  "download_time": "2025-07-27T15:23:36.960680",
   "package_url": "https://pypi.org/project/eiogram/"
 }

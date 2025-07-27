@@ -1,11 +1,11 @@
 {
   "name": "AHCodeCompiler",
-  "version": "1.0.4",
-  "summary": "A Python SDK by Akash Halder for compiling and executing code online with beautiful CLI output.",
+  "version": "1.0.5",
+  "summary": "A powerful Python SDK and interactive CLI editor by Akash Halder for compiling and executing code with rich terminal output and supports for 50+ programming languages.",
   "author": "Akash Halder",
   "license": "MIT",
   "home_page": "https://akashhalder.in/",
-  "download_filename": "ahcodecompiler-1.0.4.tar.gz",
-  "download_time": "2025-07-27T12:46:42.997559",
+  "download_filename": "ahcodecompiler-1.0.5.tar.gz",
+  "download_time": "2025-07-27T15:23:47.236141",
   "package_url": "https://pypi.org/project/AHCodeCompiler/"
 }

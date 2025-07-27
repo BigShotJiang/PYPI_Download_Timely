@@ -1,0 +1,11 @@
+{
+  "name": "ke-python-dubbo",
+  "version": "1.0.0",
+  "summary": "Python Dubbo Client.",
+  "author": "cn.zhangjianguo",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/cnzhangjianguo/python-dubbo",
+  "download_filename": "ke_python_dubbo-1.0.0.tar.gz",
+  "download_time": "2025-07-27T15:23:37.476875",
+  "package_url": "https://pypi.org/project/ke-python-dubbo/"
+}

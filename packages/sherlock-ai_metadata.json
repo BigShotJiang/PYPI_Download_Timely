@@ -1,0 +1,11 @@
+{
+  "name": "sherlock-ai",
+  "version": "1.6.1",
+  "summary": "A Python package for performance monitoring, logging utilities, and code analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sherlock_ai-1.6.1.tar.gz",
+  "download_time": "2025-07-27T15:23:47.748119",
+  "package_url": "https://pypi.org/project/sherlock-ai/"
+}

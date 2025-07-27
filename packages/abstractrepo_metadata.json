@@ -1,11 +1,11 @@
 {
   "name": "abstractrepo",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "Abstract CRUD repository components",
   "author": "Smoren",
   "license": null,
   "home_page": "https://github.com/Smoren/abstractrepo-pypi",
-  "download_filename": "abstractrepo-0.6.1.tar.gz",
-  "download_time": "2025-07-27T11:41:27.741743",
+  "download_filename": "abstractrepo-0.7.0.tar.gz",
+  "download_time": "2025-07-27T15:23:52.357392",
   "package_url": "https://pypi.org/project/abstractrepo/"
 }

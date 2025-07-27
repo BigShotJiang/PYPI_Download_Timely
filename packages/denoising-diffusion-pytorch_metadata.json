@@ -1,11 +1,11 @@
 {
   "name": "denoising-diffusion-pytorch",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "Denoising Diffusion Probabilistic Models - Pytorch",
   "author": "Phil Wang",
   "license": "MIT",
   "home_page": "https://github.com/lucidrains/denoising-diffusion-pytorch",
-  "download_filename": "denoising_diffusion_pytorch-2.2.2.tar.gz",
-  "download_time": "2025-07-25T17:58:11.515611",
+  "download_filename": "denoising_diffusion_pytorch-2.2.3.tar.gz",
+  "download_time": "2025-07-27T15:23:35.902844",
   "package_url": "https://pypi.org/project/denoising-diffusion-pytorch/"
 }

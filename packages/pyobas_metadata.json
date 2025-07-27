@@ -1,11 +1,11 @@
 {
   "name": "pyobas",
-  "version": "1.18.3",
+  "version": "1.18.5",
   "summary": "Python API client for OpenBAS.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyobas-1.18.3.tar.gz",
-  "download_time": "2025-07-24T11:20:51.226668",
+  "download_filename": "pyobas-1.18.5.tar.gz",
+  "download_time": "2025-07-27T15:23:59.071821",
   "package_url": "https://pypi.org/project/pyobas/"
 }
