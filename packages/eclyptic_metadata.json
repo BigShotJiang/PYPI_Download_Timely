@@ -1,0 +1,11 @@
+{
+  "name": "eclyptic",
+  "version": "1.2.0",
+  "summary": "Eclyptic Asymmetric Encryption: Minimal ECIES-style encryption with elliptic curves.",
+  "author": null,
+  "license": "Proprietary Use-Only License\r\n        \r\n        Copyright (c) 2025 JT Steinbach\r\n        All rights reserved.\r\n        \r\n        This software and accompanying documentation (the “Software”) is licensed, not sold, and is the proprietary work of JT Steinbach.  Permission is hereby granted to any person or entity to use the Software for any lawful purpose, including commercial, personal, educational, or governmental uses, without fee or royalty.\r\n        \r\n        **You may:**\r\n        \r\n        * Use the Software for any purpose.\r\n        * Integrate and deploy the Software in your own applications, products, or services.\r\n        \r\n        **You may NOT:**\r\n        \r\n        1. **Modify** the Software in any way, including adaptation, translation, or derivative works.\r\n        2. **Redistribute** or share the Software, in source or binary form, to any third party.\r\n        3. **Rent, lease, sublicense, or lend** the Software or rights thereto.\r\n        4. **Reverse engineer, decompile, disassemble, or attempt** to derive the Software’s source code or internal structure.\r\n        \r\n        **Attribution:**\r\n        Any use of the Software must include this notice.\r\n        \r\n        **Disclaimer of Warranty:**\r\n        THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.\r\n        \r\n        **Limitation of Liability:**\r\n        IN NO EVENT SHALL JT STEINBACH BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\r\n        \r\n        **Governing Law:**\r\n        This license is governed by the laws of the State of California, U.S.A., without regard to conflict of law principles.",
+  "home_page": null,
+  "download_filename": "eclyptic-1.2.0.tar.gz",
+  "download_time": "2025-07-27T05:51:22.506421",
+  "package_url": "https://pypi.org/project/eclyptic/"
+}

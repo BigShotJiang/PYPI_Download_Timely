@@ -1,0 +1,11 @@
+{
+  "name": "pgvector-template",
+  "version": "0.2.3",
+  "summary": "Template library for flexible PGVector RAG implementations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pgvector_template-0.2.3.tar.gz",
+  "download_time": "2025-07-27T05:51:28.221866",
+  "package_url": "https://pypi.org/project/pgvector-template/"
+}

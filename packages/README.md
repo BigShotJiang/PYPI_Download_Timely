@@ -1,20 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T05:28:58.826269
-- **Total Packages**: 73
-- **Total Size**: 17.3 MB
+- **Download Time**: 2025-07-27T05:51:58.837004
+- **Total Packages**: 69
+- **Total Size**: 10.95 MB
 
 ## Packages List
+- freealg
+- eclyptic
+- live2d-py
+- abstr
+- spatialcell
+- v-installer
 - triz-ai-patent-assistant
+- prefig
+- segmentation-robustness-framework
+- permacache
 - footballmvp
+- pgvector-template
+- EzQt-App
+- teslajsonpy
+- label-sorter
+- jxORM
+- scoda-viz
+- flowmotion
+- myapp-betrand1999
+- noiv
+- gwtransport
+- magique
+- hijri-converter
+- media-agent-mcp
+- CodeMutator
+- dataplot
+- maths-add
 - syndrilla
 - KeyisBClient
 - css-tidy
 - flashinfer-python
 - OiBot
 - withpi
-- media-agent-mcp
 - SecAutoBan
 - langchain_plainid
 - wakanda-whisper
@@ -29,10 +53,8 @@
 - video-edit-mcp
 - ai-subtitle-translator
 - quant-met
-- flowmotion
 - iamdata
 - appwrite-lab
-- noiv
 - asynctodon
 - dapu
 - dbpoint
@@ -47,35 +69,9 @@
 - utils4plans
 - paraview-trame-components
 - trame-common
-- myapp-betrand1999
 - pants-wheel
 - syft-serve
 - bjdata
 - flask-ishuman
 - zep-crewai
 - airfoileditor
-- CodeMutator
-- magique
-- auto-video-generator-mcp
-- skelmis-docx
-- ipulse-shared-data-eng-ftredge
-- appodus-utils
-- regmonkey_style
-- weftspace
-- keras-nlp-nightly
-- keras-hub-nightly
-- harina-v3-cli
-- mahoraga
-- benchmark-runner
-- tfts
-- volsite-postgres-common
-- scoda-viz
-- nonebot-plugin-guess-disease
-- monisha
-- libpresign
-- uharfbuzz
-- opencodespace
-- julia-browser
-- pape_docs
-- HoloAI
-- keras-nightly

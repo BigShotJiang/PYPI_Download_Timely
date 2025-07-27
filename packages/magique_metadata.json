@@ -1,11 +1,11 @@
 {
   "name": "magique",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Message transfer package for AI agents and distributed computing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "magique-0.6.2-py3-none-any.whl",
-  "download_time": "2025-07-27T04:47:09.348469",
+  "download_filename": "magique-0.6.3-py3-none-any.whl",
+  "download_time": "2025-07-27T05:51:34.009654",
   "package_url": "https://pypi.org/project/magique/"
 }

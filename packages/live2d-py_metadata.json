@@ -1,0 +1,11 @@
+{
+  "name": "live2d-py",
+  "version": "0.5.3.5",
+  "summary": "A non-web Live2D library for Python.",
+  "author": "Arkueid",
+  "license": "LICENSE",
+  "home_page": "https://github.com/Arkueid/live2d-py",
+  "download_filename": "live2d_py-0.5.3.5.tar.gz",
+  "download_time": "2025-07-27T05:51:23.573850",
+  "package_url": "https://pypi.org/project/live2d-py/"
+}

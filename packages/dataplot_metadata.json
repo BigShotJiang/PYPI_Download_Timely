@@ -1,0 +1,11 @@
+{
+  "name": "dataplot",
+  "version": "0.1.5",
+  "summary": "Provides plotting tools useful in datascience.",
+  "author": "Chitaoji",
+  "license": "BSD",
+  "home_page": "https://github.com/Chitaoji/dataplot/",
+  "download_filename": "dataplot-0.1.5-py2.py3-none-any.whl",
+  "download_time": "2025-07-27T05:51:36.109494",
+  "package_url": "https://pypi.org/project/dataplot/"
+}

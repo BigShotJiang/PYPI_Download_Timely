@@ -1,0 +1,11 @@
+{
+  "name": "jxORM",
+  "version": "0.1.1",
+  "summary": "jxORM是配套jxWebUI使用的数据库操作库",
+  "author": "徐晓轶",
+  "license": null,
+  "home_page": "https://blog.csdn.net/jxandrew/article/details/14946353",
+  "download_filename": "jxorm-0.1.1.tar.gz",
+  "download_time": "2025-07-27T05:51:30.866137",
+  "package_url": "https://pypi.org/project/jxORM/"
+}

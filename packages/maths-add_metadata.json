@@ -1,0 +1,11 @@
+{
+  "name": "maths-add",
+  "version": "2.2.3",
+  "summary": "A extended math library",
+  "author": "fourth-dimensional_universe",
+  "license": "MIT",
+  "home_page": "https://github.com/fourth-dimensional/maths_add",
+  "download_filename": "maths_add-2.2.3.tar.gz",
+  "download_time": "2025-07-27T05:51:36.641328",
+  "package_url": "https://pypi.org/project/maths-add/"
+}

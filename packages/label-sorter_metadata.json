@@ -1,0 +1,11 @@
+{
+  "name": "label-sorter",
+  "version": "0.1",
+  "summary": "Library to sort Amazon and Shopify shipping labels",
+  "author": "Harry19967",
+  "license": "MIT",
+  "home_page": "https://github.com/harilal766/Ecommerce-label-sorter",
+  "download_filename": "label_sorter-0.1.tar.gz",
+  "download_time": "2025-07-27T05:51:30.336321",
+  "package_url": "https://pypi.org/project/label-sorter/"
+}

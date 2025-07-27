@@ -1,0 +1,11 @@
+{
+  "name": "v-installer",
+  "version": "0.0.32",
+  "summary": "Install my app, not for all people",
+  "author": "Koi",
+  "license": null,
+  "home_page": "http://gitea:8000/datlt4/fortifai_monitoring",
+  "download_filename": "v-installer-0.0.32.tar.gz",
+  "download_time": "2025-07-27T05:51:25.111227",
+  "package_url": "https://pypi.org/project/v-installer/"
+}
