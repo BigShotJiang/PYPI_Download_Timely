@@ -1,11 +1,11 @@
 {
   "name": "pchjlib",
-  "version": "0.0.5.2",
+  "version": "0.0.5.2.1",
   "summary": "Thư viện này có thể thực hiện các phép tính, thuật toán, xử lí chuỗi / mảng, . . .",
   "author": "Joesifer",
   "license": "MIT License",
   "home_page": "https://github.com/Joesifer/pchjlib",
-  "download_filename": "pchjlib-0.0.5.2.tar.gz",
-  "download_time": "2025-07-27T04:47:18.217788",
+  "download_filename": "pchjlib-0.0.5.2.1.tar.gz",
+  "download_time": "2025-07-27T05:28:31.296570",
   "package_url": "https://pypi.org/project/pchjlib/"
 }

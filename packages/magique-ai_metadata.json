@@ -1,11 +1,11 @@
 {
   "name": "magique-ai",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Toolset for AI Agents, provide service via magique message transfer server.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "magique_ai-0.4.0-py3-none-any.whl",
-  "download_time": "2025-07-27T04:47:22.404192",
+  "download_filename": "magique_ai-0.4.2-py3-none-any.whl",
+  "download_time": "2025-07-27T05:28:40.012819",
   "package_url": "https://pypi.org/project/magique-ai/"
 }

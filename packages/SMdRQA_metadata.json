@@ -1,0 +1,11 @@
+{
+  "name": "SMdRQA",
+  "version": "2025.7.27",
+  "summary": "A Python implementation of MdRQA",
+  "author": "Swarag Thaikkandi, K.M. Sharika, Miss Nivedita",
+  "license": null,
+  "home_page": "https://github.com/SwaragThaikkandi/Sliding_MdRQA",
+  "download_filename": "smdrqa-2025.7.27.tar.gz",
+  "download_time": "2025-07-27T05:28:30.784238",
+  "package_url": "https://pypi.org/project/SMdRQA/"
+}

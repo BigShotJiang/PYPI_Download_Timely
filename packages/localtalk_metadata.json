@@ -1,11 +1,11 @@
 {
   "name": "localtalk",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": "A local/offline-capable voice assistant with speech recognition, LLM processing, and text-to-speech",
   "author": "Anthony Wu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "localtalk-0.1.0a2.tar.gz",
-  "download_time": "2025-07-26T18:32:49.920128",
+  "download_filename": "localtalk-0.1.0a3.tar.gz",
+  "download_time": "2025-07-27T05:28:37.459606",
   "package_url": "https://pypi.org/project/localtalk/"
 }

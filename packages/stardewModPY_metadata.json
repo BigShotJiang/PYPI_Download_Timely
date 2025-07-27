@@ -1,11 +1,11 @@
 {
   "name": "stardewModPY",
-  "version": "0.3.10.post4",
+  "version": "0.3.10.post8",
   "summary": "Uma biblioteca para gerar mods com packs de conteúdo em json para Stardew Valley",
   "author": "alichan",
   "license": null,
   "home_page": null,
-  "download_filename": "stardewmodpy-0.3.10.post4.tar.gz",
-  "download_time": "2025-07-23T21:12:59.236811",
+  "download_filename": "stardewmodpy-0.3.10.post8.tar.gz",
+  "download_time": "2025-07-27T05:28:28.191336",
   "package_url": "https://pypi.org/project/stardewModPY/"
 }
