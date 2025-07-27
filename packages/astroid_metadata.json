@@ -1,0 +1,11 @@
+{
+  "name": "astroid",
+  "version": "3.3.11",
+  "summary": "An abstract syntax tree for Python with inference support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astroid-3.3.11.tar.gz",
+  "download_time": "2025-07-27T15:55:45.551740",
+  "package_url": "https://pypi.org/project/astroid/"
+}

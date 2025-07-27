@@ -1,0 +1,11 @@
+{
+  "name": "DiskAnalyzer",
+  "version": "0.1.0",
+  "summary": "This package implements multiples libraries and tools to parse, analyze and extract informations from disk on the live system.",
+  "author": "Maurice Lambert",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/mauricelambert/DiskAnalyzer",
+  "download_filename": "diskanalyzer-0.1.0.tar.gz",
+  "download_time": "2025-07-27T15:55:33.267345",
+  "package_url": "https://pypi.org/project/DiskAnalyzer/"
+}

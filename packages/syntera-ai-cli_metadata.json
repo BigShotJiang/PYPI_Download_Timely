@@ -1,0 +1,11 @@
+{
+  "name": "syntera-ai-cli",
+  "version": "0.1.4",
+  "summary": "An AI-powered DevOps toolkit for infrastructure automation and analysis",
+  "author": "Fouad Mahmoud",
+  "license": null,
+  "home_page": "https://github.com/fouadmahmoud281/syntera-ai",
+  "download_filename": "syntera_ai_cli-0.1.4.tar.gz",
+  "download_time": "2025-07-27T15:55:30.660240",
+  "package_url": "https://pypi.org/project/syntera-ai-cli/"
+}

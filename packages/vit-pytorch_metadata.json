@@ -1,11 +1,11 @@
 {
   "name": "vit-pytorch",
-  "version": "1.11.2",
+  "version": "1.11.3",
   "summary": "Vision Transformer (ViT) - Pytorch",
   "author": "Phil Wang",
   "license": "MIT",
   "home_page": "https://github.com/lucidrains/vit-pytorch",
-  "download_filename": "vit_pytorch-1.11.2.tar.gz",
-  "download_time": "2025-07-27T15:44:04.445202",
+  "download_filename": "vit_pytorch-1.11.3.tar.gz",
+  "download_time": "2025-07-27T15:55:40.350658",
   "package_url": "https://pypi.org/project/vit-pytorch/"
 }

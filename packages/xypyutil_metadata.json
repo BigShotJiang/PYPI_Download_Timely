@@ -1,0 +1,11 @@
+{
+  "name": "xypyutil",
+  "version": "1.0.7",
+  "summary": "Building blocks for sysadmin and DevOps",
+  "author": "Xi Ye",
+  "license": "MIT",
+  "home_page": "https://github.com/zcyh147/xypyutil/",
+  "download_filename": "xypyutil-1.0.7.tar.gz",
+  "download_time": "2025-07-27T15:55:31.322579",
+  "package_url": "https://pypi.org/project/xypyutil/"
+}
