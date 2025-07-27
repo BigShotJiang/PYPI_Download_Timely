@@ -1,11 +1,11 @@
 {
   "name": "agb-star-deprojection-methods",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Package for visualising radially expanding circumstellar envelopes of AGB stars.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agb_star_deprojection_methods-0.0.2.tar.gz",
-  "download_time": "2025-07-26T11:52:38.887402",
+  "download_filename": "agb_star_deprojection_methods-0.0.3.tar.gz",
+  "download_time": "2025-07-27T12:46:44.034580",
   "package_url": "https://pypi.org/project/agb-star-deprojection-methods/"
 }

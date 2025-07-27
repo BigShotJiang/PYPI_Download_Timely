@@ -1,0 +1,11 @@
+{
+  "name": "flake8-digit-separator",
+  "version": "0.1.8",
+  "summary": "Correct placement of separators",
+  "author": "Timur Valiev",
+  "license": "MIT",
+  "home_page": "https://github.com/imtoopunkforyou/flake8-digit-separator",
+  "download_filename": "flake8_digit_separator-0.1.8.tar.gz",
+  "download_time": "2025-07-27T12:46:30.941509",
+  "package_url": "https://pypi.org/project/flake8-digit-separator/"
+}

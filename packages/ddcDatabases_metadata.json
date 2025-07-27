@@ -1,11 +1,11 @@
 {
   "name": "ddcDatabases",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Database ORM Connections and Queries",
   "author": "Daniel Costa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ddcdatabases-2.0.2.tar.gz",
-  "download_time": "2025-07-26T14:45:30.576672",
+  "download_filename": "ddcdatabases-2.0.3.tar.gz",
+  "download_time": "2025-07-27T12:46:19.409839",
   "package_url": "https://pypi.org/project/ddcDatabases/"
 }

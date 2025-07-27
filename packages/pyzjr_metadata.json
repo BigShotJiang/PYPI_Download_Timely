@@ -1,0 +1,11 @@
+{
+  "name": "pyzjr",
+  "version": "1.4.16",
+  "summary": "A computer vision library that supports Win, packaged with patches for visual libraries such as                 Opencv, matplotlib, and image. In the future, Pytorch will also be supported, all of which are personal (Auorui)                 engineering code experience. ",
+  "author": "Auorui",
+  "license": "MIT",
+  "home_page": "https://github.com/Auorui/pyzjr",
+  "download_filename": "pyzjr-1.4.16.tar.gz",
+  "download_time": "2025-07-27T12:46:02.691663",
+  "package_url": "https://pypi.org/project/pyzjr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BlaBlaTeX",
+  "version": "1.0.0",
+  "summary": "CLI tool to manage and use your personal LaTeX templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blablatex-1.0.0.tar.gz",
+  "download_time": "2025-07-27T12:46:04.804042",
+  "package_url": "https://pypi.org/project/BlaBlaTeX/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ua-extract",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Python3 port of matomo's Device Detector",
   "author": "Pranav Agrawal",
   "license": "MIT",
   "home_page": "https://github.com/pranavagrawal321/ua_extract",
-  "download_filename": "ua_extract-1.1.0.tar.gz",
-  "download_time": "2025-07-27T11:52:46.484686",
+  "download_filename": "ua_extract-1.1.1.tar.gz",
+  "download_time": "2025-07-27T12:46:45.096311",
   "package_url": "https://pypi.org/project/ua-extract/"
 }

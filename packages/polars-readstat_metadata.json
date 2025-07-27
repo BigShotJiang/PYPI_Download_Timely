@@ -1,0 +1,11 @@
+{
+  "name": "polars-readstat",
+  "version": "0.5.1",
+  "summary": "Read SAS (sas7bdat), Stata (dta), and SPSS (sav) files with polars",
+  "author": "Jon Rothbaum <jlrothbaum@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polars_readstat-0.5.1-cp39-abi3-macosx_10_15_x86_64.whl",
+  "download_time": "2025-07-27T12:46:30.421387",
+  "package_url": "https://pypi.org/project/polars-readstat/"
+}

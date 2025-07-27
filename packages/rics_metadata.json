@@ -1,0 +1,11 @@
+{
+  "name": "rics",
+  "version": "6.0.2",
+  "summary": "My personal little ML engineering library.",
+  "author": "Richard Sundqvist",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rics-6.0.2.tar.gz",
+  "download_time": "2025-07-27T12:46:35.139300",
+  "package_url": "https://pypi.org/project/rics/"
+}

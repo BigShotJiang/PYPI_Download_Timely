@@ -1,0 +1,11 @@
+{
+  "name": "pixman",
+  "version": "0.0.1",
+  "summary": "Safe dummy package to demonstrate PoC upload - cygut7.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://cygut7.cygut7",
+  "download_filename": "pixman-0.0.1-py3-none-any.whl",
+  "download_time": "2025-07-27T12:46:14.216324",
+  "package_url": "https://pypi.org/project/pixman/"
+}

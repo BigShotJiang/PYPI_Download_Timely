@@ -1,0 +1,11 @@
+{
+  "name": "km3db",
+  "version": "0.14.7",
+  "summary": "KM3NeT Database Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "km3db-0.14.7.tar.gz",
+  "download_time": "2025-07-27T12:46:39.875948",
+  "package_url": "https://pypi.org/project/km3db/"
+}

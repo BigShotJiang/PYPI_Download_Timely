@@ -1,0 +1,11 @@
+{
+  "name": "curlifier",
+  "version": "0.2.17",
+  "summary": "Converts Request objects to curl string",
+  "author": "Timur Valiev",
+  "license": "MIT",
+  "home_page": "https://github.com/imtoopunkforyou/curlifier",
+  "download_filename": "curlifier-0.2.17.tar.gz",
+  "download_time": "2025-07-27T12:46:42.478112",
+  "package_url": "https://pypi.org/project/curlifier/"
+}

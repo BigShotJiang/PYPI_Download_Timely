@@ -1,0 +1,11 @@
+{
+  "name": "varcache",
+  "version": "0.2.0",
+  "summary": "Simple file-based cache for Python objects.",
+  "author": "Alexander Khlebushchev",
+  "license": "MIT",
+  "home_page": "https://github.com/fomalhaut88/varcache",
+  "download_filename": "varcache-0.2.0.tar.gz",
+  "download_time": "2025-07-27T12:46:47.701198",
+  "package_url": "https://pypi.org/project/varcache/"
+}

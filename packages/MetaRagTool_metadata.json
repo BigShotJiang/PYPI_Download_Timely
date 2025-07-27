@@ -1,0 +1,11 @@
+{
+  "name": "MetaRagTool",
+  "version": "0.3.24",
+  "summary": "A comprehensive RAG (Retrieval-Augmented Generation) toolkit for AI applications",
+  "author": "Ali Mobarekati",
+  "license": "MIT",
+  "home_page": "https://github.com/ali7919/MetaRAG",
+  "download_filename": "metaragtool-0.3.24.tar.gz",
+  "download_time": "2025-07-27T12:46:14.737672",
+  "package_url": "https://pypi.org/project/MetaRagTool/"
+}
