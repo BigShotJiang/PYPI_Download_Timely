@@ -1,20 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T07:28:33.945550
-- **Total Packages**: 83
-- **Total Size**: 20.87 MB
+- **Download Time**: 2025-07-27T07:43:30.546456
+- **Total Packages**: 82
+- **Total Size**: 5.24 MB
 
 ## Packages List
+- dapu
+- crawlo
+- sklearn-migrator
+- PKDevTools
+- fastapi-login-shield
+- coffea
+- xmodules
+- mcp-coroot
+- pyverto
+- gx-mcp-server
+- whatsloon
+- sense-table
+- embcli-chroma
+- scribe-python-client
+- twigs
+- garin54-slack-emoji-attached-strands
+- protograf
+- spiritlong
 - tomodo
 - bridgecrew
 - pytest-rca-report
 - q-materialise
 - KeyisBClient
 - minienv
-- fastapi-login-shield
 - pypomes-s3
-- gx-mcp-server
 - owa-msgs
 - owa-env-gst
 - owa-env-desktop
@@ -35,9 +51,7 @@
 - auditwheel
 - absltest123
 - envhub-cli
-- PKDevTools
 - fp-orchestrator-utils
-- scribe-python-client
 - pyenv-virtualenv-windows
 - zenopay-sdk
 - myapp-betrand1999
@@ -74,18 +88,3 @@
 - quantalogic-markdown-mcp
 - cmsens
 - snowflake-cli-nextflow
-- prachi-package-test
-- scikit-robot
-- emoji-diamond
-- lightrun
-- qgitc
-- fast-bitrix24
-- letta-nightly
-- letta
-- Rubka
-- ngwidgets
-- colight-prose
-- colight
-- magique
-- dapu
-- ai-edge-litert-sdk-mediatek-nightly

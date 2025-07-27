@@ -1,11 +1,11 @@
 {
   "name": "sense-table",
-  "version": "0.0.1rc6",
+  "version": "0.0.1rc8",
   "summary": "Smoothly make sense of your large-scale multi-modal tabular data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sense_table-0.0.1rc6.tar.gz",
-  "download_time": "2025-07-27T03:54:23.772850",
+  "download_filename": "sense_table-0.0.1rc8.tar.gz",
+  "download_time": "2025-07-27T07:42:53.801007",
   "package_url": "https://pypi.org/project/sense-table/"
 }
