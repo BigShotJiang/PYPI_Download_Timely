@@ -1,0 +1,11 @@
+{
+  "name": "zensols-mednlp",
+  "version": "1.9.2",
+  "summary": "A natural language medical domain parsing library.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_mednlp-1.9.2-py3-none-any.whl",
+  "download_time": "2025-07-27T23:24:21.060983",
+  "package_url": "https://pypi.org/project/zensols-mednlp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-loginas",
+  "version": "0.3.12",
+  "summary": "An app to add a \"Log in as user\" button in the Django user admin page.",
+  "author": "Stochastic Technologies",
+  "license": "BSD",
+  "home_page": "https://github.com/stochastic-technologies/django-loginas/",
+  "download_filename": "django-loginas-0.3.12.tar.gz",
+  "download_time": "2025-07-27T23:23:46.417662",
+  "package_url": "https://pypi.org/project/django-loginas/"
+}

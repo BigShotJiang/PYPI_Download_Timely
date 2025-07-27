@@ -1,0 +1,11 @@
+{
+  "name": "yousif-raiyan-pip-package",
+  "version": "1.6.22",
+  "summary": "Comprehensive EEG analysis pipeline with graph-based connectivity analysis, trigger detection, and frequency-domain processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yousif_raiyan_pip_package-1.6.22.tar.gz",
+  "download_time": "2025-07-27T23:24:22.100240",
+  "package_url": "https://pypi.org/project/yousif-raiyan-pip-package/"
+}

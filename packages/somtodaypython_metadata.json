@@ -1,11 +1,11 @@
 {
   "name": "somtodaypython",
-  "version": "1.2",
+  "version": "1.2.1",
   "summary": "Python package for interacting & fetching somtoday's data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "somtodaypython-1.2.tar.gz",
-  "download_time": "2025-07-25T16:30:23.848572",
+  "download_filename": "somtodaypython-1.2.1.tar.gz",
+  "download_time": "2025-07-27T23:24:05.436617",
   "package_url": "https://pypi.org/project/somtodaypython/"
 }

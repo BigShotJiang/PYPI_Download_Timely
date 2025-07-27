@@ -1,0 +1,11 @@
+{
+  "name": "jsonschema-rs",
+  "version": "0.31.0",
+  "summary": "A high-performance JSON Schema validator for Python",
+  "author": "Dmitry Dygalo <dmitry@dygalo.dev>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jsonschema_rs-0.31.0.tar.gz",
+  "download_time": "2025-07-27T23:23:55.897717",
+  "package_url": "https://pypi.org/project/jsonschema-rs/"
+}

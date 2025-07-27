@@ -1,0 +1,11 @@
+{
+  "name": "risa-framework",
+  "version": "1.0.0",
+  "summary": "Recursive Identity Symbolic Arithmetic (RISA) - Revolutionary mathematical framework",
+  "author": "Travis Miner",
+  "license": "MIT",
+  "home_page": "https://github.com/travis-miner/risa-framework",
+  "download_filename": "risa_framework-1.0.0.tar.gz",
+  "download_time": "2025-07-27T23:23:56.422015",
+  "package_url": "https://pypi.org/project/risa-framework/"
+}

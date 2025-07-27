@@ -1,0 +1,11 @@
+{
+  "name": "zensols-mimicsid",
+  "version": "1.10.1",
+  "summary": "This repository contains the a Python package to automatically segment and identify sections of clinical notes, such as electronic health record (EHR) medical documents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_mimicsid-1.10.1-py3-none-any.whl",
+  "download_time": "2025-07-27T23:23:51.721412",
+  "package_url": "https://pypi.org/project/zensols-mimicsid/"
+}

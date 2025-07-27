@@ -1,11 +1,11 @@
 {
   "name": "file-dealer",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Helper functions to read, write, append and delete files easily.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "file_dealer-0.2.3.tar.gz",
-  "download_time": "2025-07-26T22:22:46.928418",
+  "download_filename": "file_dealer-0.2.4.tar.gz",
+  "download_time": "2025-07-27T23:24:20.540917",
   "package_url": "https://pypi.org/project/file-dealer/"
 }

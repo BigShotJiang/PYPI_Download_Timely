@@ -1,0 +1,11 @@
+{
+  "name": "anndict",
+  "version": "0.3.69",
+  "summary": "Conveniently process a dictionary of anndatas (adata_dict)",
+  "author": "ggit12",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "anndict-0.3.69.tar.gz",
+  "download_time": "2025-07-27T23:24:13.766318",
+  "package_url": "https://pypi.org/project/anndict/"
+}

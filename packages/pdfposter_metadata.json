@@ -1,0 +1,11 @@
+{
+  "name": "pdfposter",
+  "version": "0.9.post2",
+  "summary": "Scale and tile PDF images/pages to print on multiple pages.",
+  "author": "Hartmut Goebel",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://pdfposter.readthedocs.io/",
+  "download_filename": "pdfposter-0.9.post2.tar.gz",
+  "download_time": "2025-07-27T23:24:06.475731",
+  "package_url": "https://pypi.org/project/pdfposter/"
+}

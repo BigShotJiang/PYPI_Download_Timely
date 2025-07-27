@@ -1,0 +1,11 @@
+{
+  "name": "pytboss",
+  "version": "2025.7.0",
+  "summary": "Python library for interacting with PitBoss grills and smokers.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "pytboss-2025.7.0.tar.gz",
+  "download_time": "2025-07-27T23:24:15.859254",
+  "package_url": "https://pypi.org/project/pytboss/"
+}

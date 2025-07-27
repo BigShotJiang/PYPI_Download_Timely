@@ -1,0 +1,11 @@
+{
+  "name": "mailru-cloud-cli",
+  "version": "1.4.2",
+  "summary": "Неофициальный CLI-клиент для Mail.ru Cloud (WebDAV)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mailru_cloud_cli-1.4.2.tar.gz",
+  "download_time": "2025-07-27T23:23:54.837316",
+  "package_url": "https://pypi.org/project/mailru-cloud-cli/"
+}

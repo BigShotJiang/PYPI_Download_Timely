@@ -1,0 +1,11 @@
+{
+  "name": "voxai",
+  "version": "0.3.2",
+  "summary": "Voice-driven AI assistant with modern UI, system audio capture, and ChatGPT-like streaming responses.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voxai-0.3.2.tar.gz",
+  "download_time": "2025-07-27T23:24:24.192956",
+  "package_url": "https://pypi.org/project/voxai/"
+}

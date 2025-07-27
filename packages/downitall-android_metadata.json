@@ -1,11 +1,11 @@
 {
   "name": "downitall-android",
-  "version": "1.1",
+  "version": "1.5",
   "summary": "A cli to download and stream all kind of media",
   "author": "Behram Akhtar/Aatiho Nora",
   "license": null,
   "home_page": null,
-  "download_filename": "downitall_android-1.1-py2.py3-none-any.whl",
-  "download_time": "2025-07-25T21:54:12.766471",
+  "download_filename": "downitall_android-1.5.tar.gz",
+  "download_time": "2025-07-27T23:24:22.620475",
   "package_url": "https://pypi.org/project/downitall-android/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kge-kubectl-get-events",
+  "version": "0.11.2",
+  "summary": "Kubernetes utility for viewing pod and failed replicaset events",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kge_kubectl_get_events-0.11.2.tar.gz",
+  "download_time": "2025-07-27T23:24:01.231670",
+  "package_url": "https://pypi.org/project/kge-kubectl-get-events/"
+}

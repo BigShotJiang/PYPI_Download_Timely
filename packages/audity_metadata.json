@@ -1,0 +1,11 @@
+{
+  "name": "audity",
+  "version": "0.10.0",
+  "summary": "Audit, inspect, and survey data from the terminal.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "audity-0.10.0.tar.gz",
+  "download_time": "2025-07-27T23:24:06.995698",
+  "package_url": "https://pypi.org/project/audity/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xgrammar",
+  "version": "0.1.22",
+  "summary": "Efficient, Flexible and Portable Structured Generation",
+  "author": "MLC Team",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "xgrammar-0.1.22.tar.gz",
+  "download_time": "2025-07-27T23:23:50.675024",
+  "package_url": "https://pypi.org/project/xgrammar/"
+}
