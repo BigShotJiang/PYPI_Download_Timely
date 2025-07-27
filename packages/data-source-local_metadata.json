@@ -1,11 +1,11 @@
 {
   "name": "data-source-local",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": null,
   "author": "Circles",
   "license": null,
   "home_page": "https://github.com/circles-zone/data-source-local-python-package",
-  "download_filename": "data_source_local-0.0.14.tar.gz",
-  "download_time": "2025-07-27T20:25:52.309054",
+  "download_filename": "data_source_local-0.0.15.tar.gz",
+  "download_time": "2025-07-27T23:56:42.673164",
   "package_url": "https://pypi.org/project/data-source-local/"
 }

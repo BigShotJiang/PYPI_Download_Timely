@@ -1,11 +1,11 @@
 {
   "name": "mkpipe-extractor-s3",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "S3 extractor for mkpipe.",
   "author": "Metin Karakus",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "mkpipe_extractor_s3-0.3.0.tar.gz",
-  "download_time": "2025-07-23T22:14:04.529940",
+  "download_filename": "mkpipe_extractor_s3-0.3.1.tar.gz",
+  "download_time": "2025-07-27T23:56:45.621883",
   "package_url": "https://pypi.org/project/mkpipe-extractor-s3/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sincpro-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A logging module for sincpro applications",
   "author": "Andres Gutierrez",
   "license": "LICENSE.md",
   "home_page": null,
-  "download_filename": "sincpro_log-1.0.0.tar.gz",
-  "download_time": "2025-07-27T21:54:09.187589",
+  "download_filename": "sincpro_log-1.0.1.tar.gz",
+  "download_time": "2025-07-27T23:56:38.666711",
   "package_url": "https://pypi.org/project/sincpro-log/"
 }

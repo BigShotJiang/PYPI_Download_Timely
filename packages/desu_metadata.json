@@ -1,11 +1,11 @@
 {
   "name": "desu",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Lightweight utilities for data science, data engineering, and data analysis projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "desu-0.1.3.tar.gz",
-  "download_time": "2025-07-27T23:23:54.318770",
+  "download_filename": "desu-0.1.4.tar.gz",
+  "download_time": "2025-07-27T23:56:10.124836",
   "package_url": "https://pypi.org/project/desu/"
 }

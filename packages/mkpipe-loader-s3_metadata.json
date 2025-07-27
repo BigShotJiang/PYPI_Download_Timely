@@ -1,0 +1,11 @@
+{
+  "name": "mkpipe-loader-s3",
+  "version": "0.2.0",
+  "summary": "S3 loader for mkpipe.",
+  "author": "Metin Karakus",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mkpipe_loader_s3-0.2.0.tar.gz",
+  "download_time": "2025-07-27T23:56:41.527956",
+  "package_url": "https://pypi.org/project/mkpipe-loader-s3/"
+}

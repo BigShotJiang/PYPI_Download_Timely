@@ -1,56 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T23:45:45.602712
-- **Total Packages**: 79
-- **Total Size**: 1.61 MB
+- **Download Time**: 2025-07-27T23:56:47.183541
+- **Total Packages**: 75
+- **Total Size**: 13.54 MB
 
 ## Packages List
-- split-interval
-- yt-dlp
-- snakestack
-- starhtml
-- uvify
-- gitredate
-- chatbot-test-framework
-- nv-ingest-client
-- fund-insight-engine
-- extra-demucs
-- db2_hj3415
-- cs-debug
-- hakoniwa-pdu
-- auto-favicon
-- cs-fs
-- copyparty
-- finbourne-horizon-sdk
-- qs-codec
-- platform_utils
-- coppersun-brass
-- micoo
-- tilingPuzzles
-- django-loginas
-- abcdfu1234
-- chuk-mcp-function-server
-- medicafe
-- policyengine-us
-- pygofastproxy
-- microlensing-photometry
-- xgrammar
-- zmk
-- zensols-mimicsid
-- time-narrator
-- keprompt
-- decksmith
-- desu
-- mailru-cloud-cli
-- make-post-sell
-- jsonschema-rs
-- risa-framework
-- composabl-core-dev
-- composabl-train-dev
-- composabl-api-dev
-- composabl-cli-dev
-- composabl-dev
 - episol
 - abstractrepo
 - kge-kubectl-get-events
@@ -61,6 +16,7 @@
 - limber-timber
 - tdrpa.tdworker
 - metis-agent
+- desu
 - somtodaypython
 - wsdiff
 - pdfposter
@@ -75,6 +31,7 @@
 - micov
 - linkai-aion
 - spawn-user-agent
+- decksmith
 - intake-gfs-ncar
 - anndict
 - pytrilogy
@@ -85,3 +42,42 @@
 - chainfix
 - annex4ac
 - mkpipe
+- obfuskey
+- eval-protocol
+- flexipatch
+- mulch
+- file-dealer
+- zensols-mednlp
+- yousif-raiyan-pip-package
+- downitall-android
+- django-computedfields
+- passenv
+- voxai
+- bash2gitlab
+- thingi10k
+- teleplay
+- hivclustering
+- biobase
+- radboy
+- churn-modeling-pipelines
+- regula-documentreader-webclient
+- ncaa-bbStats
+- okareo
+- coppersun-brass
+- kapso
+- leap-bundle
+- sincpro-log
+- pydevplus
+- contextual-privacy-llm
+- ingame
+- hyperdrive
+- mkpipe-loader-s3
+- pixcore
+- data-source-local
+- mkpipe-loader-clickhouse
+- boot_dummy
+- pystatar
+- wisio
+- mkpipe-extractor-s3
+- dataclass-wizard
+- celux

@@ -1,0 +1,11 @@
+{
+  "name": "dataclass-wizard",
+  "version": "0.35.1",
+  "summary": "Lightning-fast JSON wizardry for Python dataclasses — effortless serialization right out of the box!",
+  "author": "Ritvik Nag",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rnag/dataclass-wizard",
+  "download_filename": "dataclass-wizard-0.35.1.tar.gz",
+  "download_time": "2025-07-27T23:56:46.162618",
+  "package_url": "https://pypi.org/project/dataclass-wizard/"
+}

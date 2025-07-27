@@ -1,11 +1,11 @@
 {
   "name": "pydevplus",
-  "version": "0.1.0",
-  "summary": "A powerful toolkit for Python developers.",
+  "version": "0.1.1",
+  "summary": "A versatile toolkit offering essential utilities to boost Python development productivity.",
   "author": "sksanju",
   "license": null,
-  "home_page": "https://github.com/sksanju/pydevplus",
-  "download_filename": "pydevplus-0.1.0.tar.gz",
-  "download_time": "2025-07-27T21:54:04.034332",
+  "home_page": "https://github.com/sk-sanju/pydevplus",
+  "download_filename": "pydevplus-0.1.1.tar.gz",
+  "download_time": "2025-07-27T23:56:39.238517",
   "package_url": "https://pypi.org/project/pydevplus/"
 }
