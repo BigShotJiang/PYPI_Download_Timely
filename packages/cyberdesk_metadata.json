@@ -1,11 +1,11 @@
 {
   "name": "cyberdesk",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "summary": "The official Python SDK for Cyberdesk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cyberdesk-1.4.1.tar.gz",
-  "download_time": "2025-07-27T03:54:10.883715",
+  "download_filename": "cyberdesk-1.5.0.tar.gz",
+  "download_time": "2025-07-27T21:54:16.099286",
   "package_url": "https://pypi.org/project/cyberdesk/"
 }

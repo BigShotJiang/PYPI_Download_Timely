@@ -1,0 +1,11 @@
+{
+  "name": "bigraph-viz",
+  "version": "0.1.6",
+  "summary": "A graphviz-based plotting tool for compositional bigraph schema",
+  "author": "Eran Agmon",
+  "license": null,
+  "home_page": "https://github.com/vivarium-collective/bigraph-viz",
+  "download_filename": "bigraph-viz-0.1.6.tar.gz",
+  "download_time": "2025-07-27T21:54:06.933072",
+  "package_url": "https://pypi.org/project/bigraph-viz/"
+}

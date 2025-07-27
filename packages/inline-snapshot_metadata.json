@@ -1,11 +1,11 @@
 {
   "name": "inline-snapshot",
-  "version": "0.25.2",
+  "version": "0.25.3",
   "summary": "golden master/snapshot/approval testing library which puts the values right into your source code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inline_snapshot-0.25.2.tar.gz",
-  "download_time": "2025-07-25T05:45:00.480720",
+  "download_filename": "inline_snapshot-0.25.3.tar.gz",
+  "download_time": "2025-07-27T21:54:16.651032",
   "package_url": "https://pypi.org/project/inline-snapshot/"
 }

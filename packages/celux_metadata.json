@@ -1,0 +1,11 @@
+{
+  "name": "celux",
+  "version": "0.6.2",
+  "summary": "HW accelerated video reader for ML inference (CPU version)",
+  "author": "Trenton Flanagan",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/Trentonom0r3/celux",
+  "download_filename": "celux-0.6.2-py3-none-any.whl",
+  "download_time": "2025-07-27T21:54:01.849249",
+  "package_url": "https://pypi.org/project/celux/"
+}

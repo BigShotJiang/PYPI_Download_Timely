@@ -1,0 +1,11 @@
+{
+  "name": "airflow-blueprint",
+  "version": "0.0.1a2",
+  "summary": "Create reusable Airflow DAG templates with validated configurations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airflow_blueprint-0.0.1a2.tar.gz",
+  "download_time": "2025-07-27T21:54:02.944531",
+  "package_url": "https://pypi.org/project/airflow-blueprint/"
+}

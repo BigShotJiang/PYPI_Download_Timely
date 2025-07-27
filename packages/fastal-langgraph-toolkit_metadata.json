@@ -1,11 +1,11 @@
 {
   "name": "fastal-langgraph-toolkit",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Common utilities and tools for LangGraph agents by Fastal",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastal_langgraph_toolkit-0.1.1.tar.gz",
-  "download_time": "2025-07-27T17:46:36.016780",
+  "download_filename": "fastal_langgraph_toolkit-0.2.0.tar.gz",
+  "download_time": "2025-07-27T21:54:07.503374",
   "package_url": "https://pypi.org/project/fastal-langgraph-toolkit/"
 }
