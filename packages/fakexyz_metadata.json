@@ -1,11 +1,11 @@
 {
   "name": "fakexyz",
-  "version": "0.1.0",
-  "summary": "Generate UAE-based fake user and address information.",
-  "author": "Your Name",
+  "version": "0.1.1",
+  "summary": "Generate fake user and address information for various countries.",
+  "author": "bbinl",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/fakexyz",
-  "download_filename": "fakexyz-0.1.0.tar.gz",
-  "download_time": "2025-07-27T08:51:18.807539",
+  "home_page": "https://github.com/bbinl/fakexyz.git",
+  "download_filename": "fakexyz-0.1.1.tar.gz",
+  "download_time": "2025-07-27T11:52:44.920823",
   "package_url": "https://pypi.org/project/fakexyz/"
 }

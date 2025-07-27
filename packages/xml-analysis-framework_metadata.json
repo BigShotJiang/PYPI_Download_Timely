@@ -1,11 +1,11 @@
 {
   "name": "xml-analysis-framework",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "XML document analysis and preprocessing framework designed for AI/ML data pipelines",
   "author": "AI Building Blocks",
   "license": "MIT",
   "home_page": "https://github.com/redhat-ai-americas/xml-analysis-framework",
-  "download_filename": "xml_analysis_framework-1.2.8.tar.gz",
-  "download_time": "2025-07-27T04:47:26.630135",
+  "download_filename": "xml_analysis_framework-1.2.9.tar.gz",
+  "download_time": "2025-07-27T11:52:42.285091",
   "package_url": "https://pypi.org/project/xml-analysis-framework/"
 }

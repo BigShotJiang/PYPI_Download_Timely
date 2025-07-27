@@ -1,0 +1,11 @@
+{
+  "name": "ffi-navigator",
+  "version": "0.6.3",
+  "summary": "Language server for navigating FFI calls",
+  "author": "FFI navigator contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/tqchen/ffi-navigator",
+  "download_filename": "ffi_navigator-0.6.3.tar.gz",
+  "download_time": "2025-07-27T11:52:47.005841",
+  "package_url": "https://pypi.org/project/ffi-navigator/"
+}

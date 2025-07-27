@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-27T11:41:47.270583
+- **Download Time**: 2025-07-27T11:53:20.773854
 - **Total Packages**: 78
-- **Total Size**: 21.99 MB
+- **Total Size**: 12.81 MB
 
 ## Packages List
+- findpeaks
+- dshellInterpreter
+- intronator
+- memcache
+- dustmaps3d
+- rag-fact-checker
+- xml-analysis-framework
+- ibis-framework
+- interpals-api
+- ggallery
+- fakexyz
+- python-roborock
+- minix
+- ua-extract
+- ffi-navigator
+- TSMasterAPI
 - pywheels
 - model-forge-llm
 - frameon
@@ -21,7 +37,6 @@
 - cchooks
 - opsmith-cli
 - carla-driving-simulator-client
-- intronator
 - sphinx-tudelft-theme
 - general-tamsat-alert
 - sandyie-read
@@ -69,18 +84,3 @@
 - mcp-ableton-live
 - trainy-policy-nightly
 - grafana-client
-- ML-Genius
-- xync-schema
-- pyldkazd
-- leap-model-parser
-- ClammingPy
-- DragonLog
-- casambi-bt-revamped
-- letta-nightly
-- EzQt-App
-- SUWWP
-- repcmd
-- robotframework-visualizer
-- mineru
-- smartrun
-- AHCodeCompiler
