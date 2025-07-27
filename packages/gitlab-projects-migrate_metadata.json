@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-projects-migrate",
+  "version": "6.7.0",
+  "summary": "Migrate GitLab projects from a GitLab group to another GitLab's group",
+  "author": "Adrian DC",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitlab.com/RadianDevCore/tools/gitlab-projects-migrate",
+  "download_filename": "gitlab_projects_migrate-6.7.0.tar.gz",
+  "download_time": "2025-07-27T19:40:59.101734",
+  "package_url": "https://pypi.org/project/gitlab-projects-migrate/"
+}

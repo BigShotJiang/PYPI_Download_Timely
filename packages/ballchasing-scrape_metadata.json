@@ -1,0 +1,11 @@
+{
+  "name": "ballchasing-scrape",
+  "version": "1.1.8",
+  "summary": "A Python Package for scraping information and stats from Rocket League replays hosted on ballchasing.com.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ballchasing_scrape-1.1.8.tar.gz",
+  "download_time": "2025-07-27T19:40:57.971873",
+  "package_url": "https://pypi.org/project/ballchasing-scrape/"
+}

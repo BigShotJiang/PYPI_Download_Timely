@@ -1,11 +1,11 @@
 {
   "name": "tiled-viewer",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A viewer tool for Bluesky Tiled servers",
   "author": "Seij De Leon <seijdeleon@lbl.gov>",
   "license": "BSD",
   "home_page": null,
-  "download_filename": "tiled_viewer-0.0.7.tar.gz",
-  "download_time": "2025-07-27T17:46:20.278728",
+  "download_filename": "tiled_viewer-0.0.8.tar.gz",
+  "download_time": "2025-07-27T19:41:06.828163",
   "package_url": "https://pypi.org/project/tiled-viewer/"
 }

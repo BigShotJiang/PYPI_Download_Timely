@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-secure-flow-log-bucket",
+  "version": "1.5.61",
+  "summary": "Specific AWS VPC FlowLog Bucket",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-secure-flow-log-bucket.git",
+  "download_filename": "gammarers_aws_secure_flow_log_bucket-1.5.61.tar.gz",
+  "download_time": "2025-07-27T19:41:08.871089",
+  "package_url": "https://pypi.org/project/gammarers.aws-secure-flow-log-bucket/"
+}
