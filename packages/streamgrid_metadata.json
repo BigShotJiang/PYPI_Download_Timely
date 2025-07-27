@@ -1,0 +1,11 @@
+{
+  "name": "streamgrid",
+  "version": "1.0.7",
+  "summary": "Ultra-fast multi-stream: Display multiple video sources with object detection simultaneously using the CPU or GPU device.",
+  "author": "Muhammad Rizwan Munawar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamgrid-1.0.7.tar.gz",
+  "download_time": "2025-07-27T08:29:11.606075",
+  "package_url": "https://pypi.org/project/streamgrid/"
+}

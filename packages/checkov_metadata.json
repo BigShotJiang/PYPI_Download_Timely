@@ -1,11 +1,11 @@
 {
   "name": "checkov",
-  "version": "3.2.455",
+  "version": "3.2.456",
   "summary": "Infrastructure as code static analysis",
   "author": "bridgecrew",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/bridgecrewio/checkov",
-  "download_filename": "checkov-3.2.455.tar.gz",
-  "download_time": "2025-07-27T07:28:02.541781",
+  "download_filename": "checkov-3.2.456.tar.gz",
+  "download_time": "2025-07-27T08:29:04.364911",
   "package_url": "https://pypi.org/project/checkov/"
 }

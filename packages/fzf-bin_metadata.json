@@ -1,0 +1,11 @@
+{
+  "name": "fzf-bin",
+  "version": "0.65.0",
+  "summary": "fzf - 🌸 A command-line fuzzy finder",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fzf_bin-0.65.0.tar.gz",
+  "download_time": "2025-07-27T08:29:12.648558",
+  "package_url": "https://pypi.org/project/fzf-bin/"
+}

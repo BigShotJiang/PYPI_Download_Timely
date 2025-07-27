@@ -1,0 +1,11 @@
+{
+  "name": "reicore-sdk",
+  "version": "0.2.0",
+  "summary": "A Python SDK for interacting with the Reigent API.",
+  "author": "reinetwork",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reicore_sdk-0.2.0.tar.gz",
+  "download_time": "2025-07-27T08:29:10.055911",
+  "package_url": "https://pypi.org/project/reicore-sdk/"
+}
