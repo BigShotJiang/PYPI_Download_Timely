@@ -1,11 +1,11 @@
 {
   "name": "pyolive",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Python API for Athena Worker.",
   "author": "Kiro Lee",
   "license": null,
   "home_page": "http://www.ingris.com",
-  "download_filename": "pyolive-2.0.4-py3-none-any.whl",
-  "download_time": "2025-07-27T02:07:27.722800",
+  "download_filename": "pyolive-2.0.5-py3-none-any.whl",
+  "download_time": "2025-07-27T09:24:40.022140",
   "package_url": "https://pypi.org/project/pyolive/"
 }

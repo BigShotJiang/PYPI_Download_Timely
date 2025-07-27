@@ -1,11 +1,11 @@
 {
   "name": "django-revolution",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "summary": "Zone-based API architecture for Django. Install and go.",
   "author": "Unrealos",
   "license": null,
   "home_page": "https://unrealos.com",
-  "download_filename": "django_revolution-1.0.16.tar.gz",
-  "download_time": "2025-07-27T06:35:04.495666",
+  "download_filename": "django_revolution-1.0.17.tar.gz",
+  "download_time": "2025-07-27T09:24:25.350544",
   "package_url": "https://pypi.org/project/django-revolution/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ccdexplorer-fundamentals",
-  "version": "0.2.81",
+  "version": "0.2.82",
   "summary": "Shared code for CCDExplorer.io and its Notification Bot.",
   "author": "Sander de Ruiter",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ccdexplorer/ccdexplorer-fundamentals",
-  "download_filename": "ccdexplorer_fundamentals-0.2.81.tar.gz",
-  "download_time": "2025-07-25T06:45:42.001952",
+  "download_filename": "ccdexplorer_fundamentals-0.2.82.tar.gz",
+  "download_time": "2025-07-27T09:24:41.061462",
   "package_url": "https://pypi.org/project/ccdexplorer-fundamentals/"
 }

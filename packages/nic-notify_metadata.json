@@ -1,0 +1,11 @@
+{
+  "name": "nic-notify",
+  "version": "1.0.2",
+  "summary": "A notification tool.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nic_notify-1.0.2.tar.gz",
+  "download_time": "2025-07-27T09:24:00.703627",
+  "package_url": "https://pypi.org/project/nic-notify/"
+}

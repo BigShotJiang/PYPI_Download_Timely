@@ -1,11 +1,11 @@
 {
   "name": "UltraQuery",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "A Blazing fast library for CSV,txt,SQL reading and CLI Plotting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ultraquery-0.0.8.tar.gz",
-  "download_time": "2025-07-27T08:51:21.475111",
+  "download_filename": "ultraquery-0.0.9.tar.gz",
+  "download_time": "2025-07-27T09:24:06.952025",
   "package_url": "https://pypi.org/project/UltraQuery/"
 }

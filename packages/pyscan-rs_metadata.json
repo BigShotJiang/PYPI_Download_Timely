@@ -1,0 +1,11 @@
+{
+  "name": "pyscan-rs",
+  "version": "0.1.8",
+  "summary": "python dependency vulnerability scanner",
+  "author": "Aswin S <aswinxn@protonmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/ohaswin/pyscan",
+  "download_filename": "pyscan_rs-0.1.8.tar.gz",
+  "download_time": "2025-07-27T09:24:20.438763",
+  "package_url": "https://pypi.org/project/pyscan-rs/"
+}

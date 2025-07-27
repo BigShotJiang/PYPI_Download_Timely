@@ -1,0 +1,11 @@
+{
+  "name": "godot-universal-spritepacker",
+  "version": "1.1.7",
+  "summary": "A smart, folder-aware sprite packer for Godot and PixiJS. Split, pack, and convert multi-res tilesets and SVG layers into spritesheets and native Godot sprites.",
+  "author": "Donitz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "godot_universal_spritepacker-1.1.7.tar.gz",
+  "download_time": "2025-07-27T09:24:22.009251",
+  "package_url": "https://pypi.org/project/godot-universal-spritepacker/"
+}

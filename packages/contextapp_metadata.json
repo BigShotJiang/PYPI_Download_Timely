@@ -1,0 +1,11 @@
+{
+  "name": "contextapp",
+  "version": "0.1.5",
+  "summary": "A browser-based concordancer and language analysis application. ",
+  "author": "Geoff Ford",
+  "license": null,
+  "home_page": "https://github.com/polsci/ConText",
+  "download_filename": "contextapp-0.1.5.tar.gz",
+  "download_time": "2025-07-27T09:24:19.916886",
+  "package_url": "https://pypi.org/project/contextapp/"
+}

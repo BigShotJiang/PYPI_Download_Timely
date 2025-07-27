@@ -1,0 +1,11 @@
+{
+  "name": "rocksdb-py",
+  "version": "0.0.6",
+  "summary": "Python bindings for RocksDB",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rocksdb_py-0.0.6-cp310-cp310-manylinux_2_31_x86_64.whl",
+  "download_time": "2025-07-27T09:24:20.972539",
+  "package_url": "https://pypi.org/project/rocksdb-py/"
+}

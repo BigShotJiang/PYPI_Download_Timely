@@ -1,0 +1,11 @@
+{
+  "name": "bagit-utils",
+  "version": "1.1.1",
+  "summary": "python library and command line interface for creating and interacting with files in the BagIt-format",
+  "author": "Steffen Richters-Finger",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/bagit-utils/",
+  "download_filename": "bagit_utils-1.1.1.tar.gz",
+  "download_time": "2025-07-27T09:24:16.291050",
+  "package_url": "https://pypi.org/project/bagit-utils/"
+}
