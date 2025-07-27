@@ -1,11 +1,11 @@
 {
   "name": "logsentinelai",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "AI-Powered Log Analyzer - Leverages LLM to analyze log files and detect security events",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "logsentinelai-0.2.2.tar.gz",
-  "download_time": "2025-07-27T10:24:20.187703",
+  "download_filename": "logsentinelai-0.2.3.tar.gz",
+  "download_time": "2025-07-27T11:19:36.591665",
   "package_url": "https://pypi.org/project/logsentinelai/"
 }

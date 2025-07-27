@@ -1,11 +1,11 @@
 {
   "name": "KeyisBClient",
-  "version": "1.4.0.1.61",
+  "version": "1.4.0.1.62",
   "summary": "KeyisBClient",
   "author": "KeyisB",
   "license": "MMB License v1.0",
   "home_page": "https://github.com/KeyisB/libs/tree/main/KeyisBClient",
-  "download_filename": "keyisbclient-1.4.0.1.61.tar.gz",
-  "download_time": "2025-07-27T10:24:27.895466",
+  "download_filename": "keyisbclient-1.4.0.1.62.tar.gz",
+  "download_time": "2025-07-27T11:19:31.983075",
   "package_url": "https://pypi.org/project/KeyisBClient/"
 }
