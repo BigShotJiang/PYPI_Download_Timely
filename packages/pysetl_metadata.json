@@ -1,0 +1,11 @@
+{
+  "name": "pysetl",
+  "version": "1.2.1",
+  "summary": "A PySpark ETL Framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pysetl-1.2.1.tar.gz",
+  "download_time": "2025-07-27T18:59:48.051920",
+  "package_url": "https://pypi.org/project/pysetl/"
+}

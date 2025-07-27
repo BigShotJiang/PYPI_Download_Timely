@@ -1,11 +1,11 @@
 {
   "name": "quant-met",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Calculate superconductivity in flat-band systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quant_met-0.1.1.tar.gz",
-  "download_time": "2025-07-27T16:51:33.798594",
+  "download_filename": "quant_met-0.1.2.tar.gz",
+  "download_time": "2025-07-27T18:59:43.884133",
   "package_url": "https://pypi.org/project/quant-met/"
 }

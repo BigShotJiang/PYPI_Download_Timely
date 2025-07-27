@@ -1,0 +1,11 @@
+{
+  "name": "django-bulma",
+  "version": "0.10.0",
+  "summary": "Bulma CSS Framework for Django projects",
+  "author": "Tim Kamanin",
+  "license": "MIT",
+  "home_page": "https://timonweb.com",
+  "download_filename": "django_bulma-0.10.0.tar.gz",
+  "download_time": "2025-07-27T18:59:38.134694",
+  "package_url": "https://pypi.org/project/django-bulma/"
+}

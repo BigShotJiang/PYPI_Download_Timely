@@ -1,0 +1,11 @@
+{
+  "name": "ragbee-fw",
+  "version": "0.1.3",
+  "summary": "Lightweight RAG framework",
+  "author": "shevchenko v.a.",
+  "license": "MIT",
+  "home_page": "https://github.com/droogg/ragbee_fw",
+  "download_filename": "ragbee_fw-0.1.3.tar.gz",
+  "download_time": "2025-07-27T18:59:40.216665",
+  "package_url": "https://pypi.org/project/ragbee-fw/"
+}
