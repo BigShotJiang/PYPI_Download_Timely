@@ -1,11 +1,11 @@
 {
   "name": "flowhunt",
-  "version": "3.14.9",
+  "version": "3.14.10",
   "summary": "FlowHunt",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": "https://github.com/QualityUnit/flowhunt-python-sdk",
-  "download_filename": "flowhunt-3.14.9.tar.gz",
-  "download_time": "2025-07-27T15:44:00.853857",
+  "download_filename": "flowhunt-3.14.10.tar.gz",
+  "download_time": "2025-07-27T16:28:25.494020",
   "package_url": "https://pypi.org/project/flowhunt/"
 }

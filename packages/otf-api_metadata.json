@@ -1,11 +1,11 @@
 {
   "name": "otf-api",
-  "version": "0.15.2",
+  "version": "0.15.3",
   "summary": "Python OrangeTheory Fitness API Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "otf_api-0.15.2.tar.gz",
-  "download_time": "2025-07-26T20:56:07.645020",
+  "download_filename": "otf_api-0.15.3.tar.gz",
+  "download_time": "2025-07-27T16:28:03.429024",
   "package_url": "https://pypi.org/project/otf-api/"
 }

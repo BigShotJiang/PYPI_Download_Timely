@@ -1,11 +1,11 @@
 {
   "name": "xianb",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "很大的修改，改到颠了，不想干了",
   "author": "jxjiang",
   "license": null,
   "home_page": null,
-  "download_filename": "xianb-2.0.0.tar.gz",
-  "download_time": "2025-07-27T14:56:35.000391",
+  "download_filename": "xianb-2.0.1.tar.gz",
+  "download_time": "2025-07-27T16:28:10.084563",
   "package_url": "https://pypi.org/project/xianb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "portkey-ai",
+  "version": "1.14.3",
+  "summary": "Python client library for the Portkey API",
+  "author": "Portkey.ai",
+  "license": "MIT License",
+  "home_page": "https://github.com/Portkey-AI/portkey-python-sdk",
+  "download_filename": "portkey_ai-1.14.3.tar.gz",
+  "download_time": "2025-07-27T16:28:13.162097",
+  "package_url": "https://pypi.org/project/portkey-ai/"
+}

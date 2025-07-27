@@ -1,0 +1,11 @@
+{
+  "name": "Habiticalib",
+  "version": "0.4.1",
+  "summary": "Asynchronous Python client library for the Habitica API",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "habiticalib-0.4.1.tar.gz",
+  "download_time": "2025-07-27T16:28:22.420675",
+  "package_url": "https://pypi.org/project/Habiticalib/"
+}

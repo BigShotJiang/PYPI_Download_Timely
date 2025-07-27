@@ -1,0 +1,11 @@
+{
+  "name": "halerium-utilities",
+  "version": "2.22.6",
+  "summary": "Halerium utilities is a Python package of utility functions for working on the Halerium platform.",
+  "author": "Erium GmbH",
+  "license": "Apache 2.0",
+  "home_page": "https://erium.de",
+  "download_filename": "halerium_utilities-2.22.6-py3-none-any.whl",
+  "download_time": "2025-07-27T16:28:24.983578",
+  "package_url": "https://pypi.org/project/halerium-utilities/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-user-memory",
+  "version": "0.1.1",
+  "summary": "Transparent memory system for LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_user_memory-0.1.1.tar.gz",
+  "download_time": "2025-07-27T16:28:01.850239",
+  "package_url": "https://pypi.org/project/llm-user-memory/"
+}

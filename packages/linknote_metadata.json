@@ -1,0 +1,11 @@
+{
+  "name": "linknote",
+  "version": "0.1.1",
+  "summary": "A web-based short note manager with search and tagging capabilities",
+  "author": "sxwxs",
+  "license": "MIT",
+  "home_page": "https://github.com/sxwxs/linknote",
+  "download_filename": "linknote-0.1.1.tar.gz",
+  "download_time": "2025-07-27T16:28:17.808184",
+  "package_url": "https://pypi.org/project/linknote/"
+}

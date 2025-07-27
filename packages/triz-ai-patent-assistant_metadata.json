@@ -1,11 +1,11 @@
 {
   "name": "triz-ai-patent-assistant",
-  "version": "0.1.21",
+  "version": "0.1.23",
   "summary": "AI‑assisted TRIZ patent analysis toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "triz_ai_patent_assistant-0.1.21.tar.gz",
-  "download_time": "2025-07-27T15:43:49.473137",
+  "download_filename": "triz_ai_patent_assistant-0.1.23.tar.gz",
+  "download_time": "2025-07-27T16:28:15.234194",
   "package_url": "https://pypi.org/project/triz-ai-patent-assistant/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ssrjson",
+  "version": "0.0.2",
+  "summary": "A high-performance Python JSON library that fully leverages modern processor capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssrjson-0.0.2.tar.gz",
+  "download_time": "2025-07-27T16:28:08.035727",
+  "package_url": "https://pypi.org/project/ssrjson/"
+}

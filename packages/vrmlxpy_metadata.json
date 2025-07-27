@@ -1,11 +1,11 @@
 {
   "name": "vrmlxpy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Toolkit for VRML parsing and traversing. Includes a standalone VRML parser library and a conversion library for transforming VRML geometry into geometry format such as STL, with modular C++ backends and Python bindings.",
   "author": "Marek Eibel",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/kerrambit/vrmlxpy",
-  "download_filename": "vrmlxpy-1.0.3.tar.gz",
-  "download_time": "2025-07-27T15:43:53.685964",
+  "download_filename": "vrmlxpy-1.0.4.tar.gz",
+  "download_time": "2025-07-27T16:27:59.279635",
   "package_url": "https://pypi.org/project/vrmlxpy/"
 }

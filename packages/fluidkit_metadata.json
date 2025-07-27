@@ -1,11 +1,11 @@
 {
   "name": "fluidkit",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Automatic TypeScript client generation for FastAPI through runtime introspection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fluidkit-0.2.4.tar.gz",
-  "download_time": "2025-07-27T15:43:59.831557",
+  "download_filename": "fluidkit-0.2.5.tar.gz",
+  "download_time": "2025-07-27T16:28:20.883240",
   "package_url": "https://pypi.org/project/fluidkit/"
 }
