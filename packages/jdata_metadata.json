@@ -1,11 +1,11 @@
 {
   "name": "jdata",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Encoding and decoding Python data structrues using portable JData-annotated formats",
   "author": "Qianqian Fang",
   "license": "Apache license 2.0",
   "home_page": "https://github.com/NeuroJSON/pyjdata",
-  "download_filename": "jdata-0.7.0.tar.gz",
-  "download_time": "2025-07-28T12:52:19.874821",
+  "download_filename": "jdata-0.7.1.tar.gz",
+  "download_time": "2025-07-28T15:00:30.385429",
   "package_url": "https://pypi.org/project/jdata/"
 }

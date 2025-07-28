@@ -1,11 +1,11 @@
 {
   "name": "eodc-faas-openeo",
-  "version": "2025.7.2",
+  "version": "2025.7.3",
   "summary": "Bindings for the OpenEO processor exposed at EODC",
   "author": "Lukas Weidenholzer",
   "license": null,
   "home_page": null,
-  "download_filename": "eodc_faas_openeo-2025.7.2.tar.gz",
-  "download_time": "2025-07-25T07:35:19.226814",
+  "download_filename": "eodc_faas_openeo-2025.7.3.tar.gz",
+  "download_time": "2025-07-28T15:00:25.426178",
   "package_url": "https://pypi.org/project/eodc-faas-openeo/"
 }

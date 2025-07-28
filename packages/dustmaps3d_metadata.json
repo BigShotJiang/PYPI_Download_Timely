@@ -1,11 +1,11 @@
 {
   "name": "dustmaps3d",
-  "version": "2.1.24",
+  "version": "2.2.3",
   "summary": "An all-sky 3D dust map based on Gaia and LAMOST.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dustmaps3d-2.1.24.tar.gz",
-  "download_time": "2025-07-28T07:28:36.810785",
+  "download_filename": "dustmaps3d-2.2.3.tar.gz",
+  "download_time": "2025-07-28T15:00:14.263464",
   "package_url": "https://pypi.org/project/dustmaps3d/"
 }

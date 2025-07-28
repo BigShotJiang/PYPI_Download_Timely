@@ -1,11 +1,11 @@
 {
   "name": "superlinked",
-  "version": "32.2.1",
+  "version": "32.3.0",
   "summary": "The Superlinked vector computing library",
   "author": "Superlinked Release",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "superlinked-32.2.1.tar.gz",
-  "download_time": "2025-07-28T10:58:34.921739",
+  "download_filename": "superlinked-32.3.0.tar.gz",
+  "download_time": "2025-07-28T15:00:24.215619",
   "package_url": "https://pypi.org/project/superlinked/"
 }

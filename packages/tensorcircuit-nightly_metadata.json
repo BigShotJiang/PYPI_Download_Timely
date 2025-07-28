@@ -1,11 +1,11 @@
 {
   "name": "tensorcircuit-nightly",
-  "version": "1.3.0.dev20250727",
+  "version": "1.3.0.dev20250728",
   "summary": "nightly release for tensorcircuit",
   "author": "TensorCircuit Authors",
   "license": null,
   "home_page": "https://github.com/refraction-ray/tensorcircuit-dev",
-  "download_filename": "tensorcircuit_nightly-1.3.0.dev20250727.tar.gz",
-  "download_time": "2025-07-27T13:23:23.624991",
+  "download_filename": "tensorcircuit_nightly-1.3.0.dev20250728.tar.gz",
+  "download_time": "2025-07-28T15:00:20.430758",
   "package_url": "https://pypi.org/project/tensorcircuit-nightly/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wbwriter",
-  "version": "1.54.19",
+  "version": "1.54.20",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbwriter-1.54.19.tar.gz",
-  "download_time": "2025-07-28T12:52:17.531758",
+  "download_filename": "wbwriter-1.54.20.tar.gz",
+  "download_time": "2025-07-28T15:00:28.054172",
   "package_url": "https://pypi.org/project/wbwriter/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "textual-window",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "A Textual widget for a floating, draggable window and included window bar/manager system.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "textual_window-0.6.0.tar.gz",
-  "download_time": "2025-07-25T21:43:10.511585",
+  "download_filename": "textual_window-0.7.0.tar.gz",
+  "download_time": "2025-07-28T15:00:27.404946",
   "package_url": "https://pypi.org/project/textual-window/"
 }
