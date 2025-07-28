@@ -1,0 +1,11 @@
+{
+  "name": "multiplex-sh",
+  "version": "1.0.0",
+  "summary": "A command-line multiplexer for running multiple processes in parallel with coordination",
+  "author": "Sébastien Pierre",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/sebastien/multiplex",
+  "download_filename": "multiplex_sh-1.0.0.tar.gz",
+  "download_time": "2025-07-28T04:50:37.190627",
+  "package_url": "https://pypi.org/project/multiplex-sh/"
+}

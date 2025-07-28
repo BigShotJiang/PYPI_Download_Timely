@@ -1,0 +1,11 @@
+{
+  "name": "megatron-core",
+  "version": "0.13.0",
+  "summary": "Megatron Core - a library for efficient and scalable training of transformer based models",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "megatron_core-0.13.0.tar.gz",
+  "download_time": "2025-07-28T04:50:46.445739",
+  "package_url": "https://pypi.org/project/megatron-core/"
+}

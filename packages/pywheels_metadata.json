@@ -1,11 +1,11 @@
 {
   "name": "pywheels",
-  "version": "0.4.5.8",
+  "version": "0.5.1",
   "summary": "Light-weight Python wheels",
   "author": "parkcai",
   "license": null,
   "home_page": "https://github.com/parkcai/pywheels",
-  "download_filename": "pywheels-0.4.5.8.tar.gz",
-  "download_time": "2025-07-27T15:55:45.037226",
+  "download_filename": "pywheels-0.5.1.tar.gz",
+  "download_time": "2025-07-28T04:50:39.251807",
   "package_url": "https://pypi.org/project/pywheels/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "workforce",
-  "version": "1.0.41",
-  "summary": "Run bash commands with python multiprocessing according to a tsv file edgelist.",
-  "author": "Theo Portlock",
-  "license": "MIT license",
-  "home_page": "https://github.com/theoportlock/workforce",
-  "download_filename": "workforce-1.0.41.tar.gz",
-  "download_time": "2025-07-27T09:24:26.401418",
+  "version": "1.1.1",
+  "summary": "Run bash commands with python multiprocessing. Includes a Tkinter GUI for workflow editing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "workforce-1.1.1.tar.gz",
+  "download_time": "2025-07-28T04:50:36.168728",
   "package_url": "https://pypi.org/project/workforce/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "evoseal",
+  "version": "0.3.4",
+  "summary": "EVOSEAL: An advanced AI system integrating DGM, OpenEvolve, and SEAL",
+  "author": "Kresna Sucandra",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "evoseal-0.3.4.tar.gz",
+  "download_time": "2025-07-28T04:50:26.397207",
+  "package_url": "https://pypi.org/project/evoseal/"
+}

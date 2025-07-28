@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-image-gallery-plugin",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "An MkDocs plugin to generate an image gallery from a folder of images",
   "author": "APinchofDill",
-  "license": "MIT",
-  "home_page": "https://github.com/APinchofDill/mkdocs-image-gallery-plugin",
-  "download_filename": "mkdocs_image_gallery_plugin-1.2.6.tar.gz",
-  "download_time": "2025-07-25T04:26:27.258514",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_image_gallery_plugin-1.2.7.tar.gz",
+  "download_time": "2025-07-28T04:50:57.285561",
   "package_url": "https://pypi.org/project/mkdocs-image-gallery-plugin/"
 }

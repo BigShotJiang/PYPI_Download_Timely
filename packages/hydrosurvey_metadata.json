@@ -1,0 +1,11 @@
+{
+  "name": "hydrosurvey",
+  "version": "0.4.1",
+  "summary": "Tools for processing and analyzing hydroacoustic survey data from lakes and reservoirs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hydrosurvey-0.4.1-py3-none-any.whl",
+  "download_time": "2025-07-28T04:50:44.894057",
+  "package_url": "https://pypi.org/project/hydrosurvey/"
+}
