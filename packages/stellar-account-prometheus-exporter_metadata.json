@@ -1,0 +1,11 @@
+{
+  "name": "stellar-account-prometheus-exporter",
+  "version": "0.0.8",
+  "summary": "Export stellar account balance in prometheus format",
+  "author": "Stellar Development Foundation",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/stellar/stellar-account-prometheus-exporter",
+  "download_filename": "stellar-account-prometheus-exporter-0.0.8.tar.gz",
+  "download_time": "2025-07-28T17:04:00.571546",
+  "package_url": "https://pypi.org/project/stellar-account-prometheus-exporter/"
+}

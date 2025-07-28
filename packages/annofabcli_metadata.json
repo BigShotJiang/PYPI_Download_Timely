@@ -1,11 +1,11 @@
 {
   "name": "annofabcli",
-  "version": "1.106.5",
+  "version": "1.106.6",
   "summary": "Utility Command Line Interface for AnnoFab",
   "author": "Kurusugawa Computer Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "annofabcli-1.106.5.tar.gz",
-  "download_time": "2025-07-27T08:29:12.132354",
+  "download_filename": "annofabcli-1.106.6.tar.gz",
+  "download_time": "2025-07-28T17:04:04.136720",
   "package_url": "https://pypi.org/project/annofabcli/"
 }

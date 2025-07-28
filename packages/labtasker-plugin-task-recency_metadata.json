@@ -1,0 +1,11 @@
+{
+  "name": "labtasker-plugin-task-recency",
+  "version": "0.1.0",
+  "summary": "A Labtasker plugin that groups tasks according to recency.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "labtasker_plugin_task_recency-0.1.0.tar.gz",
+  "download_time": "2025-07-28T17:03:49.934664",
+  "package_url": "https://pypi.org/project/labtasker-plugin-task-recency/"
+}

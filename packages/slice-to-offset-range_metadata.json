@@ -1,0 +1,11 @@
+{
+  "name": "slice-to-offset-range",
+  "version": "0.1.0a1",
+  "summary": "A utility function that converts Python slice objects to explicit `(start_offset, stop_offset, step)` offset ranges given a sequence length.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slice_to_offset_range-0.1.0a1.tar.gz",
+  "download_time": "2025-07-28T17:03:58.753337",
+  "package_url": "https://pypi.org/project/slice-to-offset-range/"
+}

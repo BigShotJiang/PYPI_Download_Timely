@@ -1,11 +1,11 @@
 {
   "name": "pyqt-code-editor",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "summary": "Fully featured code-editor widgets for PyQt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyqt_code_editor-0.0.31.tar.gz",
-  "download_time": "2025-07-28T16:37:13.190107",
+  "download_filename": "pyqt_code_editor-0.0.32.tar.gz",
+  "download_time": "2025-07-28T17:03:43.578941",
   "package_url": "https://pypi.org/project/pyqt-code-editor/"
 }

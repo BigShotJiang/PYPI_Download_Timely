@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-discoveryengine",
+  "version": "0.13.11",
+  "summary": "Google Cloud Discoveryengine API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-discoveryengine",
+  "download_filename": "google_cloud_discoveryengine-0.13.11.tar.gz",
+  "download_time": "2025-07-28T17:04:11.341395",
+  "package_url": "https://pypi.org/project/google-cloud-discoveryengine/"
+}

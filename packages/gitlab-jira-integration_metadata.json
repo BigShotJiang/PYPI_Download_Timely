@@ -1,11 +1,11 @@
 {
   "name": "gitlab-jira-integration",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "GitLab Jira Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitlab_jira_integration-0.2.2.tar.gz",
-  "download_time": "2025-07-28T15:58:26.014277",
+  "download_filename": "gitlab_jira_integration-0.2.3.tar.gz",
+  "download_time": "2025-07-28T17:03:44.729111",
   "package_url": "https://pypi.org/project/gitlab-jira-integration/"
 }

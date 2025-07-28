@@ -1,0 +1,11 @@
+{
+  "name": "google-shopping-merchant-reviews",
+  "version": "0.2.0",
+  "summary": "Google Shopping Merchant Reviews API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-shopping-merchant-reviews",
+  "download_filename": "google_shopping_merchant_reviews-0.2.0.tar.gz",
+  "download_time": "2025-07-28T17:04:09.762831",
+  "package_url": "https://pypi.org/project/google-shopping-merchant-reviews/"
+}

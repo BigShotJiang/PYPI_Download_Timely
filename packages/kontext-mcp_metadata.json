@@ -1,0 +1,11 @@
+{
+  "name": "kontext-mcp",
+  "version": "0.1.0",
+  "summary": "Portable, provider-agnostic memory on top of Azure Data Explorer (Kusto)",
+  "author": "Kontext Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kontext_mcp-0.1.0.tar.gz",
+  "download_time": "2025-07-28T17:03:54.095657",
+  "package_url": "https://pypi.org/project/kontext-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pulumi-bytebase",
-  "version": "3.9.0a1753719804",
+  "version": "3.9.0a1753721308",
   "summary": "A Pulumi package for creating and managing Bytebase resources",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/wawilow/pulumi-bytebase",
-  "download_filename": "pulumi-bytebase-3.9.0a1753719804.tar.gz",
-  "download_time": "2025-07-28T16:37:14.746840",
+  "download_filename": "pulumi-bytebase-3.9.0a1753721308.tar.gz",
+  "download_time": "2025-07-28T17:03:52.863578",
   "package_url": "https://pypi.org/project/pulumi-bytebase/"
 }

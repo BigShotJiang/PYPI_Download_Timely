@@ -1,0 +1,11 @@
+{
+  "name": "odio",
+  "version": "0.0.24",
+  "summary": "A library for the import / export of ODF documents.",
+  "author": null,
+  "license": "MIT No Attribution",
+  "home_page": null,
+  "download_filename": "odio-0.0.24.tar.gz",
+  "download_time": "2025-07-28T17:03:53.523447",
+  "package_url": "https://pypi.org/project/odio/"
+}

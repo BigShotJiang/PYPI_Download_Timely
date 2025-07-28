@@ -1,0 +1,11 @@
+{
+  "name": "num2words",
+  "version": "0.5.16",
+  "summary": "Modules to convert numbers to words. Easily extensible.",
+  "author": "Taro Ogawa <tso at users sourceforge net>",
+  "license": "LGPL",
+  "home_page": "https://github.com/savoirfairelinux/num2words",
+  "download_filename": "num2words-0.5.16.tar.gz",
+  "download_time": "2025-07-28T17:03:40.687324",
+  "package_url": "https://pypi.org/project/num2words/"
+}
