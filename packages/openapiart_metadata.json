@@ -1,11 +1,11 @@
 {
   "name": "openapiart",
-  "version": "0.3.28",
+  "version": "0.3.29",
   "summary": "The OpenAPI Artifact Generator Python Package",
   "author": "https://github.com/open-traffic-generator/openapiart",
   "license": "MIT",
   "home_page": "https://github.com/open-traffic-generator/openapiart",
-  "download_filename": "openapiart-0.3.28.tar.gz",
-  "download_time": "2025-07-25T09:56:30.752222",
+  "download_filename": "openapiart-0.3.29.tar.gz",
+  "download_time": "2025-07-28T13:42:37.989381",
   "package_url": "https://pypi.org/project/openapiart/"
 }

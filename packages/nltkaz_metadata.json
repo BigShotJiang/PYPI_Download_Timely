@@ -1,0 +1,11 @@
+{
+  "name": "nltkaz",
+  "version": "0.1.1",
+  "summary": "A natural language processing toolkit designed for the Azerbaijani language.",
+  "author": "Nagi Nagiyev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nltkaz-0.1.1.tar.gz",
+  "download_time": "2025-07-28T13:42:44.745856",
+  "package_url": "https://pypi.org/project/nltkaz/"
+}

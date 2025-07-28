@@ -1,11 +1,11 @@
 {
   "name": "cwyodmodules",
-  "version": "0.9.49",
+  "version": "0.9.50",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cwyodmodules-0.9.49.tar.gz",
-  "download_time": "2025-07-27T16:51:19.276650",
+  "download_filename": "cwyodmodules-0.9.50.tar.gz",
+  "download_time": "2025-07-28T13:43:04.795530",
   "package_url": "https://pypi.org/project/cwyodmodules/"
 }

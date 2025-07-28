@@ -1,11 +1,11 @@
 {
   "name": "himl",
-  "version": "0.16.2",
+  "version": "0.16.4",
   "summary": "A hierarchical config using yaml",
   "author": "Adobe",
   "license": "Apache2",
   "home_page": "https://github.com/adobe/himl",
-  "download_filename": "himl-0.16.2.tar.gz",
-  "download_time": "2025-07-28T10:35:15.463862",
+  "download_filename": "himl-0.16.4.tar.gz",
+  "download_time": "2025-07-28T13:42:55.706775",
   "package_url": "https://pypi.org/project/himl/"
 }

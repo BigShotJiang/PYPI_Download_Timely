@@ -1,0 +1,11 @@
+{
+  "name": "determine-slice-assignment-action",
+  "version": "0.1.0a0",
+  "summary": "This function determines what action should be taken when performing slice assignment on a sequence.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "determine_slice_assignment_action-0.1.0a0.tar.gz",
+  "download_time": "2025-07-28T13:42:50.515021",
+  "package_url": "https://pypi.org/project/determine-slice-assignment-action/"
+}

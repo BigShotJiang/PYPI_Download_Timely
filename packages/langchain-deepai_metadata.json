@@ -1,11 +1,11 @@
 {
   "name": "langchain-deepai",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "LangChain integration for DeepAI API with chat, images, and speech capabilities",
   "author": "AIMLStudent",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_deepai-0.0.1.tar.gz",
-  "download_time": "2025-07-28T12:52:56.515265",
+  "download_filename": "langchain_deepai-0.0.4.tar.gz",
+  "download_time": "2025-07-28T13:42:53.106663",
   "package_url": "https://pypi.org/project/langchain-deepai/"
 }

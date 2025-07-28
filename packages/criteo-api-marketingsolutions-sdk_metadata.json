@@ -1,11 +1,11 @@
 {
   "name": "criteo-api-marketingsolutions-sdk",
-  "version": "2025.4.0.250724",
+  "version": "2025.4.0.250728",
   "summary": "Criteo API SDK",
   "author": "Criteo",
   "license": null,
   "home_page": "https://github.com/criteo/criteo-api-python-sdk",
-  "download_filename": "criteo_api_marketingsolutions_sdk-2025.4.0.250724.tar.gz",
-  "download_time": "2025-07-24T16:28:33.946593",
+  "download_filename": "criteo_api_marketingsolutions_sdk-2025.4.0.250728-py3-none-any.whl",
+  "download_time": "2025-07-28T13:42:34.137866",
   "package_url": "https://pypi.org/project/criteo-api-marketingsolutions-sdk/"
 }

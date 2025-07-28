@@ -1,0 +1,11 @@
+{
+  "name": "casmarine",
+  "version": "1.6.1",
+  "summary": "Extendable communication library with support for various protocols for the use of CASMarine ROV team",
+  "author": "Furkan Kırlangıç, Begüm İpek, Oğuzhan Furkan Ocak, Ahmet Enes Şimşek",
+  "license": null,
+  "home_page": "https://github.com/CASMarine/Communication",
+  "download_filename": "casmarine-1.6.1.tar.gz",
+  "download_time": "2025-07-28T13:43:06.398832",
+  "package_url": "https://pypi.org/project/casmarine/"
+}
