@@ -1,11 +1,11 @@
 {
   "name": "grafo",
-  "version": "0.2.32",
+  "version": "0.2.34",
   "summary": "A library for building runnable asynchronous trees",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "grafo-0.2.32.tar.gz",
-  "download_time": "2025-07-28T18:37:13.147704",
+  "download_filename": "grafo-0.2.34.tar.gz",
+  "download_time": "2025-07-28T19:53:50.843658",
   "package_url": "https://pypi.org/project/grafo/"
 }

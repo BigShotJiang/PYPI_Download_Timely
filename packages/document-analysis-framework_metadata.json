@@ -1,0 +1,11 @@
+{
+  "name": "document-analysis-framework",
+  "version": "1.0.0",
+  "summary": "Text, code, and configuration file analysis framework for AI/ML data pipelines",
+  "author": "Wes Jackson",
+  "license": "MIT",
+  "home_page": "https://github.com/rdwj/document-analysis-framework",
+  "download_filename": "document_analysis_framework-1.0.0.tar.gz",
+  "download_time": "2025-07-28T19:53:28.763024",
+  "package_url": "https://pypi.org/project/document-analysis-framework/"
+}

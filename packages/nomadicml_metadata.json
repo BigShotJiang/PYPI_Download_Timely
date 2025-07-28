@@ -1,0 +1,11 @@
+{
+  "name": "nomadicml",
+  "version": "0.1.13",
+  "summary": "Python SDK for NomadicML's DriveMonitor API",
+  "author": "NomadicML Inc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomadicml-0.1.13.tar.gz",
+  "download_time": "2025-07-28T19:53:20.918015",
+  "package_url": "https://pypi.org/project/nomadicml/"
+}

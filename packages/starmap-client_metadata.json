@@ -1,0 +1,11 @@
+{
+  "name": "starmap-client",
+  "version": "2.4.0",
+  "summary": "Client for StArMap",
+  "author": "Jonathan Gangi",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/release-engineering/starmap-client",
+  "download_filename": "starmap_client-2.4.0.tar.gz",
+  "download_time": "2025-07-28T19:53:21.963577",
+  "package_url": "https://pypi.org/project/starmap-client/"
+}

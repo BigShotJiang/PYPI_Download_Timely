@@ -1,0 +1,11 @@
+{
+  "name": "service-lookup",
+  "version": "0.2.7",
+  "summary": "Update host:port in YAML service URLs by service name and Kubernetes cluster",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "service_lookup-0.2.7.tar.gz",
+  "download_time": "2025-07-28T19:53:49.281778",
+  "package_url": "https://pypi.org/project/service-lookup/"
+}

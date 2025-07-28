@@ -1,0 +1,11 @@
+{
+  "name": "docx-json-replacer",
+  "version": "0.3.0",
+  "summary": "Replace template text in DOCX files with values from JSON",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/docx-json-replacer",
+  "download_filename": "docx_json_replacer-0.3.0.tar.gz",
+  "download_time": "2025-07-28T19:54:06.521434",
+  "package_url": "https://pypi.org/project/docx-json-replacer/"
+}

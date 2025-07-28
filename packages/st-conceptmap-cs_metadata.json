@@ -1,0 +1,11 @@
+{
+  "name": "st-conceptmap-cs",
+  "version": "0.0.1.1",
+  "summary": "Streamlit component based on Cytoscape.js that allows for creation and editing of concept maps",
+  "author": "Kristian Schwarz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "st_conceptmap_cs-0.0.1.1.tar.gz",
+  "download_time": "2025-07-28T19:53:28.244013",
+  "package_url": "https://pypi.org/project/st-conceptmap-cs/"
+}

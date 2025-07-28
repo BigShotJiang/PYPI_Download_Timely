@@ -1,0 +1,11 @@
+{
+  "name": "paperbase",
+  "version": "2.0",
+  "summary": "Simple file-based database with user auth",
+  "author": "PaperCode",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paperbase-2.0.tar.gz",
+  "download_time": "2025-07-28T19:53:30.845556",
+  "package_url": "https://pypi.org/project/paperbase/"
+}

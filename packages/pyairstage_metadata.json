@@ -1,0 +1,11 @@
+{
+  "name": "pyairstage",
+  "version": "2.2.0",
+  "summary": "Python library to control Fujitsu Airstage Airconditioners",
+  "author": "Daniel Rufus Kaldheim",
+  "license": "MIT License",
+  "home_page": "https://github.com/danielkaldheim/pyairstage",
+  "download_filename": "pyairstage-2.2.0.tar.gz",
+  "download_time": "2025-07-28T19:53:51.364408",
+  "package_url": "https://pypi.org/project/pyairstage/"
+}

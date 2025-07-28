@@ -1,0 +1,11 @@
+{
+  "name": "wRodaCupom",
+  "version": "1.0.0",
+  "summary": "Automação de agendamento e envio de relatórios de cupons.",
+  "author": "Wedici Lins",
+  "license": null,
+  "home_page": "https://github.com/seu-repositorio/wRodaCupom",
+  "download_filename": "wrodacupom-1.0.0.tar.gz",
+  "download_time": "2025-07-28T19:53:29.287415",
+  "package_url": "https://pypi.org/project/wRodaCupom/"
+}

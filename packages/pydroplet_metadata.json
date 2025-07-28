@@ -1,11 +1,11 @@
 {
   "name": "pydroplet",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Package to parse messages from a Droplet device.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydroplet-2.1.0.tar.gz",
-  "download_time": "2025-07-25T19:25:31.871605",
+  "download_filename": "pydroplet-2.1.1.tar.gz",
+  "download_time": "2025-07-28T19:53:49.801371",
   "package_url": "https://pypi.org/project/pydroplet/"
 }

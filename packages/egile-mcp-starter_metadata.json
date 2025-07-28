@@ -1,0 +1,11 @@
+{
+  "name": "egile-mcp-starter",
+  "version": "0.1.0",
+  "summary": "A comprehensive cookiecutter template for creating Model Context Protocol (MCP) servers using the FASTMCP framework",
+  "author": "Jean-Baptiste Poullet",
+  "license": null,
+  "home_page": "https://github.com/jpoullet2000/egile-mcp-starter",
+  "download_filename": "egile_mcp_starter-0.1.0.tar.gz",
+  "download_time": "2025-07-28T19:53:32.486466",
+  "package_url": "https://pypi.org/project/egile-mcp-starter/"
+}

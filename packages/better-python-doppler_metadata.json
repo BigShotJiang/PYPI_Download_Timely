@@ -1,11 +1,11 @@
 {
   "name": "better-python-doppler",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A simplified and up to date Python SDK for Doppler. Because their current one has stale docs and doesn't provide much IDE support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "better_python_doppler-0.1.0.tar.gz",
-  "download_time": "2025-07-25T21:43:04.152826",
+  "download_filename": "better_python_doppler-1.0.0.tar.gz",
+  "download_time": "2025-07-28T19:53:58.692307",
   "package_url": "https://pypi.org/project/better-python-doppler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "neurobank",
+  "version": "0.11.1",
+  "summary": "Simple data management system for neuroscience",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "neurobank-0.11.1.tar.gz",
+  "download_time": "2025-07-28T19:53:35.619771",
+  "package_url": "https://pypi.org/project/neurobank/"
+}

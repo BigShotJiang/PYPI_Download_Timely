@@ -1,0 +1,11 @@
+{
+  "name": "decima",
+  "version": "0.3.1",
+  "summary": "Add a short description here!",
+  "author": "Avantika Lal",
+  "license": "Genentech Non-Commercial Software License Version 1.0",
+  "home_page": "https://github.com/genentech/decima",
+  "download_filename": "decima-0.3.1.tar.gz",
+  "download_time": "2025-07-28T19:53:46.605874",
+  "package_url": "https://pypi.org/project/decima/"
+}
