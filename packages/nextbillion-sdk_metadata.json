@@ -1,11 +1,11 @@
 {
   "name": "nextbillion-sdk",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "The official Python library for the nextbillion-sdk API",
   "author": "Nextbillion SDK",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nextbillion_sdk-0.1.0.tar.gz",
-  "download_time": "2025-07-28T07:29:09.256603",
+  "download_filename": "nextbillion_sdk-0.3.0.tar.gz",
+  "download_time": "2025-07-28T08:35:52.103555",
   "package_url": "https://pypi.org/project/nextbillion-sdk/"
 }

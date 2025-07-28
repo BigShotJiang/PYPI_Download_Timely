@@ -1,11 +1,11 @@
 {
   "name": "plotverse",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Powerful data visualization and analysis library combining Pandas, Matplotlib, and Seaborn.",
   "author": "Sanju",
   "license": "MIT",
   "home_page": "https://github.com/sk-sanju/plotverse",
-  "download_filename": "plotverse-0.0.2.tar.gz",
-  "download_time": "2025-07-28T07:28:42.975508",
+  "download_filename": "plotverse-0.0.4.tar.gz",
+  "download_time": "2025-07-28T08:35:18.184500",
   "package_url": "https://pypi.org/project/plotverse/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "m-eclipses",
+  "version": "0.3.0",
+  "summary": "MSSL Emission Calculation and Line Intensity Prediction for SOLAR-C EUVST-SW",
+  "author": "James McKevitt",
+  "license": "Contact for permission",
+  "home_page": "https://github.com/jamesmckevitt/solc_euvst_sw_response",
+  "download_filename": "m_eclipses-0.3.0-py3-none-any.whl",
+  "download_time": "2025-07-28T08:35:24.485978",
+  "package_url": "https://pypi.org/project/m-eclipses/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hexin-server",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "FastAPI server that proxies OpenAI API endpoints using hexin_engine backend",
   "author": "LinXueyuanStdio",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hexin_server-0.1.5.tar.gz",
-  "download_time": "2025-07-25T03:41:29.383286",
+  "download_filename": "hexin_server-0.1.6.tar.gz",
+  "download_time": "2025-07-28T08:35:12.429777",
   "package_url": "https://pypi.org/project/hexin-server/"
 }

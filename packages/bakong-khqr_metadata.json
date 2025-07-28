@@ -1,0 +1,11 @@
+{
+  "name": "bakong-khqr",
+  "version": "0.4.12",
+  "summary": "A Python package for generating payment transactions compliant with the Bakong KHQR standard. (Unofficial NBC)",
+  "author": "BAN Sothen",
+  "license": null,
+  "home_page": "https://github.com/bsthen/bakong-khqr",
+  "download_filename": "bakong_khqr-0.4.12.tar.gz",
+  "download_time": "2025-07-28T08:35:39.615860",
+  "package_url": "https://pypi.org/project/bakong-khqr/"
+}

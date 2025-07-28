@@ -1,11 +1,11 @@
 {
   "name": "yanghao.portlink",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "A simple TCP tunnel over WebSocket.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yanghao_portlink-0.0.3.tar.gz",
-  "download_time": "2025-07-28T07:29:13.859065",
+  "download_filename": "yanghao_portlink-0.0.5.tar.gz",
+  "download_time": "2025-07-28T08:35:38.574243",
   "package_url": "https://pypi.org/project/yanghao.portlink/"
 }

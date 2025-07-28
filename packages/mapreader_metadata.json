@@ -1,0 +1,11 @@
+{
+  "name": "mapreader",
+  "version": "1.8.0",
+  "summary": "A computer vision pipeline for the semantic exploration of maps/images at scale",
+  "author": "MapReader team",
+  "license": "MIT License",
+  "home_page": "https://github.com/Living-with-machines/MapReader",
+  "download_filename": "mapreader-1.8.0.tar.gz",
+  "download_time": "2025-07-28T08:35:15.557255",
+  "package_url": "https://pypi.org/project/mapreader/"
+}

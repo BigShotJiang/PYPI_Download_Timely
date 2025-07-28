@@ -1,11 +1,11 @@
 {
   "name": "PyCypherLib",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "Secure file encryption and decryption library with fluent API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycypherlib-1.4.1.tar.gz",
-  "download_time": "2025-07-26T18:32:57.313663",
+  "download_filename": "pycypherlib-1.4.2.tar.gz",
+  "download_time": "2025-07-28T08:35:28.129182",
   "package_url": "https://pypi.org/project/PyCypherLib/"
 }

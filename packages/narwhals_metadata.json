@@ -1,11 +1,11 @@
 {
   "name": "narwhals",
-  "version": "1.48.1",
+  "version": "2.0.0",
   "summary": "Extremely lightweight compatibility layer between dataframe libraries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "narwhals-1.48.1.tar.gz",
-  "download_time": "2025-07-24T19:26:27.922548",
+  "download_filename": "narwhals-2.0.0.tar.gz",
+  "download_time": "2025-07-28T08:35:44.301068",
   "package_url": "https://pypi.org/project/narwhals/"
 }

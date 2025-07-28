@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-attachment-mgmt",
+  "version": "17.0.1.1.0",
+  "summary": "Mrp Attachment Mgmt",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_attachment_mgmt-17.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-07-28T08:35:37.021173",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-attachment-mgmt/"
+}

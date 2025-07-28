@@ -1,0 +1,11 @@
+{
+  "name": "gha-pinner",
+  "version": "0.1.5",
+  "summary": "Pin GitHub Actions to specific commit SHAs for improved security",
+  "author": "Samuele Pasini",
+  "license": "MIT",
+  "home_page": "https://github.com/sapasapasapa/gha-pinner",
+  "download_filename": "gha_pinner-0.1.5.tar.gz",
+  "download_time": "2025-07-28T08:35:22.931062",
+  "package_url": "https://pypi.org/project/gha-pinner/"
+}

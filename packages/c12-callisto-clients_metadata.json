@@ -1,0 +1,11 @@
+{
+  "name": "c12-callisto-clients",
+  "version": "2.2.2",
+  "summary": "Different adapters for the access to the C12 Callisto quantum emulator.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "c12_callisto_clients-2.2.2-py3-none-any.whl",
+  "download_time": "2025-07-28T08:35:47.429981",
+  "package_url": "https://pypi.org/project/c12-callisto-clients/"
+}

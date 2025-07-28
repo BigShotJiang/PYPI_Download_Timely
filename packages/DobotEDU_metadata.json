@@ -1,0 +1,11 @@
+{
+  "name": "DobotEDU",
+  "version": "2.2.2",
+  "summary": "Dobotlink communication module",
+  "author": "songlijun",
+  "license": "Apache Licence",
+  "home_page": null,
+  "download_filename": "dobotedu-2.2.2-py3-none-any.whl",
+  "download_time": "2025-07-28T08:35:23.968775",
+  "package_url": "https://pypi.org/project/DobotEDU/"
+}

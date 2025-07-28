@@ -1,11 +1,11 @@
 {
   "name": "osia",
-  "version": "0.2.0a15",
+  "version": "0.2.0a16",
   "summary": "OpenShift infra automation",
   "author": "Miroslav Jaros",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "osia-0.2.0a15.tar.gz",
-  "download_time": "2025-07-25T11:20:46.699791",
+  "download_filename": "osia-0.2.0a16.tar.gz",
+  "download_time": "2025-07-28T08:35:19.257888",
   "package_url": "https://pypi.org/project/osia/"
 }

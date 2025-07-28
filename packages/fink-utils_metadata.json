@@ -1,0 +1,11 @@
+{
+  "name": "fink-utils",
+  "version": "0.43.0",
+  "summary": "Collection of useful functionalities used across the Fink ecosystem.",
+  "author": "JulienPeloton",
+  "license": null,
+  "home_page": "https://github.com/astrolabsoftware/fink-utils",
+  "download_filename": "fink-utils-0.43.0.tar.gz",
+  "download_time": "2025-07-28T08:35:40.137445",
+  "package_url": "https://pypi.org/project/fink-utils/"
+}

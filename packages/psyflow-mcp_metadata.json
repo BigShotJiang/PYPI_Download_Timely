@@ -1,11 +1,11 @@
 {
   "name": "psyflow-mcp",
-  "version": "0.1.2",
+  "version": "0.1.10",
   "summary": "A minimal complete project (MCP) for psyflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psyflow_mcp-0.1.2.tar.gz",
-  "download_time": "2025-07-28T07:49:05.889658",
+  "download_filename": "psyflow_mcp-0.1.10.tar.gz",
+  "download_time": "2025-07-28T08:35:11.312164",
   "package_url": "https://pypi.org/project/psyflow-mcp/"
 }

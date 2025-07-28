@@ -1,0 +1,11 @@
+{
+  "name": "ndict-tools",
+  "version": "0.8.0",
+  "summary": "An implementation of nested dictionaries",
+  "author": "biface",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndict_tools-0.8.0.tar.gz",
+  "download_time": "2025-07-28T08:35:18.739393",
+  "package_url": "https://pypi.org/project/ndict-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ilds",
+  "version": "2.30.0",
+  "summary": "常用模块的集合，为了多平台，多电脑调用方便!",
+  "author": "lds",
+  "license": "GNU GPL 3",
+  "home_page": "https://github.com/ldsxp/ilds",
+  "download_filename": "ilds-2.30.0.tar.gz",
+  "download_time": "2025-07-28T08:35:30.778310",
+  "package_url": "https://pypi.org/project/ilds/"
+}

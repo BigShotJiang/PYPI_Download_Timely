@@ -1,0 +1,11 @@
+{
+  "name": "open-mcp-weather-demo",
+  "version": "0.1.0",
+  "summary": "Weather query MCP server using OpenWeatherMap API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_mcp_weather_demo-0.1.0.tar.gz",
+  "download_time": "2025-07-28T08:35:43.255764",
+  "package_url": "https://pypi.org/project/open-mcp-weather-demo/"
+}
