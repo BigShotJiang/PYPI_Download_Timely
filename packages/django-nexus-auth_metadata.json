@@ -1,0 +1,11 @@
+{
+  "name": "django-nexus-auth",
+  "version": "0.1.6",
+  "summary": "OIDC Authentication for Django REST Framework with JWT support",
+  "author": "Gabriel Tan",
+  "license": null,
+  "home_page": "https://github.com/panevo/django-nexus-auth",
+  "download_filename": "django_nexus_auth-0.1.6.tar.gz",
+  "download_time": "2025-07-28T20:50:03.808128",
+  "package_url": "https://pypi.org/project/django-nexus-auth/"
+}

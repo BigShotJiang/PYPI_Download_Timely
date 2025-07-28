@@ -1,0 +1,11 @@
+{
+  "name": "pydot_graph",
+  "version": "0.0.3",
+  "summary": "A graph notation for creating Graphviz visualizations using Pydot.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydot_graph-0.0.3.tar.gz",
+  "download_time": "2025-07-28T20:49:45.277304",
+  "package_url": "https://pypi.org/project/pydot_graph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-pyspark-plugin",
+  "version": "0.2.0",
+  "summary": "Pytest pyspark plugin (p3)",
+  "author": "mk.fshr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_pyspark_plugin-0.2.0.tar.gz",
+  "download_time": "2025-07-28T20:50:04.330512",
+  "package_url": "https://pypi.org/project/pytest-pyspark-plugin/"
+}

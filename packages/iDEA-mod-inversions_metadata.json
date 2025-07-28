@@ -1,11 +1,11 @@
 {
   "name": "iDEA-mod-inversions",
-  "version": "1.0.0",
+  "version": "1.1.3",
   "summary": "modified version of the iDEA code with Wang-Parr inversion method added, for installation on pinnacles",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idea_mod_inversions-1.0.0.tar.gz",
-  "download_time": "2025-07-28T18:36:51.619774",
+  "download_filename": "idea_mod_inversions-1.1.3.tar.gz",
+  "download_time": "2025-07-28T20:49:52.223513",
   "package_url": "https://pypi.org/project/iDEA-mod-inversions/"
 }

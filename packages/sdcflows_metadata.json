@@ -1,0 +1,11 @@
+{
+  "name": "sdcflows",
+  "version": "2.13.2",
+  "summary": "Susceptibility Distortion Correction (SDC) workflows for EPI MR schemes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdcflows-2.13.2-py3-none-any.whl",
+  "download_time": "2025-07-28T20:49:54.849325",
+  "package_url": "https://pypi.org/project/sdcflows/"
+}

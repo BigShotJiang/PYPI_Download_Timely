@@ -1,0 +1,11 @@
+{
+  "name": "airefinery-sdk",
+  "version": "1.12.1",
+  "summary": "AI Refinery™ by Accenture SDK for developing and executing AI multi-agent solutions.",
+  "author": "Accenture",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "airefinery_sdk-1.12.1.tar.gz",
+  "download_time": "2025-07-28T20:49:55.367116",
+  "package_url": "https://pypi.org/project/airefinery-sdk/"
+}

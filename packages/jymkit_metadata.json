@@ -1,0 +1,11 @@
+{
+  "name": "jymkit",
+  "version": "0.0.11",
+  "summary": "A lightweight utility library for reinforcement learning projects in JAX and Equinox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jymkit-0.0.11.tar.gz",
+  "download_time": "2025-07-28T20:49:51.183741",
+  "package_url": "https://pypi.org/project/jymkit/"
+}
