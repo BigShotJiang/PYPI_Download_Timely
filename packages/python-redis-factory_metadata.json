@@ -1,11 +1,11 @@
 {
   "name": "python-redis-factory",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "A universal Redis client factory for Python—just pass a single connection string (supporting standalone, Sentinel, or Cluster modes) and get back a ready-to-use redis.Redis instance.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_redis_factory-0.1.0.tar.gz",
-  "download_time": "2025-07-27T18:59:35.016202",
+  "download_filename": "python_redis_factory-0.1.3.tar.gz",
+  "download_time": "2025-07-28T07:29:14.369699",
   "package_url": "https://pypi.org/project/python-redis-factory/"
 }

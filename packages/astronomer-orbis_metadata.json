@@ -1,0 +1,11 @@
+{
+  "name": "astronomer-orbis",
+  "version": "0.8.0rc8",
+  "summary": "A tool for generating astronomer software deployment compute reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astronomer_orbis-0.8.0rc8.tar.gz",
+  "download_time": "2025-07-28T07:29:05.163378",
+  "package_url": "https://pypi.org/project/astronomer-orbis/"
+}

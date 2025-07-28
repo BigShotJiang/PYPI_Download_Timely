@@ -1,0 +1,11 @@
+{
+  "name": "ce-ui",
+  "version": "1.31.0",
+  "summary": "The user-facing interface of contact.engineering.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ce_ui-1.31.0.tar.gz",
+  "download_time": "2025-07-28T07:29:04.652509",
+  "package_url": "https://pypi.org/project/ce-ui/"
+}

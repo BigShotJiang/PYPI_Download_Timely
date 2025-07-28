@@ -1,0 +1,11 @@
+{
+  "name": "miding",
+  "version": "3.2.0",
+  "summary": "A generator of midi score based on GRU.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "miding-3.2.0.tar.gz",
+  "download_time": "2025-07-28T07:28:35.268478",
+  "package_url": "https://pypi.org/project/miding/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dbpoint",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Single access point for multiple SQL-databases. Purpose to stream data from one to other.",
   "author": "Nauri Nastik",
   "license": null,
   "home_page": null,
-  "download_filename": "dbpoint-0.2.7-py3-none-any.whl",
-  "download_time": "2025-07-28T06:48:32.859320",
+  "download_filename": "dbpoint-0.2.8-py3-none-any.whl",
+  "download_time": "2025-07-28T07:29:15.900099",
   "package_url": "https://pypi.org/project/dbpoint/"
 }

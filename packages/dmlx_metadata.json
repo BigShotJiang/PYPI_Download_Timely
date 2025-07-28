@@ -1,0 +1,11 @@
+{
+  "name": "dmlx",
+  "version": "0.1.0",
+  "summary": "Declarative machine learning experiments.",
+  "author": "3h",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmlx-0.1.0.tar.gz",
+  "download_time": "2025-07-28T07:28:34.171253",
+  "package_url": "https://pypi.org/project/dmlx/"
+}

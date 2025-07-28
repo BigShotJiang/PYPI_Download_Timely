@@ -1,0 +1,11 @@
+{
+  "name": "b24api",
+  "version": "0.4.0",
+  "summary": "Bitrix24 API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "b24api-0.4.0.tar.gz",
+  "download_time": "2025-07-28T07:28:45.528605",
+  "package_url": "https://pypi.org/project/b24api/"
+}

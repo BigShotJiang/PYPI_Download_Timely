@@ -1,0 +1,11 @@
+{
+  "name": "opsgw-sdk",
+  "version": "1.0.0",
+  "summary": "具有健康监测功能的HTTP SDK",
+  "author": "OpsGW Team",
+  "license": "MIT",
+  "home_page": "https://github.com/opsgw/opsgw-sdk-python",
+  "download_filename": "opsgw_sdk-1.0.0.tar.gz",
+  "download_time": "2025-07-28T07:29:10.278816",
+  "package_url": "https://pypi.org/project/opsgw-sdk/"
+}

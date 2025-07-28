@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-cli-generator",
+  "version": "0.4.3",
+  "summary": "A command-line tool for generating FastAPI projects with different architectural patterns",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_cli_generator-0.4.3.tar.gz",
+  "download_time": "2025-07-28T07:28:45.019466",
+  "package_url": "https://pypi.org/project/fastapi-cli-generator/"
+}

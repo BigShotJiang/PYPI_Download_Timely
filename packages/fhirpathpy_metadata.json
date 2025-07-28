@@ -1,0 +1,11 @@
+{
+  "name": "fhirpathpy",
+  "version": "2.0.3",
+  "summary": "FHIRPath implementation in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fhirpathpy-2.0.3.tar.gz",
+  "download_time": "2025-07-28T07:28:56.841986",
+  "package_url": "https://pypi.org/project/fhirpathpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kuavo-humanoid-sdk-ws",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A Python SDK for kuavo humanoid robot.",
   "author": "['lejurobot']",
   "license": "MIT",
   "home_page": "https://gitee.com/leju-robot/kuavo-ros-opensource/",
-  "download_filename": "kuavo_humanoid_sdk_ws-1.2.0.tar.gz",
-  "download_time": "2025-07-25T03:41:48.407088",
+  "download_filename": "kuavo_humanoid_sdk_ws-1.2.1.tar.gz",
+  "download_time": "2025-07-28T07:29:12.838783",
   "package_url": "https://pypi.org/project/kuavo-humanoid-sdk-ws/"
 }

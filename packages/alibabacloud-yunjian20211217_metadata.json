@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-yunjian20211217",
+  "version": "1.2.0",
+  "summary": "Alibaba Cloud yunjian (20211217) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_yunjian20211217-1.2.0.tar.gz",
+  "download_time": "2025-07-28T07:28:40.412008",
+  "package_url": "https://pypi.org/project/alibabacloud-yunjian20211217/"
+}

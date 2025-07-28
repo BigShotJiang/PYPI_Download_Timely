@@ -1,11 +1,11 @@
 {
   "name": "NL2SQLEvaluator",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nl2sqlevaluator-0.1.4.tar.gz",
-  "download_time": "2025-07-28T06:47:51.016457",
+  "download_filename": "nl2sqlevaluator-0.1.6.tar.gz",
+  "download_time": "2025-07-28T07:29:00.467002",
   "package_url": "https://pypi.org/project/NL2SQLEvaluator/"
 }

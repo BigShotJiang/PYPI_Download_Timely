@@ -1,0 +1,11 @@
+{
+  "name": "netmind-lolGPT",
+  "version": "1.0.0",
+  "summary": "AI-powered League of Legends professional esports match predictor and summoner analysis tool. Predict outcomes for T1, Faker, Zeus, and other pro players with advanced statistical modeling.",
+  "author": "lolGPT Team",
+  "license": null,
+  "home_page": "https://github.com/onepersonunicorn/lolgpt",
+  "download_filename": "netmind_lolgpt-1.0.0.tar.gz",
+  "download_time": "2025-07-28T07:28:32.637427",
+  "package_url": "https://pypi.org/project/netmind-lolGPT/"
+}

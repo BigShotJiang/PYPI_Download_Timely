@@ -1,0 +1,11 @@
+{
+  "name": "shatokenizer",
+  "version": "0.1.2",
+  "summary": "High-performance bpe tokenizer with C++ backend and Python bindings",
+  "author": "Shaheen Ahmed",
+  "license": null,
+  "home_page": "https://github.com/shaheen-coder/shatokenizer",
+  "download_filename": "shatokenizer-0.1.2.tar.gz",
+  "download_time": "2025-07-28T07:29:08.228951",
+  "package_url": "https://pypi.org/project/shatokenizer/"
+}

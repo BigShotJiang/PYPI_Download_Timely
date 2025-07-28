@@ -1,0 +1,11 @@
+{
+  "name": "ARTSyn",
+  "version": "0.5.1",
+  "summary": "Artificial Tabular Data Synthesizers",
+  "author": "Leonidas Akritidis",
+  "license": "Apache",
+  "home_page": "https://github.com/lakritidis/artsyn",
+  "download_filename": "artsyn-0.5.1.tar.gz",
+  "download_time": "2025-07-28T07:28:52.166027",
+  "package_url": "https://pypi.org/project/ARTSyn/"
+}
