@@ -1,11 +1,11 @@
 {
   "name": "hexgrid-cube",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "summary": "Hex grid utilities using cube coordinates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hexgrid_cube-1.0.0.tar.gz",
-  "download_time": "2025-07-28T14:44:11.567529",
+  "download_filename": "hexgrid_cube-2.1.0.tar.gz",
+  "download_time": "2025-07-28T15:34:32.668200",
   "package_url": "https://pypi.org/project/hexgrid-cube/"
 }

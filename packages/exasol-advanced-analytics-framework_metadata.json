@@ -1,0 +1,11 @@
+{
+  "name": "exasol-advanced-analytics-framework",
+  "version": "0.6.1",
+  "summary": "Framework for building complex data analysis algorithms with Exasol",
+  "author": "Umit Buyuksahin",
+  "license": null,
+  "home_page": "https://github.com/exasol/advanced-analytics-framework",
+  "download_filename": "exasol_advanced_analytics_framework-0.6.1.tar.gz",
+  "download_time": "2025-07-28T15:34:45.246369",
+  "package_url": "https://pypi.org/project/exasol-advanced-analytics-framework/"
+}

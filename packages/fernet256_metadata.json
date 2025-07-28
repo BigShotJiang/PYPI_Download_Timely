@@ -1,0 +1,11 @@
+{
+  "name": "fernet256",
+  "version": "3.0.0",
+  "summary": "Simplified AES-256 encryption tool inspired by Fernet",
+  "author": "xRangeroQ",
+  "license": null,
+  "home_page": "https://github.com/xRangeroQ/fernet256",
+  "download_filename": "fernet256-3.0.0.tar.gz",
+  "download_time": "2025-07-28T15:34:35.660581",
+  "package_url": "https://pypi.org/project/fernet256/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tree-creator",
-  "version": "1.0.51",
+  "version": "1.0.62",
   "summary": "Create directory and file structures from tree-like text representations",
   "author": "Jack3Low",
   "license": "MIT",
   "home_page": "https://github.com/jack-low/tree-creator",
-  "download_filename": "tree_creator-1.0.51.tar.gz",
-  "download_time": "2025-07-28T13:42:39.544545",
+  "download_filename": "tree_creator-1.0.62.tar.gz",
+  "download_time": "2025-07-28T15:34:10.654765",
   "package_url": "https://pypi.org/project/tree-creator/"
 }

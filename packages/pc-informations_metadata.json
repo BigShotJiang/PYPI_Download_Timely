@@ -1,11 +1,11 @@
 {
   "name": "pc-informations",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "A PC info tool for displaying system information and managing processes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pc_informations-1.0.2.tar.gz",
-  "download_time": "2025-07-28T14:44:34.436680",
+  "download_filename": "pc_informations-1.0.4.tar.gz",
+  "download_time": "2025-07-28T15:34:12.418107",
   "package_url": "https://pypi.org/project/pc-informations/"
 }

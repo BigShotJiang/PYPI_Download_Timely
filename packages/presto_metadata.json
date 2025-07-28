@@ -1,0 +1,11 @@
+{
+  "name": "presto",
+  "version": "0.7.5",
+  "summary": "A bioinformatics toolkit for processing high-throughput lymphocyte receptor sequencing data.",
+  "author": "Jason Anthony Vander Heiden",
+  "license": "GNU Affero General Public License 3 (AGPL-3)",
+  "home_page": "http://presto.readthedocs.io",
+  "download_filename": "presto-0.7.5.tar.gz",
+  "download_time": "2025-07-28T15:34:11.794116",
+  "package_url": "https://pypi.org/project/presto/"
+}

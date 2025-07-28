@@ -1,0 +1,11 @@
+{
+  "name": "workspacex",
+  "version": "0.1.30",
+  "summary": "workspacex is a Python library for managing AIGC (AI-Generated Content) artifacts. It provides a collaborative workspace environment for handling multiple artifacts with features like version control, update notifications, artifact management, and pluggable storage and embedding backends.",
+  "author": "wuhulala",
+  "license": null,
+  "home_page": null,
+  "download_filename": "workspacex-0.1.30.tar.gz",
+  "download_time": "2025-07-28T15:34:43.525945",
+  "package_url": "https://pypi.org/project/workspacex/"
+}

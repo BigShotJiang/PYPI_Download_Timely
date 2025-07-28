@@ -1,0 +1,11 @@
+{
+  "name": "spgci",
+  "version": "0.0.61",
+  "summary": "SPGCI is an API Client for the S&P Commodity Insights REST API",
+  "author": "S&P Global Commodity Insights",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/spgi-ci/spgci-python",
+  "download_filename": "spgci-0.0.61.tar.gz",
+  "download_time": "2025-07-28T15:34:15.362875",
+  "package_url": "https://pypi.org/project/spgci/"
+}

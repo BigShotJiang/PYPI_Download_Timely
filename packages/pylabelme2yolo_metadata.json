@@ -1,0 +1,11 @@
+{
+  "name": "pylabelme2yolo",
+  "version": "0.1.2",
+  "summary": "Convert LabelMe annotations to YOLO format",
+  "author": "shyandsy",
+  "license": null,
+  "home_page": "https://github.com/shyandsy/pylabelme2yolo",
+  "download_filename": "pylabelme2yolo-0.1.2.tar.gz",
+  "download_time": "2025-07-28T15:34:10.082940",
+  "package_url": "https://pypi.org/project/pylabelme2yolo/"
+}

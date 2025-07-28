@@ -1,11 +1,11 @@
 {
   "name": "rxfoundry.clients.p2rx-api",
-  "version": "0.0.548",
+  "version": "0.0.549",
   "summary": "P2RX API",
   "author": "RxFoundry Team",
   "license": null,
   "home_page": null,
-  "download_filename": "rxfoundry_clients_p2rx_api-0.0.548.tar.gz",
-  "download_time": "2025-07-28T14:44:11.039467",
+  "download_filename": "rxfoundry_clients_p2rx_api-0.0.549.tar.gz",
+  "download_time": "2025-07-28T15:34:09.511010",
   "package_url": "https://pypi.org/project/rxfoundry.clients.p2rx-api/"
 }

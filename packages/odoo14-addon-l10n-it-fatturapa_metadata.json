@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-it-fatturapa",
+  "version": "14.0.2.4.0",
+  "summary": "Fatture elettroniche",
+  "author": "Davide Corio, Agile Business Group, Innoviu, Odoo Italia Network, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo14_addon_l10n_it_fatturapa-14.0.2.4.0-py3-none-any.whl",
+  "download_time": "2025-07-28T15:34:22.871558",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-it-fatturapa/"
+}

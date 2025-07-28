@@ -1,0 +1,11 @@
+{
+  "name": "pyg-timeseries",
+  "version": "0.0.41",
+  "summary": "Utilities for fast timeseries analysis",
+  "author": "Yoav Git",
+  "license": null,
+  "home_page": "https://github.com/gityoav/pyg-timeseries",
+  "download_filename": "pyg_timeseries-0.0.41.tar.gz",
+  "download_time": "2025-07-28T15:34:48.686919",
+  "package_url": "https://pypi.org/project/pyg-timeseries/"
+}

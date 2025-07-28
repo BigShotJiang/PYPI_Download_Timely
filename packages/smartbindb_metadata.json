@@ -1,11 +1,11 @@
 {
   "name": "smartbindb",
-  "version": "2.16.3",
-  "summary": "A powerful Asynchronous Python library for getting bins database by country name or bank name, also supports bin lookup, supporting bots, MTProto API frameworks, and Python scripts",
+  "version": "3.16.3",
+  "summary": "A powerful Asynchronous Python library for getting BINs database by country name or bank name. Also supports BIN lookup for bots, MTProto API frameworks, and Python scripts.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "smartbindb-2.16.3.tar.gz",
-  "download_time": "2025-07-27T16:51:17.727327",
+  "download_filename": "smartbindb-3.16.3.tar.gz",
+  "download_time": "2025-07-28T15:34:44.676895",
   "package_url": "https://pypi.org/project/smartbindb/"
 }
