@@ -1,0 +1,11 @@
+{
+  "name": "token-injectable-docker-builder",
+  "version": "1.5.14",
+  "summary": "The TokenInjectableDockerBuilder is a flexible AWS CDK construct that enables the usage of AWS CDK tokens in the building, pushing, and deployment of Docker images to Amazon Elastic Container Registry (ECR). It leverages AWS CodeBuild and Lambda custom resources.",
+  "author": "AlexTech314<alest314@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/AlexTech314/TokenInjectableDockerBuilder.git",
+  "download_filename": "token_injectable_docker_builder-1.5.14.tar.gz",
+  "download_time": "2025-07-28T15:58:04.296984",
+  "package_url": "https://pypi.org/project/token-injectable-docker-builder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goupil",
+  "version": "1.3.1",
+  "summary": "A Monte Carlo engine for the backward transport of low energy gamma-rays.",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "goupil-1.3.1.tar.gz",
+  "download_time": "2025-07-28T15:58:38.655159",
+  "package_url": "https://pypi.org/project/goupil/"
+}

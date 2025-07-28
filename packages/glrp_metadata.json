@@ -1,0 +1,11 @@
+{
+  "name": "glrp",
+  "version": "0.3.2",
+  "summary": "Parser for git log --raw",
+  "author": "Ole Herman Schumacher Elgesem",
+  "license": null,
+  "home_page": "https://github.com/olehermanse/glrp",
+  "download_filename": "glrp-0.3.2.tar.gz",
+  "download_time": "2025-07-28T15:58:28.114668",
+  "package_url": "https://pypi.org/project/glrp/"
+}

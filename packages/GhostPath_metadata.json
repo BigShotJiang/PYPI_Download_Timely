@@ -1,0 +1,11 @@
+{
+  "name": "GhostPath",
+  "version": "2.3.6",
+  "summary": "GhostPath - Interactive Recon Shell for Ethical Hackers",
+  "author": "Atharv Yadav",
+  "license": null,
+  "home_page": "https://github.com/atharvbyadav/GhostPath",
+  "download_filename": "ghostpath-2.3.6.tar.gz",
+  "download_time": "2025-07-28T15:58:25.495047",
+  "package_url": "https://pypi.org/project/GhostPath/"
+}

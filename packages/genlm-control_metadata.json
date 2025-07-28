@@ -1,11 +1,11 @@
 {
   "name": "genlm-control",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Controlled generation from LMs using programmable constraints",
   "author": "The GenLM Team",
   "license": null,
   "home_page": null,
-  "download_filename": "genlm_control-0.2.5.tar.gz",
-  "download_time": "2025-07-24T23:54:44.056804",
+  "download_filename": "genlm_control-0.2.7.tar.gz",
+  "download_time": "2025-07-28T15:58:06.967271",
   "package_url": "https://pypi.org/project/genlm-control/"
 }

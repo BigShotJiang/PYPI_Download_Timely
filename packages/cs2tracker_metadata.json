@@ -1,11 +1,11 @@
 {
   "name": "cs2tracker",
-  "version": "2.1.9",
+  "version": "2.1.10",
   "summary": "Tracking the steam market prices of CS2 items",
   "author": "Jannik Novak",
   "license": null,
   "home_page": "https://github.com/ashiven/cs2tracker",
-  "download_filename": "cs2tracker-2.1.9.tar.gz",
-  "download_time": "2025-07-26T20:44:27.932662",
+  "download_filename": "cs2tracker-2.1.10.tar.gz",
+  "download_time": "2025-07-28T15:58:24.892251",
   "package_url": "https://pypi.org/project/cs2tracker/"
 }

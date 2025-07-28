@@ -1,0 +1,11 @@
+{
+  "name": "fabrictestbed_extensions",
+  "version": "1.9.0",
+  "summary": "FABRIC Python Client Library and CLI Extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabrictestbed_extensions-1.9.0.tar.gz",
+  "download_time": "2025-07-28T15:58:23.855384",
+  "package_url": "https://pypi.org/project/fabrictestbed_extensions/"
+}

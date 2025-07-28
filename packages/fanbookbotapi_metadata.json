@@ -1,0 +1,11 @@
+{
+  "name": "fanbookbotapi",
+  "version": "1.2.8",
+  "summary": "fanbook bot api",
+  "author": "wangdage",
+  "license": null,
+  "home_page": "https://github.com/fanbook-wangdage/fanbookbotapi/",
+  "download_filename": "fanbookbotapi-1.2.8.tar.gz",
+  "download_time": "2025-07-28T15:58:24.374123",
+  "package_url": "https://pypi.org/project/fanbookbotapi/"
+}

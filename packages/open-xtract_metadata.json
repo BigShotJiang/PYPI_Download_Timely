@@ -1,0 +1,11 @@
+{
+  "name": "open-xtract",
+  "version": "0.1.0",
+  "summary": "Open-source framework that extracts structured data from PDFs. Bring your own OCR or LLM and extend to any file type.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_xtract-0.1.0.tar.gz",
+  "download_time": "2025-07-28T15:57:59.069191",
+  "package_url": "https://pypi.org/project/open-xtract/"
+}

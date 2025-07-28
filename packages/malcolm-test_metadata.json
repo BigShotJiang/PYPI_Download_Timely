@@ -1,0 +1,11 @@
+{
+  "name": "malcolm-test",
+  "version": "0.10.2",
+  "summary": "A package for performing tests against a Malcolm system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "malcolm_test-0.10.2.tar.gz",
+  "download_time": "2025-07-28T15:58:01.691698",
+  "package_url": "https://pypi.org/project/malcolm-test/"
+}

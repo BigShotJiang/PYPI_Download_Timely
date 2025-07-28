@@ -1,0 +1,11 @@
+{
+  "name": "qclib",
+  "version": "0.1.15",
+  "summary": "A quantum computing library using qiskit",
+  "author": "qclib team",
+  "license": null,
+  "home_page": "https://github.com/qclib/qclib",
+  "download_filename": "qclib-0.1.15-py3-none-any.whl",
+  "download_time": "2025-07-28T15:58:30.211673",
+  "package_url": "https://pypi.org/project/qclib/"
+}

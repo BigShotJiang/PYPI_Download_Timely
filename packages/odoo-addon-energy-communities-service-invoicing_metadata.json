@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-energy-communities-service-invoicing",
-  "version": "16.0.0.5.1",
+  "version": "16.0.0.5.2",
   "summary": "Short (1 phrase/line) summary of the module's purpose, used as subtitle on modules listing or apps.openerp.com",
   "author": "Som comunitats",
   "license": null,
   "home_page": "https://git.coopdevs.org/coopdevs/comunitats-energetiques/odoo-ce",
-  "download_filename": "odoo_addon_energy_communities_service_invoicing-16.0.0.5.1.tar.gz",
-  "download_time": "2025-07-28T15:34:04.342306",
+  "download_filename": "odoo_addon_energy_communities_service_invoicing-16.0.0.5.2.tar.gz",
+  "download_time": "2025-07-28T15:58:33.419981",
   "package_url": "https://pypi.org/project/odoo-addon-energy-communities-service-invoicing/"
 }

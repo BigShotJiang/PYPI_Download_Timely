@@ -1,0 +1,11 @@
+{
+  "name": "voitta",
+  "version": "0.27.0",
+  "summary": "A Python framework for LLM tool calls routing, automation, and orchestration",
+  "author": "Voitta",
+  "license": null,
+  "home_page": "https://github.com/voitta-ai/voitta",
+  "download_filename": "voitta-0.27.0.tar.gz",
+  "download_time": "2025-07-28T15:58:40.218074",
+  "package_url": "https://pypi.org/project/voitta/"
+}
