@@ -1,0 +1,11 @@
+{
+  "name": "dbt-oracle",
+  "version": "1.9.3",
+  "summary": "dbt (data build tool) adapter for Oracle Autonomous Database",
+  "author": "Oracle",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/oracle/dbt-oracle",
+  "download_filename": "dbt_oracle-1.9.3.tar.gz",
+  "download_time": "2025-07-28T17:38:43.032032",
+  "package_url": "https://pypi.org/project/dbt-oracle/"
+}

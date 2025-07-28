@@ -1,0 +1,11 @@
+{
+  "name": "py-spam-hunter-client",
+  "version": "3.0.2",
+  "summary": "A client for SpamHunter API",
+  "author": "Makar",
+  "license": null,
+  "home_page": "https://github.com/MakarMS/py-spam-hunter-client",
+  "download_filename": "py_spam_hunter_client-3.0.2.tar.gz",
+  "download_time": "2025-07-28T17:39:03.783675",
+  "package_url": "https://pypi.org/project/py-spam-hunter-client/"
+}

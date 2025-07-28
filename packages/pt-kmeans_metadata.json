@@ -1,0 +1,11 @@
+{
+  "name": "pt-kmeans",
+  "version": "0.1.1",
+  "summary": "K-Means and Hierarchical K-Means implementation in PyTorch",
+  "author": "Ofer Hasson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pt_kmeans-0.1.1.tar.gz",
+  "download_time": "2025-07-28T17:38:52.638393",
+  "package_url": "https://pypi.org/project/pt-kmeans/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pype-observe",
+  "version": "1.0.0",
+  "summary": "Voice Analytics SDK for AI Agents",
+  "author": "Pype AI Voice Analytics",
+  "license": "MIT",
+  "home_page": "https://pypeai.com/home",
+  "download_filename": "pype_observe-1.0.0.tar.gz",
+  "download_time": "2025-07-28T17:38:53.675784",
+  "package_url": "https://pypi.org/project/pype-observe/"
+}

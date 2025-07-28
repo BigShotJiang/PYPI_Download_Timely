@@ -1,11 +1,11 @@
 {
   "name": "llmaix",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmaix-0.0.19.tar.gz",
-  "download_time": "2025-07-28T15:58:23.334137",
+  "download_filename": "llmaix-0.0.20.tar.gz",
+  "download_time": "2025-07-28T17:38:35.592560",
   "package_url": "https://pypi.org/project/llmaix/"
 }

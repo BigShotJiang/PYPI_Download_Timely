@@ -1,0 +1,11 @@
+{
+  "name": "theia-client",
+  "version": "0.1.4",
+  "summary": "Client package for Theia perception safety system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "theia_client-0.1.4.tar.gz",
+  "download_time": "2025-07-28T17:38:55.817356",
+  "package_url": "https://pypi.org/project/theia-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codex-sdk",
+  "version": "0.1.0a24",
+  "summary": "Internal SDK used within cleanlab-codex package. Refer to https://pypi.org/project/cleanlab-codex/ instead.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codex_sdk-0.1.0a24.tar.gz",
+  "download_time": "2025-07-28T17:39:01.649866",
+  "package_url": "https://pypi.org/project/codex-sdk/"
+}

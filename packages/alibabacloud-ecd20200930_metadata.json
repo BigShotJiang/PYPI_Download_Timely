@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ecd20200930",
+  "version": "4.12.2",
+  "summary": "Alibaba Cloud ecd (20200930) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ecd20200930-4.12.2.tar.gz",
+  "download_time": "2025-07-28T17:38:26.730470",
+  "package_url": "https://pypi.org/project/alibabacloud-ecd20200930/"
+}

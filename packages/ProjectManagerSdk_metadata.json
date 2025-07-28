@@ -1,0 +1,11 @@
+{
+  "name": "ProjectManagerSdk",
+  "version": "137.0.201",
+  "summary": "Software development kit for the ProjectManager.com API for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "projectmanagersdk-137.0.201.tar.gz",
+  "download_time": "2025-07-28T17:39:00.598638",
+  "package_url": "https://pypi.org/project/ProjectManagerSdk/"
+}
