@@ -1,0 +1,11 @@
+{
+  "name": "flokkit-flow",
+  "version": "0.2.1",
+  "summary": "A type-safe, async-first flow-based programming framework for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flokkit_flow-0.2.1.tar.gz",
+  "download_time": "2025-07-28T02:05:43.108132",
+  "package_url": "https://pypi.org/project/flokkit-flow/"
+}

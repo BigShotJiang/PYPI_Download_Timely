@@ -1,0 +1,11 @@
+{
+  "name": "bear-utils",
+  "version": "0.9.26",
+  "summary": "Various utilities for Bear programmers, including a rich logging utility, a disk cache, and a SQLite database wrapper amongst other things.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bear_utils-0.9.26.tar.gz",
+  "download_time": "2025-07-28T02:05:02.050052",
+  "package_url": "https://pypi.org/project/bear-utils/"
+}

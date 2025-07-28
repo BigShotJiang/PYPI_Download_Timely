@@ -1,0 +1,11 @@
+{
+  "name": "terraformat",
+  "version": "0.1.0",
+  "summary": "A wrapper for the Terraform CLI that provides a formatted plan summary.",
+  "author": "Henry Upton-Birdsall",
+  "license": null,
+  "home_page": "https://github.com/henryupton/terraformat",
+  "download_filename": "terraformat-0.1.0.tar.gz",
+  "download_time": "2025-07-28T02:05:17.359809",
+  "package_url": "https://pypi.org/project/terraformat/"
+}

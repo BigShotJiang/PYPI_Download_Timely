@@ -1,11 +1,11 @@
 {
   "name": "logsetup",
-  "version": "1.3",
+  "version": "1.4",
   "summary": "Python log initialization made easy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logsetup-1.3.tar.gz",
-  "download_time": "2025-07-26T05:51:03.316330",
+  "download_filename": "logsetup-1.4.tar.gz",
+  "download_time": "2025-07-28T02:05:37.388898",
   "package_url": "https://pypi.org/project/logsetup/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jupyter-remote-kernel",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Remote Jupyter Kernel Launcher with SSH port forwarding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_remote_kernel-2.0.1.tar.gz",
-  "download_time": "2025-07-27T17:46:24.739502",
+  "download_filename": "jupyter_remote_kernel-2.0.2.tar.gz",
+  "download_time": "2025-07-28T02:05:07.416751",
   "package_url": "https://pypi.org/project/jupyter-remote-kernel/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "simple-mcp-client",
-  "version": "1.0.3",
+  "version": "1.0.9",
   "summary": "A simple MCP client for testing MCP servers",
-  "author": "Lewis Guo",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/guolisen/simple-mcp-client",
-  "download_filename": "simple_mcp_client-1.0.3.tar.gz",
-  "download_time": "2025-07-27T14:45:18.128915",
+  "home_page": null,
+  "download_filename": "simple_mcp_client-1.0.9.tar.gz",
+  "download_time": "2025-07-28T02:05:27.954847",
   "package_url": "https://pypi.org/project/simple-mcp-client/"
 }

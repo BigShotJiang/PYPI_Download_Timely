@@ -1,11 +1,11 @@
 {
   "name": "metamorproxies",
-  "version": "0.3.10.2",
+  "version": "0.3.10.3",
   "summary": "Library for working wih proxies",
   "author": "Reinan Br",
   "license": "MIT License",
   "home_page": "https://github.com/reinanbr/metamorproxies",
-  "download_filename": "metamorproxies-0.3.10.2-py3-none-any.whl",
-  "download_time": "2025-07-27T15:55:42.456841",
+  "download_filename": "metamorproxies-0.3.10.3-py3-none-any.whl",
+  "download_time": "2025-07-28T02:05:37.906915",
   "package_url": "https://pypi.org/project/metamorproxies/"
 }

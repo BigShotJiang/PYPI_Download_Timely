@@ -1,11 +1,11 @@
 {
   "name": "boot_dummy",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "A Python package to create synthetic data with realistic statistical properties.",
   "author": "Zak Remsik",
   "license": null,
   "home_page": null,
-  "download_filename": "boot_dummy-0.3.0.tar.gz",
-  "download_time": "2025-07-27T23:56:43.964748",
+  "download_filename": "boot_dummy-0.3.2.tar.gz",
+  "download_time": "2025-07-28T02:05:14.740114",
   "package_url": "https://pypi.org/project/boot_dummy/"
 }
