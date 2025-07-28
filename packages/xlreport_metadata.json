@@ -1,0 +1,11 @@
+{
+  "name": "xlreport",
+  "version": "0.0.7",
+  "summary": "xlreport – Easy Excel Export for Python objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlreport-0.0.7.tar.gz",
+  "download_time": "2025-07-28T09:44:40.138731",
+  "package_url": "https://pypi.org/project/xlreport/"
+}

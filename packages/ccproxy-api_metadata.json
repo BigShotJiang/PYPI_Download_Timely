@@ -1,0 +1,11 @@
+{
+  "name": "ccproxy-api",
+  "version": "0.1.3",
+  "summary": "API server that provides an Anthropic and OpenAI compatible interface over Claude Code, allowing to use your Claude OAuth account or over the API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccproxy_api-0.1.3.tar.gz",
+  "download_time": "2025-07-28T09:45:01.212072",
+  "package_url": "https://pypi.org/project/ccproxy-api/"
+}

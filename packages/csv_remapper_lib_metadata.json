@@ -1,0 +1,11 @@
+{
+  "name": "csv_remapper_lib",
+  "version": "1.0.0",
+  "summary": "A library for remapping CSV files based on a mapping file.",
+  "author": "Víctor Carrasco",
+  "license": "AGPL v3",
+  "home_page": "https://github.com/MyNameIsClown/csv_remapper_lib",
+  "download_filename": "csv_remapper_lib-1.0.0.tar.gz",
+  "download_time": "2025-07-28T09:45:13.373100",
+  "package_url": "https://pypi.org/project/csv_remapper_lib/"
+}

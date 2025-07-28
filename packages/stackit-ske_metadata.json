@@ -1,0 +1,11 @@
+{
+  "name": "stackit-ske",
+  "version": "1.2.0",
+  "summary": "SKE-API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_ske-1.2.0.tar.gz",
+  "download_time": "2025-07-28T09:45:15.288873",
+  "package_url": "https://pypi.org/project/stackit-ske/"
+}

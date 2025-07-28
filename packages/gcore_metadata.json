@@ -1,0 +1,11 @@
+{
+  "name": "gcore",
+  "version": "0.7.0",
+  "summary": "The official Python library for the gcore API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gcore-0.7.0.tar.gz",
+  "download_time": "2025-07-28T09:44:51.233720",
+  "package_url": "https://pypi.org/project/gcore/"
+}

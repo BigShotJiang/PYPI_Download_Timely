@@ -1,11 +1,11 @@
 {
   "name": "ytconverter",
-  "version": "4.0.0.8",
+  "version": "4.0.0.9",
   "summary": "Terminal-based YouTube video/audio downloader using yt-dlp and ffmpeg",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ytconverter-4.0.0.8.tar.gz",
-  "download_time": "2025-07-28T06:48:02.328393",
+  "download_filename": "ytconverter-4.0.0.9.tar.gz",
+  "download_time": "2025-07-28T09:44:50.576290",
   "package_url": "https://pypi.org/project/ytconverter/"
 }

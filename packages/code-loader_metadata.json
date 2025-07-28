@@ -1,11 +1,11 @@
 {
   "name": "code-loader",
-  "version": "1.0.92",
+  "version": "1.0.93",
   "summary": null,
   "author": "dorhar",
   "license": "MIT",
   "home_page": "https://github.com/tensorleap/code-loader",
-  "download_filename": "code_loader-1.0.92.tar.gz",
-  "download_time": "2025-07-27T14:56:17.995985",
+  "download_filename": "code_loader-1.0.93.tar.gz",
+  "download_time": "2025-07-28T09:44:49.168162",
   "package_url": "https://pypi.org/project/code-loader/"
 }

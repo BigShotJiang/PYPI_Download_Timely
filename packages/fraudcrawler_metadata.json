@@ -1,11 +1,11 @@
 {
   "name": "fraudcrawler",
-  "version": "0.4.3",
+  "version": "0.4.5",
   "summary": "Intelligent Market Monitoring",
   "author": "Domingo Bertus",
   "license": "MIT",
   "home_page": "https://github.com/open-veanu/fraudcrawler",
-  "download_filename": "fraudcrawler-0.4.3.tar.gz",
-  "download_time": "2025-07-23T18:18:54.267436",
+  "download_filename": "fraudcrawler-0.4.5.tar.gz",
+  "download_time": "2025-07-28T09:45:06.310379",
   "package_url": "https://pypi.org/project/fraudcrawler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-log-python-sdk",
+  "version": "0.9.27",
+  "summary": "Aliyun log service Python client SDK",
+  "author": "Aliyun",
+  "license": null,
+  "home_page": "https://github.com/aliyun/aliyun-log-python-sdk",
+  "download_filename": "aliyun_log_python_sdk-0.9.27.tar.gz",
+  "download_time": "2025-07-28T09:44:32.998867",
+  "package_url": "https://pypi.org/project/aliyun-log-python-sdk/"
+}

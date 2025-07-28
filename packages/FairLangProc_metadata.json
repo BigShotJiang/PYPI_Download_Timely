@@ -1,0 +1,11 @@
+{
+  "name": "FairLangProc",
+  "version": "0.1.3",
+  "summary": "A comprehensive set of fairness metrics, datasets and algorithms to address and mitigate bias in Natural Language Processing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fairlangproc-0.1.3.tar.gz",
+  "download_time": "2025-07-28T09:45:10.742440",
+  "package_url": "https://pypi.org/project/FairLangProc/"
+}

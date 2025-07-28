@@ -1,11 +1,11 @@
 {
   "name": "logiliteal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "简洁,高扩展性,可自定义的日志库 / Simple, high extensibility, and customizable logging library",
   "author": "Nanaloveyuki",
   "license": "MIT",
   "home_page": "https://github.com/Nanaloveyuki/py-logiliteal",
-  "download_filename": "logiliteal-0.1.0.tar.gz",
-  "download_time": "2025-07-28T05:31:51.569095",
+  "download_filename": "logiliteal-0.1.1.tar.gz",
+  "download_time": "2025-07-28T09:44:27.852007",
   "package_url": "https://pypi.org/project/logiliteal/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "airos",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Ubiquity airOS module(s) for Python 3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airos-0.1.7.tar.gz",
-  "download_time": "2025-07-27T13:23:09.043867",
+  "download_filename": "airos-0.1.8.tar.gz",
+  "download_time": "2025-07-28T09:44:22.138112",
   "package_url": "https://pypi.org/project/airos/"
 }

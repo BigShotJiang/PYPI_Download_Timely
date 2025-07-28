@@ -1,0 +1,11 @@
+{
+  "name": "pybenparallels",
+  "version": "1.0.3",
+  "summary": "PyBEN Parallels repository is an easy to use python utility class for Parallels server solution",
+  "author": "Ben Moskovitch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybenparallels-1.0.3.tar.gz",
+  "download_time": "2025-07-28T09:45:00.562506",
+  "package_url": "https://pypi.org/project/pybenparallels/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "alimiji-film-sdk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "SDK Python pour accéder à l’API MovieLens (Data Analysts/Data Scientists friendly)",
   "author": "[Ali MIJIYAWA]",
   "license": null,
   "home_page": null,
-  "download_filename": "alimiji_film_sdk-0.0.4.tar.gz",
-  "download_time": "2025-07-28T07:29:05.673038",
+  "download_filename": "alimiji_film_sdk-0.0.5.tar.gz",
+  "download_time": "2025-07-28T09:44:56.298691",
   "package_url": "https://pypi.org/project/alimiji-film-sdk/"
 }

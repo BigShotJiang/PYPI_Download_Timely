@@ -1,0 +1,11 @@
+{
+  "name": "facextool",
+  "version": "0.1.45",
+  "summary": "An XAI fairness assessment framework for face attribute classifiers",
+  "author": "Ioannis Sarridis",
+  "license": null,
+  "home_page": "https://github.com/gsarridis/faceX",
+  "download_filename": "facextool-0.1.45-py3-none-any.whl",
+  "download_time": "2025-07-28T09:44:27.213860",
+  "package_url": "https://pypi.org/project/facextool/"
+}
