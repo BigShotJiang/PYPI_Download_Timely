@@ -1,0 +1,11 @@
+{
+  "name": "ddapm-test-agent",
+  "version": "1.29.0",
+  "summary": "Test agent for Datadog APM client libraries",
+  "author": "Kyle Verhoog",
+  "license": "BSD 3",
+  "home_page": "https://github.com/Datadog/dd-apm-test-agent",
+  "download_filename": "ddapm_test_agent-1.29.0.tar.gz",
+  "download_time": "2025-07-28T14:43:54.499971",
+  "package_url": "https://pypi.org/project/ddapm-test-agent/"
+}

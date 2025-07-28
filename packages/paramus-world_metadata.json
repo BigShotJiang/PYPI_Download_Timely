@@ -1,0 +1,11 @@
+{
+  "name": "paramus-world",
+  "version": "1.0.0",
+  "summary": "Paramus World Client - API client for the Paramus World semantic knowledge graph system",
+  "author": "Thorsten Gressling",
+  "license": null,
+  "home_page": "https://github.com/gressling/paramus-world-client",
+  "download_filename": "paramus_world-1.0.0.tar.gz",
+  "download_time": "2025-07-28T14:44:00.757332",
+  "package_url": "https://pypi.org/project/paramus-world/"
+}

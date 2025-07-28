@@ -1,0 +1,11 @@
+{
+  "name": "aws-croniter",
+  "version": "1.0.3",
+  "summary": "A Python utility for AWS cron expressions. Validate and parse AWS EventBridge cron expressions seamlessly.",
+  "author": "Siddarth Patil",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_croniter-1.0.3.tar.gz",
+  "download_time": "2025-07-28T14:44:22.428108",
+  "package_url": "https://pypi.org/project/aws-croniter/"
+}

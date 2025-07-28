@@ -1,0 +1,11 @@
+{
+  "name": "pylib25",
+  "version": "0.1.2",
+  "summary": "A simple library to illustrate how to deploy a Python library..",
+  "author": "Alexander Khlebushchev",
+  "license": "MIT",
+  "home_page": "https://github.com/fomalhaut88/pylib25",
+  "download_filename": "pylib25-0.1.2.tar.gz",
+  "download_time": "2025-07-28T14:44:30.183554",
+  "package_url": "https://pypi.org/project/pylib25/"
+}

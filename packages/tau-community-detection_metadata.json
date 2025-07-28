@@ -1,11 +1,11 @@
 {
   "name": "tau-community-detection",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Community detection via Louvain/Leiden + Genetic Algorithm",
   "author": "Hillel Charbit",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tau_community_detection-0.3.6.tar.gz",
-  "download_time": "2025-07-25T17:23:27.467673",
+  "download_filename": "tau_community_detection-0.3.7.tar.gz",
+  "download_time": "2025-07-28T14:44:07.951805",
   "package_url": "https://pypi.org/project/tau-community-detection/"
 }

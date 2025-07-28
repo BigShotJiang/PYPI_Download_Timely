@@ -1,0 +1,11 @@
+{
+  "name": "tl-bot",
+  "version": "0.1.4",
+  "summary": "upload files to your telegram channel or group with your telegram bot",
+  "author": "Jak Bin",
+  "license": null,
+  "home_page": "https://github.com/jakbin/t-bot",
+  "download_filename": "tl_bot-0.1.4.tar.gz",
+  "download_time": "2025-07-28T14:44:04.883382",
+  "package_url": "https://pypi.org/project/tl-bot/"
+}

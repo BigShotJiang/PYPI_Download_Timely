@@ -1,0 +1,11 @@
+{
+  "name": "mustrd",
+  "version": "0.4.0",
+  "summary": "A Spec By Example framework for RDF and SPARQL, Inspired by Cucumber.",
+  "author": "John Placek",
+  "license": "MIT",
+  "home_page": "https://github.com/Semantic-partners/mustrd",
+  "download_filename": "mustrd-0.4.0.tar.gz",
+  "download_time": "2025-07-28T14:44:21.407559",
+  "package_url": "https://pypi.org/project/mustrd/"
+}

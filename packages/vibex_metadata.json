@@ -1,11 +1,11 @@
 {
   "name": "vibex",
-  "version": "0.29.3",
+  "version": "0.30.0",
   "summary": "VibeX - An Opinionated Multi-Agent Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibex-0.29.3.tar.gz",
-  "download_time": "2025-07-28T02:05:01.526462",
+  "download_filename": "vibex-0.30.0.tar.gz",
+  "download_time": "2025-07-28T14:44:07.442025",
   "package_url": "https://pypi.org/project/vibex/"
 }

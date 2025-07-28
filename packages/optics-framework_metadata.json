@@ -1,11 +1,11 @@
 {
   "name": "optics-framework",
-  "version": "1.3.17",
+  "version": "1.3.18",
   "summary": "A flexible and modular test automation framework that can be used to automate any mobile application.",
   "author": "Lalitanand Dandge",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "optics_framework-1.3.17.tar.gz",
-  "download_time": "2025-07-24T08:32:53.682562",
+  "download_filename": "optics_framework-1.3.18.tar.gz",
+  "download_time": "2025-07-28T14:43:53.466961",
   "package_url": "https://pypi.org/project/optics-framework/"
 }

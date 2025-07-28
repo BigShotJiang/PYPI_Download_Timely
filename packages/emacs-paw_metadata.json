@@ -1,0 +1,11 @@
+{
+  "name": "emacs-paw",
+  "version": "0.1.10",
+  "summary": "Study for a life in Emacs with advanced annotation and language learning tools.",
+  "author": "Damon Chan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "emacs_paw-0.1.10.tar.gz",
+  "download_time": "2025-07-28T14:44:01.268600",
+  "package_url": "https://pypi.org/project/emacs-paw/"
+}

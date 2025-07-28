@@ -1,11 +1,11 @@
 {
   "name": "BabelDOC",
-  "version": "0.4.16",
+  "version": "0.4.17",
   "summary": "Yet Another Document Translator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "babeldoc-0.4.16-py3-none-any.whl",
-  "download_time": "2025-07-24T10:51:18.143309",
+  "download_filename": "babeldoc-0.4.17-py3-none-any.whl",
+  "download_time": "2025-07-28T14:44:13.642820",
   "package_url": "https://pypi.org/project/BabelDOC/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dagster-ibis-duckdb",
+  "version": "0.1.5",
+  "summary": "Library for interacting with Ibis Tables within a duckdb backend within dagster.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_ibis_duckdb-0.1.5.tar.gz",
+  "download_time": "2025-07-28T14:44:05.393943",
+  "package_url": "https://pypi.org/project/dagster-ibis-duckdb/"
+}

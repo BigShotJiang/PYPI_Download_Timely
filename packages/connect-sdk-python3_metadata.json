@@ -1,0 +1,11 @@
+{
+  "name": "connect-sdk-python3",
+  "version": "4.5.0",
+  "summary": "SDK to communicate with the Worldline Global Collect platform using the Worldline Connect Server API",
+  "author": "Worldline Global Collect",
+  "license": "MIT",
+  "home_page": "https://github.com/Worldline-Global-Collect/connect-sdk-python3",
+  "download_filename": "connect_sdk_python3-4.5.0.tar.gz",
+  "download_time": "2025-07-28T14:44:22.940217",
+  "package_url": "https://pypi.org/project/connect-sdk-python3/"
+}
