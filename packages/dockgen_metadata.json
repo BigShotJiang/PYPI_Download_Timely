@@ -1,0 +1,11 @@
+{
+  "name": "dockgen",
+  "version": "0.3.0",
+  "summary": "Generate fresh docker images",
+  "author": "Guilhem Saurel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dockgen-0.3.0.tar.gz",
+  "download_time": "2025-07-28T09:58:49.341959",
+  "package_url": "https://pypi.org/project/dockgen/"
+}

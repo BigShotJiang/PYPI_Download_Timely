@@ -1,0 +1,11 @@
+{
+  "name": "openadr3-client",
+  "version": "0.0.7",
+  "summary": null,
+  "author": "Nick van der Burgt",
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "openadr3_client-0.0.7.tar.gz",
+  "download_time": "2025-07-28T09:58:30.319555",
+  "package_url": "https://pypi.org/project/openadr3-client/"
+}

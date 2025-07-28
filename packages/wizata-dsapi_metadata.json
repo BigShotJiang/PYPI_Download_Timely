@@ -1,11 +1,11 @@
 {
   "name": "wizata-dsapi",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "summary": "Wizata Data Science Toolkit",
   "author": "Wizata S.A.",
   "license": null,
   "home_page": null,
-  "download_filename": "wizata_dsapi-1.2.13.tar.gz",
-  "download_time": "2025-07-25T08:31:32.283246",
+  "download_filename": "wizata_dsapi-1.2.14.tar.gz",
+  "download_time": "2025-07-28T09:58:40.831313",
   "package_url": "https://pypi.org/project/wizata-dsapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "itkdb",
+  "version": "0.6.16",
+  "summary": "Python wrapper to interface with ITk DB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "itkdb-0.6.16.tar.gz",
+  "download_time": "2025-07-28T09:58:31.924776",
+  "package_url": "https://pypi.org/project/itkdb/"
+}

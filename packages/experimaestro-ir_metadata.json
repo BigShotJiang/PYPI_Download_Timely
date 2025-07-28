@@ -1,0 +1,11 @@
+{
+  "name": "experimaestro-ir",
+  "version": "1.4.0",
+  "summary": "Experimaestro common module for IR experiments",
+  "author": null,
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "experimaestro_ir-1.4.0.tar.gz",
+  "download_time": "2025-07-28T09:58:49.861380",
+  "package_url": "https://pypi.org/project/experimaestro-ir/"
+}

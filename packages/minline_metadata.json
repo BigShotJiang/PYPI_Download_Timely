@@ -1,0 +1,11 @@
+{
+  "name": "minline",
+  "version": "0.1.1",
+  "summary": "Menu-inline framework for Telegram bots",
+  "author": "bakirullit",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minline-0.1.1.tar.gz",
+  "download_time": "2025-07-28T09:58:37.180062",
+  "package_url": "https://pypi.org/project/minline/"
+}

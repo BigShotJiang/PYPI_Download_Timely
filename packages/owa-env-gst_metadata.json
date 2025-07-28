@@ -1,11 +1,11 @@
 {
   "name": "owa-env-gst",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "High-performance GStreamer-based screen capture plugin for Open World Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "owa_env_gst-0.5.4.tar.gz",
-  "download_time": "2025-07-27T07:27:55.184869",
+  "download_filename": "owa_env_gst-0.5.5.tar.gz",
+  "download_time": "2025-07-28T09:58:52.966539",
   "package_url": "https://pypi.org/project/owa-env-gst/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datamaestro-text",
+  "version": "2025.7.28",
+  "summary": "Datamaestro module for text-related datasets",
+  "author": null,
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "datamaestro_text-2025.7.28.tar.gz",
+  "download_time": "2025-07-28T09:58:42.954566",
+  "package_url": "https://pypi.org/project/datamaestro-text/"
+}

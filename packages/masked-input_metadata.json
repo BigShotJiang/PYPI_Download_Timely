@@ -1,11 +1,11 @@
 {
   "name": "masked-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Cross-platform library to read password input with various masking options.",
   "author": "Ree-verse",
   "license": "MIT",
   "home_page": "https://github.com/ree-verse/masked-input",
-  "download_filename": "masked_input-1.0.0.tar.gz",
-  "download_time": "2025-07-27T18:35:34.242529",
+  "download_filename": "masked_input-1.0.1.tar.gz",
+  "download_time": "2025-07-28T09:58:38.742395",
   "package_url": "https://pypi.org/project/masked-input/"
 }
