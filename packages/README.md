@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-28T21:45:03.591646
-- **Total Packages**: 86
-- **Total Size**: 43.02 MB
+- **Download Time**: 2025-07-28T21:57:10.234379
+- **Total Packages**: 88
+- **Total Size**: 22.93 MB
 
 ## Packages List
+- streamlit-rockyroad-tools
+- skykatana
+- napari-chatgpt
+- reqtracker
+- valyu
+- meshoid
+- hiPhive
+- agentex-sdk
+- django-resurrected
+- pygpt-net
+- ez-a-sync
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- tobiko-cloud-helpers
+- dayhoff-tools
+- mitosis
+- helion
+- selenium-wire-undetected-chromedriver-lw
+- thds.mops
+- thds.atacama
+- thds.core
+- thds.humenc
+- thds.adls
+- par-mcp-inspector-tui
 - assistant-stream
 - sensorfabric
 - sqlmesh
@@ -20,10 +44,8 @@
 - omdev-cext
 - thoth-vdbmanager
 - bigframes
-- meshoid
 - bleak-pythonista
 - mrx-runway
-- selenium-wire-undetected-chromedriver-lw
 - felsen-analysis
 - reach_commons
 - kaqing
@@ -60,7 +82,6 @@
 - pydivkit
 - erys
 - GeneralManager
-- dayhoff-tools
 - moose-cli
 - DeFiPy
 - coffy
@@ -73,22 +94,3 @@
 - coiled
 - insightfinderai
 - chia-rs
-- mad-oauth2
-- optimizer-rag
-- phenotyping-segmentation
-- m9ini
-- signxai2
-- npc-stim
-- localsets
-- nrn-beta
-- bdscore
-- assisted-service-client
-- google-cloud-pubsub
-- agentwerkstatt
-- reqtracker
-- selenium-wire-lw
-- liger-kernel-nightly
-- numpyimage
-- moose-lib
-- cryoet-data-portal
-- llama-parse
