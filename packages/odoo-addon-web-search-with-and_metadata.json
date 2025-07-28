@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-search-with-and",
+  "version": "18.0.1.0.1",
+  "summary": "Use AND conditions on omnibar search",
+  "author": "Sandip SCS, Versada UAB, ACSONE SA/NV, Serincloud, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_search_with_and-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-07-28T10:34:37.925891",
+  "package_url": "https://pypi.org/project/odoo-addon-web-search-with-and/"
+}

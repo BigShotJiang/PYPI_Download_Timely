@@ -1,0 +1,11 @@
+{
+  "name": "gps-data-codec",
+  "version": "1.6.5",
+  "summary": null,
+  "author": "Raphael Stefanini <raphael@routechoices.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/routechoices/gps-data-codec",
+  "download_filename": "gps_data_codec-1.6.5-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-28T10:35:14.831455",
+  "package_url": "https://pypi.org/project/gps-data-codec/"
+}

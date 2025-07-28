@@ -1,11 +1,11 @@
 {
   "name": "staran",
-  "version": "0.4.0",
+  "version": "0.6.1",
   "summary": "staran - 高性能Python工具库",
   "author": "StarAn",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/starlxa/staran",
-  "download_filename": "staran-0.4.0.tar.gz",
-  "download_time": "2025-07-28T08:35:20.828131",
+  "download_filename": "staran-0.6.1.tar.gz",
+  "download_time": "2025-07-28T10:35:13.565252",
   "package_url": "https://pypi.org/project/staran/"
 }

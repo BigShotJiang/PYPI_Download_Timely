@@ -1,11 +1,11 @@
 {
   "name": "panCG",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "xxx",
   "author": "ltan",
   "license": "MIT",
   "home_page": "https://github.com/rejo27",
-  "download_filename": "pancg-0.0.3.tar.gz",
-  "download_time": "2025-07-28T09:58:35.081119",
+  "download_filename": "pancg-0.0.4.tar.gz",
+  "download_time": "2025-07-28T10:35:23.719477",
   "package_url": "https://pypi.org/project/panCG/"
 }

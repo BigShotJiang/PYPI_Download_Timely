@@ -1,11 +1,11 @@
 {
   "name": "voiladata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A versatile Python library to read various file formats into a pandas DataFrame, and perform basic data health checks.",
   "author": "Debrup Mukherjee",
   "license": null,
   "home_page": "https://github.com/Dmukherjeetextiles/VoilaData",
-  "download_filename": "voiladata-1.0.3.tar.gz",
-  "download_time": "2025-07-28T09:58:56.611870",
+  "download_filename": "voiladata-1.0.4-py3-none-any.whl",
+  "download_time": "2025-07-28T10:35:18.192722",
   "package_url": "https://pypi.org/project/voiladata/"
 }

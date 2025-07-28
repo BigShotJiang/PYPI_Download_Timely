@@ -1,11 +1,11 @@
 {
   "name": "weighted-pod",
-  "version": "0.0.22",
+  "version": "0.0.25",
   "summary": "Proper Orthogonal Decomposition with weighted inner products for CFD analysis",
   "author": "Hakan Demir",
   "license": null,
   "home_page": "https://github.com/XXXXXXXXXX/weighted-pod",
-  "download_filename": "weighted_pod-0.0.22.tar.gz",
-  "download_time": "2025-07-25T22:22:54.609577",
+  "download_filename": "weighted_pod-0.0.25.tar.gz",
+  "download_time": "2025-07-28T10:34:44.431186",
   "package_url": "https://pypi.org/project/weighted-pod/"
 }

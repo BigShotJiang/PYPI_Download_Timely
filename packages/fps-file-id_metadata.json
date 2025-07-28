@@ -1,0 +1,11 @@
+{
+  "name": "fps-file-id",
+  "version": "0.2.1",
+  "summary": "An FPS plugin for the file ID API",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "fps_file_id-0.2.1.tar.gz",
+  "download_time": "2025-07-28T10:34:53.150334",
+  "package_url": "https://pypi.org/project/fps-file-id/"
+}

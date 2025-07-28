@@ -1,0 +1,11 @@
+{
+  "name": "pyrateShield",
+  "version": "2.0.0.23",
+  "summary": "Generate radiation-dose maps",
+  "author": "Marcel Segbers, Rob van Rooij",
+  "license": "GNU GPLv3",
+  "home_page": "https://bitbucket.org/MedPhysNL/pyrateShield",
+  "download_filename": "pyrateshield-2.0.0.23.tar.gz",
+  "download_time": "2025-07-28T10:34:38.720448",
+  "package_url": "https://pypi.org/project/pyrateShield/"
+}

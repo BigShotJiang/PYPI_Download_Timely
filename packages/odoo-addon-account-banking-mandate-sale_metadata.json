@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-banking-mandate-sale",
+  "version": "18.0.1.0.0.3",
+  "summary": "Adds mandates on sale orders",
+  "author": "Odoo Community Association (OCA), Akretion",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/bank-payment",
+  "download_filename": "odoo_addon_account_banking_mandate_sale-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-07-28T10:34:41.249236",
+  "package_url": "https://pypi.org/project/odoo-addon-account-banking-mandate-sale/"
+}

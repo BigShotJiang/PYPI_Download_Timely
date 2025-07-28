@@ -1,11 +1,11 @@
 {
   "name": "cratedb-mcp",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "CrateDB MCP Server for natural-language Text-to-SQL and documentation retrieval.",
   "author": "CrateDB engineering",
   "license": null,
   "home_page": null,
-  "download_filename": "cratedb_mcp-0.0.6.tar.gz",
-  "download_time": "2025-07-27T16:51:28.134924",
+  "download_filename": "cratedb_mcp-0.0.7.tar.gz",
+  "download_time": "2025-07-28T10:34:56.973465",
   "package_url": "https://pypi.org/project/cratedb-mcp/"
 }
