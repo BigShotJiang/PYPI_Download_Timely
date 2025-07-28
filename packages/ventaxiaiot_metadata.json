@@ -1,0 +1,11 @@
+{
+  "name": "ventaxiaiot",
+  "version": "0.1.3",
+  "summary": "Python API for controlling Vent-Axia IoT devices",
+  "author": "josyban",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ventaxiaiot-0.1.3.tar.gz",
+  "download_time": "2025-07-28T21:22:54.572867",
+  "package_url": "https://pypi.org/project/ventaxiaiot/"
+}

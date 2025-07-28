@@ -1,0 +1,11 @@
+{
+  "name": "neuralplex",
+  "version": "0.1.2",
+  "summary": "An object oriented neural network implementation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuralplex-0.1.2.tar.gz",
+  "download_time": "2025-07-28T21:23:03.439663",
+  "package_url": "https://pypi.org/project/neuralplex/"
+}

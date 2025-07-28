@@ -1,11 +1,11 @@
 {
   "name": "necbol",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "summary": "A plain language Python wrapper for NEC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "necbol-3.2.2.tar.gz",
-  "download_time": "2025-07-27T15:23:38.506229",
+  "download_filename": "necbol-3.2.3.tar.gz",
+  "download_time": "2025-07-28T21:23:11.328239",
   "package_url": "https://pypi.org/project/necbol/"
 }

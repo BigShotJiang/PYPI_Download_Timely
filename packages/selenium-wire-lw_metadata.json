@@ -1,0 +1,11 @@
+{
+  "name": "selenium-wire-lw",
+  "version": "2.0.0",
+  "summary": "Extends Selenium to give you the ability to inspect requests made by the browser, with built-in support for undetected-geckodriver-lw",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "selenium_wire_lw-2.0.0.tar.gz",
+  "download_time": "2025-07-28T21:22:37.248719",
+  "package_url": "https://pypi.org/project/selenium-wire-lw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reqtracker",
+  "version": "1.0.2",
+  "summary": "Intelligent Python dependency tracking and requirements.txt generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reqtracker-1.0.2.tar.gz",
+  "download_time": "2025-07-28T21:22:36.730213",
+  "package_url": "https://pypi.org/project/reqtracker/"
+}

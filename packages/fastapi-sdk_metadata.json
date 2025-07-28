@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-sdk",
+  "version": "0.7.7",
+  "summary": "Utilities for FastAPI projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_sdk-0.7.7.tar.gz",
+  "download_time": "2025-07-28T21:23:03.959684",
+  "package_url": "https://pypi.org/project/fastapi-sdk/"
+}

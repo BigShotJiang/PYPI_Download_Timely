@@ -1,0 +1,11 @@
+{
+  "name": "llama-parse",
+  "version": "0.6.52",
+  "summary": "Parse files into RAG-Optimized formats.",
+  "author": "Logan Markewich",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llama_parse-0.6.52.tar.gz",
+  "download_time": "2025-07-28T21:22:40.397933",
+  "package_url": "https://pypi.org/project/llama-parse/"
+}

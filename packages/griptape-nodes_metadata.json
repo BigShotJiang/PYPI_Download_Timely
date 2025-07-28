@@ -1,11 +1,11 @@
 {
   "name": "griptape-nodes",
-  "version": "0.43.0",
+  "version": "0.43.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "griptape_nodes-0.43.0.tar.gz",
-  "download_time": "2025-07-28T17:39:01.113785",
+  "download_filename": "griptape_nodes-0.43.1.tar.gz",
+  "download_time": "2025-07-28T21:22:57.205064",
   "package_url": "https://pypi.org/project/griptape-nodes/"
 }

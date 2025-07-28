@@ -1,0 +1,11 @@
+{
+  "name": "dyff-audit",
+  "version": "0.11.0",
+  "summary": "Audit tools for the Dyff AI auditing platform.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dyff_audit-0.11.0.tar.gz",
+  "download_time": "2025-07-28T21:23:09.177014",
+  "package_url": "https://pypi.org/project/dyff-audit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dyff-storage",
+  "version": "0.22.0",
+  "summary": "Python storage API for the Dyff AI auditing platform.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dyff_storage-0.22.0.tar.gz",
+  "download_time": "2025-07-28T21:23:00.336558",
+  "package_url": "https://pypi.org/project/dyff-storage/"
+}

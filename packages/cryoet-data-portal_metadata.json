@@ -1,0 +1,11 @@
+{
+  "name": "cryoet-data-portal",
+  "version": "4.5.0",
+  "summary": "API Client to facilitate the use of the CryoET Portal. For more information about the API and the project visit https://github.com/chanzuckerberg/cryoet-data-portal/",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cryoet_data_portal-4.5.0.tar.gz",
+  "download_time": "2025-07-28T21:22:39.877100",
+  "package_url": "https://pypi.org/project/cryoet-data-portal/"
+}

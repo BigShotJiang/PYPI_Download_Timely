@@ -1,0 +1,11 @@
+{
+  "name": "texttoolkitx",
+  "version": "0.1.1",
+  "summary": "A Python utility package for string manipulation (slugify, truncate, palindrome, etc.)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "texttoolkitx-0.1.1.tar.gz",
+  "download_time": "2025-07-28T21:22:52.492587",
+  "package_url": "https://pypi.org/project/texttoolkitx/"
+}

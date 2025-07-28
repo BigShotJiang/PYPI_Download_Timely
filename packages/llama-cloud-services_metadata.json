@@ -1,0 +1,11 @@
+{
+  "name": "llama-cloud-services",
+  "version": "0.6.52",
+  "summary": "Tailored SDK clients for LlamaCloud services.",
+  "author": "Logan Markewich",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llama_cloud_services-0.6.52.tar.gz",
+  "download_time": "2025-07-28T21:22:43.608227",
+  "package_url": "https://pypi.org/project/llama-cloud-services/"
+}

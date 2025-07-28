@@ -1,0 +1,11 @@
+{
+  "name": "lynceus",
+  "version": "2.0.0",
+  "summary": "Lynceus is a sophisticated and resilient Python toolbox designed to serve as the foundational core layer of your Python applications. It offers features like configuration file management with inheritance and automatic JSON loading, seamless logger configuration, efficient session management, and unified file handling for both local and remote storage. By providing a plethora of utilities, Lynceus allows developers to skip the mundane setup and focus directly on what truly matters.",
+  "author": "Bertrand BENOIT",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "lynceus-2.0.0.tar.gz",
+  "download_time": "2025-07-28T21:22:44.130788",
+  "package_url": "https://pypi.org/project/lynceus/"
+}
