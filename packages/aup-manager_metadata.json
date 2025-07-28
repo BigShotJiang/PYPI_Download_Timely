@@ -1,0 +1,11 @@
+{
+  "name": "aup-manager",
+  "version": "2.2.1",
+  "summary": "app for management of acceptable use policies with API for approving them",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.ics.muni.cz/perun/perun-proxyidp/aup-manager.git",
+  "download_filename": "aup_manager-2.2.1.tar.gz",
+  "download_time": "2025-07-28T12:52:33.457910",
+  "package_url": "https://pypi.org/project/aup-manager/"
+}

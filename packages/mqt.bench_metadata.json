@@ -1,0 +1,11 @@
+{
+  "name": "mqt.bench",
+  "version": "2.0.1",
+  "summary": "MQT Bench - A MQT tool for Benchmarking Quantum Software Tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mqt_bench-2.0.1.tar.gz",
+  "download_time": "2025-07-28T12:52:50.775635",
+  "package_url": "https://pypi.org/project/mqt.bench/"
+}

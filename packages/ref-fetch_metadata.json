@@ -1,11 +1,11 @@
 {
   "name": "ref-fetch",
-  "version": "0.1.0",
-  "summary": "A tool to fetch, cache, and copy specific versions of libraries into repositories to provide code references and documentation to LLMs.",
-  "author": "roobert",
+  "version": "0.3.1",
+  "summary": "Automates fetching and caching of documentation and source code for specified versions of core standard libraries and third-party packages. It intelligently locates repositories, resolves dependencies, and provides a local, version-controlled reference of your project's entire dependency tree for LLM-assisted development.",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/roobert/ref-fetch",
-  "download_filename": "ref_fetch-0.1.0.tar.gz",
-  "download_time": "2025-07-28T11:55:34.012804",
+  "home_page": null,
+  "download_filename": "ref_fetch-0.3.1.tar.gz",
+  "download_time": "2025-07-28T12:52:27.747789",
   "package_url": "https://pypi.org/project/ref-fetch/"
 }

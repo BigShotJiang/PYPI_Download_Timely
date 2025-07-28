@@ -1,0 +1,11 @@
+{
+  "name": "m3u-ipytv",
+  "version": "0.2.12",
+  "summary": "A library for handling M3U playlists for IPTV (AKA m3u_plus)",
+  "author": "Francesco Rainone",
+  "license": "MIT",
+  "home_page": "https://github.com/Beer4Ever83/ipytv",
+  "download_filename": "m3u_ipytv-0.2.12.tar.gz",
+  "download_time": "2025-07-28T12:52:57.034048",
+  "package_url": "https://pypi.org/project/m3u-ipytv/"
+}

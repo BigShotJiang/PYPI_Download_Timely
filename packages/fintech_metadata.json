@@ -1,0 +1,11 @@
+{
+  "name": "fintech",
+  "version": "7.8.5",
+  "summary": "The Python Fintech package (SEPA, EBICS & more)",
+  "author": "Thimo Kraemer",
+  "license": "https://www.joonis.de/fintech/license",
+  "home_page": "https://www.joonis.de/fintech/",
+  "download_filename": "fintech-7.8.5-cp310-none-any.whl",
+  "download_time": "2025-07-28T12:52:42.849853",
+  "package_url": "https://pypi.org/project/fintech/"
+}

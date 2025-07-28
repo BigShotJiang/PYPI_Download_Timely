@@ -1,0 +1,11 @@
+{
+  "name": "pdf2podcast",
+  "version": "0.1.15",
+  "summary": "A Python library to convert PDF documents into podcasts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf2podcast-0.1.15.tar.gz",
+  "download_time": "2025-07-28T12:53:00.774911",
+  "package_url": "https://pypi.org/project/pdf2podcast/"
+}

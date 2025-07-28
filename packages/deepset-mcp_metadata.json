@@ -1,0 +1,11 @@
+{
+  "name": "deepset-mcp",
+  "version": "0.0.5",
+  "summary": "Collection of MCP tools and Agents to work with the deepset AI platform. Create, debug or learn about pipelines on the platform. Useable from the CLI, Cursor, Claude Code, or other MCP clients.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepset_mcp-0.0.5-py3-none-any.whl",
+  "download_time": "2025-07-28T12:52:28.784692",
+  "package_url": "https://pypi.org/project/deepset-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "langchain-g4f-chat",
-  "version": "2.0.1",
+  "version": "0.0.1",
   "summary": "LangChain integration for GPT4Free (g4f) with chat, image generation, and text processing capabilities",
-  "author": "Meet Solanki",
+  "author": "AIMLStudent",
   "license": null,
-  "home_page": "https://github.com/MeetSolanki530/langchain-gpt4free",
-  "download_filename": "langchain_g4f_chat-2.0.1.tar.gz",
-  "download_time": "2025-07-28T11:55:19.110221",
+  "home_page": null,
+  "download_filename": "langchain_g4f_chat-0.0.1.tar.gz",
+  "download_time": "2025-07-28T12:53:00.254296",
   "package_url": "https://pypi.org/project/langchain-g4f-chat/"
 }

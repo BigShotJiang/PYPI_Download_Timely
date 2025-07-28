@@ -1,11 +1,11 @@
 {
   "name": "cosmotalker",
-  "version": "2.36",
+  "version": "2.37",
   "summary": "CosmoTalker is your gateway to the universe! Whether you're fascinated by stars, planets, or scientific phenomena, this tool brings the cosmos closer to you.",
   "author": "Bhuvanesh M",
   "license": null,
   "home_page": "https://github.com/bhuvanesh-m-dev/cosmotalker",
-  "download_filename": "cosmotalker-2.36.tar.gz",
-  "download_time": "2025-07-24T11:20:27.592534",
+  "download_filename": "cosmotalker-2.37.tar.gz",
+  "download_time": "2025-07-28T12:52:36.590409",
   "package_url": "https://pypi.org/project/cosmotalker/"
 }

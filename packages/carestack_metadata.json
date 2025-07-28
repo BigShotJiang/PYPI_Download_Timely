@@ -1,0 +1,11 @@
+{
+  "name": "carestack",
+  "version": "0.1.15",
+  "summary": "SDK for EHR Services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "carestack-0.1.15.tar.gz",
+  "download_time": "2025-07-28T12:52:55.477324",
+  "package_url": "https://pypi.org/project/carestack/"
+}

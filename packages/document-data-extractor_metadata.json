@@ -1,0 +1,11 @@
+{
+  "name": "document-data-extractor",
+  "version": "1.0.2",
+  "summary": "Best open-source document to markdown extractor for LLM training data. Convert PDF, Word, PowerPoint, Excel, images, URLs to clean markdown, JSON, HTML locally. Alternative to Unstructured, Docling, Marker, MarkItDown, MinerU, PaddleOCR, Tesseract",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "document_data_extractor-1.0.2.tar.gz",
+  "download_time": "2025-07-28T12:53:02.872168",
+  "package_url": "https://pypi.org/project/document-data-extractor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rucio-webui",
+  "version": "37.7.1",
+  "summary": "Rucio WebUI Package",
+  "author": "Rucio",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://rucio.cern.ch/",
+  "download_filename": "rucio_webui-37.7.1.tar.gz",
+  "download_time": "2025-07-28T12:52:45.489023",
+  "package_url": "https://pypi.org/project/rucio-webui/"
+}

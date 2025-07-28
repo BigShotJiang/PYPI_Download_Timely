@@ -1,0 +1,11 @@
+{
+  "name": "speculos",
+  "version": "0.25.2",
+  "summary": "Ledger Blue, Stax, Flex and Nano S/S+/X application emulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "speculos-0.25.2-py3-none-any.whl",
+  "download_time": "2025-07-28T12:53:01.835329",
+  "package_url": "https://pypi.org/project/speculos/"
+}

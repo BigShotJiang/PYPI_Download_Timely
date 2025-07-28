@@ -1,0 +1,11 @@
+{
+  "name": "magnitude",
+  "version": "1.1.0",
+  "summary": "Python library for computing with numbers with units",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magnitude-1.1.0.tar.gz",
+  "download_time": "2025-07-28T12:52:39.735512",
+  "package_url": "https://pypi.org/project/magnitude/"
+}

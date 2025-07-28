@@ -1,11 +1,11 @@
 {
   "name": "torchutil",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PyTorch utilities for developing deep learning frameworks",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "torchutil-0.1.0.tar.gz",
-  "download_time": "2025-07-28T11:55:46.957303",
+  "download_filename": "torchutil-0.1.1.tar.gz",
+  "download_time": "2025-07-28T12:53:04.982105",
   "package_url": "https://pypi.org/project/torchutil/"
 }

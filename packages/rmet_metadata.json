@@ -1,0 +1,11 @@
+{
+  "name": "rmet",
+  "version": "0.1.6",
+  "summary": "A collection of common recommendation system metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rmet-0.1.6.tar.gz",
+  "download_time": "2025-07-28T12:53:01.292687",
+  "package_url": "https://pypi.org/project/rmet/"
+}

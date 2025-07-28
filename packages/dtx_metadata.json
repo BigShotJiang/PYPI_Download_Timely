@@ -1,0 +1,11 @@
+{
+  "name": "dtx",
+  "version": "0.25.0",
+  "summary": "AI Red Teaming Tool and Framework",
+  "author": "developer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtx-0.25.0.tar.gz",
+  "download_time": "2025-07-28T12:52:27.228356",
+  "package_url": "https://pypi.org/project/dtx/"
+}

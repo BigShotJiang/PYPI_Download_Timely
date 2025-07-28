@@ -1,0 +1,11 @@
+{
+  "name": "gorequests",
+  "version": "2.0.0",
+  "summary": "High-performance HTTP client library powered by Go FastHTTP",
+  "author": "GoRequests Team",
+  "license": "MIT",
+  "home_page": "https://github.com/coffeecms/gorequests",
+  "download_filename": "gorequests-2.0.0.tar.gz",
+  "download_time": "2025-07-28T12:52:48.662591",
+  "package_url": "https://pypi.org/project/gorequests/"
+}

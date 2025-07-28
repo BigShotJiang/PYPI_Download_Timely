@@ -1,0 +1,11 @@
+{
+  "name": "wbcrm",
+  "version": "1.54.20",
+  "summary": "A workbench module that contains all the functionality related to a customer relationship management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wbcrm-1.54.20.tar.gz",
+  "download_time": "2025-07-28T12:52:24.091848",
+  "package_url": "https://pypi.org/project/wbcrm/"
+}

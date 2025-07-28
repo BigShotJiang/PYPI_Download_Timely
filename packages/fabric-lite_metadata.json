@@ -1,0 +1,11 @@
+{
+  "name": "fabric-lite",
+  "version": "0.1.0",
+  "summary": "Fabric Lite это простой cli интерфейс для взаимодействия с LLM, вдохновленный Fabric.",
+  "author": "Forwall100",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fabric_lite-0.1.0.tar.gz",
+  "download_time": "2025-07-28T12:52:26.185300",
+  "package_url": "https://pypi.org/project/fabric-lite/"
+}
