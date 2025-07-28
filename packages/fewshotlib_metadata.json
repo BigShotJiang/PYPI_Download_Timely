@@ -1,0 +1,11 @@
+{
+  "name": "fewshotlib",
+  "version": "0.1.1",
+  "summary": "A flexible few-shot classifier toolkit.",
+  "author": "Rohit Gomes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fewshotlib-0.1.1.tar.gz",
+  "download_time": "2025-07-28T07:48:57.311511",
+  "package_url": "https://pypi.org/project/fewshotlib/"
+}

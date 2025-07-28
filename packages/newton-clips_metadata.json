@@ -1,0 +1,11 @@
+{
+  "name": "newton-clips",
+  "version": "0.1.0",
+  "summary": "Clips from newton-physics simulation to Unreal Engine 5 runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "newton_clips-0.1.0.tar.gz",
+  "download_time": "2025-07-28T07:48:55.732616",
+  "package_url": "https://pypi.org/project/newton-clips/"
+}

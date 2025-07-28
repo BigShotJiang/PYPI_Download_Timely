@@ -1,0 +1,11 @@
+{
+  "name": "langchain-upstage",
+  "version": "0.7.0",
+  "summary": "An integration package connecting Upstage and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain-upstage",
+  "download_filename": "langchain_upstage-0.7.0.tar.gz",
+  "download_time": "2025-07-28T07:48:48.332295",
+  "package_url": "https://pypi.org/project/langchain-upstage/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-oauth",
+  "version": "0.0.1",
+  "summary": "A Python SDK for MCP tool integration with LLM providers",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "agent_oauth-0.0.1.tar.gz",
+  "download_time": "2025-07-28T07:49:09.138441",
+  "package_url": "https://pypi.org/project/agent-oauth/"
+}

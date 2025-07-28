@@ -1,11 +1,11 @@
 {
   "name": "dlts",
-  "version": "0.0.1a2",
+  "version": "0.0.1",
   "summary": "Deep Learning Tools for Pytorch",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dlts-0.0.1a2.tar.gz",
-  "download_time": "2025-07-28T07:28:51.144959",
+  "download_filename": "dlts-0.0.1.tar.gz",
+  "download_time": "2025-07-28T07:49:01.597687",
   "package_url": "https://pypi.org/project/dlts/"
 }

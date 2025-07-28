@@ -1,11 +1,11 @@
 {
   "name": "mylightsystems",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Asynchronous Python client for MyLight Systems.",
   "author": "Pierre-Emmanuel Mercier",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mylightsystems-0.0.6.tar.gz",
-  "download_time": "2025-07-28T06:47:59.741511",
+  "download_filename": "mylightsystems-0.0.7.tar.gz",
+  "download_time": "2025-07-28T07:49:17.892566",
   "package_url": "https://pypi.org/project/mylightsystems/"
 }

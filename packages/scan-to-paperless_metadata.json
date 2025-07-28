@@ -1,0 +1,11 @@
+{
+  "name": "scan-to-paperless",
+  "version": "1.27.1",
+  "summary": "Tool to scan and process documents to Paperless",
+  "author": "Stéphane Brunner",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "scan_to_paperless-1.27.1.tar.gz",
+  "download_time": "2025-07-28T07:49:02.713545",
+  "package_url": "https://pypi.org/project/scan-to-paperless/"
+}

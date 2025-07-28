@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-line-returned-qty",
+  "version": "18.0.1.0.0.2",
+  "summary": "Track returned quantity of sale order lines.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_sale_line_returned_qty-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-28T07:49:10.235973",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-line-returned-qty/"
+}

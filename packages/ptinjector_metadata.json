@@ -1,0 +1,11 @@
+{
+  "name": "ptinjector",
+  "version": "0.0.6",
+  "summary": "Injection Vulnerability Testing Tool",
+  "author": "Penterep",
+  "license": "GPLv3+",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptinjector-0.0.6.tar.gz",
+  "download_time": "2025-07-28T07:49:12.448116",
+  "package_url": "https://pypi.org/project/ptinjector/"
+}

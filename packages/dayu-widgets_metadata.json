@@ -1,11 +1,11 @@
 {
   "name": "dayu-widgets",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Components for PySide2/PySide6.",
   "author": "muyanru",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dayu_widgets-1.0.0.tar.gz",
-  "download_time": "2025-07-24T03:24:10.935124",
+  "download_filename": "dayu_widgets-1.1.1.tar.gz",
+  "download_time": "2025-07-28T07:49:00.537105",
   "package_url": "https://pypi.org/project/dayu-widgets/"
 }

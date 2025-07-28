@@ -1,0 +1,11 @@
+{
+  "name": "tagra",
+  "version": "0.2.5",
+  "summary": "TaGra: TAbular data preprocessing to GRAph representation.",
+  "author": "Davide Torre, Davide Chicco",
+  "license": null,
+  "home_page": "https://github.com/davidetorre92/TaGra",
+  "download_filename": "tagra-0.2.5.tar.gz",
+  "download_time": "2025-07-28T07:48:54.635769",
+  "package_url": "https://pypi.org/project/tagra/"
+}

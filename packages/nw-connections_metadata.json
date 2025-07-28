@@ -1,0 +1,11 @@
+{
+  "name": "nw-connections",
+  "version": "1.4.1",
+  "summary": "Shared Marple python modules",
+  "author": "Journalism Robotics Stockholm",
+  "license": "MIT",
+  "home_page": "http://github.com/marple-newsrobot/newsworthy-py-connections",
+  "download_filename": "nw_connections-1.4.1.tar.gz",
+  "download_time": "2025-07-28T07:49:21.045149",
+  "package_url": "https://pypi.org/project/nw-connections/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysspm-rhythia",
+  "version": "2.0.0",
+  "summary": "A Python library dedicated to reading, writing, and modifying the Rhythia SSPM (.sspm) file format",
+  "author": null,
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "pysspm-rhythia-2.0.0.tar.gz",
+  "download_time": "2025-07-28T07:49:19.457262",
+  "package_url": "https://pypi.org/project/pysspm-rhythia/"
+}

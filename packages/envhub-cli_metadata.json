@@ -1,11 +1,11 @@
 {
   "name": "envhub-cli",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A CLI tool for managing environment variables with encryption and role-based access control",
   "author": null,
   "license": "Mozilla Public License 2.0",
   "home_page": null,
-  "download_filename": "envhub_cli-0.5.1-py3-none-any.whl",
-  "download_time": "2025-07-27T07:28:04.648307",
+  "download_filename": "envhub_cli-0.5.2-py3-none-any.whl",
+  "download_time": "2025-07-28T07:48:59.456258",
   "package_url": "https://pypi.org/project/envhub-cli/"
 }

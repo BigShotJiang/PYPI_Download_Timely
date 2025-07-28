@@ -1,0 +1,11 @@
+{
+  "name": "datamedic",
+  "version": "1.0.0.post1",
+  "summary": "A Python package for cleaning CSV files and detecting data leakage in machine learning workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datamedic-1.0.0.post1.tar.gz",
+  "download_time": "2025-07-28T07:49:22.642192",
+  "package_url": "https://pypi.org/project/datamedic/"
+}
