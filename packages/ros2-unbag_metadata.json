@@ -1,0 +1,11 @@
+{
+  "name": "ros2-unbag",
+  "version": "1.0.0",
+  "summary": "A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.",
+  "author": "Lukas Ostendorf",
+  "license": "MIT",
+  "home_page": "https://github.com/ika-rwth-aachen/ros2_unbag",
+  "download_filename": "ros2_unbag-1.0.0.tar.gz",
+  "download_time": "2025-07-28T14:03:35.818099",
+  "package_url": "https://pypi.org/project/ros2-unbag/"
+}

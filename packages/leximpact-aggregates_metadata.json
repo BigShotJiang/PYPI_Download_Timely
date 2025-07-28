@@ -1,0 +1,11 @@
+{
+  "name": "leximpact-aggregates",
+  "version": "0.0.46",
+  "summary": "Store aggregates of french data.",
+  "author": "LexImpact",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "leximpact_aggregates-0.0.46.tar.gz",
+  "download_time": "2025-07-28T14:03:01.900598",
+  "package_url": "https://pypi.org/project/leximpact-aggregates/"
+}

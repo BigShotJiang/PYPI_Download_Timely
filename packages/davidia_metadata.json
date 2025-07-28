@@ -1,0 +1,11 @@
+{
+  "name": "davidia",
+  "version": "1.0.3",
+  "summary": "Plot server with React frontend data visualiser",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/DiamondLightSource/davidia",
+  "download_filename": "davidia-1.0.3.tar.gz",
+  "download_time": "2025-07-28T14:03:10.576818",
+  "package_url": "https://pypi.org/project/davidia/"
+}

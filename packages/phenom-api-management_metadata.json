@@ -1,0 +1,11 @@
+{
+  "name": "phenom-api-management",
+  "version": "0.0.15",
+  "summary": "Phenom Public Apis SDK for Python",
+  "author": "phenom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phenom_api_management-0.0.15.tar.gz",
+  "download_time": "2025-07-28T14:03:30.144844",
+  "package_url": "https://pypi.org/project/phenom-api-management/"
+}

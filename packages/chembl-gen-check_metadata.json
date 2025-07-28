@@ -1,0 +1,11 @@
+{
+  "name": "chembl-gen-check",
+  "version": "0.1.0",
+  "summary": "Simple package that performs basic molecular structural sanity checks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chembl_gen_check-0.1.0.tar.gz",
+  "download_time": "2025-07-28T14:03:03.644446",
+  "package_url": "https://pypi.org/project/chembl-gen-check/"
+}

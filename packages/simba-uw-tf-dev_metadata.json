@@ -1,11 +1,11 @@
 {
   "name": "simba-uw-tf-dev",
-  "version": "3.4.7",
+  "version": "3.4.8",
   "summary": "Toolkit for computer classification and analysis of behaviors in experimental animals",
   "author": "Simon Nilsson, Jia Jie Choong, Sophia Hwang",
   "license": "Modified BSD 3-Clause License",
   "home_page": "https://github.com/sgoldenlab/simba",
-  "download_filename": "simba_uw_tf_dev-3.4.7.tar.gz",
-  "download_time": "2025-07-25T18:34:18.651970",
+  "download_filename": "simba_uw_tf_dev-3.4.8.tar.gz",
+  "download_time": "2025-07-28T14:03:00.650249",
   "package_url": "https://pypi.org/project/simba-uw-tf-dev/"
 }
