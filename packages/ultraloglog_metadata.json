@@ -1,0 +1,11 @@
+{
+  "name": "ultraloglog",
+  "version": "0.1.3",
+  "summary": "Python bindings for UltraLogLog, a space-efficient alternative to HyperLogLog for approximate distinct counting",
+  "author": "Ruihang Xia <waynestxia@gmail.com>, Jianshu Zhao <jianshuzhao@yahoo.com>",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ultraloglog-0.1.3.tar.gz",
+  "download_time": "2025-07-28T22:51:14.037057",
+  "package_url": "https://pypi.org/project/ultraloglog/"
+}

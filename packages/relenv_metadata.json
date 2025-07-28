@@ -1,11 +1,11 @@
 {
   "name": "relenv",
-  "version": "0.20.2",
+  "version": "0.20.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "relenv-0.20.2.tar.gz",
-  "download_time": "2025-07-25T11:20:24.131976",
+  "download_filename": "relenv-0.20.3.tar.gz",
+  "download_time": "2025-07-28T22:51:07.823987",
   "package_url": "https://pypi.org/project/relenv/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "findpath",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "FindPath is a Python utility class designed to dynamically search for a specific file within a given directory structure.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "findpath-1.0.0.tar.gz",
-  "download_time": "2025-07-27T08:28:51.587816",
+  "download_filename": "findpath-1.0.2.tar.gz",
+  "download_time": "2025-07-28T22:50:58.911335",
   "package_url": "https://pypi.org/project/findpath/"
 }

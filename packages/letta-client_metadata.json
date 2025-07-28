@@ -1,11 +1,11 @@
 {
   "name": "letta-client",
-  "version": "0.1.224",
+  "version": "0.1.225",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "letta_client-0.1.224.tar.gz",
-  "download_time": "2025-07-28T21:44:31.261251",
+  "download_filename": "letta_client-0.1.225.tar.gz",
+  "download_time": "2025-07-28T22:51:05.223653",
   "package_url": "https://pypi.org/project/letta-client/"
 }

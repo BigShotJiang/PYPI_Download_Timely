@@ -1,0 +1,11 @@
+{
+  "name": "pybear-dask",
+  "version": "0.2.0",
+  "summary": "Python modules for data analytics applications with dask",
+  "author": "Bill Sousa",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/PylarBear/pybear-dask",
+  "download_filename": "pybear_dask-0.2.0.tar.gz",
+  "download_time": "2025-07-28T22:50:58.387118",
+  "package_url": "https://pypi.org/project/pybear-dask/"
+}

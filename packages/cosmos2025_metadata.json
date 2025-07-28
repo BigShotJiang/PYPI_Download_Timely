@@ -1,11 +1,11 @@
 {
   "name": "cosmos2025",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A library for communication with ADI devices for COSMOS 2025",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cosmos2025-1.0.4.tar.gz",
-  "download_time": "2025-07-28T21:44:44.305160",
+  "download_filename": "cosmos2025-1.0.5.tar.gz",
+  "download_time": "2025-07-28T22:51:14.556257",
   "package_url": "https://pypi.org/project/cosmos2025/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyninja-tool",
+  "version": "1.0.0",
+  "summary": "🥷 The ultimate Python dependency ninja - automate, secure, and modernize your requirements",
+  "author": "PyNinja Community",
+  "license": null,
+  "home_page": "https://github.com/pyninja-dev/pyninja",
+  "download_filename": "pyninja_tool-1.0.0-py3-none-any.whl",
+  "download_time": "2025-07-28T22:51:08.862309",
+  "package_url": "https://pypi.org/project/pyninja-tool/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llama-index-tools-valyu",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "llama-index tools valyu integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llama_index_tools_valyu-0.3.0.tar.gz",
-  "download_time": "2025-07-28T10:59:06.492390",
+  "download_filename": "llama_index_tools_valyu-0.3.1.tar.gz",
+  "download_time": "2025-07-28T22:50:54.704785",
   "package_url": "https://pypi.org/project/llama-index-tools-valyu/"
 }

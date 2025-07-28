@@ -1,11 +1,11 @@
 {
   "name": "PyTextArchive",
-  "version": "0.4.6",
+  "version": "0.4.8",
   "summary": "A text archive format for message boards or social media.",
   "author": "Kazuki Przyborowski",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/GameMaker2k/PyTextArchive",
-  "download_filename": "pytextarchive-0.4.6.tar.gz",
-  "download_time": "2025-07-27T02:07:17.257183",
+  "download_filename": "pytextarchive-0.4.8.tar.gz",
+  "download_time": "2025-07-28T22:50:50.925961",
   "package_url": "https://pypi.org/project/PyTextArchive/"
 }

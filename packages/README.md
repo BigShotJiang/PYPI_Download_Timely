@@ -1,13 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-28T22:26:49.276873
-- **Total Packages**: 78
-- **Total Size**: 50.41 MB
+- **Download Time**: 2025-07-28T22:51:31.997512
+- **Total Packages**: 76
+- **Total Size**: 15.46 MB
 
 ## Packages List
-- multiple-desktop-clocks
+- chuk-mcp-server
+- EulerKit
+- PyTextArchive
+- winipedia-utils
+- sturdy-stats-sdk
+- rememory
+- parsl
+- llama-index-experimental
+- external-systems
+- llama-index-tools-valyu
+- layrz-sdk
+- sensai-utils
+- relationalai
+- runtime-docstrings
+- ua-extract
+- pybear-dask
+- findpath
+- insurgentai-shared-utils
+- datacommons-mcp
+- browser-copilot
+- easier
+- quantconnect-stubs
+- fraiseql
+- tensorlake
+- rl-actors
+- fileglancer
+- jiraone
+- letta-client
+- agentwerkstatt
+- deltachat-rpc-server
+- python-ballchasing
+- enzyme-filtering-pipeline
+- relenv
+- llama-index-vector-stores-s3
+- pyninja-tool
+- django-auth-boilerplate
+- python-zendesk
+- par-mcp-inspector-tui
+- darknet2any
 - cc-validator
+- multiple-desktop-clocks
+- ultraloglog
+- cosmos2025
 - kaqing
 - roms-tools
 - splade-index
@@ -16,7 +57,6 @@
 - policyengine-uk
 - localsets
 - npc-samstim
-- agentwerkstatt
 - one-interfaces
 - structifyai
 - dialoghelper
@@ -25,10 +65,8 @@
 - arches-component-lab
 - codeflash-ali-dev
 - mbta-mcp
-- browser-copilot
 - protein-information-system
 - toomanysessions
-- darknet2any
 - pyrex-rocksdb
 - sqlmesh
 - pulumi-aws
@@ -44,43 +82,3 @@
 - rubik-impl
 - kim-tools
 - pycarlo
-- bkm10
-- moose-cli
-- GameSentenceMiner
-- flyteidl
-- regula-documentreader-webclient
-- semantic-copycat-minner
-- litellm-proxy-extras
-- streamlit-rockyroad-tools
-- uvify
-- bygod
-- fraim
-- zeroeval
-- moose-lib
-- keywordsai-sdk
-- holado
-- nmn
-- wkrq
-- quantconnect-stubs
-- toomanyconfigs
-- redivis
-- pybear
-- arelle-release
-- bizkaibus
-- thoa
-- langchain-valyu
-- jiraone
-- metatensor-operations
-- atopile
-- abstractrepo
-- tacotruck
-- database-mysql-local
-- skykatana
-- napari-chatgpt
-- reqtracker
-- valyu
-- meshoid
-- hiPhive
-- agentex-sdk
-- django-resurrected
-- pygpt-net
