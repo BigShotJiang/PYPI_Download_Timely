@@ -1,11 +1,11 @@
 {
   "name": "impossibly",
-  "version": "0.1.1",
-  "summary": "Build, orchestrate and scale agents impossibly fast",
+  "version": "0.1.2",
+  "summary": "An agentic architecture for idea generation & critical thinking",
   "author": "Jackson Grove",
   "license": null,
   "home_page": null,
-  "download_filename": "impossibly-0.1.1.tar.gz",
-  "download_time": "2025-07-28T19:02:17.372162",
+  "download_filename": "impossibly-0.1.2.tar.gz",
+  "download_time": "2025-07-28T19:32:15.560081",
   "package_url": "https://pypi.org/project/impossibly/"
 }

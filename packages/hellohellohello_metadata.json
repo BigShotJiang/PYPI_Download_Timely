@@ -1,11 +1,11 @@
 {
   "name": "hellohellohello",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A simple Python CLI app inspired by the Beatles' 'Hello, Goodbye'. Responds to user input with lyric-inspired opposites.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hellohellohello-0.0.1.tar.gz",
-  "download_time": "2025-07-28T19:02:28.203241",
+  "download_filename": "hellohellohello-0.0.3.tar.gz",
+  "download_time": "2025-07-28T19:32:27.053033",
   "package_url": "https://pypi.org/project/hellohellohello/"
 }
