@@ -1,11 +1,11 @@
 {
   "name": "kynex",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "A Python package to get data from different llm's",
   "author": "Aegletek",
   "license": "MIT",
   "home_page": "https://www.aegletek.com/",
-  "download_filename": "kynex-0.2.3.tar.gz",
-  "download_time": "2025-07-25T11:42:18.136594",
+  "download_filename": "kynex-0.2.5.tar.gz",
+  "download_time": "2025-07-28T05:31:59.329614",
   "package_url": "https://pypi.org/project/kynex/"
 }

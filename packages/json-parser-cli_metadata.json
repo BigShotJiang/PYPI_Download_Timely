@@ -1,0 +1,11 @@
+{
+  "name": "json-parser-cli",
+  "version": "0.1.0",
+  "summary": "A JSON parser and CLI tool (learning purpose)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_parser_cli-0.1.0.tar.gz",
+  "download_time": "2025-07-28T05:32:06.017992",
+  "package_url": "https://pypi.org/project/json-parser-cli/"
+}

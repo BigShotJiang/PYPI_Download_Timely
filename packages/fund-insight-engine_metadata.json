@@ -1,11 +1,11 @@
 {
   "name": "fund-insight-engine",
-  "version": "0.9.13",
+  "version": "1.0.0",
   "summary": "A Python package providing utility functions for fund code management and analysis",
   "author": "June Young Park",
   "license": null,
   "home_page": null,
-  "download_filename": "fund_insight_engine-0.9.13.tar.gz",
-  "download_time": "2025-07-27T23:45:07.195719",
+  "download_filename": "fund_insight_engine-1.0.0.tar.gz",
+  "download_time": "2025-07-28T05:31:35.454927",
   "package_url": "https://pypi.org/project/fund-insight-engine/"
 }

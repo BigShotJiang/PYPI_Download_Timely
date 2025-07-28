@@ -1,11 +1,11 @@
 {
   "name": "devstack-cli",
-  "version": "11.0.188",
+  "version": "11.0.189",
   "summary": "Command-line access to Cloud Development Environments (CDEs) created by Cloudomation DevStack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devstack_cli-11.0.188.tar.gz",
-  "download_time": "2025-07-25T04:27:01.700397",
+  "download_filename": "devstack_cli-11.0.189.tar.gz",
+  "download_time": "2025-07-28T05:32:03.466130",
   "package_url": "https://pypi.org/project/devstack-cli/"
 }

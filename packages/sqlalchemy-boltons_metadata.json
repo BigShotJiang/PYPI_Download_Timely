@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-boltons",
+  "version": "4.0.0",
+  "summary": "Utilities that should've been inside SQLAlchemy but aren't",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlalchemy_boltons-4.0.0.tar.gz",
+  "download_time": "2025-07-28T05:31:45.302251",
+  "package_url": "https://pypi.org/project/sqlalchemy-boltons/"
+}

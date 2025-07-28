@@ -1,0 +1,11 @@
+{
+  "name": "HABApp",
+  "version": "25.7.0",
+  "summary": "Easy automation with MQTT and/or openHAB. Create home automation rules in python.",
+  "author": "spaceman_spiff",
+  "license": null,
+  "home_page": "https://github.com/spacemanspiff2007/HABApp",
+  "download_filename": "habapp-25.7.0.tar.gz",
+  "download_time": "2025-07-28T05:31:59.843373",
+  "package_url": "https://pypi.org/project/HABApp/"
+}

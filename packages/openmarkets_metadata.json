@@ -1,0 +1,11 @@
+{
+  "name": "openmarkets",
+  "version": "0.1.0.dev116",
+  "summary": "A Model Context Protocol (MCP) server for agentic retrieval of financial market data. This server leverages YFinance to provide a simple and efficient way to access historical stock prices, dividends, stock splits, company information, and other financial metrics.",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "openmarkets-0.1.0.dev116.tar.gz",
+  "download_time": "2025-07-28T05:31:43.233965",
+  "package_url": "https://pypi.org/project/openmarkets/"
+}

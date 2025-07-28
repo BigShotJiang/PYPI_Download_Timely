@@ -1,11 +1,11 @@
 {
   "name": "bjdata",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "summary": "Binary JData and UBJSON encoder/decoder",
   "author": "Qianqian Fang",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/NeuroJSON/pybj",
-  "download_filename": "bjdata-0.5.2.tar.gz",
-  "download_time": "2025-07-28T03:53:52.130591",
+  "download_filename": "bjdata-0.5.4.tar.gz",
+  "download_time": "2025-07-28T05:32:08.580825",
   "package_url": "https://pypi.org/project/bjdata/"
 }

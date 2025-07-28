@@ -1,0 +1,11 @@
+{
+  "name": "ipybox",
+  "version": "0.5.1",
+  "summary": "Python code execution sandbox based on IPython and Docker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipybox-0.5.1.tar.gz",
+  "download_time": "2025-07-28T05:32:07.553688",
+  "package_url": "https://pypi.org/project/ipybox/"
+}

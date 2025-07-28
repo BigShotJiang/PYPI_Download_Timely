@@ -1,0 +1,11 @@
+{
+  "name": "isa-model",
+  "version": "0.4.0",
+  "summary": "Unified AI model serving framework",
+  "author": "isA_Model Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isa_model-0.4.0.tar.gz",
+  "download_time": "2025-07-28T05:32:07.042554",
+  "package_url": "https://pypi.org/project/isa-model/"
+}

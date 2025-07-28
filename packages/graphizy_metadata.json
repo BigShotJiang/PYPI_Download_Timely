@@ -1,11 +1,11 @@
 {
   "name": "graphizy",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "A graph maker for computational geometry and network visualization",
   "author": "Charles Fosseprez",
   "license": "GPL-2.0-or-later",
   "home_page": "https://github.com/cfosseprez/graphizy",
-  "download_filename": "graphizy-0.1.11.tar.gz",
-  "download_time": "2025-07-25T08:31:40.160637",
+  "download_filename": "graphizy-0.1.13.tar.gz",
+  "download_time": "2025-07-28T05:31:39.661563",
   "package_url": "https://pypi.org/project/graphizy/"
 }

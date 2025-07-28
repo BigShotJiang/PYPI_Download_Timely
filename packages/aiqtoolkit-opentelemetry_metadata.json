@@ -1,0 +1,11 @@
+{
+  "name": "aiqtoolkit-opentelemetry",
+  "version": "1.2.0rc1",
+  "summary": "Subpackage for Weave integration in AIQtoolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiqtoolkit_opentelemetry-1.2.0rc1-py3-none-any.whl",
+  "download_time": "2025-07-28T05:31:49.500566",
+  "package_url": "https://pypi.org/project/aiqtoolkit-opentelemetry/"
+}

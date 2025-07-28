@@ -1,11 +1,11 @@
 {
   "name": "rs-audio-playrec",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "High-performance audio playback and recording library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rs_audio_playrec-0.1.0-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-07-28T04:50:31.518452",
+  "download_filename": "rs_audio_playrec-0.1.1-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-07-28T05:32:04.484993",
   "package_url": "https://pypi.org/project/rs-audio-playrec/"
 }
