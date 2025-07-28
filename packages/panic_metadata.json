@@ -1,0 +1,11 @@
+{
+  "name": "panic",
+  "version": "9.4.1",
+  "summary": "PANIC, a python Alarm System for TANGO",
+  "author": "Sergi Rubio",
+  "license": "LGPL",
+  "home_page": "https://gitlab.com/tango-controls/panic",
+  "download_filename": "panic-9.4.1.tar.gz",
+  "download_time": "2025-07-28T16:37:07.449489",
+  "package_url": "https://pypi.org/project/panic/"
+}

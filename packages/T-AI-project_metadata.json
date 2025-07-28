@@ -1,0 +1,11 @@
+{
+  "name": "T-AI-project",
+  "version": "0.1.0",
+  "summary": "A Simplified Agent Framework to create ai agent with tools,mcps and memory/deps management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "t_ai_project-0.1.0.tar.gz",
+  "download_time": "2025-07-28T16:37:11.099432",
+  "package_url": "https://pypi.org/project/T-AI-project/"
+}

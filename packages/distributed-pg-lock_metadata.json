@@ -1,0 +1,11 @@
+{
+  "name": "distributed-pg-lock",
+  "version": "0.1.2",
+  "summary": "A robust distributed locking system using PostgreSQL for coordinating resource access across distributed systems with automatic heartbeating, timeout management, and stale lock recovery.",
+  "author": "Surendra Sahadeo Hingane",
+  "license": null,
+  "home_page": "https://github.com/surendrahingane/distributed-pg-lock",
+  "download_filename": "distributed_pg_lock-0.1.2.tar.gz",
+  "download_time": "2025-07-28T16:37:01.731313",
+  "package_url": "https://pypi.org/project/distributed-pg-lock/"
+}

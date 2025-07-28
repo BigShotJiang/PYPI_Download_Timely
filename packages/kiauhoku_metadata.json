@@ -1,0 +1,11 @@
+{
+  "name": "kiauhoku",
+  "version": "2.1.2",
+  "summary": "Utilities for interacting and interpolating stellar evolution models",
+  "author": "Zachary R. Claytor",
+  "license": "MIT",
+  "home_page": "https://github.com/zclaytor/kiauhoku",
+  "download_filename": "kiauhoku-2.1.2.tar.gz",
+  "download_time": "2025-07-28T16:37:44.834656",
+  "package_url": "https://pypi.org/project/kiauhoku/"
+}

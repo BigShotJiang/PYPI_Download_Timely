@@ -1,0 +1,11 @@
+{
+  "name": "celestra",
+  "version": "0.0.2",
+  "summary": "A Python DSL for generating Kubernetes manifests with minimal complexity",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celestra-0.0.2.tar.gz",
+  "download_time": "2025-07-28T16:37:28.667905",
+  "package_url": "https://pypi.org/project/celestra/"
+}

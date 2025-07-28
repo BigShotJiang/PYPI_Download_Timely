@@ -1,0 +1,11 @@
+{
+  "name": "parathaa",
+  "version": "1.0.0",
+  "summary": "PARATHAA: Preserving and Assimilating Region-specific Ambiguities in Taxonomic Hierarchical Assignments for Amplicons.",
+  "author": "PARATHAA Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/biobakery/parathaa",
+  "download_filename": "parathaa-1.0.0.tar.gz",
+  "download_time": "2025-07-28T16:37:03.289355",
+  "package_url": "https://pypi.org/project/parathaa/"
+}

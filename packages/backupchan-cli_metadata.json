@@ -1,0 +1,11 @@
+{
+  "name": "backupchan-cli",
+  "version": "0.1.0",
+  "summary": "Command-line interface for interacting with Backup-chan.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "backupchan_cli-0.1.0.tar.gz",
+  "download_time": "2025-07-28T16:37:19.452821",
+  "package_url": "https://pypi.org/project/backupchan-cli/"
+}

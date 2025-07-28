@@ -1,0 +1,11 @@
+{
+  "name": "twscrape-cy",
+  "version": "0.17.0",
+  "summary": "Twitter GraphQL and Search API implementation with SNScrape data models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twscrape_cy-0.17.0.tar.gz",
+  "download_time": "2025-07-28T16:37:09.533809",
+  "package_url": "https://pypi.org/project/twscrape-cy/"
+}

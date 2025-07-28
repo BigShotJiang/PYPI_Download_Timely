@@ -1,11 +1,11 @@
 {
   "name": "port-history-plugin",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Check the relevance of inventory on switches",
   "author": "Nikolay Gimozdinov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "port_history_plugin-1.0.5.tar.gz",
-  "download_time": "2025-07-25T13:43:18.878807",
+  "download_filename": "port_history_plugin-1.0.6.tar.gz",
+  "download_time": "2025-07-28T16:37:16.846323",
   "package_url": "https://pypi.org/project/port-history-plugin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "taxoniumtools",
+  "version": "2.1.7",
+  "summary": "Generate files for taxonium",
+  "author": "Theo Sanderson",
+  "license": null,
+  "home_page": "https://github.com/theosanderson/taxonium",
+  "download_filename": "taxoniumtools-2.1.7.tar.gz",
+  "download_time": "2025-07-28T16:37:41.699486",
+  "package_url": "https://pypi.org/project/taxoniumtools/"
+}

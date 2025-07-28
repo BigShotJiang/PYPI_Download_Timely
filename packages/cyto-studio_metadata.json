@@ -1,0 +1,11 @@
+{
+  "name": "cyto-studio",
+  "version": "0.2.5",
+  "summary": "napari viewer which can read multiplex images as zarr files",
+  "author": "Tristan Whitmarsh",
+  "license": "GNU",
+  "home_page": "https://github.com/TristanWhitmarsh/cyto-studio",
+  "download_filename": "cyto-studio-0.2.5.tar.gz",
+  "download_time": "2025-07-28T16:37:25.491505",
+  "package_url": "https://pypi.org/project/cyto-studio/"
+}

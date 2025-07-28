@@ -1,0 +1,11 @@
+{
+  "name": "google-ai-haystack",
+  "version": "5.4.0",
+  "summary": "Use models like Gemini via Google AI Studio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_ai_haystack-5.4.0.tar.gz",
+  "download_time": "2025-07-28T16:37:40.654856",
+  "package_url": "https://pypi.org/project/google-ai-haystack/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "slimformers",
-  "version": "1.2.0",
+  "version": "1.3.1",
   "summary": "Lightweight Optimization and Model Adaptation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slimformers-1.2.0.tar.gz",
-  "download_time": "2025-07-27T16:28:18.835045",
+  "download_filename": "slimformers-1.3.1.tar.gz",
+  "download_time": "2025-07-28T16:37:35.438277",
   "package_url": "https://pypi.org/project/slimformers/"
 }

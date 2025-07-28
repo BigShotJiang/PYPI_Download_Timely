@@ -1,0 +1,11 @@
+{
+  "name": "cdk-vscode-server",
+  "version": "0.0.46",
+  "summary": "Running VS Code Server on AWS",
+  "author": "Manuel Vogel<info@manuel-vogel.de>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/MV-Consulting/cdk-vscode-server.git",
+  "download_filename": "cdk_vscode_server-0.0.46.tar.gz",
+  "download_time": "2025-07-28T16:37:18.935473",
+  "package_url": "https://pypi.org/project/cdk-vscode-server/"
+}

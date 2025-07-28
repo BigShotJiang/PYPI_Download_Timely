@@ -1,11 +1,11 @@
 {
   "name": "freqig",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Frequency-domain model explanation (IG) package",
   "author": "Paul Gräve",
   "license": "MIT",
   "home_page": "https://gitlab.com/paulabraham.graeve/flex",
-  "download_filename": "freqig-0.1.5.tar.gz",
-  "download_time": "2025-07-28T10:58:58.166547",
+  "download_filename": "freqig-0.1.6.tar.gz",
+  "download_time": "2025-07-28T16:37:37.516525",
   "package_url": "https://pypi.org/project/freqig/"
 }
