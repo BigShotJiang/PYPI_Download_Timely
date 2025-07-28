@@ -1,11 +1,11 @@
 {
   "name": "arelle-release",
-  "version": "2.37.39",
+  "version": "2.37.40",
   "summary": "An open source XBRL platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arelle_release-2.37.39-py3-none-any.whl",
-  "download_time": "2025-07-23T15:27:23.982404",
+  "download_filename": "arelle_release-2.37.40-py3-none-any.whl",
+  "download_time": "2025-07-28T22:26:38.474936",
   "package_url": "https://pypi.org/project/arelle-release/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pybear",
+  "version": "0.2.0",
+  "summary": "Python modules for miscellaneous data analytics applications",
+  "author": "Bill Sousa",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/PylarBear/pybear",
+  "download_filename": "pybear-0.2.0.tar.gz",
+  "download_time": "2025-07-28T22:26:37.846217",
+  "package_url": "https://pypi.org/project/pybear/"
+}

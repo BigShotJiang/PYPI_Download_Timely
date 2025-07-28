@@ -1,0 +1,11 @@
+{
+  "name": "serializable-simpy",
+  "version": "0.0.2",
+  "summary": "Simpy with ",
+  "author": "Pierrick Pochelu",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.com/uniluxembourg/hpc/research/cadom/serializable-simpy/-/issues",
+  "download_filename": "serializable_simpy-0.0.2.tar.gz",
+  "download_time": "2025-07-28T22:26:18.564925",
+  "package_url": "https://pypi.org/project/serializable-simpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "litellm-proxy-extras",
+  "version": "0.2.12",
+  "summary": "Additional files for the LiteLLM Proxy. Reduces the size of the main litellm package.",
+  "author": "BerriAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "litellm_proxy_extras-0.2.12.tar.gz",
+  "download_time": "2025-07-28T22:26:29.441590",
+  "package_url": "https://pypi.org/project/litellm-proxy-extras/"
+}

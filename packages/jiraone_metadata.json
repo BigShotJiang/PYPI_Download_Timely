@@ -1,0 +1,11 @@
+{
+  "name": "jiraone",
+  "version": "0.9.0",
+  "summary": "A REST API Implementation to Jira Cloud APIs for creating reports and for performing other Jira queries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jiraone-0.9.0.tar.gz",
+  "download_time": "2025-07-28T22:26:40.821924",
+  "package_url": "https://pypi.org/project/jiraone/"
+}

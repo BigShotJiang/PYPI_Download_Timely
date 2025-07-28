@@ -1,11 +1,11 @@
 {
   "name": "codeflash-ali-dev",
-  "version": "0.10.13",
+  "version": "0.10.15",
   "summary": "Client for codeflash.ai - automatic code performance optimization, powered by AI",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "codeflash_ali_dev-0.10.13.tar.gz",
-  "download_time": "2025-07-28T21:22:55.638799",
+  "download_filename": "codeflash_ali_dev-0.10.15.tar.gz",
+  "download_time": "2025-07-28T22:26:13.158025",
   "package_url": "https://pypi.org/project/codeflash-ali-dev/"
 }

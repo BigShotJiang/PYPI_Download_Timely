@@ -1,11 +1,11 @@
 {
   "name": "keywordsai-sdk",
-  "version": "0.4.57",
+  "version": "0.4.58",
   "summary": "Keywords AI SDK allows you to interact with the Keywords AI API smoothly",
   "author": "Keywords AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keywordsai_sdk-0.4.57.tar.gz",
-  "download_time": "2025-07-28T05:32:08.069750",
+  "download_filename": "keywordsai_sdk-0.4.58.tar.gz",
+  "download_time": "2025-07-28T22:26:33.703447",
   "package_url": "https://pypi.org/project/keywordsai-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wave-lang",
+  "version": "1.0.1",
+  "summary": "Wave Language for Machine Learning",
+  "author": "IREE Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wave_lang-1.0.1-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-28T22:26:11.985609",
+  "package_url": "https://pypi.org/project/wave-lang/"
+}

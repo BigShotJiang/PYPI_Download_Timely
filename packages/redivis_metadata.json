@@ -1,0 +1,11 @@
+{
+  "name": "redivis",
+  "version": "0.18.10",
+  "summary": "Redivis python client library",
+  "author": "Redivis Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/redivis/redivis-python",
+  "download_filename": "redivis-0.18.10.tar.gz",
+  "download_time": "2025-07-28T22:26:37.249482",
+  "package_url": "https://pypi.org/project/redivis/"
+}

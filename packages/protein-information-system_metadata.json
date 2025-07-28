@@ -1,0 +1,11 @@
+{
+  "name": "protein-information-system",
+  "version": "2.0.0",
+  "summary": "Comprehensive Python Module for Protein Data Management: Designed for streamlined integration and processing of protein information from both UniProt and PDB. Equipped with features for concurrent data fetching, robust error handling, and database synchronization.",
+  "author": "frapercan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "protein_information_system-2.0.0.tar.gz",
+  "download_time": "2025-07-28T22:26:15.021187",
+  "package_url": "https://pypi.org/project/protein-information-system/"
+}

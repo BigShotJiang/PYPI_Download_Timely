@@ -1,11 +1,11 @@
 {
   "name": "bygod",
-  "version": "2.0.4",
+  "version": "2.1.1",
   "summary": "A comprehensive, truly asynchronous tool for downloading Bible translations from BibleGateway.com",
-  "author": "Bible Gateway Downloader Team",
-  "license": "MIT",
-  "home_page": "https://github.com/Christ-Is-The-King/bible-gateway-downloader",
-  "download_filename": "bygod-2.0.4.tar.gz",
-  "download_time": "2025-07-23T22:13:38.921689",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bygod-2.1.1.tar.gz",
+  "download_time": "2025-07-28T22:26:31.289524",
   "package_url": "https://pypi.org/project/bygod/"
 }

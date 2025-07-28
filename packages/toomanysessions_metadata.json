@@ -1,11 +1,11 @@
 {
   "name": "toomanysessions",
-  "version": "0.1.97",
+  "version": "0.1.98",
   "summary": null,
   "author": "Miles Copeland Luce",
   "license": null,
   "home_page": null,
-  "download_filename": "toomanysessions-0.1.97.tar.gz",
-  "download_time": "2025-07-28T06:48:28.772830",
+  "download_filename": "toomanysessions-0.1.98.tar.gz",
+  "download_time": "2025-07-28T22:26:15.601660",
   "package_url": "https://pypi.org/project/toomanysessions/"
 }

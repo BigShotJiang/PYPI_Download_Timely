@@ -1,0 +1,11 @@
+{
+  "name": "npc-samstim",
+  "version": "0.1.12",
+  "summary": "Tools for processing stim data from Sam's DynamicRoutingTask, compatible with data in the cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npc_samstim-0.1.12.tar.gz",
+  "download_time": "2025-07-28T22:26:08.468336",
+  "package_url": "https://pypi.org/project/npc-samstim/"
+}

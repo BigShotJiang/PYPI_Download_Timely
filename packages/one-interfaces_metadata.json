@@ -1,0 +1,11 @@
+{
+  "name": "one-interfaces",
+  "version": "7.10.0",
+  "summary": "Python bindings for ONE.",
+  "author": "Aquatic Informatics",
+  "license": "BSD",
+  "home_page": "https://github.com/aquaticinformatics/one_interfaces",
+  "download_filename": "one_interfaces-7.10.0.tar.gz",
+  "download_time": "2025-07-28T22:26:09.640257",
+  "package_url": "https://pypi.org/project/one-interfaces/"
+}

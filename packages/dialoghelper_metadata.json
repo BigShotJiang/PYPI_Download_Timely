@@ -1,0 +1,11 @@
+{
+  "name": "dialoghelper",
+  "version": "0.0.24",
+  "summary": "Helper functions for solveit dialogs",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/dialoghelper",
+  "download_filename": "dialoghelper-0.0.24.tar.gz",
+  "download_time": "2025-07-28T22:26:10.808229",
+  "package_url": "https://pypi.org/project/dialoghelper/"
+}
