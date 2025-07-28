@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-fakerequests",
+  "version": "1.1.0",
+  "summary": "Fake Network Requests helper that retrieves data from a local file.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_fakerequests-1.1.0.tar.gz",
+  "download_time": "2025-07-28T21:44:29.688618",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-fakerequests/"
+}

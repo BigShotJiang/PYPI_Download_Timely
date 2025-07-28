@@ -1,11 +1,11 @@
 {
   "name": "coffy",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Lightweight local NoSQL, SQL, and Graph embedded database engine",
   "author": "nsarathy",
   "license": null,
   "home_page": null,
-  "download_filename": "coffy-0.1.6.tar.gz",
-  "download_time": "2025-07-26T21:21:28.338218",
+  "download_filename": "coffy-0.1.7.tar.gz",
+  "download_time": "2025-07-28T21:44:48.525269",
   "package_url": "https://pypi.org/project/coffy/"
 }

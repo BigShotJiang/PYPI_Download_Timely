@@ -1,0 +1,11 @@
+{
+  "name": "cognee",
+  "version": "0.2.1",
+  "summary": "Cognee - is a library for enriching LLM context with a semantic layer for better understanding and reasoning.",
+  "author": "Vasilije Markovic",
+  "license": "Apache-2.0",
+  "home_page": "https://www.cognee.ai",
+  "download_filename": "cognee-0.2.1-py3-none-any.whl",
+  "download_time": "2025-07-28T21:44:34.441144",
+  "package_url": "https://pypi.org/project/cognee/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chgksuite",
+  "version": "0.26.0",
+  "summary": "A package for chgk automation",
+  "author": "Alexander Pecheny",
+  "license": null,
+  "home_page": "https://gitlab.com/peczony/chgksuite",
+  "download_filename": "chgksuite-0.26.0.tar.gz",
+  "download_time": "2025-07-28T21:44:38.584367",
+  "package_url": "https://pypi.org/project/chgksuite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dazl",
+  "version": "8.4.2",
+  "summary": "high-level Ledger API client for Daml ledgers",
+  "author": "Davin K. Tanabe",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/digital-asset/dazl-client",
+  "download_filename": "dazl-8.4.2.tar.gz",
+  "download_time": "2025-07-28T21:44:35.476710",
+  "package_url": "https://pypi.org/project/dazl/"
+}

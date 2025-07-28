@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-querymetrics",
+  "version": "1.0.0",
+  "summary": "Microsoft Corporation Azure Monitor Query Metrics Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk",
+  "download_filename": "azure_monitor_querymetrics-1.0.0.tar.gz",
+  "download_time": "2025-07-28T21:44:40.143114",
+  "package_url": "https://pypi.org/project/azure-monitor-querymetrics/"
+}

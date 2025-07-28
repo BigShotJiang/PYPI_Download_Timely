@@ -1,11 +1,11 @@
 {
   "name": "adafruit-circuitpython-portalbase",
-  "version": "3.1.2",
+  "version": "3.2.1",
   "summary": "Base Library for the Portal-style libraries.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adafruit_circuitpython_portalbase-3.1.2.tar.gz",
-  "download_time": "2025-07-23T17:15:32.032440",
+  "download_filename": "adafruit_circuitpython_portalbase-3.2.1.tar.gz",
+  "download_time": "2025-07-28T21:44:39.104333",
   "package_url": "https://pypi.org/project/adafruit-circuitpython-portalbase/"
 }
