@@ -1,0 +1,11 @@
+{
+  "name": "easylink",
+  "version": "0.2.3",
+  "summary": "A tool that allows users to build and run highly configurable record linkage/entity resolution pipelines.",
+  "author": "The EasyLink developers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ihmeuw/easylink",
+  "download_filename": "easylink-0.2.3.tar.gz",
+  "download_time": "2025-07-28T19:02:07.044055",
+  "package_url": "https://pypi.org/project/easylink/"
+}

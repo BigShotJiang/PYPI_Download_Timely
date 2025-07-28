@@ -1,0 +1,11 @@
+{
+  "name": "LinkChecker",
+  "version": "10.6.0",
+  "summary": "check links in web documents or full websites",
+  "author": "LinkChecker Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "LinkChecker-10.6.0.tar.gz",
+  "download_time": "2025-07-28T19:02:36.184251",
+  "package_url": "https://pypi.org/project/LinkChecker/"
+}

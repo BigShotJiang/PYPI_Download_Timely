@@ -1,0 +1,11 @@
+{
+  "name": "fourlabs-auth",
+  "version": "0.1.6",
+  "summary": "Autenticação por email fourlabs para Django",
+  "author": "Fourlabs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fourlabs_auth-0.1.6.tar.gz",
+  "download_time": "2025-07-28T19:02:09.104641",
+  "package_url": "https://pypi.org/project/fourlabs-auth/"
+}

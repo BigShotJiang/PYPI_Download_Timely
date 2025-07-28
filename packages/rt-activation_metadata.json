@@ -1,11 +1,11 @@
 {
   "name": "rt-activation",
-  "version": "0.1.0",
-  "summary": "Rectified Tanh Activation (RTA) function for Keras/TensorFlow",
+  "version": "1.0.0",
+  "summary": "Rectified Tangent Activation (RTA) function for Keras/TensorFlow",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rt_activation-0.1.0.tar.gz",
-  "download_time": "2025-07-28T18:36:44.375812",
+  "download_filename": "rt_activation-1.0.0.tar.gz",
+  "download_time": "2025-07-28T19:02:19.423852",
   "package_url": "https://pypi.org/project/rt-activation/"
 }

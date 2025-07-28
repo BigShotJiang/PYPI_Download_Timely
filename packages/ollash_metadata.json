@@ -1,0 +1,11 @@
+{
+  "name": "ollash",
+  "version": "1.0.0",
+  "summary": "Convert natural language into safe Terminal commands using Ollama.",
+  "author": "Team-Chocos",
+  "license": null,
+  "home_page": "https://github.com/team-chocos/ollash",
+  "download_filename": "ollash-1.0.0.tar.gz",
+  "download_time": "2025-07-28T19:02:45.084753",
+  "package_url": "https://pypi.org/project/ollash/"
+}

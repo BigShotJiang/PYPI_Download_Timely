@@ -1,0 +1,11 @@
+{
+  "name": "carlson-fractional-vegetation-cover",
+  "version": "1.0.1",
+  "summary": "Fractional Vegetation Cover (FVC) Remote Sensing Method from Carlson et al 1997 Python Package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "carlson_fractional_vegetation_cover-1.0.1.tar.gz",
+  "download_time": "2025-07-28T19:02:40.863532",
+  "package_url": "https://pypi.org/project/carlson-fractional-vegetation-cover/"
+}

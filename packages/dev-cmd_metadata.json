@@ -1,11 +1,11 @@
 {
   "name": "dev-cmd",
-  "version": "0.32.0",
+  "version": "0.32.2",
   "summary": "A simple development command runner for Python projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dev_cmd-0.32.0.tar.gz",
-  "download_time": "2025-07-24T21:28:08.052059",
+  "download_filename": "dev_cmd-0.32.2.tar.gz",
+  "download_time": "2025-07-28T19:02:30.282947",
   "package_url": "https://pypi.org/project/dev-cmd/"
 }

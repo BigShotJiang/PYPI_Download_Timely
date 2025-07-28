@@ -1,11 +1,11 @@
 {
   "name": "bollinger-bands",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Bollinger Band indicator built on top of financial_engine",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "bollinger_bands-0.1.1.tar.gz",
-  "download_time": "2025-07-27T21:54:17.697756",
+  "download_filename": "bollinger_bands-0.1.2.tar.gz",
+  "download_time": "2025-07-28T19:02:35.117248",
   "package_url": "https://pypi.org/project/bollinger-bands/"
 }

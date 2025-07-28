@@ -1,0 +1,11 @@
+{
+  "name": "tibiawikisql",
+  "version": "7.0.3",
+  "summary": "Python script that generates a SQLite database from TibiaWiki articles",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "tibiawikisql-7.0.3.tar.gz",
+  "download_time": "2025-07-28T19:02:09.618765",
+  "package_url": "https://pypi.org/project/tibiawikisql/"
+}
