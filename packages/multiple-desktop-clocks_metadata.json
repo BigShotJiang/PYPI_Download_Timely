@@ -1,11 +1,11 @@
 {
   "name": "multiple-desktop-clocks",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Display multiple time zones as always-on-top desktop clocks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multiple_desktop_clocks-0.1.2.tar.gz",
-  "download_time": "2025-07-28T22:51:13.519364",
+  "download_filename": "multiple_desktop_clocks-0.1.3.tar.gz",
+  "download_time": "2025-07-28T23:25:53.815525",
   "package_url": "https://pypi.org/project/multiple-desktop-clocks/"
 }

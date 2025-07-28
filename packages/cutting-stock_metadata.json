@@ -1,11 +1,11 @@
 {
   "name": "cutting-stock",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Python implementation of the cutting stock problem solver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cutting_stock-0.1.0.tar.gz",
-  "download_time": "2025-07-28T20:49:39.988636",
+  "download_filename": "cutting_stock-0.1.2.tar.gz",
+  "download_time": "2025-07-28T23:25:36.280179",
   "package_url": "https://pypi.org/project/cutting-stock/"
 }

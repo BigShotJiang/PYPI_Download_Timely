@@ -1,0 +1,11 @@
+{
+  "name": "nshconfig",
+  "version": "0.52.0",
+  "summary": "Fully typed configuration management, powered by Pydantic",
+  "author": "Nima Shoghi",
+  "license": null,
+  "home_page": "https://github.com/nimashoghi/nshconfig",
+  "download_filename": "nshconfig-0.52.0.tar.gz",
+  "download_time": "2025-07-28T23:25:57.452691",
+  "package_url": "https://pypi.org/project/nshconfig/"
+}

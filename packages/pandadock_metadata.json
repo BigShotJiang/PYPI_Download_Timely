@@ -1,0 +1,11 @@
+{
+  "name": "pandadock",
+  "version": "2.6.0",
+  "summary": "Next-Generation Molecular Docking with Novel PandaDock Algorithms",
+  "author": "Pritam Kumar Panda",
+  "license": "MIT",
+  "home_page": "https://github.com/pritampanda15/pandadock",
+  "download_filename": "pandadock-2.6.0-py3-none-any.whl",
+  "download_time": "2025-07-28T23:25:44.225974",
+  "package_url": "https://pypi.org/project/pandadock/"
+}

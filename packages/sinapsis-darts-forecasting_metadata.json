@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-darts-forecasting",
+  "version": "0.1.5",
+  "summary": "Module for handling time series data and forecasting using Darts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_darts_forecasting-0.1.5.tar.gz",
+  "download_time": "2025-07-28T23:25:43.172837",
+  "package_url": "https://pypi.org/project/sinapsis-darts-forecasting/"
+}

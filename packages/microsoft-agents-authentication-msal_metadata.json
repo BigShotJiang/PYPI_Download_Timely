@@ -1,11 +1,11 @@
 {
   "name": "microsoft-agents-authentication-msal",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "summary": "A msal-based authentication library for Microsoft Agents",
   "author": "Microsoft Corporation",
   "license": null,
   "home_page": null,
-  "download_filename": "microsoft_agents_authentication_msal-0.0.0.tar.gz",
-  "download_time": "2025-07-25T17:57:56.616231",
+  "download_filename": "microsoft_agents_authentication_msal-0.1.1.tar.gz",
+  "download_time": "2025-07-28T23:25:40.586898",
   "package_url": "https://pypi.org/project/microsoft-agents-authentication-msal/"
 }

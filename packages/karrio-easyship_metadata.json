@@ -1,11 +1,11 @@
 {
   "name": "karrio-easyship",
-  "version": "2025.5rc8",
+  "version": "2025.5rc9",
   "summary": "Karrio - Easyship Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_easyship-2025.5rc8-py3-none-any.whl",
-  "download_time": "2025-07-26T04:58:37.289996",
+  "download_filename": "karrio_easyship-2025.5rc9-py3-none-any.whl",
+  "download_time": "2025-07-28T23:25:51.142891",
   "package_url": "https://pypi.org/project/karrio-easyship/"
 }

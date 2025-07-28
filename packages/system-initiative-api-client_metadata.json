@@ -1,11 +1,11 @@
 {
   "name": "system-initiative-api-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python SDK for the System Initiative Public API",
   "author": "System Initiative",
   "license": null,
   "home_page": "https://github.com/systeminit/si",
-  "download_filename": "system_initiative_api_client-1.0.2.tar.gz",
-  "download_time": "2025-07-28T18:36:52.659305",
+  "download_filename": "system_initiative_api_client-1.0.3.tar.gz",
+  "download_time": "2025-07-28T23:25:58.479733",
   "package_url": "https://pypi.org/project/system-initiative-api-client/"
 }

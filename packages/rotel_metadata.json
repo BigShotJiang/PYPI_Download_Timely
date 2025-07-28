@@ -1,0 +1,11 @@
+{
+  "name": "rotel",
+  "version": "0.0.1a13",
+  "summary": "Lightweight OpenTelemetry collector",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotel-0.0.1a13-cp310-cp310-macosx_10_9_universal2.macosx_12_3_arm64.whl",
+  "download_time": "2025-07-28T23:25:56.938058",
+  "package_url": "https://pypi.org/project/rotel/"
+}
