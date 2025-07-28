@@ -1,11 +1,11 @@
 {
   "name": "statezero",
-  "version": "0.1.0b1",
-  "summary": "A short description of your package",
+  "version": "0.1.0b2",
+  "summary": "Connect your Python backend to a modern JavaScript SPA frontend with 90% less complexity.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "statezero-0.1.0b1.tar.gz",
-  "download_time": "2025-07-28T09:44:25.281887",
+  "download_filename": "statezero-0.1.0b2.tar.gz",
+  "download_time": "2025-07-28T23:48:15.564914",
   "package_url": "https://pypi.org/project/statezero/"
 }

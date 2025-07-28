@@ -1,0 +1,11 @@
+{
+  "name": "observavility-completed",
+  "version": "0.3.1",
+  "summary": "Librería compartida de logger y tracing para microservicios con async",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "observavility_completed-0.3.1.tar.gz",
+  "download_time": "2025-07-28T23:48:07.283378",
+  "package_url": "https://pypi.org/project/observavility-completed/"
+}

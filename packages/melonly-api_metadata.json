@@ -1,0 +1,11 @@
+{
+  "name": "melonly-api",
+  "version": "1.0.0",
+  "summary": "A Python client library for the Melonly API",
+  "author": "Melonly API Client",
+  "license": "MIT",
+  "home_page": "https://github.com/Melonly-Moderation/py-melonly-client",
+  "download_filename": "melonly_api-1.0.0.tar.gz",
+  "download_time": "2025-07-28T23:48:04.350431",
+  "package_url": "https://pypi.org/project/melonly-api/"
+}

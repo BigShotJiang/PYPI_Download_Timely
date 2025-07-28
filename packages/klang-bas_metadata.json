@@ -1,0 +1,11 @@
+{
+  "name": "klang-bas",
+  "version": "0.1.1",
+  "summary": "Get current keyboard layout language on Windows",
+  "author": "Abdelrahman",
+  "license": "MIT",
+  "home_page": "https://github.com/AbodyPrmaga/klang",
+  "download_filename": "klang_bas-0.1.1.tar.gz",
+  "download_time": "2025-07-28T23:48:01.185026",
+  "package_url": "https://pypi.org/project/klang-bas/"
+}

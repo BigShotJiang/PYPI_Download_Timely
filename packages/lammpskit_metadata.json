@@ -1,0 +1,11 @@
+{
+  "name": "lammpskit",
+  "version": "1.2.0",
+  "summary": "A Python toolkit for advanced LAMMPS data processing and scientific simulation analysis.",
+  "author": "Simanta Lahkar",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/simantalahkar/lammpskit",
+  "download_filename": "lammpskit-1.2.0.tar.gz",
+  "download_time": "2025-07-28T23:48:16.209913",
+  "package_url": "https://pypi.org/project/lammpskit/"
+}
