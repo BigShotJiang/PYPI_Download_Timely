@@ -1,0 +1,11 @@
+{
+  "name": "ui-pytask-manager",
+  "version": "0.1.0",
+  "summary": "A GUI application for scheduling Python scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ui_pytask_manager-0.1.0.tar.gz",
+  "download_time": "2025-07-28T09:02:48.728676",
+  "package_url": "https://pypi.org/project/ui-pytask-manager/"
+}

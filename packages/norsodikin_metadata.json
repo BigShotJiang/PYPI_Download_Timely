@@ -1,11 +1,11 @@
 {
   "name": "norsodikin",
-  "version": "0.9.8.8",
+  "version": "0.9.9",
   "summary": "Library of special mission and encrypted code",
   "author": "NorSodikin",
   "license": "MIT",
   "home_page": "https://t.me/NorSodikin",
-  "download_filename": "norsodikin-0.9.8.8.tar.gz",
-  "download_time": "2025-07-27T02:07:47.622944",
+  "download_filename": "norsodikin-0.9.9.tar.gz",
+  "download_time": "2025-07-28T09:02:38.872184",
   "package_url": "https://pypi.org/project/norsodikin/"
 }

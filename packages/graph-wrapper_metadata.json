@@ -1,0 +1,11 @@
+{
+  "name": "graph-wrapper",
+  "version": "1.7.3",
+  "summary": "Wrappers of popular network libraries with type annotation",
+  "author": "Binh Vu",
+  "license": "MIT",
+  "home_page": "https://github.com/binh-vu/graph",
+  "download_filename": "graph_wrapper-1.7.3.tar.gz",
+  "download_time": "2025-07-28T09:03:00.513886",
+  "package_url": "https://pypi.org/project/graph-wrapper/"
+}

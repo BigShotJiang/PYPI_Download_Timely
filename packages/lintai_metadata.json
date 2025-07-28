@@ -1,0 +1,11 @@
+{
+  "name": "lintai",
+  "version": "0.1.1",
+  "summary": "Shift-left LLM security analyzer",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lintai-0.1.1.tar.gz",
+  "download_time": "2025-07-28T09:02:45.115461",
+  "package_url": "https://pypi.org/project/lintai/"
+}

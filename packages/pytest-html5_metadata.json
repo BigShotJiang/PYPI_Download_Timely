@@ -1,11 +1,11 @@
 {
   "name": "pytest-html5",
-  "version": "0.2",
+  "version": "0.4",
   "summary": "the best report for pytest",
   "author": "teark",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_html5-0.2.tar.gz",
-  "download_time": "2025-07-28T05:31:36.480121",
+  "download_filename": "pytest_html5-0.4.tar.gz",
+  "download_time": "2025-07-28T09:02:49.996220",
   "package_url": "https://pypi.org/project/pytest-html5/"
 }

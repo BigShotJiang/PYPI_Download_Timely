@@ -1,0 +1,11 @@
+{
+  "name": "doover",
+  "version": "0.4.12",
+  "summary": "Python package for interacting with Doover",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doover-0.4.12.tar.gz",
+  "download_time": "2025-07-28T09:02:56.976315",
+  "package_url": "https://pypi.org/project/doover/"
+}
