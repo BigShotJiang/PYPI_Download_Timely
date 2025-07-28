@@ -1,11 +1,11 @@
 {
   "name": "radex-booking",
-  "version": "2025.7.27a2",
+  "version": "2025.7.28a2",
   "summary": "Python API client for radex booking service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "radex_booking-2025.7.27a2-py3-none-any.whl",
-  "download_time": "2025-07-27T23:24:10.135555",
+  "download_filename": "radex_booking-2025.7.28a2-py3-none-any.whl",
+  "download_time": "2025-07-28T18:36:56.347452",
   "package_url": "https://pypi.org/project/radex-booking/"
 }

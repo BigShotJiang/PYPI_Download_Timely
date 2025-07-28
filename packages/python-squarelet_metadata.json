@@ -1,0 +1,11 @@
+{
+  "name": "python-squarelet",
+  "version": "0.2.0",
+  "summary": "Python library that handles token authentication for MuckRock and DocumentCloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_squarelet-0.2.0.tar.gz",
+  "download_time": "2025-07-28T18:36:58.431542",
+  "package_url": "https://pypi.org/project/python-squarelet/"
+}

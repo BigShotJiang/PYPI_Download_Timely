@@ -1,0 +1,11 @@
+{
+  "name": "mdai",
+  "version": "0.16.0",
+  "summary": "MD.ai Python client library",
+  "author": "MD.ai",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mdai/mdai-client-py",
+  "download_filename": "mdai-0.16.0.tar.gz",
+  "download_time": "2025-07-28T18:36:48.507336",
+  "package_url": "https://pypi.org/project/mdai/"
+}

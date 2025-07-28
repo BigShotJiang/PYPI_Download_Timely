@@ -1,0 +1,11 @@
+{
+  "name": "voila-nbgallery",
+  "version": "0.0.5",
+  "summary": "Voila templates for nbgallery project",
+  "author": "https://github.com/nbgallery",
+  "license": "MIT",
+  "home_page": "https://github.com/nbgallery/voila-nbgallery",
+  "download_filename": "voila_nbgallery-0.0.5.tar.gz",
+  "download_time": "2025-07-28T18:36:42.300443",
+  "package_url": "https://pypi.org/project/voila-nbgallery/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyb2d3",
-  "version": "0.5.3",
+  "version": "0.5.6",
   "summary": "python box2d bindings for box2d >= 3.1",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyb2d3-0.5.3.tar.gz",
-  "download_time": "2025-07-28T11:26:17.638012",
+  "download_filename": "pyb2d3-0.5.6.tar.gz",
+  "download_time": "2025-07-28T18:37:12.109284",
   "package_url": "https://pypi.org/project/pyb2d3/"
 }

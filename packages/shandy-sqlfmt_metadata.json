@@ -1,0 +1,11 @@
+{
+  "name": "shandy-sqlfmt",
+  "version": "0.27.0",
+  "summary": "sqlfmt formats your dbt SQL files so you don't have to.",
+  "author": "Ted Conbeer",
+  "license": "Apache-2.0",
+  "home_page": "https://sqlfmt.com",
+  "download_filename": "shandy_sqlfmt-0.27.0.tar.gz",
+  "download_time": "2025-07-28T18:37:25.575972",
+  "package_url": "https://pypi.org/project/shandy-sqlfmt/"
+}

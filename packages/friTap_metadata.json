@@ -1,11 +1,11 @@
 {
   "name": "friTap",
-  "version": "1.3.8.4",
+  "version": "1.3.8.7",
   "summary": "Simplifying SSL/TLS traffic analysis for researchers by making SSL/TLS decryption effortless. Decrypts and logs a process's SSL/TLS traffic on all major platforms. Further it allows the SSL/TLS key extraction.",
   "author": "Daniel Baier, Francois Egner, Max Ufer",
   "license": "GPL v3",
   "home_page": "https://github.com/fkie-cad/friTap",
-  "download_filename": "fritap-1.3.8.4.tar.gz",
-  "download_time": "2025-07-28T17:38:44.642920",
+  "download_filename": "fritap-1.3.8.7.tar.gz",
+  "download_time": "2025-07-28T18:36:41.772963",
   "package_url": "https://pypi.org/project/friTap/"
 }

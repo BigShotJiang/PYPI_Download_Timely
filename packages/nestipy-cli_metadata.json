@@ -1,11 +1,11 @@
 {
   "name": "nestipy-cli",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Nestipy is a Python framework built on top of FastAPI that follows the modular architecture of NestJS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nestipy_cli-0.7.1.tar.gz",
-  "download_time": "2025-07-28T17:55:43.449117",
+  "download_filename": "nestipy_cli-0.7.2.tar.gz",
+  "download_time": "2025-07-28T18:37:08.249637",
   "package_url": "https://pypi.org/project/nestipy-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "abjad",
+  "version": "3.27",
+  "summary": "Abjad is a Python API for building LilyPond files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abjad-3.27.tar.gz",
+  "download_time": "2025-07-28T18:37:20.937039",
+  "package_url": "https://pypi.org/project/abjad/"
+}

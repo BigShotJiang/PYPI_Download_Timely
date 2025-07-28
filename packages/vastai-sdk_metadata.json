@@ -1,0 +1,11 @@
+{
+  "name": "vastai-sdk",
+  "version": "0.1.20",
+  "summary": "SDK for Vast.ai GPU Cloud Service",
+  "author": "Anthoyn Benjamin",
+  "license": "MIT AND (Apache-2.0 OR BSD-2-Clause)",
+  "home_page": "https://github.com/vast-ai/vast-sdk",
+  "download_filename": "vastai_sdk-0.1.20.tar.gz",
+  "download_time": "2025-07-28T18:36:55.321177",
+  "package_url": "https://pypi.org/project/vastai-sdk/"
+}

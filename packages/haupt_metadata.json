@@ -1,11 +1,11 @@
 {
   "name": "haupt",
-  "version": "2.8.1",
+  "version": "2.9.0",
   "summary": "Lineage metadata API, artifacts streams, sandbox, ML-API, and spaces for Polyaxon.",
   "author": "Polyaxon, Inc.",
   "license": "AGPLv3",
   "home_page": "https://github.com/polyaxon/haupt",
-  "download_filename": "haupt-2.8.1.tar.gz",
-  "download_time": "2025-07-26T18:03:06.675753",
+  "download_filename": "haupt-2.9.0.tar.gz",
+  "download_time": "2025-07-28T18:36:54.240190",
   "package_url": "https://pypi.org/project/haupt/"
 }

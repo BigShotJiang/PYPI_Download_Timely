@@ -1,11 +1,11 @@
 {
   "name": "FAIRLinked",
-  "version": "0.3.0.3",
+  "version": "0.3.0.5",
   "summary": "Transform research data into FAIR-compliant RDF using the RDF Data Cube Vocabulary.",
   "author": "Van D. Tran, Ritika Lamba, Balashanmuga Priyan Rajamohan, Gabriel Ponon, Kai Zheng, Benjamin Pierce, Quynh D. Tran, Ozan Dernek, Erika I. Barcelos, Roger H. French",
   "license": "BSD-2-Clause",
   "home_page": null,
-  "download_filename": "fairlinked-0.3.0.3.tar.gz",
-  "download_time": "2025-07-28T15:34:11.224216",
+  "download_filename": "fairlinked-0.3.0.5.tar.gz",
+  "download_time": "2025-07-28T18:36:49.023748",
   "package_url": "https://pypi.org/project/FAIRLinked/"
 }
