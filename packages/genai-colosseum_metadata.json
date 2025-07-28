@@ -1,11 +1,11 @@
 {
   "name": "genai-colosseum",
-  "version": "0.1.4",
-  "summary": "CLI tool to generate GenAI project templates",
-  "author": "Your Name",
+  "version": "0.1.6",
+  "summary": "Generate and install GenAI project templates",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "genai_colosseum-0.1.4.tar.gz",
-  "download_time": "2025-07-28T10:35:26.491968",
+  "download_filename": "genai_colosseum-0.1.6.tar.gz",
+  "download_time": "2025-07-28T10:58:55.254059",
   "package_url": "https://pypi.org/project/genai-colosseum/"
 }

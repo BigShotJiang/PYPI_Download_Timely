@@ -1,0 +1,11 @@
+{
+  "name": "disell",
+  "version": "0.1.5",
+  "summary": "disell package with C++ speedup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "disell-0.1.5-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-28T10:58:33.240979",
+  "package_url": "https://pypi.org/project/disell/"
+}

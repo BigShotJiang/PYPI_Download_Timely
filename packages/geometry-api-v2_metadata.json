@@ -1,0 +1,11 @@
+{
+  "name": "geometry-api-v2",
+  "version": "1.10.0",
+  "summary": "SDK to communicate with the ShapeDiver Geometry API version 2",
+  "author": "ShapeDiver",
+  "license": "MIT",
+  "home_page": "https://shapediver.com/",
+  "download_filename": "geometry_api_v2-1.10.0.tar.gz",
+  "download_time": "2025-07-28T10:59:09.433697",
+  "package_url": "https://pypi.org/project/geometry-api-v2/"
+}

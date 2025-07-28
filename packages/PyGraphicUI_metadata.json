@@ -1,0 +1,11 @@
+{
+  "name": "PyGraphicUI",
+  "version": "1.5.9",
+  "summary": "PyGraphicUI enhances PyQt6 GUI development with simplified widget creation, intuitive layout management, dynamic time-based widgets, and an object-oriented approach to stylesheets, reducing boilerplate and improving code readability.",
+  "author": "oddshellnick",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygraphicui-1.5.9.tar.gz",
+  "download_time": "2025-07-28T10:58:34.328650",
+  "package_url": "https://pypi.org/project/PyGraphicUI/"
+}

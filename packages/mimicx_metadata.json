@@ -1,11 +1,11 @@
 {
   "name": "mimicx",
-  "version": "0.1.73",
+  "version": "0.1.76",
   "summary": "Human-like AI for everyone — vision, text, voice, and more in one simple package.",
   "author": "MimicX AI",
   "license": "MIT",
   "home_page": "https://github.com/Mimicx-AI/pip-package",
-  "download_filename": "mimicx-0.1.73.tar.gz",
-  "download_time": "2025-07-28T09:58:34.038862",
+  "download_filename": "mimicx-0.1.76.tar.gz",
+  "download_time": "2025-07-28T10:59:20.726176",
   "package_url": "https://pypi.org/project/mimicx/"
 }

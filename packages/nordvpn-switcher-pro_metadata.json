@@ -1,11 +1,11 @@
 {
   "name": "nordvpn-switcher-pro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "An advanced Python library to automate NordVPN server switching on Windows.",
   "author": "Sebastian Hanisch",
   "license": null,
   "home_page": "https://github.com/Sebastian7700/nordvpn-switcher-pro",
-  "download_filename": "nordvpn_switcher_pro-1.0.2.tar.gz",
-  "download_time": "2025-07-23T15:26:38.846523",
+  "download_filename": "nordvpn_switcher_pro-1.0.3.tar.gz",
+  "download_time": "2025-07-28T10:59:08.852786",
   "package_url": "https://pypi.org/project/nordvpn-switcher-pro/"
 }

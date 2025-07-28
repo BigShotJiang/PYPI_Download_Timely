@@ -1,0 +1,11 @@
+{
+  "name": "packitos",
+  "version": "1.11.0",
+  "summary": "A set of tools to integrate upstream open source projects into Fedora operating system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "packitos-1.11.0.tar.gz",
+  "download_time": "2025-07-28T10:58:43.417058",
+  "package_url": "https://pypi.org/project/packitos/"
+}

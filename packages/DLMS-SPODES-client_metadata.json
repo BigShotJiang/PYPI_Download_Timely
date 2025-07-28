@@ -1,0 +1,11 @@
+{
+  "name": "DLMS-SPODES-client",
+  "version": "0.17.3",
+  "summary": "dlms-spodes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dlms_spodes_client-0.17.3.tar.gz",
+  "download_time": "2025-07-28T10:59:07.113752",
+  "package_url": "https://pypi.org/project/DLMS-SPODES-client/"
+}

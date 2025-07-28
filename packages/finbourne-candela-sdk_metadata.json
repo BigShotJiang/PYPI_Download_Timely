@@ -1,0 +1,11 @@
+{
+  "name": "finbourne-candela-sdk",
+  "version": "0.1.164",
+  "summary": "FINBOURNE Candela Platform Web API",
+  "author": "OpenAPI Generator Community",
+  "license": "MIT",
+  "home_page": "https://github.com/finbourne/candela-sdk-python",
+  "download_filename": "finbourne_candela_sdk-0.1.164.tar.gz",
+  "download_time": "2025-07-28T10:59:04.764445",
+  "package_url": "https://pypi.org/project/finbourne-candela-sdk/"
+}

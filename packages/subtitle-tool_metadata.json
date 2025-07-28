@@ -1,11 +1,11 @@
 {
   "name": "subtitle-tool",
-  "version": "0.1.45",
+  "version": "0.1.46",
   "summary": "A tool for generating subtitles using Google Gemini models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "subtitle_tool-0.1.45.tar.gz",
-  "download_time": "2025-07-27T15:43:45.845091",
+  "download_filename": "subtitle_tool-0.1.46.tar.gz",
+  "download_time": "2025-07-28T10:58:56.990282",
   "package_url": "https://pypi.org/project/subtitle-tool/"
 }

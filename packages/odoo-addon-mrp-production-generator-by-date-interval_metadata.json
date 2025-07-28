@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-production-generator-by-date-interval",
+  "version": "17.0.1.0.0.2",
+  "summary": "MRP Production Generator By Date Interval",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_production_generator_by_date_interval-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-28T10:58:54.093233",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-production-generator-by-date-interval/"
+}

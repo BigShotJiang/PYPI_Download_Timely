@@ -1,11 +1,11 @@
 {
   "name": "delpha-mcp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Intelligent AI Agents to ensure accurate, unique, and reliable customer data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "delpha_mcp-0.1.9.tar.gz",
-  "download_time": "2025-07-25T15:46:30.793254",
+  "download_filename": "delpha_mcp-0.1.10.tar.gz",
+  "download_time": "2025-07-28T10:58:47.644406",
   "package_url": "https://pypi.org/project/delpha-mcp/"
 }

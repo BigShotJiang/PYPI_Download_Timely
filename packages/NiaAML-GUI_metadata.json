@@ -1,0 +1,11 @@
+{
+  "name": "NiaAML-GUI",
+  "version": "0.4.1",
+  "summary": "GUI for NiaAML Python package",
+  "author": "Luka Pečnik",
+  "license": "MIT",
+  "home_page": "https://github.com/firefly-cpp/NiaAML-GUI",
+  "download_filename": "niaaml_gui-0.4.1.tar.gz",
+  "download_time": "2025-07-28T10:58:49.395792",
+  "package_url": "https://pypi.org/project/NiaAML-GUI/"
+}
