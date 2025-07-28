@@ -1,11 +1,11 @@
 {
   "name": "tmng",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "summary": "A framework-agnostic, process-safe, local performance timer for Python applications.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "tmng-1.0.0.tar.gz",
-  "download_time": "2025-07-28T19:53:37.200689",
+  "download_filename": "tmng-1.1.2.tar.gz",
+  "download_time": "2025-07-28T20:28:53.975602",
   "package_url": "https://pypi.org/project/tmng/"
 }

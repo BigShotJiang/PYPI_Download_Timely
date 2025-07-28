@@ -1,0 +1,11 @@
+{
+  "name": "keypractice",
+  "version": "0.1.2",
+  "summary": "A slim, cross-platform terminal-based typing trainer with YAML-based exercises and analytics.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keypractice-0.1.2.tar.gz",
+  "download_time": "2025-07-28T20:28:26.606211",
+  "package_url": "https://pypi.org/project/keypractice/"
+}

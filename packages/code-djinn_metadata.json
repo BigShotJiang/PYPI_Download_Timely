@@ -1,0 +1,11 @@
+{
+  "name": "code-djinn",
+  "version": "0.2.2",
+  "summary": "High-performance CLI assistant for generating shell commands using LLM models",
+  "author": "phisanti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "code_djinn-0.2.2.tar.gz",
+  "download_time": "2025-07-28T20:28:24.549544",
+  "package_url": "https://pypi.org/project/code-djinn/"
+}

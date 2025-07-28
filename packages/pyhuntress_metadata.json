@@ -1,11 +1,11 @@
 {
   "name": "pyhuntress",
-  "version": "0.2.1",
+  "version": "0.2.5",
   "summary": "A full-featured Python client for the Huntress APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhuntress-0.2.1.tar.gz",
-  "download_time": "2025-07-28T19:02:13.744220",
+  "download_filename": "pyhuntress-0.2.5.tar.gz",
+  "download_time": "2025-07-28T20:28:25.575318",
   "package_url": "https://pypi.org/project/pyhuntress/"
 }

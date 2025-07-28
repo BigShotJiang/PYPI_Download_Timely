@@ -1,11 +1,11 @@
 {
   "name": "niwrap-ants",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "NiWrap wrappers for ANTs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "niwrap_ants-0.6.2.tar.gz",
-  "download_time": "2025-07-25T22:48:28.407515",
+  "download_filename": "niwrap_ants-0.6.3.tar.gz",
+  "download_time": "2025-07-28T20:28:52.434099",
   "package_url": "https://pypi.org/project/niwrap-ants/"
 }

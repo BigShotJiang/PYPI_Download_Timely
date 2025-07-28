@@ -1,0 +1,11 @@
+{
+  "name": "dnastack-client-library",
+  "version": "3.1.174",
+  "summary": "DNAstack's GA4GH library and CLI",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "dnastack_client_library-3.1.174-py3-none-any.whl",
+  "download_time": "2025-07-28T20:29:02.283854",
+  "package_url": "https://pypi.org/project/dnastack-client-library/"
+}

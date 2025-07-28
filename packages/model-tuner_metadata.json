@@ -1,0 +1,11 @@
+{
+  "name": "model-tuner",
+  "version": "0.0.34b1",
+  "summary": "A Python library for training and tuning machine learning models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_tuner-0.0.34b1.tar.gz",
+  "download_time": "2025-07-28T20:28:19.829807",
+  "package_url": "https://pypi.org/project/model-tuner/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-json-widget",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Django json widget is an alternative widget that makes it easy to edit the jsonfield field of django.",
   "author": "José Manuel Rivas",
   "license": "MIT",
   "home_page": "https://github.com/jmrivas86/django-json-widget",
-  "download_filename": "django_json_widget-2.0.2.tar.gz",
-  "download_time": "2025-07-28T10:59:00.468602",
+  "download_filename": "django_json_widget-2.0.3.tar.gz",
+  "download_time": "2025-07-28T20:28:56.055850",
   "package_url": "https://pypi.org/project/django-json-widget/"
 }

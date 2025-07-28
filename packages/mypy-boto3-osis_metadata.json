@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-osis",
+  "version": "1.39.15",
+  "summary": "Type annotations for boto3 OpenSearchIngestion 1.39.15 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "mypy_boto3_osis-1.39.15.tar.gz",
+  "download_time": "2025-07-28T20:28:38.017909",
+  "package_url": "https://pypi.org/project/mypy-boto3-osis/"
+}

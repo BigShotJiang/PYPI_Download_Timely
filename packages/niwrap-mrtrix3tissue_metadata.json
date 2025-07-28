@@ -1,11 +1,11 @@
 {
   "name": "niwrap-mrtrix3tissue",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "NiWrap wrappers for MRTrix3Tissue.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "niwrap_mrtrix3tissue-0.6.2.tar.gz",
-  "download_time": "2025-07-25T22:48:24.051922",
+  "download_filename": "niwrap_mrtrix3tissue-0.6.3.tar.gz",
+  "download_time": "2025-07-28T20:28:48.321865",
   "package_url": "https://pypi.org/project/niwrap-mrtrix3tissue/"
 }

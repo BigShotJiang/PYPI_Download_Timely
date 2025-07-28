@@ -1,0 +1,11 @@
+{
+  "name": "git-keeper-core",
+  "version": "1.2.0",
+  "summary": "Core modules for git-keeper-client and git-keeper-server.",
+  "author": "Nathan Sommer and Ben Coleman",
+  "license": "GPL 3",
+  "home_page": "https://github.com/git-keeper/git-keeper",
+  "download_filename": "git_keeper_core-1.2.0.tar.gz",
+  "download_time": "2025-07-28T20:28:34.368113",
+  "package_url": "https://pypi.org/project/git-keeper-core/"
+}

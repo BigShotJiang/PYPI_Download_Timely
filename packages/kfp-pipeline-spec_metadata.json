@@ -1,0 +1,11 @@
+{
+  "name": "kfp-pipeline-spec",
+  "version": "0.8.0",
+  "summary": "Kubeflow Pipelines pipeline spec",
+  "author": "google",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/kubeflow/pipelines",
+  "download_filename": "kfp_pipeline_spec-0.8.0.tar.gz",
+  "download_time": "2025-07-28T20:29:02.804555",
+  "package_url": "https://pypi.org/project/kfp-pipeline-spec/"
+}

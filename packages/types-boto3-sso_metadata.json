@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-sso",
+  "version": "1.39.15",
+  "summary": "Type annotations for boto3 SSO 1.39.15 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_sso-1.39.15.tar.gz",
+  "download_time": "2025-07-28T20:28:41.612967",
+  "package_url": "https://pypi.org/project/types-boto3-sso/"
+}

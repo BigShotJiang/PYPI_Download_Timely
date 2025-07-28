@@ -1,11 +1,11 @@
 {
   "name": "niwrap-niftyreg",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "NiWrap wrappers for NiftyReg.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "niwrap_niftyreg-0.6.2.tar.gz",
-  "download_time": "2025-07-25T22:48:23.496834",
+  "download_filename": "niwrap_niftyreg-0.6.3.tar.gz",
+  "download_time": "2025-07-28T20:28:47.810215",
   "package_url": "https://pypi.org/project/niwrap-niftyreg/"
 }

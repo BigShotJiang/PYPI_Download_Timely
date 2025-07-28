@@ -1,0 +1,11 @@
+{
+  "name": "gmri2fem",
+  "version": "0.2.3",
+  "summary": "Processing pipeline for glymphatic MRI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmri2fem-0.2.3.tar.gz",
+  "download_time": "2025-07-28T20:28:39.556353",
+  "package_url": "https://pypi.org/project/gmri2fem/"
+}

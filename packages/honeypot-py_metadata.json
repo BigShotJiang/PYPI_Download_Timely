@@ -1,0 +1,11 @@
+{
+  "name": "honeypot-py",
+  "version": "0.2.15",
+  "summary": "A simple client for tracking events and user behavior",
+  "author": "Honeypot",
+  "license": null,
+  "home_page": "https://github.com/honeypot-run/honeypot-py",
+  "download_filename": "honeypot_py-0.2.15.tar.gz",
+  "download_time": "2025-07-28T20:28:27.118291",
+  "package_url": "https://pypi.org/project/honeypot-py/"
+}
