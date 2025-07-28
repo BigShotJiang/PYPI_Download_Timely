@@ -1,0 +1,11 @@
+{
+  "name": "gdsfactoryplus",
+  "version": "0.55.4",
+  "summary": "GDSFactory+: adds powerful features such as foundry PDKs, simulations, and verification tools like DRC and LVS.",
+  "author": null,
+  "license": "PROPRIETARY AND CONFIDENTIAL\n        THIS SOFTWARE IS THE SOLE PROPERTY AND COPYRIGHT (c) 2023 OF DOPLAYDO INC.\n        USE OR REPRODUCTION IN PART OR AS A WHOLE WITHOUT THE WRITTEN AGREEMENT OF DOPLAYDO IS PROHIBITED.\n        NOTICE VERSION: 0.0.1\n        ",
+  "home_page": null,
+  "download_filename": "gdsfactoryplus-0.55.4-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-28T11:25:56.644704",
+  "package_url": "https://pypi.org/project/gdsfactoryplus/"
+}

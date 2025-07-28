@@ -1,0 +1,11 @@
+{
+  "name": "lakefs-sdk",
+  "version": "1.64.0",
+  "summary": "lakeFS API",
+  "author": "Treeverse",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/treeverse/lakeFS/tree/master/clients/python",
+  "download_filename": "lakefs_sdk-1.64.0.tar.gz",
+  "download_time": "2025-07-28T11:26:15.359066",
+  "package_url": "https://pypi.org/project/lakefs-sdk/"
+}

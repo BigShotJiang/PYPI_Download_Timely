@@ -1,0 +1,11 @@
+{
+  "name": "ecole-fork",
+  "version": "0.9.2",
+  "summary": "Extensible Combinatorial Optimization Learning Environments. This is a fork of the original package ecole",
+  "author": "Antoine Prouvost et al.",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/sirenard/ecole",
+  "download_filename": "ecole_fork-0.9.2.tar.gz",
+  "download_time": "2025-07-28T11:26:03.665667",
+  "package_url": "https://pypi.org/project/ecole-fork/"
+}

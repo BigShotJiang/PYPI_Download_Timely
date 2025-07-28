@@ -1,0 +1,11 @@
+{
+  "name": "sax",
+  "version": "0.15.13",
+  "summary": "Autograd and XLA for S-parameters",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "sax-0.15.13-py3-none-any.whl",
+  "download_time": "2025-07-28T11:26:01.821570",
+  "package_url": "https://pypi.org/project/sax/"
+}

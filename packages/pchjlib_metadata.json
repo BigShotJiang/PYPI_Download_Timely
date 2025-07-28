@@ -1,11 +1,11 @@
 {
   "name": "pchjlib",
-  "version": "0.1.0.2",
-  "summary": "Thư viện này có thể thực hiện các phép tính, thuật toán, xử lí chuỗi / mảng, . . .",
+  "version": "0.1.0.4",
+  "summary": "Thư viện pchjlib là một bộ công cụ đa năng được viết bằng Python, được thiết kế để hỗ trợ các lập trình viên trong việc giải quyết các bài toán toán học, xử lý chuỗi, mã hóa, mô phỏng, và một số tính năng đặc biệt khác. Thư viện cung cấp nhiều hàm và lớp tiện ích, giúp đơn giản hóa các tác vụ phức tạp và tăng hiệu quả phát triển phần mềm.",
   "author": "Joesifer",
   "license": "MIT License",
   "home_page": "https://github.com/Joesifer/pchjlib",
-  "download_filename": "pchjlib-0.1.0.2.tar.gz",
-  "download_time": "2025-07-28T07:49:06.432568",
+  "download_filename": "pchjlib-0.1.0.4.tar.gz",
+  "download_time": "2025-07-28T11:26:15.925457",
   "package_url": "https://pypi.org/project/pchjlib/"
 }

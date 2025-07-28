@@ -1,0 +1,11 @@
+{
+  "name": "service-cat-creator-app",
+  "version": "0.1.0",
+  "summary": "This tool allows you to create a service catalog by simple prompts, then generate json file of specified format then it checks whether the record of this type is already present in servicenow instance or not if not it creates a new record in the instance.",
+  "author": "Divya Shah",
+  "license": "Apache-2.0 with Additional Restrictions",
+  "home_page": null,
+  "download_filename": "service_cat_creator_app-0.1.0.tar.gz",
+  "download_time": "2025-07-28T11:26:18.206754",
+  "package_url": "https://pypi.org/project/service-cat-creator-app/"
+}

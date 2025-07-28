@@ -1,11 +1,11 @@
 {
   "name": "superlinked-server",
-  "version": "1.46.0",
+  "version": "1.46.1",
   "summary": "Superlinked server enables fast and scalable vector search and storage",
   "author": "Superlinked Release",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "superlinked_server-1.46.0.tar.gz",
-  "download_time": "2025-07-24T11:20:46.614275",
+  "download_filename": "superlinked_server-1.46.1.tar.gz",
+  "download_time": "2025-07-28T11:26:14.164695",
   "package_url": "https://pypi.org/project/superlinked-server/"
 }

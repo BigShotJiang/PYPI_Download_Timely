@@ -1,0 +1,11 @@
+{
+  "name": "schwifty",
+  "version": "2025.7.0",
+  "summary": "IBAN parsing and validation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schwifty-2025.7.0.tar.gz",
+  "download_time": "2025-07-28T11:26:14.788405",
+  "package_url": "https://pypi.org/project/schwifty/"
+}
