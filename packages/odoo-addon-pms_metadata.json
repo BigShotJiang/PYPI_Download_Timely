@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-pms",
-  "version": "16.0.0.10.0",
+  "version": "16.0.0.10.0.1",
   "summary": "A property management system",
   "author": "Commit [Sun], Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/pms",
-  "download_filename": "odoo_addon_pms-16.0.0.10.0-py3-none-any.whl",
-  "download_time": "2025-07-27T11:41:36.005199",
+  "download_filename": "odoo_addon_pms-16.0.0.10.0.1-py3-none-any.whl",
+  "download_time": "2025-07-28T05:59:39.893526",
   "package_url": "https://pypi.org/project/odoo-addon-pms/"
 }

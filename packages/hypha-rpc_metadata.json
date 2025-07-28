@@ -1,0 +1,11 @@
+{
+  "name": "hypha-rpc",
+  "version": "0.20.73",
+  "summary": "Hypha RPC client for connecting to Hypha server for data management and AI model serving",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hypha_rpc-0.20.73.tar.gz",
+  "download_time": "2025-07-28T05:59:18.317427",
+  "package_url": "https://pypi.org/project/hypha-rpc/"
+}

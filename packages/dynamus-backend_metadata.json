@@ -1,0 +1,11 @@
+{
+  "name": "dynamus-backend",
+  "version": "0.0.1",
+  "summary": "Backend del ecosistema Dynamus para generación y orquestación modular de proyectos.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynamus_backend-0.0.1.tar.gz",
+  "download_time": "2025-07-28T05:59:21.378983",
+  "package_url": "https://pypi.org/project/dynamus-backend/"
+}

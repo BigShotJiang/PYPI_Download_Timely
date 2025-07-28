@@ -1,0 +1,11 @@
+{
+  "name": "my-pip-lib",
+  "version": "0.1.0",
+  "summary": "A simple example pip library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "my_pip_lib-0.1.0.tar.gz",
+  "download_time": "2025-07-28T05:59:48.703633",
+  "package_url": "https://pypi.org/project/my-pip-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sbcli-1802",
+  "version": "0.0.2",
+  "summary": "CLI for managing SimplyBlock cluster",
+  "author": "Hamdy",
+  "license": null,
+  "home_page": "https://www.simplyblock.io/",
+  "download_filename": "sbcli_1802-0.0.2.tar.gz",
+  "download_time": "2025-07-28T05:59:42.254394",
+  "package_url": "https://pypi.org/project/sbcli-1802/"
+}

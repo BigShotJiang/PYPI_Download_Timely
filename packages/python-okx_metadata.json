@@ -1,0 +1,11 @@
+{
+  "name": "python-okx",
+  "version": "0.4.0",
+  "summary": "Python SDK for OKX",
+  "author": "okxv5api",
+  "license": null,
+  "home_page": "https://okx.com/docs-v5/",
+  "download_filename": "python_okx-0.4.0.tar.gz",
+  "download_time": "2025-07-28T05:59:41.672306",
+  "package_url": "https://pypi.org/project/python-okx/"
+}

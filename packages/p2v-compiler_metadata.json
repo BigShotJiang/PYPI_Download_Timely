@@ -1,11 +1,11 @@
 {
   "name": "p2v-compiler",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "A Python library for converting Python to synthesizable Verilog code",
   "author": "Eyal Hochberg",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/eyalhoc/p2v",
-  "download_filename": "p2v_compiler-0.11.0.tar.gz",
-  "download_time": "2025-07-27T03:54:18.849587",
+  "download_filename": "p2v_compiler-0.12.0.tar.gz",
+  "download_time": "2025-07-28T05:59:30.195904",
   "package_url": "https://pypi.org/project/p2v-compiler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-llm-config",
+  "version": "0.1.6",
+  "summary": "A comprehensive LLM configuration package supporting multiple providers (OpenAI, VLLM, Gemini, Infinity) for chat assistants and embeddings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_llm_config-0.1.6.tar.gz",
+  "download_time": "2025-07-28T05:59:35.419018",
+  "package_url": "https://pypi.org/project/langchain-llm-config/"
+}

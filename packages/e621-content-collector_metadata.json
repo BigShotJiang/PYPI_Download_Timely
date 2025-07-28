@@ -1,0 +1,11 @@
+{
+  "name": "e621-content-collector",
+  "version": "0.2.1",
+  "summary": "A simple tool for gathering content from e621 for local use.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "e621_content_collector-0.2.1.tar.gz",
+  "download_time": "2025-07-28T05:59:18.895229",
+  "package_url": "https://pypi.org/project/e621-content-collector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "biomedisa",
+  "version": "25.7.2",
+  "summary": "Segmentation of 3D volumetric image data",
+  "author": "Philipp Lösel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "biomedisa-25.7.2.tar.gz",
+  "download_time": "2025-07-28T05:59:22.589449",
+  "package_url": "https://pypi.org/project/biomedisa/"
+}

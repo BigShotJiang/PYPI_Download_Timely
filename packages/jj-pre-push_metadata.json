@@ -1,11 +1,11 @@
 {
   "name": "jj-pre-push",
-  "version": "0.1.0.post1",
+  "version": "0.1.1",
   "summary": "A pre-commit integration for jj",
   "author": "Anthony Carapetis",
   "license": null,
   "home_page": null,
-  "download_filename": "jj_pre_push-0.1.0.post1.tar.gz",
-  "download_time": "2025-07-26T13:49:59.544577",
+  "download_filename": "jj_pre_push-0.1.1.tar.gz",
+  "download_time": "2025-07-28T05:59:28.458627",
   "package_url": "https://pypi.org/project/jj-pre-push/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "xml-analysis-framework",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "summary": "XML document analysis and preprocessing framework designed for AI/ML data pipelines",
   "author": "Wes Jackson",
   "license": "MIT",
   "home_page": "https://github.com/redhat-ai-americas/xml-analysis-framework",
-  "download_filename": "xml_analysis_framework-1.2.12.tar.gz",
-  "download_time": "2025-07-27T17:46:48.570633",
+  "download_filename": "xml_analysis_framework-1.2.13.tar.gz",
+  "download_time": "2025-07-28T05:59:52.379921",
   "package_url": "https://pypi.org/project/xml-analysis-framework/"
 }
