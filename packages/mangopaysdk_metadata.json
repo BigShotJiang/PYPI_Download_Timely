@@ -1,0 +1,11 @@
+{
+  "name": "mangopaysdk",
+  "version": "3.48.1",
+  "summary": "A client library written in python to work with mangopay v2 api",
+  "author": "Mangopay (www.mangopay.com)",
+  "license": "MIT",
+  "home_page": "https://github.com/Mangopay/mangopay2-python-sdk",
+  "download_filename": "mangopaysdk-3.48.1.tar.gz",
+  "download_time": "2025-07-28T11:43:59.450378",
+  "package_url": "https://pypi.org/project/mangopaysdk/"
+}

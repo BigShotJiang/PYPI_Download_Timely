@@ -1,11 +1,11 @@
 {
   "name": "plane-sdk",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "The Plane REST API",
   "author": "Plane",
   "license": "GNU AGPLv3",
   "home_page": null,
-  "download_filename": "plane_sdk-0.1.4.tar.gz",
-  "download_time": "2025-07-24T15:28:25.098548",
+  "download_filename": "plane_sdk-0.1.5.tar.gz",
+  "download_time": "2025-07-28T11:43:55.462772",
   "package_url": "https://pypi.org/project/plane-sdk/"
 }

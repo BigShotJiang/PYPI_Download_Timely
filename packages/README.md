@@ -1,28 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-28T11:26:33.359735
-- **Total Packages**: 64
-- **Total Size**: 18.44 MB
+- **Download Time**: 2025-07-28T11:44:27.258689
+- **Total Packages**: 61
+- **Total Size**: 9.74 MB
 
 ## Packages List
+- revng
+- wintree
+- matrice
+- kina
+- plane-sdk
+- mimicx
+- odeta
+- helmkit
+- pttechnologies
+- weighted-pod
+- linkmerce
+- mangopaysdk
+- tree-creator
 - amulet-game
+- xianb
+- delpha-mcp
+- galtea
+- app-creator-location
+- webscout
+- amulet-anvil
+- graphql-to-httprunner
 - gdsfactoryplus
 - np-payments
-- amulet-anvil
-- matrice
 - stackit-cdn
 - monaco-race-report
 - archipy
 - disposable-email-domains
 - hibiz-llm-wrapper
 - sax
-- linkmerce
 - annex4ac
 - ecole-fork
 - ds-caselaw-marklogic-api-client
 - sqlmesh
-- delpha-mcp
 - llmaix
 - logot
 - scrum-cli
@@ -31,7 +47,6 @@
 - mex-artificial
 - paramorph
 - libinephany
-- xianb
 - gha-pinner
 - FStringInterpolation
 - zrb
@@ -52,21 +67,3 @@
 - passagemath-sympow
 - passagemath-symbolics
 - passagemath-standard-no-symbolics
-- passagemath-sirocco
-- passagemath-singular
-- passagemath-schemes
-- passagemath-rubiks
-- passagemath-qepcad
-- passagemath-polyhedra
-- passagemath-plantri
-- passagemath-pari-seadata-small
-- passagemath-pari-galdata
-- passagemath-pari
-- passagemath-palp
-- passagemath-ntl
-- Pychemist
-- passagemath-nauty
-- MeUtils
-- passagemath-msolve
-- passagemath-meataxe
-- passagemath-mcqd

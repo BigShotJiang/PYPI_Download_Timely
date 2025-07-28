@@ -1,0 +1,11 @@
+{
+  "name": "odeta",
+  "version": "0.3.1",
+  "summary": "A simple NoSQL-like interface for SQLite",
+  "author": "Manupal Choudhary",
+  "license": null,
+  "home_page": "https://github.com/malwaremanu/odeta",
+  "download_filename": "odeta-0.3.1.tar.gz",
+  "download_time": "2025-07-28T11:43:56.598313",
+  "package_url": "https://pypi.org/project/odeta/"
+}
