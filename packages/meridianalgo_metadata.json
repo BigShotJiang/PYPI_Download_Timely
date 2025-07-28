@@ -1,11 +1,11 @@
 {
   "name": "meridianalgo",
-  "version": "0.2.1",
-  "summary": "A Python library for algorithmic trading and financial analysis with AI/ML capabilities",
+  "version": "0.3.0",
+  "summary": "Advanced stock prediction system using Yahoo Finance - Zero setup, no API keys required",
   "author": "MeridianAlgo",
   "license": null,
   "home_page": "https://github.com/MeridianAlgo/Packages",
-  "download_filename": "meridianalgo-0.2.1.tar.gz",
-  "download_time": "2025-07-26T04:23:01.874045",
+  "download_filename": "meridianalgo-0.3.0.tar.gz",
+  "download_time": "2025-07-28T17:55:42.423087",
   "package_url": "https://pypi.org/project/meridianalgo/"
 }

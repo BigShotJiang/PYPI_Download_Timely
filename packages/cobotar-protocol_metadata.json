@@ -1,11 +1,11 @@
 {
   "name": "cobotar-protocol",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Protocol and more for the cobotar project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cobotar_protocol-0.8.0.tar.gz",
-  "download_time": "2025-07-28T10:35:06.445409",
+  "download_filename": "cobotar_protocol-0.8.1.tar.gz",
+  "download_time": "2025-07-28T17:55:34.128479",
   "package_url": "https://pypi.org/project/cobotar-protocol/"
 }

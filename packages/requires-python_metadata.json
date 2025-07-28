@@ -1,0 +1,11 @@
+{
+  "name": "requires-python",
+  "version": "10.0.5",
+  "summary": "This package is a proof of concept used by seeker0x to conduct a research. It has been uploaded for test purposes only. Its only function is to confirm the installation of the package on victim's machines. The code is not malicious in any way and will be deleted after the research survey has been concluded. I do not accept any liability for any direct, indirect, or consequential loss or damage arising from use of, or reliance on, this package.",
+  "author": "seeker0x",
+  "license": null,
+  "home_page": null,
+  "download_filename": "requires_python-10.0.5.tar.gz",
+  "download_time": "2025-07-28T17:55:46.007764",
+  "package_url": "https://pypi.org/project/requires-python/"
+}

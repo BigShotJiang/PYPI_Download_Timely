@@ -1,0 +1,11 @@
+{
+  "name": "datarobot-early-access",
+  "version": "3.9.0.2025.7.28.174636",
+  "summary": "This client library is designed to support the DataRobot API.",
+  "author": "datarobot",
+  "license": "DataRobot Tool and Utility Agreement",
+  "home_page": "https://datarobot.com",
+  "download_filename": "datarobot_early_access-3.9.0.2025.7.28.174636.tar.gz",
+  "download_time": "2025-07-28T17:55:37.769825",
+  "package_url": "https://pypi.org/project/datarobot-early-access/"
+}

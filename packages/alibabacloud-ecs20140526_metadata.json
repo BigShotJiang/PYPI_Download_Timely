@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-ecs20140526",
-  "version": "7.0.17",
+  "version": "7.1.0",
   "summary": "Alibaba Cloud Elastic Compute Service (20140526) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_ecs20140526-7.0.17.tar.gz",
-  "download_time": "2025-07-24T17:47:20.295713",
+  "download_filename": "alibabacloud_ecs20140526-7.1.0.tar.gz",
+  "download_time": "2025-07-28T17:55:52.712249",
   "package_url": "https://pypi.org/project/alibabacloud-ecs20140526/"
 }
