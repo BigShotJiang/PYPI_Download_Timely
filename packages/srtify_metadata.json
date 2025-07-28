@@ -1,0 +1,11 @@
+{
+  "name": "srtify",
+  "version": "0.1.1",
+  "summary": "CLI tool for translating SRT files using Gemini AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srtify-0.1.1.tar.gz",
+  "download_time": "2025-07-28T06:48:30.817842",
+  "package_url": "https://pypi.org/project/srtify/"
+}

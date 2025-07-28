@@ -1,0 +1,11 @@
+{
+  "name": "textual-slidecontainer",
+  "version": "0.6.0",
+  "summary": "A Sliding Container widget for Textual",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textual_slidecontainer-0.6.0.tar.gz",
+  "download_time": "2025-07-28T06:47:56.671671",
+  "package_url": "https://pypi.org/project/textual-slidecontainer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dhicn-domain-paas-sdk-python",
+  "version": "1.0.17",
+  "summary": null,
+  "author": "dhi",
+  "license": "MIT",
+  "home_page": "https://github.com/DHICN/Domain-Paas-SDK-Python",
+  "download_filename": "dhicn_domain_paas_sdk_python-1.0.17.tar.gz",
+  "download_time": "2025-07-28T06:48:11.060932",
+  "package_url": "https://pypi.org/project/dhicn-domain-paas-sdk-python/"
+}

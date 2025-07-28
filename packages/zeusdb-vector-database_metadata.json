@@ -1,0 +1,11 @@
+{
+  "name": "zeusdb-vector-database",
+  "version": "0.2.0",
+  "summary": "Blazing-fast vector DB with real-time similarity search and metadata filtering.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zeusdb_vector_database-0.2.0.tar.gz",
+  "download_time": "2025-07-28T06:48:14.668936",
+  "package_url": "https://pypi.org/project/zeusdb-vector-database/"
+}

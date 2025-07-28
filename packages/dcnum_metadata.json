@@ -1,0 +1,11 @@
+{
+  "name": "dcnum",
+  "version": "0.25.11",
+  "summary": "numerics toolbox for imaging deformability cytometry",
+  "author": "Maximilian Schlögel, Paul Müller, Raghava Alajangi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcnum-0.25.11.tar.gz",
+  "download_time": "2025-07-28T06:48:10.547476",
+  "package_url": "https://pypi.org/project/dcnum/"
+}

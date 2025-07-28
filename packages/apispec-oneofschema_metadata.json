@@ -1,0 +1,11 @@
+{
+  "name": "apispec-oneofschema",
+  "version": "3.0.2",
+  "summary": "Plugin for apispec providing support for Marshmallow-OneOfSchema schemas",
+  "author": "Tim Schumacher",
+  "license": "MIT",
+  "home_page": "https://github.com/timakro/apispec-oneofschema",
+  "download_filename": "apispec_oneofschema-3.0.2.tar.gz",
+  "download_time": "2025-07-28T06:48:22.473469",
+  "package_url": "https://pypi.org/project/apispec-oneofschema/"
+}

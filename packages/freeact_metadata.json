@@ -1,0 +1,11 @@
+{
+  "name": "freeact",
+  "version": "0.6.4",
+  "summary": "A lightweight library for code-action based agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "freeact-0.6.4.tar.gz",
+  "download_time": "2025-07-28T06:48:00.797603",
+  "package_url": "https://pypi.org/project/freeact/"
+}

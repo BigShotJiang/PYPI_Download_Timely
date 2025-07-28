@@ -1,11 +1,11 @@
 {
   "name": "gima",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "Software which simplifies managing many git repositories through a console",
   "author": "Arkadiusz Hypki",
   "license": null,
   "home_page": null,
-  "download_filename": "gima-1.0.17.tar.gz",
-  "download_time": "2025-07-27T21:54:18.224871",
+  "download_filename": "gima-1.0.18.tar.gz",
+  "download_time": "2025-07-28T06:48:12.615234",
   "package_url": "https://pypi.org/project/gima/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "torrent-models",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": ".torrent file parsing and creation with pydantic",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "torrent_models-0.1.1.tar.gz",
-  "download_time": "2025-07-26T06:33:23.889211",
+  "download_filename": "torrent_models-0.2.1.tar.gz",
+  "download_time": "2025-07-28T06:47:50.504443",
   "package_url": "https://pypi.org/project/torrent-models/"
 }

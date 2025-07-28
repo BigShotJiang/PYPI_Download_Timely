@@ -1,0 +1,11 @@
+{
+  "name": "monkey-coder-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for Monkey Coder API - AI-powered code generation and analysis",
+  "author": "Monkey Coder",
+  "license": null,
+  "home_page": "https://github.com/monkey-coder/sdk",
+  "download_filename": "monkey_coder_sdk-1.0.0.tar.gz",
+  "download_time": "2025-07-28T06:48:04.383242",
+  "package_url": "https://pypi.org/project/monkey-coder-sdk/"
+}

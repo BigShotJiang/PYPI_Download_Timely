@@ -1,11 +1,11 @@
 {
   "name": "ai-edge-litert-sdk-qualcomm-nightly",
-  "version": "0.2.0.dev20250726",
+  "version": "0.2.0.dev20250727",
   "summary": "Qualcomm SDK for AI Edge LiteRT",
   "author": "Google AI Edge Authors",
   "license": "Apache 2.0",
   "home_page": "https://www.tensorflow.org/lite/",
-  "download_filename": "ai_edge_litert_sdk_qualcomm_nightly-0.2.0.dev20250726.tar.gz",
-  "download_time": "2025-07-27T06:59:39.015011",
+  "download_filename": "ai_edge_litert_sdk_qualcomm_nightly-0.2.0.dev20250727.tar.gz",
+  "download_time": "2025-07-28T06:48:10.024782",
   "package_url": "https://pypi.org/project/ai-edge-litert-sdk-qualcomm-nightly/"
 }

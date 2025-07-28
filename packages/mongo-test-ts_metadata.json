@@ -1,0 +1,11 @@
+{
+  "name": "mongo-test-ts",
+  "version": "0.2.0",
+  "summary": "A python package for connecting with database.",
+  "author": "HakimOwais",
+  "license": "MIT",
+  "home_page": "https://github.com/HakimOwais/dynamic-test",
+  "download_filename": "mongo_test_ts-0.2.0.tar.gz",
+  "download_time": "2025-07-28T06:47:54.115732",
+  "package_url": "https://pypi.org/project/mongo-test-ts/"
+}
