@@ -1,0 +1,11 @@
+{
+  "name": "kim-convergence",
+  "version": "0.0.3",
+  "summary": "kim-convergence designed to help in automatic equilibration detection & run length control.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kim_convergence-0.0.3.tar.gz",
+  "download_time": "2025-07-28T11:55:32.989132",
+  "package_url": "https://pypi.org/project/kim-convergence/"
+}

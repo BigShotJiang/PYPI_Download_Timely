@@ -1,0 +1,11 @@
+{
+  "name": "opower",
+  "version": "0.13.0",
+  "summary": "A Python library for getting historical and forecasted usage/cost from utilities that use opower.com such as PG&E",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opower-0.13.0.tar.gz",
+  "download_time": "2025-07-28T11:55:56.194000",
+  "package_url": "https://pypi.org/project/opower/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "logot",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Test whether your code is logging correctly 🪵",
   "author": "Dave Hall",
   "license": "MIT",
   "home_page": "https://logot.readthedocs.io",
-  "download_filename": "logot-1.5.0.tar.gz",
-  "download_time": "2025-07-28T11:26:06.574870",
+  "download_filename": "logot-1.5.1.tar.gz",
+  "download_time": "2025-07-28T11:55:30.938860",
   "package_url": "https://pypi.org/project/logot/"
 }

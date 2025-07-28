@@ -1,11 +1,11 @@
 {
   "name": "np-payments",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python package for integrating with Nepalese payment gateways like esewa.",
   "author": "Shalin Devkota",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/np-payments",
-  "download_filename": "np_payments-0.1.1.tar.gz",
-  "download_time": "2025-07-28T11:44:06.240017",
+  "home_page": "https://github.com/shalin-devkota/np-payments",
+  "download_filename": "np_payments-0.1.2.tar.gz",
+  "download_time": "2025-07-28T11:55:24.276471",
   "package_url": "https://pypi.org/project/np-payments/"
 }

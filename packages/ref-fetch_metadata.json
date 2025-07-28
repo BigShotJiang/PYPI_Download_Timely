@@ -1,0 +1,11 @@
+{
+  "name": "ref-fetch",
+  "version": "0.1.0",
+  "summary": "A tool to fetch, cache, and copy specific versions of libraries into repositories to provide code references and documentation to LLMs.",
+  "author": "roobert",
+  "license": "MIT",
+  "home_page": "https://github.com/roobert/ref-fetch",
+  "download_filename": "ref_fetch-0.1.0.tar.gz",
+  "download_time": "2025-07-28T11:55:34.012804",
+  "package_url": "https://pypi.org/project/ref-fetch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xifdr",
+  "version": "3.0.0a12",
+  "summary": "xiFDR: A tool for FDR analysis in cross-linking mass spectrometry",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "xifdr-3.0.0a12-py3-none-any.whl",
+  "download_time": "2025-07-28T11:55:56.704299",
+  "package_url": "https://pypi.org/project/xifdr/"
+}

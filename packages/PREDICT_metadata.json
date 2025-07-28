@@ -1,0 +1,11 @@
+{
+  "name": "PREDICT",
+  "version": "3.2.0",
+  "summary": "Predict: a Radiomics Extensive Digital Interchangable Classification Toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "predict-3.2.0.tar.gz",
+  "download_time": "2025-07-28T11:55:44.349963",
+  "package_url": "https://pypi.org/project/PREDICT/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rethinkport",
+  "version": "1.0.3",
+  "summary": "Port your RethinkDB data to MySQL",
+  "author": "Akeem Amusat",
+  "license": "MIT",
+  "home_page": "https://github.com/aoamusat/rethinkport",
+  "download_filename": "rethinkport-1.0.3.tar.gz",
+  "download_time": "2025-07-28T11:55:16.539097",
+  "package_url": "https://pypi.org/project/rethinkport/"
+}

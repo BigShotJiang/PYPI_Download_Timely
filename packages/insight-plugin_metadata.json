@@ -1,0 +1,11 @@
+{
+  "name": "insight-plugin",
+  "version": "1.9.9",
+  "summary": "Tooling for developing plugins for InsightConnect",
+  "author": "rapid7",
+  "license": "MIT",
+  "home_page": "https://github.com/rapid7/insight-plugin",
+  "download_filename": "insight-plugin-1.9.9.tar.gz",
+  "download_time": "2025-07-28T11:55:50.570157",
+  "package_url": "https://pypi.org/project/insight-plugin/"
+}

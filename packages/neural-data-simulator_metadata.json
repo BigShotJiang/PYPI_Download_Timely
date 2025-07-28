@@ -1,0 +1,11 @@
+{
+  "name": "neural-data-simulator",
+  "version": "0.2.10",
+  "summary": "Electrophysiology simulator data for developing Brain-Computer Interfaces",
+  "author": "AE Studio",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "neural_data_simulator-0.2.10.tar.gz",
+  "download_time": "2025-07-28T11:55:20.134723",
+  "package_url": "https://pypi.org/project/neural-data-simulator/"
+}

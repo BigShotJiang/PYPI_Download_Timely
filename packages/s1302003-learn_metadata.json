@@ -1,0 +1,11 @@
+{
+  "name": "s1302003-learn",
+  "version": "2025.7.29.1",
+  "summary": "This is a test software for class work.",
+  "author": "Satvik GANESH",
+  "license": "GPLv3",
+  "home_page": "https://github.com/SatvG/s1302003_learn",
+  "download_filename": "s1302003_learn-2025.7.29.1.tar.gz",
+  "download_time": "2025-07-28T11:55:44.861836",
+  "package_url": "https://pypi.org/project/s1302003-learn/"
+}

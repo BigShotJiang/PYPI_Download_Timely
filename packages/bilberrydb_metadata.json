@@ -1,0 +1,11 @@
+{
+  "name": "bilberrydb",
+  "version": "1.0.0",
+  "summary": "Python SDK for BilberryDB - Image Vector Search Database",
+  "author": "BilberryDB Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bilberrydb-1.0.0.tar.gz",
+  "download_time": "2025-07-28T11:55:51.592149",
+  "package_url": "https://pypi.org/project/bilberrydb/"
+}
