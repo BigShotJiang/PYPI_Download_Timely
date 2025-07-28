@@ -1,11 +1,11 @@
 {
   "name": "syft-widget",
-  "version": "0.2.0",
-  "summary": "A toolkit for interactive Jupyter widgets with server/snapshot switching",
+  "version": "0.3.1",
+  "summary": "A toolkit for interactive Jupyter widgets with automatic server management via syft-serve",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syft_widget-0.2.0.tar.gz",
-  "download_time": "2025-07-26T17:26:21.361316",
+  "download_filename": "syft_widget-0.3.1.tar.gz",
+  "download_time": "2025-07-28T03:53:54.699551",
   "package_url": "https://pypi.org/project/syft-widget/"
 }

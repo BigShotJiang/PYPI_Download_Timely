@@ -1,11 +1,11 @@
 {
   "name": "thoth-vdbmanager",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "summary": "A vector database management module for ThothAI Project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thoth_vdbmanager-0.2.14.tar.gz",
-  "download_time": "2025-07-27T13:23:26.210945",
+  "download_filename": "thoth_vdbmanager-0.2.15.tar.gz",
+  "download_time": "2025-07-28T03:53:25.353897",
   "package_url": "https://pypi.org/project/thoth-vdbmanager/"
 }

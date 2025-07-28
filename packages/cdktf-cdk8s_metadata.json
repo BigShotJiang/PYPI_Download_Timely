@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdk8s",
+  "version": "0.11.8",
+  "summary": "A compatibility layer for using cdk8s constructs within Terraform CDK.",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-cdk8s.git",
+  "download_filename": "cdktf_cdk8s-0.11.8.tar.gz",
+  "download_time": "2025-07-28T03:53:35.097097",
+  "package_url": "https://pypi.org/project/cdktf-cdk8s/"
+}

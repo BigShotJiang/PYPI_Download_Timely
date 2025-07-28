@@ -1,0 +1,11 @@
+{
+  "name": "universal-timeseries-transformer",
+  "version": "0.3.6",
+  "summary": "A package for transforming and manipulating time series data with universal interfaces",
+  "author": "June Young Park",
+  "license": null,
+  "home_page": "https://github.com/nailen1/universal_timeseries_transformer",
+  "download_filename": "universal_timeseries_transformer-0.3.6.tar.gz",
+  "download_time": "2025-07-28T03:53:58.897916",
+  "package_url": "https://pypi.org/project/universal-timeseries-transformer/"
+}

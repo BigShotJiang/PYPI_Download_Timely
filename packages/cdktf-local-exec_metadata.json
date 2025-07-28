@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-local-exec",
+  "version": "0.6.8",
+  "summary": "A simple construct that executes a command locally. This is useful to run build steps within your CDKTF Program or to run a post action after a resource is created.",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-local-exec.git",
+  "download_filename": "cdktf_local_exec-0.6.8.tar.gz",
+  "download_time": "2025-07-28T03:53:38.005887",
+  "package_url": "https://pypi.org/project/cdktf-local-exec/"
+}

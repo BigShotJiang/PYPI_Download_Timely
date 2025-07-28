@@ -1,11 +1,11 @@
 {
   "name": "gunicorn-prometheus-exporter",
-  "version": "0.1.2",
-  "summary": "A Prometheus metrics exporter for Gunicorn",
+  "version": "0.1.3",
+  "summary": "A comprehensive Prometheus metrics exporter for Gunicorn with support for all worker types (sync, thread, eventlet, gevent, tornado)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gunicorn_prometheus_exporter-0.1.2.tar.gz",
-  "download_time": "2025-07-27T18:35:00.193569",
+  "download_filename": "gunicorn_prometheus_exporter-0.1.3.tar.gz",
+  "download_time": "2025-07-28T03:54:00.182121",
   "package_url": "https://pypi.org/project/gunicorn-prometheus-exporter/"
 }

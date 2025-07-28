@@ -1,11 +1,11 @@
 {
   "name": "HoloAI",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A modern AI Client",
   "author": "Tristan McBride Sr.",
   "license": null,
   "home_page": null,
-  "download_filename": "holoai-0.2.0.tar.gz",
-  "download_time": "2025-07-27T07:28:09.853904",
+  "download_filename": "holoai-0.2.1.tar.gz",
+  "download_time": "2025-07-28T03:53:59.543987",
   "package_url": "https://pypi.org/project/HoloAI/"
 }

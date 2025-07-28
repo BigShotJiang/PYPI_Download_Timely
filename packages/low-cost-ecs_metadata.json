@@ -1,0 +1,11 @@
+{
+  "name": "low-cost-ecs",
+  "version": "0.0.164",
+  "summary": "Easy and low-cost ECS on EC2 server without a load balancer",
+  "author": "Yohta Kimura<kitakita7617@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/rajyan/low-cost-ecs.git",
+  "download_filename": "low_cost_ecs-0.0.164.tar.gz",
+  "download_time": "2025-07-28T03:53:41.118987",
+  "package_url": "https://pypi.org/project/low-cost-ecs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gitredate",
-  "version": "0.0.1a6",
+  "version": "0.1.0a1",
   "summary": "Rewrite date of Git commits",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitredate-0.0.1a6.tar.gz",
-  "download_time": "2025-07-27T23:45:05.586711",
+  "download_filename": "gitredate-0.1.0a1.tar.gz",
+  "download_time": "2025-07-28T03:54:01.454178",
   "package_url": "https://pypi.org/project/gitredate/"
 }
