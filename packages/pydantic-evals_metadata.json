@@ -1,11 +1,11 @@
 {
   "name": "pydantic-evals",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "summary": "Framework for evaluating stochastic code execution, especially code making use of LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_evals-0.4.8.tar.gz",
-  "download_time": "2025-07-28T15:34:36.737434",
+  "download_filename": "pydantic_evals-0.4.9.tar.gz",
+  "download_time": "2025-07-29T02:10:48.406822",
   "package_url": "https://pypi.org/project/pydantic-evals/"
 }

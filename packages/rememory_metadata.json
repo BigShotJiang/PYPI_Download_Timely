@@ -1,11 +1,11 @@
 {
   "name": "rememory",
-  "version": "0.1.0",
-  "summary": "A lightweight shared memory Dict and List type for safe multiprocessing access",
+  "version": "0.2.0",
+  "summary": "A set of lightweight shared memory variable types for safe multiprocessing access",
   "author": "Nichola Walch",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rememory-0.1.0.tar.gz",
-  "download_time": "2025-07-28T22:50:52.609381",
+  "download_filename": "rememory-0.2.0.tar.gz",
+  "download_time": "2025-07-29T02:10:51.833591",
   "package_url": "https://pypi.org/project/rememory/"
 }

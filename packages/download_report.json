@@ -1,12 +1,24 @@
 {
-  "download_time": "2025-07-28T23:48:35.771210",
-  "total_packages_downloaded": 67,
-  "total_size_mb": 17.61,
+  "download_time": "2025-07-29T02:11:26.517467",
+  "total_packages_downloaded": 73,
+  "total_size_mb": 9.85,
   "packages": [
+    "utils_hj3415",
+    "envoy-schema",
+    "EulerKit",
+    "pydantic-graph",
+    "pydantic-evals",
+    "pydantic-ai-slim",
+    "pydantic-ai-examples",
+    "pydantic-ai",
+    "clai",
+    "ai-audio-detector",
+    "rememory",
     "vellum-workflow-server",
     "hdmf-zarr",
     "scrall",
     "stagehand",
+    "ott-jax",
     "caffeinism-utils",
     "bsxplorer",
     "trackio",
@@ -63,12 +75,6 @@
     "karrio-shipengine",
     "karrio-sendcloud",
     "karrio-seko",
-    "karrio-sapient",
-    "karrio-mydhl",
-    "karrio-hay-post",
-    "composabl-core-dev",
-    "composabl-train-dev",
-    "composabl-cli-dev",
-    "composabl-dev"
+    "karrio-sapient"
   ]
 }

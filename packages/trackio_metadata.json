@@ -1,11 +1,11 @@
 {
   "name": "trackio",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A small Python library created to help developers protect their applications from Server Side Request Forgery (SSRF) attacks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trackio-0.2.0.tar.gz",
-  "download_time": "2025-07-28T23:47:57.615459",
+  "download_filename": "trackio-0.2.1.tar.gz",
+  "download_time": "2025-07-29T02:10:56.175736",
   "package_url": "https://pypi.org/project/trackio/"
 }

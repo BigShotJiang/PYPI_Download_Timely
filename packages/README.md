@@ -1,15 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-28T23:48:35.771210
-- **Total Packages**: 67
-- **Total Size**: 17.61 MB
+- **Download Time**: 2025-07-29T02:11:26.517467
+- **Total Packages**: 73
+- **Total Size**: 9.85 MB
 
 ## Packages List
+- utils_hj3415
+- envoy-schema
+- EulerKit
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- pydantic-ai-examples
+- pydantic-ai
+- clai
+- ai-audio-detector
+- rememory
 - vellum-workflow-server
 - hdmf-zarr
 - scrall
 - stagehand
+- ott-jax
 - caffeinism-utils
 - bsxplorer
 - trackio
@@ -67,9 +79,3 @@
 - karrio-sendcloud
 - karrio-seko
 - karrio-sapient
-- karrio-mydhl
-- karrio-hay-post
-- composabl-core-dev
-- composabl-train-dev
-- composabl-cli-dev
-- composabl-dev
